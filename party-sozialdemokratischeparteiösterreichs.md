@@ -24,7 +24,7 @@ Last result: **26.9%** (General Election of 15 October 2017)
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 25.0% | N/A | N/A | N/A | N/A |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 27.0% | N/A | N/A | N/A | N/A |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | N/A | N/A | N/A | N/A |
-| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 25.0% | N/A | N/A | N/A | N/A |
+| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 27.0% | N/A | N/A | N/A | N/A |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 25.0% | N/A | N/A | N/A | N/A |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 25.0% | N/A | N/A | N/A | N/A |
@@ -150,7 +150,7 @@ Last result: **52** seats (General Election of 15 October 2017)
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG |  |  |  |  |  |
+| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 48 | 45–52 | 44–53 | 43–54 | 41–55 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV |  |  |  |  |  |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard |  |  |  |  |  |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
@@ -250,21 +250,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 4% | 94% |  |
 | 48 | 5% | 91% |  |
 | 49 | 8% | 85% |  |
-| 50 | 10% | 78% |  |
+| 50 | 10% | 77% |  |
 | 51 | 12% | 67% |  |
 | 52 | 11% | 55% | Last Result, Median |
 | 53 | 11% | 44% |  |
 | 54 | 10% | 33% |  |
 | 55 | 8% | 23% |  |
-| 56 | 5% | 15% |  |
+| 56 | 6% | 15% |  |
 | 57 | 4% | 10% |  |
-| 58 | 2% | 6% |  |
-| 59 | 1.5% | 3% |  |
-| 60 | 0.8% | 2% |  |
+| 58 | 3% | 6% |  |
+| 59 | 2% | 3% |  |
+| 60 | 0.9% | 2% |  |
 | 61 | 0.5% | 0.9% |  |
 | 62 | 0.2% | 0.4% |  |
 | 63 | 0.1% | 0.2% |  |
-| 64 | 0% | 0.1% |  |
+| 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 
 

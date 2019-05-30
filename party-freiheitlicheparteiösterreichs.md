@@ -24,7 +24,7 @@ Last result: **26.0%** (General Election of 15 October 2017)
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 24.0% | N/A | N/A | N/A | N/A |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 24.0% | N/A | N/A | N/A | N/A |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | N/A | N/A | N/A | N/A |
-| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 24.0% | N/A | N/A | N/A | N/A |
+| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 23.0% | N/A | N/A | N/A | N/A |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 21.0% | N/A | N/A | N/A | N/A |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | N/A | N/A | N/A | N/A |
@@ -144,14 +144,14 @@ Last result: **51** seats (General Election of 15 October 2017)
 | [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 38–41 | 36–43 | 36–49 | 36–49 |
 | [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 42 | 39–46 | 38–47 | 37–48 | 35–50 |
-| [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 42 | 38–46 | 38–47 | 37–48 | 35–50 |
+| [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 42 | 38–46 | 37–47 | 37–48 | 35–50 |
 | [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research |  |  |  |  |  |
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG |  |  |  |  |  |
+| [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 46 | 43–50 | 42–51 | 41–51 | 40–53 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV |  |  |  |  |  |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard |  |  |  |  |  |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
@@ -253,20 +253,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 3% | 87% |  |
 | 36 | 3% | 84% |  |
 | 37 | 4% | 81% |  |
-| 38 | 6% | 77% |  |
+| 38 | 5% | 76% |  |
 | 39 | 7% | 71% |  |
 | 40 | 10% | 64% |  |
-| 41 | 12% | 54% | Median |
-| 42 | 12% | 42% |  |
+| 41 | 12% | 53% | Median |
+| 42 | 11% | 42% |  |
 | 43 | 11% | 30% |  |
 | 44 | 8% | 19% |  |
-| 45 | 5% | 11% |  |
+| 45 | 5% | 12% |  |
 | 46 | 3% | 7% |  |
 | 47 | 2% | 3% |  |
-| 48 | 0.8% | 2% |  |
+| 48 | 0.9% | 2% |  |
 | 49 | 0.5% | 0.8% |  |
 | 50 | 0.2% | 0.3% |  |
 | 51 | 0.1% | 0.1% | Last Result |
-| 52 | 0% | 0% |  |
+| 52 | 0% | 0.1% |  |
+| 53 | 0% | 0% |  |
 
 
