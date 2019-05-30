@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 34–42% <br> 66–80 | 22–30% <br> 43–57 | 15–22% <br> 29–42 | 7–12% <br> 13–22 | 1–4% <br> 0 | 3–7% <br> 0–13 | N/A <br> N/A |
+| [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 34–42% <br> 66–79 | 22–30% <br> 43–57 | 15–22% <br> 29–40 | 7–12% <br> 13–22 | 1–4% <br> 0 | 3–7% <br> 0–13 | N/A <br> N/A |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
