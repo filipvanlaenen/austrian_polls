@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Thu, 30 May 2019 16:26:57 +0200</pubDate>
+    <pubDate>Thu, 30 May 2019 17:32:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs, 18–20 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-20-ResearchAffairs.html#seats</link>
@@ -80,15 +80,45 @@
       <dc:date>2019-05-30T14:54:01.196834+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by market for Der Standard, 12–15 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-04-15-market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 59–72 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 48–60 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 37–48 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 10–17 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-04-15-market-seats.png"
+        length="188261"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2019 17:05:07 +0200</pubDate>
+      <dc:date>2019-05-30T17:05:07.058307+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by market for Der Standard, 12–15 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-04-15-market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-04-15-market-coalitions-seats.png"
+        length="131789"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2019 17:05:07 +0200</pubDate>
+      <dc:date>2019-05-30T17:05:07.058307+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by market for Der Standard, 12–15 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-04-15-market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.8–37.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.0–31.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 19.3–25.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.4–9.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.7–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-04-15-market.png"
         length="192396"
         type="image/png"/>
-      <pubDate>Thu, 30 May 2019 16:26:57 +0200</pubDate>
-      <dc:date>2019-05-30T16:26:57.150759+02:00</dc:date>
+      <pubDate>Thu, 30 May 2019 17:05:07 +0200</pubDate>
+      <dc:date>2019-05-30T17:05:07.058307+02:00</dc:date>
     </item>
-    <dc:date>2019-05-30T16:26:57.150759+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 8–12 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-04-12-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.8–37.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.0–31.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 19.3–25.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.4–9.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.7–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-04-12-UniqueResearch.png"
+        length="192611"
+        type="image/png"/>
+      <pubDate>Thu, 30 May 2019 17:32:01 +0200</pubDate>
+      <dc:date>2019-05-30T17:32:01.527639+02:00</dc:date>
+    </item>
+    <dc:date>2019-05-30T17:32:01.527639+02:00</dc:date>
   </channel>
 </rss>
