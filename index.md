@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 31–41% <br> 60–78 | 24–31% <br> 45–59 | 16–25% <br> 30–47 | 6–11% <br> 10–20 | 1–3% <br> 0 | 4–7% <br> 0–13 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 29–41% <br> 54–78 | 24–31% <br> 45–59 | 16–26% <br> 31–50 | 6–11% <br> 10–20 | 1–3% <br> 0 | 4–8% <br> 0–15 | N/A <br> N/A |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 34–42% <br> 65–82 | 22–30% <br> 42–58 | 15–22% <br> 28–41 | 7–12% <br> 13–22 | 1–4% <br> 0 | 3–7% <br> 0–13 | N/A <br> N/A |
-| [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 27–34% <br> 52–64 | 25–31% <br> 47–58 | 22–28% <br> 41–52 | 5–9% <br> 10–16 | 1–3% <br> 0 | 5–9% <br> 10–16 | N/A <br> N/A |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 32–36% <br> 60–69 | 25–29% <br> 47–55 | 20–24% <br> 38–46 | 7–9% <br> 12–18 | 1–3% <br> 0 | 5–7% <br> 9–13 | N/A <br> N/A |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 31–37% <br> 59–72 | 25–31% <br> 48–60 | 19–25% <br> 37–48 | 5–9% <br> 10–17 | 1–3% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 59–72 | 25–31% <br> 48–60 | 19–25% <br> 37–48 | 5–9% <br> 10–17 | 1–3% <br> 0 | 4–7% <br> 0–13 | N/A <br> N/A |
