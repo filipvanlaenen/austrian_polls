@@ -135,7 +135,7 @@ Last result: **0** seats (General Election of 15 October 2017)
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 9 | 0–12 | 0–13 | 0–13 | 0–15 |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 13 | 11–15 | 10–16 | 10–16 | 9–18 |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
-| [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–9 | 7–9 | 0–10 | 0–10 |
+| [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 9 | 7–11 | 0–12 | 0–12 | 0–13 |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 9 | 8–11 | 0–12 | 0–13 | 0–14 |
