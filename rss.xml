@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Thu, 30 May 2019 23:32:40 +0200</pubDate>
+    <pubDate>Fri, 31 May 2019 18:19:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs, 18–20 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-20-ResearchAffairs.html#seats</link>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-01-ResearchAffairs.png"
         length="176404"
         type="image/png"/>
-      <pubDate>Thu, 30 May 2019 14:54:01 +0200</pubDate>
-      <dc:date>2019-05-30T14:54:01.196834+02:00</dc:date>
+      <pubDate>Fri, 31 May 2019 18:19:58 +0200</pubDate>
+      <dc:date>2019-05-31T18:19:58.114441+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by market for Der Standard, 12–15 April 2019 – Seat Projections for the Parties</title>
@@ -179,6 +179,6 @@
       <pubDate>Thu, 30 May 2019 18:50:44 +0200</pubDate>
       <dc:date>2019-05-30T18:50:44.810675+02:00</dc:date>
     </item>
-    <dc:date>2019-05-30T23:32:40.80618+02:00</dc:date>
+    <dc:date>2019-05-31T18:19:58.114441+02:00</dc:date>
   </channel>
 </rss>
