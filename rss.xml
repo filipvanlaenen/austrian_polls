@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 31 May 2019 18:19:58 +0200</pubDate>
+    <pubDate>Mon, 03 Jun 2019 06:55:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs, 18–20 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-20-ResearchAffairs.html#seats</link>
@@ -90,6 +90,16 @@
       <dc:date>2019-05-31T18:19:58.114441+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 11–17 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-04-17-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.1–36.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 21.5–26.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 20.5–25.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.4–11.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-04-17-ResearchAffairs.png"
+        length="183857"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 06:50:04 +0200</pubDate>
+      <dc:date>2019-06-03T06:50:04.150338+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by market for Der Standard, 12–15 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-04-15-market.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 59–72 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 48–60 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 37–48 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 10–17 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 0–12 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -150,6 +160,16 @@
       <dc:date>2019-05-30T17:56:49.741807+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demox Research, 28 March–11 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-04-11-DemoxResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.7–35.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.8–29.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.9–26.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.8–8.4%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.4–2.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 4.9–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-04-11-DemoxResearch.png"
+        length="180863"
+        type="image/png"/>
+      <pubDate>Mon, 03 Jun 2019 06:55:24 +0200</pubDate>
+      <dc:date>2019-06-03T06:55:24.131158+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA for SWG, 27 February–1 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-03-01-INSA.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 50–62 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 43–54 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 41–51 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 12–19 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 14–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -179,6 +199,6 @@
       <pubDate>Thu, 30 May 2019 18:50:44 +0200</pubDate>
       <dc:date>2019-05-30T18:50:44.810675+02:00</dc:date>
     </item>
-    <dc:date>2019-05-31T18:19:58.114441+02:00</dc:date>
+    <dc:date>2019-06-03T06:55:24.131158+02:00</dc:date>
   </channel>
 </rss>
