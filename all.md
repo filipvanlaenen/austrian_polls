@@ -9,10 +9,10 @@ The table below lists all polls registered and analyzed so far.
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 27–34% <br> 52–64 | 25–31% <br> 47–58 | 22–28% <br> 41–52 | 5–9% <br> 10–16 | 1–3% <br> 0 | 5–9% <br> 10–16 | N/A <br> N/A |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 32–36% <br> 60–69 | 25–29% <br> 47–55 | 20–24% <br> 38–46 | 7–9% <br> 12–18 | 1–3% <br> 0 | 5–7% <br> 9–13 | N/A <br> N/A |
 | [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–71 | 22–28% <br> 43–54 | 19–25% <br> 37–48 | 7–11% <br> 14–21 | 1–3% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
-| [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–72 | 21–27% <br> 41–52 | 21–26% <br> 39–50 | 7–11% <br> 14–21 | 1–3% <br> 0 | 4–6% <br> 0–12 | N/A <br> N/A |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 31–37% <br> 59–72 | 25–31% <br> 48–60 | 19–25% <br> 37–48 | 5–9% <br> 10–17 | 1–3% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 59–72 | 25–31% <br> 48–60 | 19–25% <br> 37–48 | 5–9% <br> 10–17 | 1–3% <br> 0 | 4–7% <br> 0–13 | N/A <br> N/A |
-| [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 31–35% <br> 58–67 | 25–29% <br> 47–56 | 22–26% <br> 41–49 | 6–8% <br> 11–16 | 1–3% <br> 0 | 5–7% <br> 9–14 | N/A <br> N/A |
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
