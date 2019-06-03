@@ -15,10 +15,10 @@ Last result: **26.9%** (General Election of 15 October 2017)
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 27.6% | 25.7–29.6% | 25.1–30.1% | 24.7–30.7% | 23.8–31.6% |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 27.0% | 25.6–28.5% | 25.2–28.9% | 24.8–29.3% | 24.1–30.0% |
 | [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 25.0% | 23.4–26.9% | 22.9–27.4% | 22.5–27.8% | 21.7–28.7% |
-| [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | N/A | N/A | N/A | N/A |
+| [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.3% |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 28.0% | 26.0–30.1% | 25.5–30.7% | 25.0–31.2% | 24.1–32.3% |
-| [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 27.0% | N/A | N/A | N/A | N/A |
+| [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 27.0% | 25.6–28.5% | 25.2–28.9% | 24.8–29.3% | 24.1–30.0% |
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | N/A | N/A | N/A | N/A |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | N/A | N/A | N/A | N/A |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 25.0% | N/A | N/A | N/A | N/A |
@@ -141,10 +141,10 @@ Last result: **52** seats (General Election of 15 October 2017)
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 52 | 49–56 | 48–57 | 47–58 | 45–60 |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 51 | 48–54 | 48–55 | 47–55 | 46–57 |
 | [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 48 | 45–52 | 44–53 | 43–54 | 41–55 |
-| [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 46 | 43–50 | 42–51 | 41–52 | 40–54 |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 54 | 50–58 | 49–59 | 48–60 | 46–62 |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 53 | 50–57 | 49–59 | 48–60 | 46–62 |
-| [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research |  |  |  |  |  |
+| [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 51 | 49–54 | 48–55 | 47–56 | 46–57 |
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
