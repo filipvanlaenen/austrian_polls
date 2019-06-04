@@ -19,10 +19,10 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 33.0% | 31.5–34.6% | 31.0–35.0% | 30.7–35.4% | 29.9–36.2% |
-| [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | N/A | N/A | N/A | N/A |
-| [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | N/A | N/A | N/A | N/A |
-| [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 34.0% | N/A | N/A | N/A | N/A |
-| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 33.0% | N/A | N/A | N/A | N/A |
+| [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
+| [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.2–37.0% | 30.3–38.0% |
+| [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
+| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.4% | 28.8–37.4% |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | N/A | N/A | N/A | N/A |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 34.0% | N/A | N/A | N/A | N/A |
@@ -151,9 +151,9 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 65 | 61–69 | 60–71 | 59–72 | 57–74 |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 65 | 61–70 | 60–71 | 59–72 | 57–74 |
 | [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 63 | 60–65 | 59–66 | 58–67 | 57–69 |
-| [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–69 | 61–71 | 60–72 | 58–75 |
+| [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 62–70 | 61–71 | 60–72 | 58–74 |
+| [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 65 | 61–69 | 60–71 | 59–72 | 57–74 |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 56 | 52–60 | 51–61 | 50–62 | 49–63 |
