@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Tue, 04 Jun 2019 07:29:14 +0200</pubDate>
+    <pubDate>Wed, 05 Jun 2019 07:14:29 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs, 18–20 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-20-ResearchAffairs.html#seats</link>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-01-ResearchAffairs.png"
         length="176404"
         type="image/png"/>
-      <pubDate>Fri, 31 May 2019 18:19:58 +0200</pubDate>
-      <dc:date>2019-05-31T18:19:58.114441+02:00</dc:date>
+      <pubDate>Wed, 05 Jun 2019 07:04:29 +0200</pubDate>
+      <dc:date>2019-06-05T07:04:29.777655+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 11–17 April 2019 – Voting Intentions</title>
@@ -166,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-04-11-DemoxResearch.png"
         length="180863"
         type="image/png"/>
-      <pubDate>Mon, 03 Jun 2019 06:55:24 +0200</pubDate>
-      <dc:date>2019-06-03T06:55:24.131158+02:00</dc:date>
+      <pubDate>Wed, 05 Jun 2019 07:06:55 +0200</pubDate>
+      <dc:date>2019-06-05T07:06:55.901562+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 28 March–3 April 2019 – Voting Intentions</title>
@@ -200,6 +200,16 @@
       <dc:date>2019-06-04T07:29:14.571155+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 26 February–6 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-03-06-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.1–37.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 21.4–26.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.4–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.6–8.7%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 4.7–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-03-06-ResearchAffairs.png"
+        length="188127"
+        type="image/png"/>
+      <pubDate>Wed, 05 Jun 2019 07:14:29 +0200</pubDate>
+      <dc:date>2019-06-05T07:14:29.832422+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by INSA for SWG, 27 February–1 March 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-03-01-INSA.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 50–62 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 43–54 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 41–51 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 12–19 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 14–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -229,6 +239,6 @@
       <pubDate>Thu, 30 May 2019 18:50:44 +0200</pubDate>
       <dc:date>2019-05-30T18:50:44.810675+02:00</dc:date>
     </item>
-    <dc:date>2019-06-04T07:29:14.571155+02:00</dc:date>
+    <dc:date>2019-06-05T07:14:29.832422+02:00</dc:date>
   </channel>
 </rss>
