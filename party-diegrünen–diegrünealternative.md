@@ -23,9 +23,9 @@ Last result: **3.8%** (General Election of 15 October 2017)
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 5.0% | 4.1–6.1% | 3.9–6.5% | 3.7–6.8% | 3.3–7.3% |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 6.0% | 5.0–7.2% | 4.8–7.6% | 4.5–7.9% | 4.1–8.5% |
-| [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6.0% | N/A | N/A | N/A | N/A |
+| [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
-| [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 6.0% | N/A | N/A | N/A | N/A |
+| [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 6.0% | 5.0–7.2% | 4.8–7.6% | 4.5–7.9% | 4.1–8.5% |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 8.0% | N/A | N/A | N/A | N/A |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6.0% | N/A | N/A | N/A | N/A |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 6.0% | N/A | N/A | N/A | N/A |
@@ -139,12 +139,12 @@ Last result: **0** seats (General Election of 15 October 2017)
 | [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 9 | 7–11 | 0–12 | 0–12 | 0–13 |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 9 | 8–11 | 0–12 | 0–13 | 0–14 |
-| [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 11 | 10–12 | 9–13 | 9–14 | 8–14 |
+| [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 11 | 10–13 | 9–13 | 9–14 | 8–14 |
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 9 | 7–11 | 0–12 | 0–12 | 0–14 |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
-| [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV |  |  |  |  |  |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard |  |  |  |  |  |
