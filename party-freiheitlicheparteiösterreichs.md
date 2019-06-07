@@ -10,7 +10,13 @@ Last result: **26.0%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 18.1–24.8% | 16.9–25.7% | 16.2–26.3% | 14.9–27.5% |
+| N/A | [Poll Average](average.html) | 22.1% | 20.2–24.0% | 19.7–24.6% | 19.3–25.0% | 18.5–26.0% |
+| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 21.0% | N/A | N/A | N/A | N/A |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 17.0% | N/A | N/A | N/A | N/A |
+| [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 19.0% | N/A | N/A | N/A | N/A |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 17.0% | N/A | N/A | N/A | N/A |
+| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 18.6% | N/A | N/A | N/A | N/A |
+| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 21.0% | N/A | N/A | N/A | N/A |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 18.0% | 15.9–20.4% | 15.4–21.0% | 14.9–21.6% | 13.9–22.8% |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 24.5% | 22.7–26.5% | 22.2–27.0% | 21.8–27.5% | 20.9–28.5% |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 22.0% | 20.7–23.4% | 20.3–23.8% | 20.0–24.2% | 19.3–24.9% |
@@ -111,24 +117,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.3% | 100% |  |
-| 14.5–15.5% | 0.9% | 99.7% |  |
-| 15.5–16.5% | 2% | 98.8% |  |
-| 16.5–17.5% | 4% | 96% |  |
-| 17.5–18.5% | 5% | 92% |  |
-| 18.5–19.5% | 5% | 88% |  |
-| 19.5–20.5% | 8% | 82% |  |
-| 20.5–21.5% | 15% | 74% |  |
-| 21.5–22.5% | 20% | 59% | Median |
-| 22.5–23.5% | 16% | 40% |  |
-| 23.5–24.5% | 11% | 23% |  |
-| 24.5–25.5% | 7% | 12% |  |
-| 25.5–26.5% | 4% | 6% | Last Result |
-| 26.5–27.5% | 1.4% | 2% |  |
-| 27.5–28.5% | 0.4% | 0.5% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.5% | 99.9% |  |
+| 18.5–19.5% | 3% | 99.4% |  |
+| 19.5–20.5% | 10% | 96% |  |
+| 20.5–21.5% | 21% | 86% |  |
+| 21.5–22.5% | 27% | 64% | Median |
+| 22.5–23.5% | 21% | 37% |  |
+| 23.5–24.5% | 11% | 16% |  |
+| 24.5–25.5% | 4% | 5% |  |
+| 25.5–26.5% | 0.9% | 1.1% | Last Result |
+| 26.5–27.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -139,7 +139,13 @@ Last result: **51** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42 | 34–47 | 32–49 | 31–50 | 28–52 |
+| N/A | [Poll Average](average.html) | 42 | 39–46 | 38–47 | 37–48 | 35–50 |
+| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research |  |  |  |  |  |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
+| [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research |  |  |  |  |  |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
+| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research |  |  |  |  |  |
+| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 34 | 30–39 | 29–40 | 28–41 | 26–44 |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 47 | 43–50 | 42–51 | 41–52 | 40–54 |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 42 | 39–44 | 38–45 | 38–46 | 36–47 |
@@ -242,36 +248,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.2% | 99.9% |  |
-| 28 | 0.4% | 99.7% |  |
-| 29 | 0.7% | 99.3% |  |
-| 30 | 1.0% | 98.7% |  |
-| 31 | 1.5% | 98% |  |
-| 32 | 2% | 96% |  |
-| 33 | 2% | 94% |  |
-| 34 | 3% | 92% |  |
-| 35 | 3% | 90% |  |
-| 36 | 3% | 87% |  |
-| 37 | 3% | 84% |  |
-| 38 | 4% | 81% |  |
-| 39 | 6% | 77% |  |
-| 40 | 8% | 71% |  |
-| 41 | 10% | 62% |  |
-| 42 | 10% | 53% | Median |
-| 43 | 10% | 43% |  |
-| 44 | 8% | 33% |  |
-| 45 | 6% | 25% |  |
-| 46 | 6% | 18% |  |
-| 47 | 4% | 13% |  |
-| 48 | 3% | 9% |  |
-| 49 | 2% | 5% |  |
-| 50 | 2% | 3% |  |
-| 51 | 0.8% | 2% | Last Result |
-| 52 | 0.5% | 0.9% |  |
-| 53 | 0.2% | 0.4% |  |
-| 54 | 0.1% | 0.2% |  |
-| 55 | 0% | 0.1% |  |
-| 56 | 0% | 0% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0.2% | 99.9% |  |
+| 35 | 0.5% | 99.8% |  |
+| 36 | 1.2% | 99.2% |  |
+| 37 | 3% | 98% |  |
+| 38 | 5% | 95% |  |
+| 39 | 8% | 90% |  |
+| 40 | 11% | 83% |  |
+| 41 | 13% | 71% |  |
+| 42 | 13% | 58% | Median |
+| 43 | 13% | 45% |  |
+| 44 | 11% | 32% |  |
+| 45 | 8% | 21% |  |
+| 46 | 6% | 13% |  |
+| 47 | 3% | 7% |  |
+| 48 | 2% | 4% |  |
+| 49 | 1.1% | 2% |  |
+| 50 | 0.4% | 0.7% |  |
+| 51 | 0.2% | 0.3% | Last Result |
+| 52 | 0.1% | 0.1% |  |
+| 53 | 0% | 0% |  |
 
 
