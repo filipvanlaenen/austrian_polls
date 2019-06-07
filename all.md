@@ -5,6 +5,12 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
+| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 34–42% <br> 65–82 | 22–30% <br> 42–58 | 15–22% <br> 28–41 | 7–12% <br> 13–22 | 1–4% <br> 0 | 3–7% <br> 0–13 | N/A <br> N/A |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 27–34% <br> 52–64 | 25–31% <br> 47–58 | 22–28% <br> 41–52 | 5–9% <br> 10–16 | 1–3% <br> 0 | 5–9% <br> 10–16 | N/A <br> N/A |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 32–36% <br> 60–69 | 25–29% <br> 47–55 | 20–24% <br> 38–46 | 7–9% <br> 12–18 | 1–3% <br> 0 | 5–7% <br> 9–13 | N/A <br> N/A |
