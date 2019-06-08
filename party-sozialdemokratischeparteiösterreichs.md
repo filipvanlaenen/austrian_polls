@@ -13,8 +13,8 @@ Last result: **26.9%** (General Election of 15 October 2017)
 | N/A | [Poll Average](average.html) | 22.6% | 19.8–28.1% | 19.0–29.1% | 18.4–29.9% | 17.4–31.2% |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
-| [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 21.0% | N/A | N/A | N/A | N/A |
-| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 23.0% | N/A | N/A | N/A | N/A |
+| [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 21.0% | 19.3–22.7% | 18.9–23.2% | 18.5–23.7% | 17.7–24.5% |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 23.0% | 20.7–25.5% | 20.1–26.3% | 19.5–26.9% | 18.5–28.2% |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 22.0% | 20.2–23.9% | 19.7–24.5% | 19.3–25.0% | 18.4–25.9% |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 26.0% | 23.6–28.6% | 22.9–29.4% | 22.3–30.0% | 21.2–31.3% |
@@ -150,8 +150,8 @@ Last result: **52** seats (General Election of 15 October 2017)
 | N/A | [Poll Average](average.html) | 43 | 37–54 | 35–56 | 34–57 | 32–60 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 44 | 40–47 | 40–48 | 39–49 | 37–51 |
-| [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research |  |  |  |  |  |
-| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
+| [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 38 | 37–41 | 37–41 | 37–41 | 33–42 |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 38 | 36–50 | 36–52 | 36–54 | 34–56 |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 42 | 39–45 | 38–46 | 37–47 | 36–49 |
 | [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 41 | 38–45 | 37–46 | 36–47 | 35–49 |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 50 | 45–55 | 44–56 | 42–58 | 40–60 |
