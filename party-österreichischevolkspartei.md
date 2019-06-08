@@ -10,8 +10,8 @@ Last result: **31.5%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.3% | 29.8–38.4% |
-| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 37.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 35.5% | 32.6–38.5% | 31.9–39.2% | 31.3–39.9% | 30.2–41.0% |
+| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 37.0% | 34.8–39.2% | 34.2–39.9% | 33.7–40.4% | 32.7–41.5% |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 38.0% | N/A | N/A | N/A | N/A |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 38.1% | N/A | N/A | N/A | N/A |
 | [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 38.0% | N/A | N/A | N/A | N/A |
@@ -118,19 +118,21 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0.3% | 100% |  |
-| 29.5–30.5% | 1.4% | 99.7% |  |
-| 30.5–31.5% | 5% | 98% | Last Result |
-| 31.5–32.5% | 12% | 93% |  |
-| 32.5–33.5% | 20% | 81% |  |
-| 33.5–34.5% | 24% | 61% | Median |
-| 34.5–35.5% | 19% | 38% |  |
-| 35.5–36.5% | 12% | 18% |  |
-| 36.5–37.5% | 5% | 7% |  |
-| 37.5–38.5% | 1.5% | 2% |  |
-| 38.5–39.5% | 0.3% | 0.4% |  |
-| 39.5–40.5% | 0.1% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 28.5–29.5% | 0.1% | 100% |  |
+| 29.5–30.5% | 0.7% | 99.8% |  |
+| 30.5–31.5% | 3% | 99.2% | Last Result |
+| 31.5–32.5% | 6% | 97% |  |
+| 32.5–33.5% | 11% | 90% |  |
+| 33.5–34.5% | 14% | 80% |  |
+| 34.5–35.5% | 16% | 65% |  |
+| 35.5–36.5% | 16% | 50% | Median |
+| 36.5–37.5% | 14% | 34% |  |
+| 37.5–38.5% | 10% | 20% |  |
+| 38.5–39.5% | 6% | 10% |  |
+| 39.5–40.5% | 3% | 4% |  |
+| 40.5–41.5% | 0.8% | 1.0% |  |
+| 41.5–42.5% | 0.2% | 0.2% |  |
+| 42.5–43.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -141,8 +143,8 @@ Last result: **62** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 65 | 61–69 | 60–71 | 59–72 | 57–74 |
-| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 67 | 62–72 | 61–73 | 60–74 | 58–77 |
+| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 70 | 65–73 | 64–74 | 63–75 | 61–78 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research |  |  |  |  |  |
 | [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
@@ -250,29 +252,31 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 55 | 0.1% | 100% |  |
-| 56 | 0.2% | 99.9% |  |
-| 57 | 0.5% | 99.7% |  |
-| 58 | 1.1% | 99.2% |  |
-| 59 | 2% | 98% |  |
-| 60 | 4% | 96% |  |
-| 61 | 5% | 92% |  |
-| 62 | 8% | 87% | Last Result |
-| 63 | 11% | 79% |  |
-| 64 | 11% | 69% |  |
-| 65 | 12% | 57% | Median |
-| 66 | 12% | 46% |  |
-| 67 | 10% | 34% |  |
-| 68 | 8% | 24% |  |
-| 69 | 6% | 16% |  |
-| 70 | 4% | 10% |  |
-| 71 | 2% | 6% |  |
-| 72 | 1.5% | 3% |  |
-| 73 | 0.8% | 2% |  |
-| 74 | 0.5% | 0.9% |  |
-| 75 | 0.2% | 0.4% |  |
-| 76 | 0.1% | 0.2% |  |
-| 77 | 0% | 0.1% |  |
-| 78 | 0% | 0% |  |
+| 55 | 0% | 100% |  |
+| 56 | 0.1% | 99.9% |  |
+| 57 | 0.2% | 99.8% |  |
+| 58 | 0.6% | 99.6% |  |
+| 59 | 1.1% | 99.0% |  |
+| 60 | 2% | 98% |  |
+| 61 | 3% | 96% |  |
+| 62 | 4% | 93% | Last Result |
+| 63 | 6% | 89% |  |
+| 64 | 7% | 83% |  |
+| 65 | 9% | 76% |  |
+| 66 | 10% | 66% |  |
+| 67 | 9% | 56% | Median |
+| 68 | 9% | 47% |  |
+| 69 | 6% | 39% |  |
+| 70 | 10% | 32% |  |
+| 71 | 9% | 23% |  |
+| 72 | 7% | 14% |  |
+| 73 | 3% | 7% |  |
+| 74 | 2% | 4% |  |
+| 75 | 0.8% | 2% |  |
+| 76 | 0.5% | 1.1% |  |
+| 77 | 0.2% | 0.6% |  |
+| 78 | 0.2% | 0.4% |  |
+| 79 | 0.1% | 0.2% |  |
+| 80 | 0% | 0% |  |
 
 
