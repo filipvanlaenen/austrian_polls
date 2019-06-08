@@ -10,13 +10,13 @@ Last result: **3.8%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 4.4–11.0% | 4.1–11.5% | 3.9–11.9% | 3.5–12.7% |
+| N/A | [Poll Average](average.html) | 9.0% | 5.1–10.9% | 4.5–11.4% | 4.2–11.8% | 3.7–12.6% |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
-| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 9.0% | N/A | N/A | N/A | N/A |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 10.0% | N/A | N/A | N/A | N/A |
 | [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 8.0% | N/A | N/A | N/A | N/A |
-| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 8.5% | N/A | N/A | N/A | N/A |
-| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 10.1% | N/A | N/A | N/A | N/A |
+| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
+| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 10.1% | 8.8–11.6% | 8.5–12.0% | 8.2–12.3% | 7.6–13.1% |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 5.0% | 3.9–6.5% | 3.7–6.9% | 3.4–7.3% | 3.0–8.1% |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 7.0% | 6.0–8.2% | 5.7–8.6% | 5.5–8.9% | 5.0–9.5% |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 6.0% | 5.3–6.9% | 5.1–7.1% | 4.9–7.3% | 4.6–7.8% |
@@ -118,17 +118,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 12% | 99.3% | Last Result |
-| 4.5–5.5% | 24% | 87% |  |
-| 5.5–6.5% | 12% | 63% |  |
-| 6.5–7.5% | 2% | 52% | Median |
-| 7.5–8.5% | 3% | 50% |  |
-| 8.5–9.5% | 12% | 47% |  |
-| 9.5–10.5% | 18% | 34% |  |
-| 10.5–11.5% | 12% | 16% |  |
-| 11.5–12.5% | 4% | 4% |  |
-| 12.5–13.5% | 0.7% | 0.7% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 5% | 99.7% | Last Result |
+| 4.5–5.5% | 10% | 95% |  |
+| 5.5–6.5% | 5% | 85% |  |
+| 6.5–7.5% | 4% | 81% |  |
+| 7.5–8.5% | 15% | 77% |  |
+| 8.5–9.5% | 25% | 62% | Median |
+| 9.5–10.5% | 21% | 36% |  |
+| 10.5–11.5% | 11% | 15% |  |
+| 11.5–12.5% | 3% | 4% |  |
+| 12.5–13.5% | 0.6% | 0.6% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -141,13 +141,13 @@ Last result: **0** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 8–20 | 7–21 | 0–22 | 0–23 |
-| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 18 | 16–21 | 16–22 | 15–22 | 14–24 |
-| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 17 | 9–20 | 8–21 | 8–22 | 0–23 |
+| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research |  |  |  |  |  |
 | [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
-| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research |  |  |  |  |  |
-| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
+| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 19 | 16–22 | 16–22 | 15–23 | 14–24 |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 9 | 0–12 | 0–13 | 0–13 | 0–15 |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 13 | 11–15 | 10–16 | 10–16 | 9–18 |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 11 | 10–13 | 9–13 | 9–13 | 8–14 |
@@ -250,30 +250,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 0% | 96% |  |
-| 2 | 0% | 96% |  |
-| 3 | 0% | 96% |  |
-| 4 | 0% | 96% |  |
-| 5 | 0% | 96% |  |
-| 6 | 0% | 96% |  |
-| 7 | 1.4% | 96% |  |
-| 8 | 10% | 95% |  |
-| 9 | 14% | 85% |  |
-| 10 | 11% | 71% |  |
-| 11 | 7% | 60% |  |
-| 12 | 3% | 54% |  |
-| 13 | 0.9% | 51% |  |
-| 14 | 0.9% | 50% | Median |
-| 15 | 2% | 49% |  |
-| 16 | 5% | 48% |  |
-| 17 | 10% | 43% |  |
-| 18 | 8% | 33% |  |
-| 19 | 10% | 24% |  |
+| 0 | 1.5% | 100% | Last Result |
+| 1 | 0% | 98.5% |  |
+| 2 | 0% | 98.5% |  |
+| 3 | 0% | 98.5% |  |
+| 4 | 0% | 98.5% |  |
+| 5 | 0% | 98.5% |  |
+| 6 | 0% | 98.5% |  |
+| 7 | 0.5% | 98.5% |  |
+| 8 | 4% | 98% |  |
+| 9 | 5% | 94% |  |
+| 10 | 4% | 88% |  |
+| 11 | 3% | 84% |  |
+| 12 | 1.5% | 81% |  |
+| 13 | 2% | 80% |  |
+| 14 | 5% | 78% |  |
+| 15 | 9% | 73% |  |
+| 16 | 12% | 65% |  |
+| 17 | 14% | 52% | Median |
+| 18 | 13% | 39% |  |
+| 19 | 10% | 26% |  |
 | 20 | 7% | 15% |  |
 | 21 | 4% | 8% |  |
-| 22 | 3% | 4% |  |
-| 23 | 0.7% | 1.2% |  |
+| 22 | 2% | 4% |  |
+| 23 | 0.9% | 1.4% |  |
 | 24 | 0.4% | 0.5% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
