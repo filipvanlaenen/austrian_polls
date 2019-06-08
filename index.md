@@ -5,11 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 31–40% <br> 60–74 | 18–31% <br> 33–59 | 19–25% <br> 35–47 | 6–12% <br> 10–22 | 1–3% <br> 0 | 4–12% <br> 0–22 | N/A <br> N/A |
-| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 34–40% <br> 63–75 | 17–23% <br> 32–43 | 18–24% <br> 34–44 | 8–12% <br> 15–23 | 1–2% <br> 0 | 8–12% <br> 15–22 | N/A <br> N/A |
-| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 32–40% <br> 61–77 | 18–30% <br> 34–57 | 16–24% <br> 30–46 | 6–12% <br> 11–22 | 1–3% <br> 0 | 4–12% <br> 8–22 | N/A <br> N/A |
+| [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 34–40% <br> 63–76 | 17–23% <br> 32–43 | 18–24% <br> 34–45 | 8–12% <br> 15–23 | 1–2% <br> 0 | 8–12% <br> 15–23 | N/A <br> N/A |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 35–41% <br> 67–78 | 20–26% <br> 39–49 | 15–19% <br> 28–37 | 7–11% <br> 14–21 | 1–2% <br> 0 | 7–11% <br> 14–20 | N/A <br> N/A |
+| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 35–41% <br> 65–76 | 20–25% <br> 37–47 | 16–21% <br> 30–39 | 9–13% <br> 16–23 | N/A <br> N/A | 7–10% <br> 13–19 | N/A <br> N/A |
+| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 33–39% <br> 62–74 | 19–25% <br> 36–47 | 18–24% <br> 34–45 | 6–10% <br> 11–19 | 1–3% <br> 0 | 8–12% <br> 15–23 | N/A <br> N/A |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 31–37% <br> 59–72 | 25–31% <br> 48–60 | 19–25% <br> 37–48 | 5–9% <br> 10–17 | 1–3% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
 
