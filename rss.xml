@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 08 Jun 2019 15:56:29 +0200</pubDate>
+    <pubDate>Sat, 08 Jun 2019 16:49:31 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research, 31 May–5 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-05-UniqueResearch.html#seats</link>
@@ -68,6 +68,26 @@
         type="image/png"/>
       <pubDate>Sat, 08 Jun 2019 14:05:47 +0200</pubDate>
       <dc:date>2019-06-08T14:05:47.910875+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research, 29–31 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-31-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 35.0–41.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.5–23.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 16.6–21.6%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.2–12.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.6–1.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.2–12.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-31-UniqueResearch.png"
+        length="186950"
+        type="image/png"/>
+      <pubDate>Sat, 08 Jun 2019 16:46:37 +0200</pubDate>
+      <dc:date>2019-06-08T16:46:37.538049+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs, 29–31 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-31-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 33.9–42.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.5–26.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 14.0–20.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.7–13.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.4–2.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 5.9–10.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-31-ResearchAffairs.png"
+        length="199053"
+        type="image/png"/>
+      <pubDate>Sat, 08 Jun 2019 16:49:31 +0200</pubDate>
+      <dc:date>2019-06-08T16:49:31.426879+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demox Research, 1–31 May 2019 – Seat Projections for the Parties</title>
@@ -359,6 +379,6 @@
       <pubDate>Thu, 30 May 2019 18:50:44 +0200</pubDate>
       <dc:date>2019-05-30T18:50:44.810675+02:00</dc:date>
     </item>
-    <dc:date>2019-06-08T15:56:29.558655+02:00</dc:date>
+    <dc:date>2019-06-08T16:49:31.426879+02:00</dc:date>
   </channel>
 </rss>
