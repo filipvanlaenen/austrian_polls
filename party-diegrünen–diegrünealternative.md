@@ -144,8 +144,8 @@ Last result: **0** seats (General Election of 15 October 2017)
 | N/A | [Poll Average](average.html) | 17 | 9–20 | 8–21 | 8–22 | 0–23 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
-| [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 19 | 15–20 | 15–21 | 15–21 | 13–23 |
-| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 20 | 10–21 | 10–22 | 10–22 | 9–22 |
+| [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 19 | 16–21 | 16–22 | 15–22 | 14–23 |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 15 | 12–18 | 11–19 | 11–20 | 9–22 |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
 | [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 19 | 16–22 | 16–22 | 15–23 | 14–24 |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 9 | 0–12 | 0–13 | 0–13 | 0–15 |
