@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_polls</id>
   <title>All Registered Polls for the Nationalrat</title>
-  <updated>2019-06-08T15:56:29.558655+02:00</updated>
+  <updated>2019-06-09T17:20:20.166376+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 33.7–40.4%, 63–76 seats</li><li>Sozialdemokratische Partei Österreichs: 17.4–22.9%, 32–43 seats</li><li>Freiheitliche Partei Österreichs: 18.3–24.0%, 34–45 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 8.1–12.3%, 15–23 seats</li><li>JETZT–Liste Pilz: 0.5–2.0%, 0 seats</li><li>Die Grünen–Die Grüne Alternative: 8.1–12.3%, 15–23 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_polls/2019-06-05-UniqueResearch.html</id>
@@ -22,6 +22,22 @@
     <title>Opinion Poll by Research Affairs, 29 May–4 June 2019</title>
     <updated>2019-06-08T14:05:47.910875+02:00</updated>
     <dc:date>2019-06-08T14:05:47.910875+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 35.0–41.2%, 66–77 seats</li><li>Sozialdemokratische Partei Österreichs: 18.5–23.7%, 34–44 seats</li><li>Freiheitliche Partei Österreichs: 16.6–21.6%, 31–40 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 8.2–12.0%, 15–22 seats</li><li>JETZT–Liste Pilz: 0.6–1.9%, 0 seats</li><li>Die Grünen–Die Grüne Alternative: 8.2–12.0%, 15–22 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2019-05-31-UniqueResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2019-05-31-UniqueResearch.html"/>
+    <title>Opinion Poll by Unique Research, 29–31 May 2019</title>
+    <updated>2019-06-09T16:44:45.064104+02:00</updated>
+    <dc:date>2019-06-09T16:44:45.064104+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 33.9–42.3%, 64–80 seats</li><li>Sozialdemokratische Partei Österreichs: 19.5–26.9%, 37–51 seats</li><li>Freiheitliche Partei Österreichs: 14.0–20.5%, 26–39 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 7.7–13.0%, 14–24 seats</li><li>JETZT–Liste Pilz: 0.4–2.3%, 0 seats</li><li>Die Grünen–Die Grüne Alternative: 5.9–10.7%, 11–20 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2019-05-31-ResearchAffairs.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2019-05-31-ResearchAffairs.html"/>
+    <title>Opinion Poll by Research Affairs, 29–31 May 2019</title>
+    <updated>2019-06-09T17:20:20.166376+02:00</updated>
+    <dc:date>2019-06-09T17:20:20.166376+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 34.7–40.8%, 65–76 seats</li><li>Sozialdemokratische Partei Österreichs: 20.1–25.3%, 37–47 seats</li><li>Freiheitliche Partei Österreichs: 16.3–21.1%, 30–39 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 8.8–12.7%, 16–23 seats</li><li>Die Grünen–Die Grüne Alternative: 6.9–10.4%, 13–19 seats</li></ul></div></content>
@@ -79,5 +95,5 @@
     <updated>2019-05-30T18:50:44.810675+02:00</updated>
     <dc:date>2019-05-30T18:50:44.810675+02:00</dc:date>
   </entry>
-  <dc:date>2019-06-08T15:56:29.558655+02:00</dc:date>
+  <dc:date>2019-06-09T17:20:20.166376+02:00</dc:date>
 </feed>
