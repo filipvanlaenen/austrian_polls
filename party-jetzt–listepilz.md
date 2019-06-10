@@ -10,7 +10,8 @@ Last result: **4.4%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.3% | 0.7–2.6% | 0.6–2.8% | 0.4–3.3% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.8% | 0.6–2.1% | 0.6–2.2% | 0.4–2.7% |
+| [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.6–1.9% | 0.4–2.2% |
@@ -118,11 +119,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 58% | 98% | Median |
-| 1.5–2.5% | 35% | 40% |  |
-| 2.5–3.5% | 5% | 6% |  |
-| 3.5–4.5% | 0.2% | 0.2% | Last Result |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 76% | 98% | Median |
+| 1.5–2.5% | 20% | 21% |  |
+| 2.5–3.5% | 0.8% | 0.8% |  |
+| 3.5–4.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -134,6 +134,7 @@ Last result: **8** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 0 | 0 | 0 | 0 | 0 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 0 | 0 | 0 | 0 | 0 |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 0 | 0 | 0 | 0 | 0 |
