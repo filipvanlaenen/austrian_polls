@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sun, 09 Jun 2019 17:20:20 +0200</pubDate>
+    <pubDate>Mon, 10 Jun 2019 18:23:12 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 5–6 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.7–41.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 16.5–21.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.2–11.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.1–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market.png"
+        length="190377"
+        type="image/png"/>
+      <pubDate>Mon, 10 Jun 2019 18:23:12 +0200</pubDate>
+      <dc:date>2019-06-10T18:23:12.148199+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research, 31 May–5 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-05-UniqueResearch.html#seats</link>
@@ -419,6 +429,6 @@
       <pubDate>Thu, 30 May 2019 18:50:44 +0200</pubDate>
       <dc:date>2019-05-30T18:50:44.810675+02:00</dc:date>
     </item>
-    <dc:date>2019-06-09T17:20:20.166376+02:00</dc:date>
+    <dc:date>2019-06-10T18:23:12.148199+02:00</dc:date>
   </channel>
 </rss>
