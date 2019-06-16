@@ -160,7 +160,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 65 | 61–70 | 60–71 | 59–72 | 57–74 |
 | [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 63 | 60–65 | 59–66 | 58–67 | 57–69 |
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–69 | 61–71 | 60–72 | 58–75 |
-| [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 62–70 | 61–71 | 60–72 | 58–74 |
+| [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 62–70 | 61–71 | 60–72 | 58–74 |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 65 | 61–69 | 60–71 | 59–72 | 57–74 |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 62 | 59–66 | 58–67 | 57–68 | 55–70 |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 62–69 | 61–70 | 60–71 | 58–73 |
