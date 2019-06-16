@@ -162,7 +162,7 @@ Last result: **51** seats (General Election of 15 October 2017)
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 45 | 41–48 | 40–49 | 40–50 | 38–52 |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 48 | 45–52 | 44–53 | 43–54 | 42–56 |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 46 | 42–49 | 41–50 | 40–51 | 38–55 |
-| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
+| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 46 | 43–49 | 42–50 | 41–50 | 39–52 |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 46 | 43–50 | 42–50 | 41–51 | 40–53 |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 46 | 43–50 | 42–51 | 41–51 | 40–53 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV |  |  |  |  |  |
