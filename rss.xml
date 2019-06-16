@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Tue, 11 Jun 2019 19:40:19 +0200</pubDate>
+    <pubDate>Sun, 16 Jun 2019 08:01:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by Market for Der Standard, 5–6 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market.html#seats</link>
@@ -410,6 +410,16 @@
       <dc:date>2019-06-04T07:29:14.571155+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Unique Research for Heute, 4–7 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-03-07-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.0–30.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.2–27.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.4–9.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 4.6–7.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-03-07-UniqueResearch.png"
+        length="195969"
+        type="image/png"/>
+      <pubDate>Sun, 16 Jun 2019 08:01:17 +0200</pubDate>
+      <dc:date>2019-06-16T08:01:17.348742+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 26 February–6 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-03-06-ResearchAffairs.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.1–37.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 21.4–26.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.4–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.6–8.7%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 4.7–7.7%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -449,6 +459,6 @@
       <pubDate>Thu, 30 May 2019 18:50:44 +0200</pubDate>
       <dc:date>2019-05-30T18:50:44.810675+02:00</dc:date>
     </item>
-    <dc:date>2019-06-11T19:40:19.933357+02:00</dc:date>
+    <dc:date>2019-06-16T08:01:17.348742+02:00</dc:date>
   </channel>
 </rss>
