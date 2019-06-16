@@ -23,7 +23,7 @@ The table below lists all polls registered and analyzed so far.
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–72 | 21–27% <br> 42–52 | 20–26% <br> 40–50 | 6–10% <br> 12–19 | 2–4% <br> 0–8 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–72 | 21–27% <br> 41–52 | 22–28% <br> 43–54 | 6–9% <br> 10–17 | 2–4% <br> 0–8 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 59–72 | 22–28% <br> 42–54 | 21–27% <br> 40–51 | 6–10% <br> 12–19 | 1–3% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
-| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 30–36% <br> N/A | 24–30% <br> N/A | 21–27% <br> N/A | 5–9% <br> N/A | 1–3% <br> N/A | 5–8% <br> N/A | N/A <br> N/A |
+| [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 30–36% <br> 57–68 | 24–30% <br> 46–57 | 21–27% <br> 41–50 | 5–9% <br> 10–17 | 1–3% <br> 0 | 5–8% <br> 8–14 | N/A <br> N/A |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–71 | 21–27% <br> 41–51 | 21–27% <br> 41–51 | 6–9% <br> 10–17 | 2–4% <br> 0–8 | 5–8% <br> 9–14 | N/A <br> N/A |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 26–32% <br> 50–62 | 22–28% <br> 43–54 | 21–27% <br> 41–51 | 6–10% <br> 12–19 | 1–3% <br> 0 | 7–11% <br> 14–21 | N/A <br> N/A |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 31–37% <br> N/A | 24–30% <br> N/A | 20–26% <br> N/A | 6–10% <br> N/A | 1–2% <br> N/A | 5–8% <br> N/A | N/A <br> N/A |
