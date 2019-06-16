@@ -21,7 +21,7 @@ The table below lists all polls registered and analyzed so far.
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 59–72 | 25–31% <br> 48–60 | 19–25% <br> 37–48 | 5–9% <br> 10–17 | 1–3% <br> 0 | 4–7% <br> 0–13 | N/A <br> N/A |
 | [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 31–35% <br> 58–67 | 25–29% <br> 47–56 | 22–26% <br> 41–50 | 6–8% <br> 11–16 | 1–3% <br> 0 | 5–7% <br> 9–14 | N/A <br> N/A |
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–72 | 21–27% <br> 42–52 | 20–26% <br> 40–50 | 6–10% <br> 12–19 | 2–4% <br> 0–8 | 4–7% <br> 0–12 | N/A <br> N/A |
-| [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–72 | 21–27% <br> 41–52 | 22–28% <br> 43–54 | 6–9% <br> 10–17 | 2–4% <br> 0–8 | 4–7% <br> 0–12 | N/A <br> N/A |
+| [14–20 March 2019](2019-03-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–72 | 21–27% <br> 41–52 | 22–28% <br> 43–54 | 6–9% <br> 10–16 | 2–4% <br> 0–8 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [11–15 March 2019](2019-03-15-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 59–72 | 22–28% <br> 42–54 | 21–27% <br> 40–51 | 6–10% <br> 12–19 | 1–3% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [4–7 March 2019](2019-03-07-UniqueResearch.html) | Unique Research <br> Heute | 30–36% <br> 57–68 | 24–30% <br> 46–57 | 21–27% <br> 41–50 | 5–9% <br> 10–17 | 1–3% <br> 0 | 5–8% <br> 8–14 | N/A <br> N/A |
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–71 | 21–27% <br> 41–51 | 21–27% <br> 41–51 | 6–9% <br> 10–17 | 2–4% <br> 0–8 | 5–8% <br> 9–14 | N/A <br> N/A |
