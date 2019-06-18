@@ -15,7 +15,7 @@ The table below lists all polls registered and analyzed so far.
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 34–42% <br> 65–82 | 22–30% <br> 42–58 | 15–22% <br> 28–41 | 7–12% <br> 13–22 | 1–4% <br> 0 | 3–7% <br> 0–13 | N/A <br> N/A |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 27–34% <br> 52–64 | 25–31% <br> 47–58 | 22–28% <br> 41–52 | 5–9% <br> 10–16 | 1–3% <br> 0 | 5–9% <br> 10–16 | N/A <br> N/A |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 32–36% <br> 60–69 | 25–29% <br> 47–55 | 20–24% <br> 38–46 | 7–9% <br> 12–18 | 1–3% <br> 0 | 5–7% <br> 9–13 | N/A <br> N/A |
-| [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–72 | 22–28% <br> 43–54 | 19–25% <br> 37–47 | 7–11% <br> 14–21 | 1–3% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
+| [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–72 | 22–28% <br> 43–54 | 19–25% <br> 37–48 | 7–11% <br> 14–21 | 1–3% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–72 | 21–27% <br> 41–52 | 21–26% <br> 39–50 | 7–11% <br> 14–21 | 1–3% <br> 0 | 4–6% <br> 0–12 | N/A <br> N/A |
 | [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 31–37% <br> 59–72 | 25–31% <br> 48–60 | 19–25% <br> 37–48 | 5–9% <br> 10–17 | 1–3% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 59–72 | 25–31% <br> 48–60 | 19–25% <br> 37–48 | 5–9% <br> 10–17 | 1–3% <br> 0 | 4–7% <br> 0–13 | N/A <br> N/A |
@@ -30,7 +30,7 @@ The table below lists all polls registered and analyzed so far.
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 31–37% <br> 57–69 | 22–28% <br> 41–52 | 18–24% <br> 34–44 | 9–13% <br> 17–24 | 1–3% <br> 0 | 6–10% <br> 11–18 | N/A <br> N/A |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–71 | 22–28% <br> 42–53 | 21–27% <br> 41–51 | 6–9% <br> 10–16 | 1–3% <br> 0 | 5–8% <br> 9–14 | N/A <br> N/A |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 29–35% <br> N/A | 23–29% <br> N/A | 22–28% <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 31–37% <br> 59–70 | 24–30% <br> 46–57 | 20–25% <br> 37–47 | 7–10% <br> 13–19 | 1–2% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–17 January 2019](2019-01-17-OGM.html) | OGM <br> KURIER | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
