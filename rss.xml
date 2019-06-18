@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Mon, 17 Jun 2019 17:55:10 +0200</pubDate>
+    <pubDate>Tue, 18 Jun 2019 16:26:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by Market for Der Standard, 5–6 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market.html#seats</link>
@@ -296,8 +296,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-01-ResearchAffairs.png"
         length="176404"
         type="image/png"/>
-      <pubDate>Wed, 05 Jun 2019 07:04:29 +0200</pubDate>
-      <dc:date>2019-06-05T07:04:29.777655+02:00</dc:date>
+      <pubDate>Tue, 18 Jun 2019 16:26:12 +0200</pubDate>
+      <dc:date>2019-06-18T16:26:12.882282+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 11–17 April 2019 – Seat Projections for the Parties</title>
@@ -549,6 +549,16 @@
       <pubDate>Mon, 17 Jun 2019 06:59:24 +0200</pubDate>
       <dc:date>2019-06-17T06:59:24.300494+02:00</dc:date>
     </item>
-    <dc:date>2019-06-17T17:55:10.653429+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Demox Research for Die Presse, 5–8 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-02-08-DemoxResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.1–37.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 19.5–24.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.9–10.4%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.9–2.5%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-02-08-DemoxResearch.png"
+        length="187313"
+        type="image/png"/>
+      <pubDate>Tue, 18 Jun 2019 06:59:31 +0200</pubDate>
+      <dc:date>2019-06-18T06:59:31.308788+02:00</dc:date>
+    </item>
+    <dc:date>2019-06-18T16:26:12.882282+02:00</dc:date>
   </channel>
 </rss>
