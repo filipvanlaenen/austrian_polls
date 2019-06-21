@@ -11,6 +11,7 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 37.4% | 35.0–39.6% | 34.3–40.3% | 33.8–40.8% | 32.6–41.9% |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 38.0% | N/A | N/A | N/A | N/A |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 37.9% | 35.8–40.2% | 35.2–40.8% | 34.7–41.4% | 33.6–42.4% |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 37.0% | 34.8–39.2% | 34.2–39.9% | 33.7–40.4% | 32.7–41.5% |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
@@ -144,6 +145,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 70 | 66–75 | 65–76 | 64–77 | 61–79 |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF |  |  |  |  |  |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 69 | 65–73 | 64–74 | 63–76 | 61–78 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 73 | 69–76 | 68–77 | 67–78 | 65–80 |
