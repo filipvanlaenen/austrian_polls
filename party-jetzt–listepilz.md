@@ -10,7 +10,8 @@ Last result: **4.4%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.7–1.8% | 0.6–2.0% | 0.6–2.2% | 0.4–2.6% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.2% | 0.7–2.4% | 0.6–2.7% | 0.4–3.1% |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
@@ -120,10 +121,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 79% | 98% | Median |
-| 1.5–2.5% | 18% | 19% |  |
-| 2.5–3.5% | 0.6% | 0.7% |  |
-| 3.5–4.5% | 0% | 0% | Last Result |
+| 0.5–1.5% | 63% | 98% | Median |
+| 1.5–2.5% | 31% | 35% |  |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0.1% | 0.1% | Last Result |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -135,6 +137,7 @@ Last result: **8** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 0 | 0 | 0 | 0 | 0 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 0 | 0 | 0 | 0 | 0 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 0 | 0 | 0 | 0 | 0 |

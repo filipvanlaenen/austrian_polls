@@ -10,7 +10,8 @@ Last result: **5.3%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.1% | 7.5–11.0% | 7.1–11.5% | 6.8–12.0% | 6.2–12.8% |
+| N/A | [Poll Average](average.html) | 8.8% | 7.3–11.0% | 6.9–11.5% | 6.7–11.9% | 6.1–12.7% |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 8.0% | 7.0–9.1% | 6.8–9.5% | 6.5–9.8% | 6.1–10.3% |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 9.0% | 7.8–10.4% | 7.5–10.9% | 7.2–11.2% | 6.7–11.9% |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
@@ -120,12 +121,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% | Last Result |
-| 5.5–6.5% | 1.3% | 100% |  |
-| 6.5–7.5% | 10% | 98.6% |  |
-| 7.5–8.5% | 24% | 89% |  |
-| 8.5–9.5% | 27% | 65% | Median |
-| 9.5–10.5% | 21% | 38% |  |
-| 10.5–11.5% | 12% | 17% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 13% | 98% |  |
+| 7.5–8.5% | 27% | 85% |  |
+| 8.5–9.5% | 24% | 58% | Median |
+| 9.5–10.5% | 18% | 34% |  |
+| 10.5–11.5% | 11% | 16% |  |
 | 11.5–12.5% | 4% | 5% |  |
 | 12.5–13.5% | 0.7% | 0.8% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
@@ -140,7 +141,8 @@ Last result: **10** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
+| N/A | [Poll Average](average.html) | 17 | 13–20 | 12–21 | 12–22 | 11–24 |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 15 | 12–18 | 12–18 | 12–18 | 12–20 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
@@ -253,17 +255,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% | Last Result |
 | 11 | 0.5% | 99.9% |  |
-| 12 | 2% | 99.3% |  |
-| 13 | 5% | 97% |  |
-| 14 | 10% | 92% |  |
-| 15 | 14% | 82% |  |
-| 16 | 15% | 69% |  |
-| 17 | 13% | 54% | Median |
-| 18 | 13% | 41% |  |
-| 19 | 12% | 28% |  |
-| 20 | 7% | 16% |  |
-| 21 | 4% | 9% |  |
-| 22 | 3% | 4% |  |
+| 12 | 7% | 99.3% |  |
+| 13 | 6% | 92% |  |
+| 14 | 10% | 86% |  |
+| 15 | 13% | 76% |  |
+| 16 | 12% | 63% |  |
+| 17 | 10% | 51% | Median |
+| 18 | 16% | 41% |  |
+| 19 | 10% | 25% |  |
+| 20 | 7% | 15% |  |
+| 21 | 4% | 8% |  |
+| 22 | 2% | 4% |  |
 | 23 | 1.1% | 2% |  |
 | 24 | 0.4% | 0.5% |  |
 | 25 | 0.1% | 0.1% |  |

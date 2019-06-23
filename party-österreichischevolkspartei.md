@@ -11,6 +11,7 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 37.5% | 35.2–39.7% | 34.5–40.3% | 33.9–40.8% | 32.7–41.9% |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 38.0% | 36.0–40.0% | 35.5–40.5% | 35.0–41.0% | 34.1–42.0% |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 38.0% | 36.2–39.9% | 35.6–40.5% | 35.2–40.9% | 34.3–41.9% |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 37.9% | 35.8–40.2% | 35.2–40.8% | 34.7–41.4% | 33.6–42.4% |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 37.0% | 34.8–39.2% | 34.2–39.9% | 33.7–40.4% | 32.7–41.5% |
@@ -144,7 +145,8 @@ Last result: **62** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 71 | 66–75 | 65–76 | 64–77 | 62–79 |
+| N/A | [Poll Average](average.html) | 71 | 66–74 | 65–76 | 64–77 | 62–79 |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 72 | 70–74 | 69–79 | 69–79 | 67–79 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 72 | 69–76 | 67–76 | 67–78 | 65–79 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 69 | 65–73 | 64–74 | 63–76 | 61–78 |
@@ -264,20 +266,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 65 | 3% | 96% |  |
 | 66 | 4% | 93% |  |
 | 67 | 6% | 89% |  |
-| 68 | 8% | 82% |  |
-| 69 | 11% | 74% |  |
-| 70 | 11% | 64% |  |
-| 71 | 12% | 53% | Median |
-| 72 | 11% | 41% |  |
-| 73 | 10% | 30% |  |
-| 74 | 8% | 20% |  |
-| 75 | 5% | 12% |  |
-| 76 | 4% | 7% |  |
-| 77 | 2% | 4% |  |
-| 78 | 1.2% | 2% |  |
-| 79 | 0.5% | 0.8% |  |
-| 80 | 0.2% | 0.4% |  |
-| 81 | 0.1% | 0.1% |  |
+| 68 | 7% | 83% |  |
+| 69 | 10% | 75% |  |
+| 70 | 14% | 65% |  |
+| 71 | 12% | 51% | Median |
+| 72 | 10% | 39% |  |
+| 73 | 13% | 28% |  |
+| 74 | 6% | 15% |  |
+| 75 | 3% | 10% |  |
+| 76 | 3% | 6% |  |
+| 77 | 1.1% | 4% |  |
+| 78 | 0.7% | 2% |  |
+| 79 | 2% | 2% |  |
+| 80 | 0.1% | 0.2% |  |
+| 81 | 0% | 0.1% |  |
 | 82 | 0% | 0% |  |
 
 
