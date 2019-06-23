@@ -38,10 +38,10 @@ Last result: **5.3%** (General Election of 15 October 2017)
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
-| [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | N/A | N/A | N/A | N/A |
-| [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | N/A | N/A | N/A | N/A |
-| [15–17 January 2019](2019-01-17-OGM.html) | OGM <br> KURIER | 7.0% | N/A | N/A | N/A | N/A |
-| [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 8.0% | N/A | N/A | N/A | N/A |
+| [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
+| [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
+| [15–17 January 2019](2019-01-17-OGM.html) | OGM <br> KURIER | 7.0% | 5.9–8.3% | 5.7–8.6% | 5.4–9.0% | 5.0–9.6% |
+| [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | N/A | N/A | N/A | N/A |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 8.0% | N/A | N/A | N/A | N/A |
 | [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 7.0% | N/A | N/A | N/A | N/A |
@@ -168,10 +168,10 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–15 | 11–16 | 10–16 | 9–17 |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 15 | 13–17 | 12–18 | 11–19 | 11–20 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
-| [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [15–17 January 2019](2019-01-17-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
-| [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–16 | 11–16 | 10–17 | 10–18 |
+| [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–15 | 11–16 | 10–16 | 9–18 |
+| [15–17 January 2019](2019-01-17-OGM.html) | OGM <br> KURIER | 13 | 10–16 | 10–17 | 9–17 | 9–18 |
+| [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 15 | 13–18 | 12–18 | 12–19 | 11–20 |
 | [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard |  |  |  |  |  |
