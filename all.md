@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
-| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 35–41% <br> 68–75 | 19–24% <br> 38–45 | 16–20% <br> 31–37 | 7–10% <br> 14–17 | 1–2% <br> 0 | 10–14% <br> 20–23 | N/A <br> N/A |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 35–41% <br> 67–78 | 19–24% <br> 35–44 | 16–20% <br> 30–38 | 7–10% <br> 12–18 | 1–2% <br> 0 | 10–14% <br> 19–26 | N/A <br> N/A |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 35–41% <br> 65–77 | 19–25% <br> 36–47 | 16–22% <br> 31–41 | 7–11% <br> 13–21 | 1–2% <br> 0 | 8–12% <br> 15–23 | N/A <br> N/A |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 34–40% <br> 63–76 | 17–23% <br> 32–43 | 18–24% <br> 34–45 | 8–12% <br> 15–23 | 1–2% <br> 0 | 8–12% <br> 15–23 | N/A <br> N/A |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 35–41% <br> 67–78 | 20–26% <br> 39–49 | 15–19% <br> 28–37 | 7–11% <br> 14–21 | 1–2% <br> 0 | 7–11% <br> 14–20 | N/A <br> N/A |
@@ -30,7 +30,7 @@ The table below lists all polls registered and analyzed so far.
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 31–37% <br> 58–70 | 24–30% <br> 45–57 | 20–26% <br> 37–49 | 6–10% <br> 11–19 | 1–2% <br> 0 | 5–8% <br> 8–14 | N/A <br> N/A |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 31–37% <br> 57–69 | 22–28% <br> 41–52 | 18–24% <br> 34–44 | 9–13% <br> 17–24 | 1–3% <br> 0 | 6–10% <br> 11–18 | N/A <br> N/A |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–71 | 22–28% <br> 42–53 | 21–27% <br> 41–51 | 6–9% <br> 10–16 | 1–3% <br> 0 | 5–8% <br> 9–14 | N/A <br> N/A |
-| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 29–35% <br> N/A | 23–29% <br> N/A | 22–28% <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 29–35% <br> 55–67 | 23–29% <br> 44–56 | 22–28% <br> 42–53 | 6–10% <br> 11–19 | 1–2% <br> 0 | 5–8% <br> 8–14 | N/A <br> N/A |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 31–37% <br> 59–70 | 24–30% <br> 46–57 | 20–25% <br> 37–47 | 7–10% <br> 13–19 | 1–2% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
