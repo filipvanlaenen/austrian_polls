@@ -144,8 +144,8 @@ Last result: **51** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 31–41 | 31–42 | 30–43 | 28–46 |
-| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 31 | 31–33 | 31–35 | 31–37 | 28–38 |
+| N/A | [Poll Average](average.html) | 36 | 31–41 | 30–42 | 30–43 | 28–46 |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 34 | 31–37 | 30–37 | 30–38 | 28–40 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 35 | 32–39 | 31–40 | 31–41 | 29–43 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 39 | 36–43 | 35–44 | 34–45 | 33–47 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 32 | 29–35 | 29–36 | 28–37 | 27–38 |
@@ -170,7 +170,7 @@ Last result: **51** seats (General Election of 15 October 2017)
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 43 | 39–47 | 39–48 | 37–49 | 36–51 |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 39 | 36–43 | 34–43 | 34–44 | 32–46 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 46 | 43–49 | 42–50 | 41–51 | 40–53 |
-| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 47 | 43–51 | 43–52 | 42–53 | 40–55 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 42 | 39–45 | 38–46 | 37–47 | 35–49 |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
@@ -257,17 +257,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0.1% | 100% |  |
 | 27 | 0.2% | 99.9% |  |
-| 28 | 0.7% | 99.7% |  |
-| 29 | 1.3% | 99.0% |  |
-| 30 | 2% | 98% |  |
-| 31 | 13% | 95% |  |
-| 32 | 6% | 82% |  |
-| 33 | 13% | 77% |  |
-| 34 | 8% | 64% |  |
-| 35 | 8% | 56% | Median |
-| 36 | 8% | 47% |  |
-| 37 | 8% | 39% |  |
-| 38 | 7% | 31% |  |
+| 28 | 0.6% | 99.7% |  |
+| 29 | 1.5% | 99.1% |  |
+| 30 | 3% | 98% |  |
+| 31 | 5% | 94% |  |
+| 32 | 8% | 89% |  |
+| 33 | 10% | 81% |  |
+| 34 | 11% | 72% |  |
+| 35 | 11% | 61% |  |
+| 36 | 9% | 50% | Median |
+| 37 | 9% | 41% |  |
+| 38 | 8% | 32% |  |
 | 39 | 7% | 24% |  |
 | 40 | 6% | 18% |  |
 | 41 | 4% | 12% |  |

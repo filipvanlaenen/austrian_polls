@@ -36,7 +36,7 @@ Last result: **5.3%** (General Election of 15 October 2017)
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 10.9% | 9.6–12.5% | 9.3–12.9% | 9.0–13.3% | 8.4–14.1% |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
-| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 8.0% | N/A | N/A | N/A | N/A |
+| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | N/A | N/A | N/A | N/A |
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | N/A | N/A | N/A | N/A |
@@ -140,8 +140,8 @@ Last result: **10** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–20 | 13–21 | 13–22 | 12–24 |
-| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 17 | 14–17 | 14–17 | 14–17 | 13–19 |
+| N/A | [Poll Average](average.html) | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
@@ -166,7 +166,7 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 15 | 12–17 | 12–18 | 11–19 | 11–20 |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 20 | 18–23 | 17–24 | 17–24 | 16–26 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–15 | 11–16 | 10–16 | 9–17 |
-| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 15 | 13–17 | 12–18 | 11–19 | 11–20 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
@@ -252,14 +252,14 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% | Last Result |
-| 11 | 0.4% | 99.9% |  |
-| 12 | 1.3% | 99.5% |  |
-| 13 | 3% | 98% |  |
-| 14 | 12% | 95% |  |
-| 15 | 10% | 82% |  |
-| 16 | 12% | 73% |  |
-| 17 | 21% | 61% | Median |
-| 18 | 12% | 40% |  |
+| 11 | 0.5% | 99.9% |  |
+| 12 | 2% | 99.3% |  |
+| 13 | 5% | 97% |  |
+| 14 | 10% | 92% |  |
+| 15 | 14% | 82% |  |
+| 16 | 15% | 69% |  |
+| 17 | 13% | 54% | Median |
+| 18 | 13% | 41% |  |
 | 19 | 12% | 28% |  |
 | 20 | 7% | 16% |  |
 | 21 | 4% | 9% |  |

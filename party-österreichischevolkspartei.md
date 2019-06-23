@@ -145,7 +145,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 71 | 66–75 | 65–76 | 64–77 | 62–79 |
-| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 75 | 74–75 | 72–75 | 68–75 | 63–76 |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 72 | 69–76 | 67–76 | 67–78 | 65–79 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 69 | 65–73 | 64–74 | 63–76 | 61–78 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 73 | 69–76 | 68–77 | 67–78 | 65–80 |
@@ -170,7 +170,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 64 | 60–68 | 58–69 | 58–70 | 56–72 |
 | [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 62 | 59–67 | 58–69 | 57–69 | 55–71 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 62–69 | 60–70 | 60–71 | 58–73 |
-| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 60 | 56–65 | 55–66 | 55–67 | 53–69 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 64 | 61–69 | 60–70 | 59–70 | 57–73 |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [17–23 January 2019](2019-01-23-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
@@ -259,26 +259,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 60 | 0.1% | 99.9% |  |
 | 61 | 0.3% | 99.8% |  |
 | 62 | 0.5% | 99.6% | Last Result |
-| 63 | 1.3% | 99.0% |  |
+| 63 | 1.0% | 99.0% |  |
 | 64 | 2% | 98% |  |
 | 65 | 3% | 96% |  |
 | 66 | 4% | 93% |  |
 | 67 | 6% | 89% |  |
-| 68 | 8% | 83% |  |
-| 69 | 9% | 75% |  |
-| 70 | 9% | 66% |  |
-| 71 | 10% | 57% | Median |
-| 72 | 9% | 47% |  |
-| 73 | 7% | 38% |  |
-| 74 | 11% | 31% |  |
-| 75 | 14% | 20% |  |
-| 76 | 3% | 6% |  |
-| 77 | 2% | 3% |  |
-| 78 | 0.8% | 2% |  |
-| 79 | 0.4% | 0.7% |  |
-| 80 | 0.2% | 0.3% |  |
+| 68 | 8% | 82% |  |
+| 69 | 11% | 74% |  |
+| 70 | 11% | 64% |  |
+| 71 | 12% | 53% | Median |
+| 72 | 11% | 41% |  |
+| 73 | 10% | 30% |  |
+| 74 | 8% | 20% |  |
+| 75 | 5% | 12% |  |
+| 76 | 4% | 7% |  |
+| 77 | 2% | 4% |  |
+| 78 | 1.2% | 2% |  |
+| 79 | 0.5% | 0.8% |  |
+| 80 | 0.2% | 0.4% |  |
 | 81 | 0.1% | 0.1% |  |
-| 82 | 0.1% | 0.1% |  |
-| 83 | 0% | 0% |  |
+| 82 | 0% | 0% |  |
 
 
