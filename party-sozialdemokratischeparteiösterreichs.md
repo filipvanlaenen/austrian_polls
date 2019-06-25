@@ -35,7 +35,7 @@ Last result: **26.9%** (General Election of 15 October 2017)
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24.0% | 22.3–25.8% | 21.8–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 27.0% | 25.1–29.1% | 24.5–29.7% | 24.0–30.2% | 23.1–31.2% |
-| [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 25.0% | 23.1–27.0% | 22.6–27.6% | 22.1–28.1% | 21.2–29.1% |
+| [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 24.8% | 23.1–27.0% | 22.6–27.6% | 22.1–28.1% | 21.2–29.1% |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.6% |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 26.0% | 24.1–28.1% | 23.5–28.7% | 23.1–29.2% | 22.2–30.2% |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.3–29.8% | 23.5–30.7% |
@@ -144,8 +144,8 @@ Last result: **52** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 37–46 | 35–46 | 34–47 | 32–52 |
-| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 41 | 41–46 | 37–47 | 37–52 | 37–52 |
+| N/A | [Poll Average](average.html) | 41 | 37–45 | 35–46 | 34–47 | 32–49 |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 44 | 41–47 | 40–48 | 39–49 | 38–51 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 40 | 37–43 | 36–43 | 35–44 | 34–46 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 41 | 38–45 | 37–46 | 36–47 | 34–48 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
@@ -263,22 +263,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 1.4% | 98.7% |  |
 | 35 | 2% | 97% |  |
 | 36 | 4% | 95% |  |
-| 37 | 7% | 91% |  |
-| 38 | 8% | 84% |  |
-| 39 | 9% | 76% |  |
-| 40 | 11% | 67% |  |
-| 41 | 18% | 56% | Median |
-| 42 | 9% | 39% |  |
-| 43 | 8% | 29% |  |
-| 44 | 6% | 21% |  |
-| 45 | 5% | 15% |  |
-| 46 | 7% | 10% |  |
-| 47 | 1.1% | 3% |  |
-| 48 | 0.7% | 2% |  |
-| 49 | 0.2% | 1.0% |  |
-| 50 | 0.1% | 0.8% |  |
-| 51 | 0.1% | 0.7% |  |
-| 52 | 0.6% | 0.6% | Last Result |
+| 37 | 6% | 91% |  |
+| 38 | 8% | 85% |  |
+| 39 | 10% | 77% |  |
+| 40 | 12% | 67% |  |
+| 41 | 12% | 56% | Median |
+| 42 | 12% | 44% |  |
+| 43 | 10% | 32% |  |
+| 44 | 8% | 22% |  |
+| 45 | 6% | 14% |  |
+| 46 | 4% | 9% |  |
+| 47 | 2% | 5% |  |
+| 48 | 1.1% | 2% |  |
+| 49 | 0.6% | 1.0% |  |
+| 50 | 0.2% | 0.4% |  |
+| 51 | 0.1% | 0.1% |  |
+| 52 | 0% | 0.1% | Last Result |
 | 53 | 0% | 0% |  |
 
 
