@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Tue, 25 Jun 2019 17:27:22 +0200</pubDate>
+    <pubDate>Thu, 27 Jun 2019 18:27:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs, 14–20 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 67–78 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 39–49 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 28–37 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 12–18 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 15–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs-seats.png"
+        length="169509"
+        type="image/png"/>
+      <pubDate>Thu, 27 Jun 2019 18:27:23 +0200</pubDate>
+      <dc:date>2019-06-27T18:27:23.757302+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs, 14–20 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs-coalitions-seats.png"
+        length="121921"
+        type="image/png"/>
+      <pubDate>Thu, 27 Jun 2019 18:27:23 +0200</pubDate>
+      <dc:date>2019-06-27T18:27:23.757302+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs, 14–20 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs.png"
         length="184359"
         type="image/png"/>
-      <pubDate>Tue, 25 Jun 2019 17:27:22 +0200</pubDate>
-      <dc:date>2019-06-25T17:27:22.160659+02:00</dc:date>
+      <pubDate>Thu, 27 Jun 2019 18:27:23 +0200</pubDate>
+      <dc:date>2019-06-27T18:27:23.757302+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SORA for ORF, 31 May–10 June 2019 – Voting Intentions</title>
@@ -649,6 +669,6 @@
       <pubDate>Sun, 23 Jun 2019 09:21:03 +0200</pubDate>
       <dc:date>2019-06-23T09:21:03.450542+02:00</dc:date>
     </item>
-    <dc:date>2019-06-25T17:27:22.160659+02:00</dc:date>
+    <dc:date>2019-06-27T18:27:23.757302+02:00</dc:date>
   </channel>
 </rss>
