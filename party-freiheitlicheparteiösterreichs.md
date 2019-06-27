@@ -146,7 +146,7 @@ Last result: **51** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 31–41 | 30–42 | 30–43 | 28–46 |
-| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 32 | 30–36 | 29–36 | 28–37 | 27–38 |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 32 | 30–35 | 29–36 | 28–37 | 27–39 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 34 | 31–37 | 30–37 | 30–38 | 28–40 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 35 | 32–39 | 31–40 | 31–41 | 29–43 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 39 | 36–43 | 35–44 | 34–45 | 33–47 |
@@ -260,19 +260,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 0% | 100% |  |
 | 27 | 0.2% | 99.9% |  |
 | 28 | 0.5% | 99.8% |  |
-| 29 | 1.5% | 99.3% |  |
+| 29 | 1.4% | 99.2% |  |
 | 30 | 3% | 98% |  |
-| 31 | 5% | 94% |  |
-| 32 | 8% | 89% |  |
-| 33 | 10% | 81% |  |
-| 34 | 10% | 72% |  |
+| 31 | 5% | 95% |  |
+| 32 | 8% | 90% |  |
+| 33 | 10% | 82% |  |
+| 34 | 11% | 72% |  |
 | 35 | 11% | 61% |  |
-| 36 | 10% | 51% | Median |
+| 36 | 9% | 50% | Median |
 | 37 | 9% | 41% |  |
 | 38 | 8% | 32% |  |
 | 39 | 7% | 24% |  |
 | 40 | 6% | 18% |  |
-| 41 | 5% | 12% |  |
+| 41 | 4% | 12% |  |
 | 42 | 3% | 8% |  |
 | 43 | 2% | 4% |  |
 | 44 | 1.2% | 2% |  |
