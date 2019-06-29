@@ -11,6 +11,7 @@ Last result: **26.0%** (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.0% | 16.7–21.9% | 16.2–22.6% | 15.7–23.2% | 14.9–24.3% |
+| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 20.0% | N/A | N/A | N/A | N/A |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 17.0% | 15.6–18.7% | 15.2–19.1% | 14.8–19.5% | 14.2–20.3% |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 18.0% | 16.6–19.6% | 16.2–20.0% | 15.8–20.4% | 15.2–21.2% |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 19.0% | 17.4–20.9% | 16.9–21.4% | 16.5–21.9% | 15.7–22.8% |
@@ -146,6 +147,7 @@ Last result: **51** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 31–41 | 30–42 | 30–43 | 28–46 |
+| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV |  |  |  |  |  |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 32 | 30–35 | 29–36 | 28–37 | 27–39 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 34 | 31–37 | 30–37 | 30–38 | 28–40 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 35 | 32–39 | 31–40 | 31–41 | 29–43 |
