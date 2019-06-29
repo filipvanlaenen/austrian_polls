@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Thu, 27 Jun 2019 18:27:23 +0200</pubDate>
+    <pubDate>Sat, 29 Jun 2019 16:58:53 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 24–28 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.7–41.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 17.4–22.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 17.4–22.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.2–11.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.png"
+        length="189678"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 16:58:53 +0200</pubDate>
+      <dc:date>2019-06-29T16:58:53.504818+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs, 14–20 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs.html#seats</link>
@@ -669,6 +679,6 @@
       <pubDate>Sun, 23 Jun 2019 09:21:03 +0200</pubDate>
       <dc:date>2019-06-23T09:21:03.450542+02:00</dc:date>
     </item>
-    <dc:date>2019-06-27T18:27:23.757302+02:00</dc:date>
+    <dc:date>2019-06-29T16:58:53.504818+02:00</dc:date>
   </channel>
 </rss>
