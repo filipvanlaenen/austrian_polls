@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Tue, 02 Jul 2019 06:55:54 +0200</pubDate>
+    <pubDate>Tue, 02 Jul 2019 21:00:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 24–28 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.png"
         length="189678"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 06:50:50 +0200</pubDate>
-      <dc:date>2019-07-02T06:50:50.415054+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 20:38:50 +0200</pubDate>
+      <dc:date>2019-07-02T20:38:50.820064+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs, 14–20 June 2019 – Voting Intentions</title>
@@ -28,6 +28,36 @@
         type="image/png"/>
       <pubDate>Tue, 02 Jul 2019 06:55:54 +0200</pubDate>
       <dc:date>2019-07-02T06:55:54.847707+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SORA for ORF, 31 May–10 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 35.2–40.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.7–23.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 15.8–20.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.5–9.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.2–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA.png"
+        length="183493"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 19:10:42 +0200</pubDate>
+      <dc:date>2019-07-02T19:10:42.738053+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 5–6 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.7–41.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 16.5–21.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.2–11.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.1–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market.png"
+        length="190377"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 12:52:12 +0200</pubDate>
+      <dc:date>2019-07-02T12:52:12.560979+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research, 31 May–5 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-05-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 33.7–40.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 17.4–22.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.3–24.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.1–12.3%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.1–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-05-UniqueResearch.png"
+        length="190338"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 12:54:04 +0200</pubDate>
+      <dc:date>2019-07-02T12:54:04.874816+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs, 29 May–4 June 2019 – Seat Projections for the Parties</title>
@@ -118,6 +148,26 @@
         type="image/png"/>
       <pubDate>Sun, 09 Jun 2019 17:20:20 +0200</pubDate>
       <dc:date>2019-06-09T17:20:20.166376+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demox Research, 1–31 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-31-DemoxResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.7–40.8%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.1–25.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 16.3–21.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.8–12.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 6.9–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-31-DemoxResearch.png"
+        length="174642"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 12:56:41 +0200</pubDate>
+      <dc:date>2019-07-02T12:56:41.081372+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 27–29 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-29-OGM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 32.8–39.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.3–23.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.3–10.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.9–2.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.2–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-29-OGM.png"
+        length="192238"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 12:59:11 +0200</pubDate>
+      <dc:date>2019-07-02T12:59:11.35983+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs, 18–20 May 2019 – Seat Projections for the Parties</title>
@@ -556,8 +606,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-12-12-market.png"
         length="190931"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 18:42:30 +0200</pubDate>
-      <dc:date>2019-07-01T18:42:30.244363+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 18:09:10 +0200</pubDate>
+      <dc:date>2019-07-02T18:09:10.304172+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 6–12 December 2018 – Voting Intentions</title>
@@ -596,8 +646,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-12-06-UniqueResearch.png"
         length="198090"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 19:07:44 +0200</pubDate>
-      <dc:date>2019-07-01T19:07:44.96908+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 14:09:05 +0200</pubDate>
+      <dc:date>2019-07-02T14:09:05.184472+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–28 November 2018 – Voting Intentions</title>
@@ -606,8 +656,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-11-28-ResearchAffairs.png"
         length="186851"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 19:14:17 +0200</pubDate>
-      <dc:date>2019-07-01T19:14:17.863241+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 19:22:37 +0200</pubDate>
+      <dc:date>2019-07-02T19:22:37.670369+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 12–16 November 2018 – Voting Intentions</title>
@@ -676,8 +726,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-10-17-ResearchAffairs.png"
         length="185790"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 19:50:53 +0200</pubDate>
-      <dc:date>2019-07-01T19:50:53.156661+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 17:19:41 +0200</pubDate>
+      <dc:date>2019-07-02T17:19:41.803611+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GfK for Die Presse, 1–13 October 2018 – Voting Intentions</title>
@@ -766,8 +816,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-09-05-ResearchAffairs.png"
         length="191358"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 20:37:28 +0200</pubDate>
-      <dc:date>2019-07-01T20:37:28.547666+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 21:00:08 +0200</pubDate>
+      <dc:date>2019-07-02T21:00:08.445682+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 23–29 August 2018 – Voting Intentions</title>
@@ -796,8 +846,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-08-22-ResearchAffairs.png"
         length="188865"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 20:50:59 +0200</pubDate>
-      <dc:date>2019-07-01T20:50:59.71439+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 19:37:55 +0200</pubDate>
+      <dc:date>2019-07-02T19:37:55.765659+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 6–10 August 2018 – Voting Intentions</title>
@@ -816,8 +866,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-08-08-ResearchAffairs.png"
         length="188639"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:01:34 +0200</pubDate>
-      <dc:date>2019-07-01T21:01:34.304499+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 17:51:15 +0200</pubDate>
+      <dc:date>2019-07-02T17:51:15.038318+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 19–25 July 2018 – Voting Intentions</title>
@@ -856,13 +906,13 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-06-29-Spectra.png"
         length="196456"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:18:27 +0200</pubDate>
-      <dc:date>2019-07-01T21:18:27.80083+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 18:41:39 +0200</pubDate>
+      <dc:date>2019-07-02T18:41:39.265118+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM for ServusTV, 26–28 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2018-06-28-OGM.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.0–31.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.2–28.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.5–7.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.7–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.0–31.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.2–28.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.5–7.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.7–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-06-28-OGM.png"
         length="195351"
         type="image/png"/>
@@ -886,8 +936,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-06-21-UniqueResearch.png"
         length="195299"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:30:41 +0200</pubDate>
-      <dc:date>2019-07-01T21:30:41.005552+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 19:03:22 +0200</pubDate>
+      <dc:date>2019-07-02T19:03:22.394255+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by market for Der Standard, 12–15 June 2018 – Voting Intentions</title>
@@ -906,8 +956,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-06-13-ResearchAffairs.png"
         length="187509"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:38:28 +0200</pubDate>
-      <dc:date>2019-07-01T21:38:28.698846+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 18:52:16 +0200</pubDate>
+      <dc:date>2019-07-02T18:52:16.460204+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 4–11 June 2018 – Voting Intentions</title>
@@ -916,8 +966,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-06-11-PeterHajek.png"
         length="194441"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:42:12 +0200</pubDate>
-      <dc:date>2019-07-01T21:42:12.113047+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 18:20:09 +0200</pubDate>
+      <dc:date>2019-07-02T18:20:09.029286+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 4–6 June 2018 – Voting Intentions</title>
@@ -926,8 +976,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-06-06-UniqueResearch.png"
         length="194450"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:45:45 +0200</pubDate>
-      <dc:date>2019-07-01T21:45:45.282411+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 18:31:17 +0200</pubDate>
+      <dc:date>2019-07-02T18:31:17.750274+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Spectra for OÖNachrichten, 9 May–5 June 2018 – Voting Intentions</title>
@@ -979,6 +1029,256 @@
       <pubDate>Mon, 01 Jul 2019 22:55:27 +0200</pubDate>
       <dc:date>2019-07-01T22:55:27.716981+02:00</dc:date>
     </item>
-    <dc:date>2019-07-02T06:55:54.847707+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 26 April–2 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-05-02-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.2–35.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.3–30.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.4–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.5–8.7%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-05-02-ResearchAffairs.png"
+        length="191514"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:02:14 +0200</pubDate>
+      <dc:date>2019-07-02T13:02:14.362823+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spectra for OÖNachrichten, 9–30 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-04-30-Spectra.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.7–37.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.9–31.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 23.9–30.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 3.7–6.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.9–5.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 0.5–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-04-30-Spectra.png"
+        length="193941"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:04:32 +0200</pubDate>
+      <dc:date>2019-07-02T13:04:32.35308+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 19–25 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-04-25-PeterHajek.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.6–36.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 22.9–29.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.9–29.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.2–10.3%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.8–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-04-25-PeterHajek.png"
+        length="198775"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:06:26 +0200</pubDate>
+      <dc:date>2019-07-02T13:06:26.130941+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 12–18 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-04-18-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.2–34.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.5–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.5–8.7%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-04-18-ResearchAffairs.png"
+        length="189260"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:08:54 +0200</pubDate>
+      <dc:date>2019-07-02T13:08:54.01336+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 8–13 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-04-13-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.0–37.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 23.3–31.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 20.5–27.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.2–8.4%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.1–3.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 4.2–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-04-13-UniqueResearch.png"
+        length="206403"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 17:58:29 +0200</pubDate>
+      <dc:date>2019-07-02T17:58:29.542416+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 29 March–4 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-04-04-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.2–35.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.3–30.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 20.5–25.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.6–8.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-04-04-ResearchAffairs.png"
+        length="192883"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 20:08:14 +0200</pubDate>
+      <dc:date>2019-07-02T20:08:14.817881+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by market for Der Standard, 26–29 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-03-29-market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.9–35.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.0–31.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.2–28.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.3–10.1%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.8–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-29-market.png"
+        length="197603"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:15:02 +0200</pubDate>
+      <dc:date>2019-07-02T13:15:02.69939+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spectra for OÖNachrichten, 6–26 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-03-26-Spectra.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 27.7–34.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 23.9–30.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 25.8–32.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 2.8–5.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 4.5–8.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 1.2–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-26-Spectra.png"
+        length="200606"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 17:40:29 +0200</pubDate>
+      <dc:date>2019-07-02T17:40:29.195445+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 19–22 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-03-22-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.9–35.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 26.9–33.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 20.2–26.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.3–10.1%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.9–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-22-UniqueResearch.png"
+        length="196809"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 20:37:30 +0200</pubDate>
+      <dc:date>2019-07-02T20:37:30.049832+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 14–21 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-03-21-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.2–35.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.3–30.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 19.6–24.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.6–7.6%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-21-ResearchAffairs.png"
+        length="191918"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 19:48:46 +0200</pubDate>
+      <dc:date>2019-07-02T19:48:46.575916+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for ServusTV, 19–21 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-03-21-OGM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.1–36.1%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.2–32.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 20.6–28.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.0–9.5%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.9–5.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.4–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-21-OGM.png"
+        length="210427"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:23:40 +0200</pubDate>
+      <dc:date>2019-07-02T13:23:40.251855+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IMAS for Kronen Zeitung, 14 February–18 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-03-18-IMAS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.0–34.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 26.1–30.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 23.2–26.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.0–8.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.3–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-18-IMAS.png"
+        length="176371"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:27:46 +0200</pubDate>
+      <dc:date>2019-07-02T13:27:46.887889+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 12–15 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-03-15-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 27.1–35.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.2–32.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.4–29.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.1–9.6%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.8–4.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 4.2–8.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-15-UniqueResearch.png"
+        length="212092"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 17:26:46 +0200</pubDate>
+      <dc:date>2019-07-02T17:26:46.752604+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by market for Der Standard, 6–8 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-03-08-market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 26.0–32.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.2–27.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.4–10.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.0–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-08-market.png"
+        length="190856"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 20:22:21 +0200</pubDate>
+      <dc:date>2019-07-02T20:22:21.368696+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–7 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-03-07-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.2–34.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.4–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.6–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.7–7.6%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-07-ResearchAffairs.png"
+        length="190251"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:34:13 +0200</pubDate>
+      <dc:date>2019-07-02T13:34:13.926219+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–21 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-02-21-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.4–26.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.6–8.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.9–6.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-02-21-ResearchAffairs.png"
+        length="192717"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 19:58:57 +0200</pubDate>
+      <dc:date>2019-07-02T19:58:57.847911+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 12–20 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-02-20-PeterHajek.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.7–37.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 22.1–28.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.1–28.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.4–9.1%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.6–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-02-20-PeterHajek.png"
+        length="193678"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:38:52 +0200</pubDate>
+      <dc:date>2019-07-02T13:38:52.086769+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Spectra for OÖNachrichten, 25 January–19 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-02-19-Spectra.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.5–36.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.7–31.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.9–29.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 3.6–6.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 4.4–7.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 1.2–3.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-02-19-Spectra.png"
+        length="199294"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:41:42 +0200</pubDate>
+      <dc:date>2019-07-02T13:41:42.465555+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 11–16 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-02-16-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.0–37.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 22.3–30.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.3–30.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.1–9.6%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.1–3.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.4–7.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-02-16-UniqueResearch.png"
+        length="207402"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:43:54 +0200</pubDate>
+      <dc:date>2019-07-02T13:43:54.955722+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–8 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-02-08-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 23.4–28.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.4–27.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.7–7.7%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-02-08-ResearchAffairs.png"
+        length="192301"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:47:20 +0200</pubDate>
+      <dc:date>2019-07-02T13:47:20.688858+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 18–24 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-01-24-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 23.4–28.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.7–7.7%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-01-24-ResearchAffairs.png"
+        length="193431"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:50:49 +0200</pubDate>
+      <dc:date>2019-07-02T13:50:49.331384+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 15–19 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-01-19-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.0–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 23.3–31.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.4–29.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.2–8.4%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.8–4.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.6–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-01-19-UniqueResearch.png"
+        length="204719"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 17:33:44 +0200</pubDate>
+      <dc:date>2019-07-02T17:33:44.628772+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 4–10 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-01-10-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.2–33.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.3–29.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 24.3–29.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.7–7.6%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-01-10-ResearchAffairs.png"
+        length="188597"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 13:58:00 +0200</pubDate>
+      <dc:date>2019-07-02T13:58:00.487705+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 18–21 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2017-12-21-PeterHajek.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 27.7–34.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.8–31.4%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.9–29.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.5–8.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.6–6.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2017-12-21-PeterHajek.png"
+        length="201526"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 14:01:38 +0200</pubDate>
+      <dc:date>2019-07-02T14:01:38.827879+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by market for Der Standard, 18–20 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2017-12-20-market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.0–30.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 23.1–29.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.6–7.9%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.9–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2017-12-20-market.png"
+        length="195560"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 14:04:57 +0200</pubDate>
+      <dc:date>2019-07-02T14:04:57.153561+02:00</dc:date>
+    </item>
+    <dc:date>2019-07-02T21:00:08.445682+02:00</dc:date>
   </channel>
 </rss>
