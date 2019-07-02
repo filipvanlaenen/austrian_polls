@@ -71,24 +71,24 @@ Last result: **3.8%** (General Election of 15 October 2017)
 | [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 4.0% | 3.2–5.1% | 3.0–5.4% | 2.8–5.7% | 2.4–6.3% |
 | [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 6.0% | 5.0–7.2% | 4.8–7.6% | 4.6–7.9% | 4.1–8.5% |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 4.0% | 3.2–5.1% | 3.0–5.3% | 2.8–5.6% | 2.5–6.2% |
-| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
-| [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4.0% | N/A | N/A | N/A | N/A |
-| [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 4.0% | N/A | N/A | N/A | N/A |
-| [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | N/A | N/A | N/A | N/A |
-| [6–29 June 2018](2018-06-29-Spectra.html) | Spectra <br> OÖNachrichten | 3.0% | N/A | N/A | N/A | N/A |
-| [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 5.0% | N/A | N/A | N/A | N/A |
-| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | N/A | N/A | N/A | N/A |
-| [18–21 June 2018](2018-06-21-UniqueResearch.html) | Unique Research <br> profil | 4.0% | N/A | N/A | N/A | N/A |
-| [12–15 June 2018](2018-06-15-market.html) | market <br> Der Standard | 5.0% | N/A | N/A | N/A | N/A |
-| [7–13 June 2018](2018-06-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | N/A | N/A | N/A | N/A |
-| [4–11 June 2018](2018-06-11-PeterHajek.html) | Peter Hajek <br> ATV | 4.0% | N/A | N/A | N/A | N/A |
-| [4–6 June 2018](2018-06-06-UniqueResearch.html) | Unique Research <br> Heute | 4.0% | N/A | N/A | N/A | N/A |
-| [9 May–5 June 2018](2018-06-05-Spectra.html) | Spectra <br> OÖNachrichten | 3.0% | N/A | N/A | N/A | N/A |
-| [24–30 May 2018](2018-05-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | N/A | N/A | N/A | N/A |
-| [22–25 May 2018](2018-05-25-UniqueResearch.html) | Unique Research <br> profil | 6.0% | N/A | N/A | N/A | N/A |
-| [10–16 May 2018](2018-05-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | N/A | N/A | N/A | N/A |
-| [18 April–9 May 2018](2018-05-09-IMAS.html) | IMAS <br> Kronen Zeitung | 5.0% | N/A | N/A | N/A | N/A |
+| [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
+| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
+| [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
+| [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
+| [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
+| [6–29 June 2018](2018-06-29-Spectra.html) | Spectra <br> OÖNachrichten | 3.0% | 2.3–4.0% | 2.1–4.2% | 2.0–4.5% | 1.7–5.0% |
+| [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 5.0% | 4.1–6.1% | 3.9–6.4% | 3.7–6.7% | 3.3–7.3% |
+| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.4–7.0% |
+| [18–21 June 2018](2018-06-21-UniqueResearch.html) | Unique Research <br> profil | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
+| [12–15 June 2018](2018-06-15-market.html) | market <br> Der Standard | 5.0% | 4.1–6.1% | 3.9–6.5% | 3.7–6.8% | 3.3–7.3% |
+| [7–13 June 2018](2018-06-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.4–7.0% |
+| [4–11 June 2018](2018-06-11-PeterHajek.html) | Peter Hajek <br> ATV | 4.0% | 3.2–5.1% | 3.0–5.4% | 2.8–5.7% | 2.4–6.3% |
+| [4–6 June 2018](2018-06-06-UniqueResearch.html) | Unique Research <br> Heute | 4.0% | 3.2–5.0% | 3.0–5.3% | 2.9–5.6% | 2.5–6.1% |
+| [9 May–5 June 2018](2018-06-05-Spectra.html) | Spectra <br> OÖNachrichten | 3.0% | 2.3–4.0% | 2.1–4.3% | 2.0–4.5% | 1.7–5.0% |
+| [24–30 May 2018](2018-05-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
+| [22–25 May 2018](2018-05-25-UniqueResearch.html) | Unique Research <br> profil | 6.0% | 5.0–7.2% | 4.8–7.6% | 4.6–7.9% | 4.1–8.5% |
+| [10–16 May 2018](2018-05-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
+| [18 April–9 May 2018](2018-05-09-IMAS.html) | IMAS <br> Kronen Zeitung | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [26 April–2 May 2018](2018-05-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4.0% | N/A | N/A | N/A | N/A |
 | [9–30 April 2018](2018-04-30-Spectra.html) | Spectra <br> OÖNachrichten | 0.9% | N/A | N/A | N/A | N/A |
 | [19–25 April 2018](2018-04-25-PeterHajek.html) | Peter Hajek <br> ATV | 4.0% | N/A | N/A | N/A | N/A |
@@ -144,9 +144,9 @@ Last result: **0** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–22 | 15–23 | 14–24 | 13–26 |
-| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 19 | 19–20 | 19–20 | 18–22 | 14–23 |
-| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 19 | 17–21 | 16–22 | 15–23 | 14–24 |
+| N/A | [Poll Average](average.html) | 19 | 16–23 | 15–24 | 14–24 | 13–26 |
+| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 20 | 18–23 | 17–24 | 16–24 | 16–26 |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 19 | 16–21 | 16–22 | 16–22 | 15–24 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 23 | 20–25 | 20–26 | 19–26 | 18–28 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
@@ -205,24 +205,24 @@ Last result: **0** seats (General Election of 15 October 2017)
 | [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 0 | 0 | 0 | 0–8 | 0–11 |
 | [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 12 | 11–12 | 11–12 | 11–12 | 0–13 |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0–9 | 0–9 | 0–9 |
-| [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
-| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
-| [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [6–29 June 2018](2018-06-29-Spectra.html) | Spectra <br> OÖNachrichten |  |  |  |  |  |
-| [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV |  |  |  |  |  |
-| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [18–21 June 2018](2018-06-21-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
-| [12–15 June 2018](2018-06-15-market.html) | market <br> Der Standard |  |  |  |  |  |
-| [7–13 June 2018](2018-06-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [4–11 June 2018](2018-06-11-PeterHajek.html) | Peter Hajek <br> ATV |  |  |  |  |  |
-| [4–6 June 2018](2018-06-06-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
-| [9 May–5 June 2018](2018-06-05-Spectra.html) | Spectra <br> OÖNachrichten |  |  |  |  |  |
-| [24–30 May 2018](2018-05-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [22–25 May 2018](2018-05-25-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
-| [10–16 May 2018](2018-05-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [18 April–9 May 2018](2018-05-09-IMAS.html) | IMAS <br> Kronen Zeitung |  |  |  |  |  |
+| [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 0 | 0–9 | 0–9 | 0–10 | 0–11 |
+| [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–8 |
+| [19–25 July 2018](2018-07-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0–8 | 0–10 |
+| [9–13 July 2018](2018-07-13-UniqueResearch.html) | Unique Research <br> profil | 0 | 0–7 | 0–8 | 0–8 | 0–9 |
+| [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 8–12 | 0–12 | 0–12 |
+| [6–29 June 2018](2018-06-29-Spectra.html) | Spectra <br> OÖNachrichten | 0 | 0 | 0 | 0–9 | 0–10 |
+| [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 9 | 9 | 9 | 8–9 | 8–13 |
+| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 0–11 | 0–11 | 0–13 |
+| [18–21 June 2018](2018-06-21-UniqueResearch.html) | Unique Research <br> profil | 0 | 0–7 | 0–8 | 0–10 | 0–11 |
+| [12–15 June 2018](2018-06-15-market.html) | market <br> Der Standard | 9 | 8–13 | 8–13 | 7–13 | 0–13 |
+| [7–13 June 2018](2018-06-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–11 | 8–12 | 0–12 | 0–14 |
+| [4–11 June 2018](2018-06-11-PeterHajek.html) | Peter Hajek <br> ATV | 9 | 0–10 | 0–10 | 0–10 | 0–10 |
+| [4–6 June 2018](2018-06-06-UniqueResearch.html) | Unique Research <br> Heute | 0 | 0 | 0 | 0–10 | 0–11 |
+| [9 May–5 June 2018](2018-06-05-Spectra.html) | Spectra <br> OÖNachrichten | 0 | 0 | 0 | 0 | 0–8 |
+| [24–30 May 2018](2018-05-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 7–13 | 0–13 | 0–13 | 0–14 |
+| [22–25 May 2018](2018-05-25-UniqueResearch.html) | Unique Research <br> profil | 12 | 12 | 12 | 12 | 9–12 |
+| [10–16 May 2018](2018-05-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 8–12 | 8–13 | 8–13 | 0–13 |
+| [18 April–9 May 2018](2018-05-09-IMAS.html) | IMAS <br> Kronen Zeitung | 7 | 7–9 | 7–9 | 7–10 | 0–12 |
 | [26 April–2 May 2018](2018-05-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [9–30 April 2018](2018-04-30-Spectra.html) | Spectra <br> OÖNachrichten |  |  |  |  |  |
 | [19–25 April 2018](2018-04-25-PeterHajek.html) | Peter Hajek <br> ATV |  |  |  |  |  |
@@ -273,17 +273,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 1.1% | 99.7% |  |
 | 14 | 3% | 98.6% |  |
 | 15 | 5% | 96% |  |
-| 16 | 8% | 91% |  |
-| 17 | 11% | 83% |  |
-| 18 | 13% | 72% |  |
-| 19 | 19% | 59% | Median |
-| 20 | 16% | 39% |  |
-| 21 | 8% | 23% |  |
-| 22 | 6% | 16% |  |
-| 23 | 5% | 10% |  |
+| 16 | 9% | 91% |  |
+| 17 | 12% | 82% |  |
+| 18 | 14% | 69% |  |
+| 19 | 13% | 56% | Median |
+| 20 | 13% | 42% |  |
+| 21 | 10% | 30% |  |
+| 22 | 8% | 19% |  |
+| 23 | 6% | 11% |  |
 | 24 | 3% | 5% |  |
-| 25 | 1.2% | 2% |  |
-| 26 | 0.5% | 0.9% |  |
+| 25 | 1.4% | 2% |  |
+| 26 | 0.6% | 1.0% |  |
 | 27 | 0.3% | 0.4% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
