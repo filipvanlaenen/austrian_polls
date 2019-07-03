@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Tue, 02 Jul 2019 21:00:08 +0200</pubDate>
+    <pubDate>Wed, 03 Jul 2019 20:52:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 24–28 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 65–78 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 32–43 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 32–43 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 13–21 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek-seats.png"
+        length="171593"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 23:05:41 +0200</pubDate>
+      <dc:date>2019-07-02T23:05:41.227408+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 24–28 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek-coalitions-seats.png"
+        length="264020"
+        type="image/png"/>
+      <pubDate>Tue, 02 Jul 2019 23:05:41 +0200</pubDate>
+      <dc:date>2019-07-02T23:05:41.227408+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 24–28 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.png"
         length="189678"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 20:38:50 +0200</pubDate>
-      <dc:date>2019-07-02T20:38:50.820064+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 23:05:41 +0200</pubDate>
+      <dc:date>2019-07-02T23:05:41.227408+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs, 14–20 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 67–78 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 39–49 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 28–37 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 12–18 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 15–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs-seats.png"
+        length="169509"
+        type="image/png"/>
+      <pubDate>Wed, 03 Jul 2019 18:09:51 +0200</pubDate>
+      <dc:date>2019-07-03T18:09:51.573141+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs, 14–20 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs-coalitions-seats.png"
+        length="243190"
+        type="image/png"/>
+      <pubDate>Wed, 03 Jul 2019 18:09:51 +0200</pubDate>
+      <dc:date>2019-07-03T18:09:51.573141+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs, 14–20 June 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-20-ResearchAffairs.png"
         length="184359"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 06:55:54 +0200</pubDate>
-      <dc:date>2019-07-02T06:55:54.847707+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 18:09:51 +0200</pubDate>
+      <dc:date>2019-07-03T18:09:51.573141+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SORA for ORF, 31 May–10 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 67–77 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 35–44 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 30–38 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 12–18 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 19–26 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA-seats.png"
+        length="167582"
+        type="image/png"/>
+      <pubDate>Wed, 03 Jul 2019 19:17:42 +0200</pubDate>
+      <dc:date>2019-07-03T19:17:42.812849+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SORA for ORF, 31 May–10 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA-coalitions-seats.png"
+        length="244309"
+        type="image/png"/>
+      <pubDate>Wed, 03 Jul 2019 19:17:42 +0200</pubDate>
+      <dc:date>2019-07-03T19:17:42.812849+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SORA for ORF, 31 May–10 June 2019 – Voting Intentions</title>
@@ -36,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA.png"
         length="183493"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 19:10:42 +0200</pubDate>
-      <dc:date>2019-07-02T19:10:42.738053+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 19:17:42 +0200</pubDate>
+      <dc:date>2019-07-03T19:17:42.812849+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 5–6 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 65–77 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 36–47 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 31–41 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 13–21 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 15–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market-seats.png"
+        length="171948"
+        type="image/png"/>
+      <pubDate>Wed, 03 Jul 2019 20:30:47 +0200</pubDate>
+      <dc:date>2019-07-03T20:30:47.924924+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 5–6 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market-coalitions-seats.png"
+        length="260333"
+        type="image/png"/>
+      <pubDate>Wed, 03 Jul 2019 20:30:47 +0200</pubDate>
+      <dc:date>2019-07-03T20:30:47.924924+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 5–6 June 2019 – Voting Intentions</title>
@@ -46,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-06-Market.png"
         length="190377"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 12:52:12 +0200</pubDate>
-      <dc:date>2019-07-02T12:52:12.560979+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 20:30:47 +0200</pubDate>
+      <dc:date>2019-07-03T20:30:47.924924+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research, 31 May–5 June 2019 – Voting Intentions</title>
@@ -56,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-05-UniqueResearch.png"
         length="190338"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 12:54:04 +0200</pubDate>
-      <dc:date>2019-07-02T12:54:04.874816+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 20:49:27 +0200</pubDate>
+      <dc:date>2019-07-03T20:49:27.38171+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs, 29 May–4 June 2019 – Seat Projections for the Parties</title>
@@ -156,8 +236,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-31-DemoxResearch.png"
         length="174642"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 12:56:41 +0200</pubDate>
-      <dc:date>2019-07-02T12:56:41.081372+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 19:57:14 +0200</pubDate>
+      <dc:date>2019-07-03T19:57:14.05959+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM for KURIER, 27–29 May 2019 – Voting Intentions</title>
@@ -166,8 +246,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-29-OGM.png"
         length="192238"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 12:59:11 +0200</pubDate>
-      <dc:date>2019-07-02T12:59:11.35983+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 20:04:46 +0200</pubDate>
+      <dc:date>2019-07-03T20:04:46.093686+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs, 18–20 May 2019 – Seat Projections for the Parties</title>
@@ -586,8 +666,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-01-09-ResearchAffairs.png"
         length="176814"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 18:33:57 +0200</pubDate>
-      <dc:date>2019-07-01T18:33:57.232507+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 06:55:15 +0200</pubDate>
+      <dc:date>2019-07-03T06:55:15.410044+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 10–14 December 2018 – Voting Intentions</title>
@@ -596,8 +676,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-12-14-UniqueResearch.png"
         length="193189"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 18:38:22 +0200</pubDate>
-      <dc:date>2019-07-01T18:38:22.276566+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 20:45:02 +0200</pubDate>
+      <dc:date>2019-07-03T20:45:02.912081+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by market for Der Standard, 7–12 December 2018 – Voting Intentions</title>
@@ -616,8 +696,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-12-12-ResearchAffairs.png"
         length="186185"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 18:47:57 +0200</pubDate>
-      <dc:date>2019-07-01T18:47:57.24937+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 17:50:33 +0200</pubDate>
+      <dc:date>2019-07-03T17:50:33.420053+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 3–11 December 2018 – Voting Intentions</title>
@@ -736,8 +816,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-10-13-GfK.png"
         length="180349"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 19:57:05 +0200</pubDate>
-      <dc:date>2019-07-01T19:57:05.963722+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 19:03:31 +0200</pubDate>
+      <dc:date>2019-07-03T19:03:31.022599+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 8–12 October 2018 – Voting Intentions</title>
@@ -756,8 +836,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-10-11-OGM.png"
         length="193285"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 20:05:57 +0200</pubDate>
-      <dc:date>2019-07-01T20:05:57.647962+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 20:52:48 +0200</pubDate>
+      <dc:date>2019-07-03T20:52:48.022245+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 27 September–3 October 2018 – Voting Intentions</title>
@@ -766,8 +846,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-10-03-ResearchAffairs.png"
         length="188202"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 20:10:28 +0200</pubDate>
-      <dc:date>2019-07-01T20:10:28.670713+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 19:27:37 +0200</pubDate>
+      <dc:date>2019-07-03T19:27:37.636055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by market for Der Standard, 25–27 September 2018 – Voting Intentions</title>
@@ -806,8 +886,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-09-06-UniqueResearch.png"
         length="195713"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 20:31:54 +0200</pubDate>
-      <dc:date>2019-07-01T20:31:54.722527+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 17:27:04 +0200</pubDate>
+      <dc:date>2019-07-03T17:27:04.714923+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 30 August–5 September 2018 – Voting Intentions</title>
@@ -876,8 +956,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-07-25-ResearchAffairs.png"
         length="187214"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:06:40 +0200</pubDate>
-      <dc:date>2019-07-01T21:06:40.129256+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 18:21:03 +0200</pubDate>
+      <dc:date>2019-07-03T18:21:03.937313+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 9–13 July 2018 – Voting Intentions</title>
@@ -886,8 +966,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-07-13-UniqueResearch.png"
         length="190280"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:10:16 +0200</pubDate>
-      <dc:date>2019-07-01T21:10:16.771201+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 18:04:06 +0200</pubDate>
+      <dc:date>2019-07-03T18:04:06.580831+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 5–11 July 2018 – Voting Intentions</title>
@@ -912,12 +992,12 @@
     <item>
       <title>Opinion Poll by OGM for ServusTV, 26–28 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2018-06-28-OGM.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.0–31.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.2–28.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.5–7.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.7–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25.0–31.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 22.2–28.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.5–7.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 3.7–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-06-28-OGM.png"
         length="195351"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 21:22:15 +0200</pubDate>
-      <dc:date>2019-07-01T21:22:15.539239+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 23:03:10 +0200</pubDate>
+      <dc:date>2019-07-02T23:03:10.306204+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 21–27 June 2018 – Voting Intentions</title>
@@ -1016,8 +1096,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-05-16-ResearchAffairs.png"
         length="191843"
         type="image/png"/>
-      <pubDate>Mon, 01 Jul 2019 22:52:38 +0200</pubDate>
-      <dc:date>2019-07-01T22:52:38.386817+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 06:58:53 +0200</pubDate>
+      <dc:date>2019-07-03T06:58:53.680292+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS for Kronen Zeitung, 18 April–9 May 2018 – Voting Intentions</title>
@@ -1046,8 +1126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-04-30-Spectra.png"
         length="193941"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 13:04:32 +0200</pubDate>
-      <dc:date>2019-07-02T13:04:32.35308+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 17:36:49 +0200</pubDate>
+      <dc:date>2019-07-03T17:36:49.93222+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 19–25 April 2018 – Voting Intentions</title>
@@ -1066,8 +1146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-04-18-ResearchAffairs.png"
         length="189260"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 13:08:54 +0200</pubDate>
-      <dc:date>2019-07-02T13:08:54.01336+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 18:31:06 +0200</pubDate>
+      <dc:date>2019-07-03T18:31:06.714682+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 8–13 April 2018 – Voting Intentions</title>
@@ -1136,8 +1216,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-21-OGM.png"
         length="210427"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 13:23:40 +0200</pubDate>
-      <dc:date>2019-07-02T13:23:40.251855+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 19:47:14 +0200</pubDate>
+      <dc:date>2019-07-03T19:47:14.02067+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMAS for Kronen Zeitung, 14 February–18 March 2018 – Voting Intentions</title>
@@ -1176,8 +1256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-03-07-ResearchAffairs.png"
         length="190251"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 13:34:13 +0200</pubDate>
-      <dc:date>2019-07-02T13:34:13.926219+02:00</dc:date>
+      <pubDate>Tue, 02 Jul 2019 23:12:19 +0200</pubDate>
+      <dc:date>2019-07-02T23:12:19.20816+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–21 February 2018 – Voting Intentions</title>
@@ -1206,8 +1286,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-02-19-Spectra.png"
         length="199294"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 13:41:42 +0200</pubDate>
-      <dc:date>2019-07-02T13:41:42.465555+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 18:43:08 +0200</pubDate>
+      <dc:date>2019-07-03T18:43:08.661915+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 11–16 February 2018 – Voting Intentions</title>
@@ -1216,8 +1296,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-02-16-UniqueResearch.png"
         length="207402"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 13:43:54 +0200</pubDate>
-      <dc:date>2019-07-02T13:43:54.955722+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 20:21:32 +0200</pubDate>
+      <dc:date>2019-07-03T20:21:32.528936+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–8 February 2018 – Voting Intentions</title>
@@ -1236,8 +1316,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-01-24-ResearchAffairs.png"
         length="193431"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 13:50:49 +0200</pubDate>
-      <dc:date>2019-07-02T13:50:49.331384+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 20:30:59 +0200</pubDate>
+      <dc:date>2019-07-03T20:30:59.820934+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 15–19 January 2018 – Voting Intentions</title>
@@ -1266,8 +1346,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2017-12-21-PeterHajek.png"
         length="201526"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 14:01:38 +0200</pubDate>
-      <dc:date>2019-07-02T14:01:38.827879+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 19:37:56 +0200</pubDate>
+      <dc:date>2019-07-03T19:37:56.858487+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by market for Der Standard, 18–20 December 2017 – Voting Intentions</title>
@@ -1276,9 +1356,9 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2017-12-20-market.png"
         length="195560"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 14:04:57 +0200</pubDate>
-      <dc:date>2019-07-02T14:04:57.153561+02:00</dc:date>
+      <pubDate>Wed, 03 Jul 2019 20:11:16 +0200</pubDate>
+      <dc:date>2019-07-03T20:11:16.465819+02:00</dc:date>
     </item>
-    <dc:date>2019-07-02T21:00:08.445682+02:00</dc:date>
+    <dc:date>2019-07-03T20:52:48.022245+02:00</dc:date>
   </channel>
 </rss>
