@@ -177,7 +177,7 @@ Last result: **8** seats (General Election of 15 October 2017)
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [3–11 December 2018](2018-12-11-PeterHajek.html) | Peter Hajek <br> ATV | 0 | 0 | 0–7 | 0–8 | 0–9 |
 | [26 November–9 December 2018](2018-12-09-GfK.html) | GfK <br> Die Presse | 0 | 0 | 0 | 0 | 0 |
-| [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 0 | 0–8 | 0–8 | 0–8 | 0–9 |
+| [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 0 | 0 | 0–7 | 0–8 | 0–9 |
 | [22–28 November 2018](2018-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [12–16 November 2018](2018-11-16-UniqueResearch.html) | Unique Research <br> profil | 0 | 0 | 0 | 0 | 0 |
 | [13–15 November 2018](2018-11-15-market.html) | market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
@@ -235,7 +235,7 @@ Last result: **8** seats (General Election of 15 October 2017)
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 0 | 0 | 0 | 0 | 0 |
 | [25 January–19 February 2018](2018-02-19-Spectra.html) | Spectra <br> OÖNachrichten | 11 | 9–13 | 8–14 | 8–15 | 0–16 |
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 0 | 0 | 0 | 0 | 0–7 |
-| [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0–7 | 0–8 | 0–8 | 0–8 |
+| [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0–7 | 0–8 | 0–8 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0–7 | 0–8 | 0–9 |
 | [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 0 | 0–7 | 0–8 | 0–9 | 0–10 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |

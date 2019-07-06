@@ -182,20 +182,20 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
 | [3–11 December 2018](2018-12-11-PeterHajek.html) | Peter Hajek <br> ATV | 17 | 15–19 | 14–20 | 13–21 | 12–22 |
 | [26 November–9 December 2018](2018-12-09-GfK.html) | GfK <br> Die Presse | 14 | 12–15 | 12–16 | 12–16 | 11–17 |
-| [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 18 | 14–18 | 14–21 | 14–21 | 13–22 |
+| [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [22–28 November 2018](2018-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 14 | 12–16 | 11–16 | 11–17 | 10–18 |
-| [12–16 November 2018](2018-11-16-UniqueResearch.html) | Unique Research <br> profil | 18 | 15–18 | 14–20 | 14–21 | 14–21 |
-| [13–15 November 2018](2018-11-15-market.html) | market <br> Der Standard | 14 | 14 | 12–17 | 12–17 | 12–19 |
+| [12–16 November 2018](2018-11-16-UniqueResearch.html) | Unique Research <br> profil | 17 | 15–19 | 14–20 | 13–21 | 12–22 |
+| [13–15 November 2018](2018-11-15-market.html) | market <br> Der Standard | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
 | [8–14 November 2018](2018-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 10–13 | 9–14 | 9–15 | 8–16 |
-| [22–31 October 2018](2018-10-31-PeterHajek.html) | Peter Hajek <br> ATV | 14 | 10–14 | 10–15 | 10–15 | 10–16 |
-| [24–30 October 2018](2018-10-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 14 | 10–16 | 10–17 | 10–17 | 10–17 |
+| [22–31 October 2018](2018-10-31-PeterHajek.html) | Peter Hajek <br> ATV | 13 | 11–15 | 11–16 | 10–16 | 10–17 |
+| [24–30 October 2018](2018-10-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–16 | 11–16 | 11–17 | 10–18 |
 | [9–29 October 2018](2018-10-29-Spectra.html) | Spectra | 11 | 9–13 | 8–14 | 8–15 | 7–16 |
 | [11–17 October 2018](2018-10-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–16 | 11–16 | 10–17 | 10–18 |
 | [1–13 October 2018](2018-10-13-GfK.html) | GfK <br> Die Presse | 13 | 12–15 | 11–15 | 11–16 | 10–17 |
-| [8–12 October 2018](2018-10-12-UniqueResearch.html) | Unique Research <br> profil | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
+| [8–12 October 2018](2018-10-12-UniqueResearch.html) | Unique Research <br> profil | 13 | 11–15 | 11–16 | 10–17 | 9–18 |
 | [9–11 October 2018](2018-10-11-OGM.html) | OGM <br> KURIER | 11 | 9–14 | 8–15 | 8–15 | 7–16 |
 | [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 14 | 12–16 | 11–16 | 10–17 | 10–18 |
-| [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 17 | 16–19 | 15–19 | 15–20 | 14–21 |
+| [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 15 | 12–17 | 12–18 | 12–19 | 11–20 |
 | [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15 | 12–18 | 12–19 | 11–20 | 10–22 |
 | [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
 | [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
@@ -210,7 +210,7 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–15 | 11–16 | 10–17 | 10–18 |
 | [6–29 June 2018](2018-06-29-Spectra.html) | Spectra <br> OÖNachrichten | 0 | 0–9 | 0–10 | 0–10 | 0–12 |
 | [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 11 | 9–13 | 9–14 | 8–15 | 7–16 |
-| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12 | 11–13 | 9–14 | 9–14 | 8–15 |
+| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | [18–21 June 2018](2018-06-21-UniqueResearch.html) | Unique Research <br> profil | 13 | 11–16 | 11–16 | 10–17 | 9–18 |
 | [12–15 June 2018](2018-06-15-market.html) | market <br> Der Standard | 13 | 11–15 | 11–16 | 10–17 | 9–18 |
 | [7–13 June 2018](2018-06-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
@@ -219,7 +219,7 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [9 May–5 June 2018](2018-06-05-Spectra.html) | Spectra <br> OÖNachrichten | 7 | 0–9 | 0–10 | 0–10 | 0–12 |
 | [24–30 May 2018](2018-05-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 7–11 | 0–12 | 0–13 |
 | [22–25 May 2018](2018-05-25-UniqueResearch.html) | Unique Research <br> profil | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
-| [10–16 May 2018](2018-05-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 10–13 | 9–14 | 8–14 | 8–15 |
+| [10–16 May 2018](2018-05-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
 | [18 April–9 May 2018](2018-05-09-IMAS.html) | IMAS <br> Kronen Zeitung | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [26 April–2 May 2018](2018-05-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–15 | 11–16 | 11–17 | 10–18 |
 | [9–30 April 2018](2018-04-30-Spectra.html) | Spectra <br> OÖNachrichten | 9 | 7–11 | 0–12 | 0–13 | 0–14 |
@@ -240,7 +240,7 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 13 | 11–16 | 10–16 | 10–17 | 9–18 |
 | [25 January–19 February 2018](2018-02-19-Spectra.html) | Spectra <br> OÖNachrichten | 9 | 7–11 | 0–12 | 0–12 | 0–13 |
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 13 | 10–16 | 10–17 | 9–18 | 8–20 |
-| [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–14 | 9–15 | 9–15 | 8–15 |
+| [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12 | 10–14 | 9–14 | 9–15 | 8–16 |
 | [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 13 | 8–15 | 8–16 | 0–16 | 0–17 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 10–13 | 9–14 | 9–14 | 8–15 |

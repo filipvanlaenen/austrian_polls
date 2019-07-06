@@ -185,20 +185,20 @@ Last result: **51** seats (General Election of 15 October 2017)
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 46 | 43–49 | 42–50 | 41–51 | 39–53 |
 | [3–11 December 2018](2018-12-11-PeterHajek.html) | Peter Hajek <br> ATV | 42 | 38–45 | 37–47 | 36–48 | 34–50 |
 | [26 November–9 December 2018](2018-12-09-GfK.html) | GfK <br> Die Presse | 45 | 42–47 | 42–48 | 41–48 | 40–49 |
-| [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 40 | 38–47 | 38–47 | 36–47 | 34–50 |
+| [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 42 | 38–45 | 38–47 | 37–48 | 35–49 |
 | [22–28 November 2018](2018-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 47 | 43–50 | 42–51 | 42–52 | 40–53 |
-| [12–16 November 2018](2018-11-16-UniqueResearch.html) | Unique Research <br> profil | 45 | 45–47 | 41–50 | 41–51 | 40–54 |
-| [13–15 November 2018](2018-11-15-market.html) | market <br> Der Standard | 48 | 48–49 | 48–50 | 48–50 | 42–54 |
+| [12–16 November 2018](2018-11-16-UniqueResearch.html) | Unique Research <br> profil | 45 | 41–50 | 41–50 | 41–51 | 38–54 |
+| [13–15 November 2018](2018-11-15-market.html) | market <br> Der Standard | 47 | 44–51 | 42–53 | 42–54 | 40–56 |
 | [8–14 November 2018](2018-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 47 | 43–50 | 42–51 | 41–52 | 40–54 |
-| [22–31 October 2018](2018-10-31-PeterHajek.html) | Peter Hajek <br> ATV | 44 | 44–46 | 42–46 | 41–50 | 41–57 |
-| [24–30 October 2018](2018-10-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 49 | 47–50 | 46–50 | 45–51 | 44–57 |
+| [22–31 October 2018](2018-10-31-PeterHajek.html) | Peter Hajek <br> ATV | 48 | 44–51 | 44–52 | 43–53 | 41–55 |
+| [24–30 October 2018](2018-10-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 49 | 45–53 | 44–54 | 43–55 | 42–56 |
 | [9–29 October 2018](2018-10-29-Spectra.html) | Spectra | 49 | 45–53 | 43–55 | 43–56 | 41–58 |
 | [11–17 October 2018](2018-10-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 47 | 43–51 | 42–52 | 41–53 | 40–55 |
 | [1–13 October 2018](2018-10-13-GfK.html) | GfK <br> Die Presse | 45 | 42–48 | 42–48 | 41–49 | 40–51 |
-| [8–12 October 2018](2018-10-12-UniqueResearch.html) | Unique Research <br> profil | 48 | 44–52 | 42–53 | 41–53 | 40–56 |
+| [8–12 October 2018](2018-10-12-UniqueResearch.html) | Unique Research <br> profil | 48 | 44–52 | 43–53 | 42–53 | 40–56 |
 | [9–11 October 2018](2018-10-11-OGM.html) | OGM <br> KURIER | 50 | 46–54 | 45–56 | 44–58 | 42–59 |
 | [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 45 | 42–49 | 40–50 | 40–51 | 38–53 |
-| [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 44 | 41–49 | 41–49 | 39–49 | 39–52 |
+| [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 44 | 40–47 | 39–48 | 38–49 | 37–51 |
 | [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 46 | 41–51 | 40–53 | 39–54 | 36–57 |
 | [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 48 | 44–52 | 43–52 | 42–54 | 40–56 |
 | [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 43 | 40–47 | 39–48 | 38–49 | 37–51 |
@@ -213,7 +213,7 @@ Last result: **51** seats (General Election of 15 October 2017)
 | [5–11 July 2018](2018-07-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 46 | 43–50 | 42–51 | 41–52 | 40–54 |
 | [6–29 June 2018](2018-06-29-Spectra.html) | Spectra <br> OÖNachrichten | 55 | 51–59 | 50–60 | 49–62 | 46–64 |
 | [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 48 | 44–52 | 43–53 | 42–54 | 40–55 |
-| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 47 | 45–49 | 44–52 | 44–54 | 42–54 |
+| [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 47 | 44–51 | 43–52 | 42–53 | 40–55 |
 | [18–21 June 2018](2018-06-21-UniqueResearch.html) | Unique Research <br> profil | 48 | 44–53 | 43–54 | 42–55 | 41–57 |
 | [12–15 June 2018](2018-06-15-market.html) | market <br> Der Standard | 48 | 44–52 | 43–53 | 42–53 | 40–56 |
 | [7–13 June 2018](2018-06-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 48 | 44–51 | 43–53 | 42–54 | 41–56 |
@@ -222,8 +222,8 @@ Last result: **51** seats (General Election of 15 October 2017)
 | [9 May–5 June 2018](2018-06-05-Spectra.html) | Spectra <br> OÖNachrichten | 55 | 50–60 | 49–61 | 48–63 | 46–65 |
 | [24–30 May 2018](2018-05-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 46 | 42–49 | 41–50 | 41–51 | 39–53 |
 | [22–25 May 2018](2018-05-25-UniqueResearch.html) | Unique Research <br> profil | 47 | 43–51 | 42–52 | 41–53 | 39–55 |
-| [10–16 May 2018](2018-05-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 43 | 41–48 | 40–49 | 39–50 | 38–51 |
-| [18 April–9 May 2018](2018-05-09-IMAS.html) | IMAS <br> Kronen Zeitung | 50 | 45–52 | 45–54 | 44–55 | 43–57 |
+| [10–16 May 2018](2018-05-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 44 | 41–48 | 40–49 | 39–50 | 37–52 |
+| [18 April–9 May 2018](2018-05-09-IMAS.html) | IMAS <br> Kronen Zeitung | 49 | 46–53 | 45–54 | 44–55 | 42–57 |
 | [26 April–2 May 2018](2018-05-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 47 | 43–51 | 42–52 | 41–53 | 40–54 |
 | [9–30 April 2018](2018-04-30-Spectra.html) | Spectra <br> OÖNachrichten | 51 | 47–56 | 46–57 | 45–58 | 43–60 |
 | [19–25 April 2018](2018-04-25-PeterHajek.html) | Peter Hajek <br> ATV | 50 | 45–54 | 44–55 | 44–56 | 42–59 |
@@ -243,7 +243,7 @@ Last result: **51** seats (General Election of 15 October 2017)
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 48 | 44–52 | 43–53 | 42–54 | 40–56 |
 | [25 January–19 February 2018](2018-02-19-Spectra.html) | Spectra <br> OÖNachrichten | 49 | 45–54 | 44–54 | 43–56 | 41–58 |
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 49 | 45–55 | 44–56 | 42–57 | 40–60 |
-| [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 51 | 44–53 | 44–57 | 41–57 | 39–57 |
+| [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 47 | 44–52 | 43–53 | 43–54 | 41–56 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 51 | 47–56 | 46–57 | 45–58 | 44–59 |
 | [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 47 | 42–55 | 41–56 | 40–58 | 38–60 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 53 | 49–57 | 48–58 | 47–59 | 45–61 |
