@@ -152,7 +152,7 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 18 | 16–21 | 16–21 | 15–22 | 14–23 |
 | [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 19 | 16–22 | 15–23 | 14–24 | 13–26 |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 20 | 17–22 | 17–23 | 16–23 | 15–25 |
-| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 15 | 12–17 | 12–18 | 11–19 | 11–20 |
+| [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 15 | 13–17 | 12–18 | 11–19 | 11–20 |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 17 | 14–20 | 13–21 | 13–22 | 11–24 |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 13 | 11–15 | 10–16 | 10–16 | 9–18 |
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 15 | 13–17 | 13–17 | 12–18 | 12–18 |
@@ -258,18 +258,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% | Last Result |
 | 11 | 0.6% | 99.9% |  |
 | 12 | 3% | 99.3% |  |
-| 13 | 6% | 97% |  |
+| 13 | 7% | 97% |  |
 | 14 | 12% | 90% |  |
-| 15 | 15% | 78% |  |
+| 15 | 15% | 79% |  |
 | 16 | 15% | 63% | Median |
 | 17 | 13% | 48% |  |
 | 18 | 11% | 35% |  |
 | 19 | 10% | 24% |  |
-| 20 | 6% | 14% |  |
+| 20 | 7% | 14% |  |
 | 21 | 4% | 7% |  |
-| 22 | 2% | 3% |  |
-| 23 | 1.1% | 2% |  |
-| 24 | 0.3% | 0.4% |  |
+| 22 | 2% | 4% |  |
+| 23 | 1.0% | 1.4% |  |
+| 24 | 0.3% | 0.5% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 

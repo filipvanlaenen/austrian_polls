@@ -154,7 +154,7 @@ Last result: **52** seats (General Election of 15 October 2017)
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 44 | 40–47 | 40–48 | 39–49 | 37–51 |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 39 | 36–42 | 35–43 | 34–44 | 33–46 |
 | [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 44 | 39–48 | 38–50 | 37–51 | 35–53 |
-| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 42 | 39–46 | 38–46 | 37–47 | 36–49 |
+| [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 42 | 39–45 | 38–46 | 37–47 | 36–49 |
 | [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 41 | 38–45 | 37–46 | 36–47 | 35–49 |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 50 | 45–55 | 44–56 | 42–58 | 40–60 |
 | [29 April–2 May 2019](2019-05-02-OGM.html) | OGM <br> KURIER | 52 | 49–56 | 48–57 | 47–58 | 45–60 |
@@ -268,15 +268,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 7% | 87% |  |
 | 38 | 9% | 80% |  |
 | 39 | 10% | 71% |  |
-| 40 | 12% | 61% | Median |
-| 41 | 11% | 49% |  |
+| 40 | 11% | 61% | Median |
+| 41 | 11% | 50% |  |
 | 42 | 10% | 39% |  |
-| 43 | 10% | 29% |  |
-| 44 | 7% | 19% |  |
+| 43 | 9% | 28% |  |
+| 44 | 7% | 20% |  |
 | 45 | 5% | 12% |  |
 | 46 | 3% | 7% |  |
 | 47 | 2% | 4% |  |
-| 48 | 1.2% | 2% |  |
+| 48 | 1.1% | 2% |  |
 | 49 | 0.5% | 0.8% |  |
 | 50 | 0.2% | 0.3% |  |
 | 51 | 0.1% | 0.1% |  |
