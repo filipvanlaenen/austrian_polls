@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 06 Jul 2019 10:47:37 +0200</pubDate>
+    <pubDate>Sat, 06 Jul 2019 16:28:37 +0200</pubDate>
     <item>
       <title>Opinion Poll by Peter Hajek for ATV, 24–28 June 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.html#seats</link>
@@ -250,14 +250,54 @@
       <dc:date>2019-06-09T17:20:20.166376+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Demox Research, 1–31 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-31-DemoxResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 65–76 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 37–47 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 30–39 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 16–23 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 13–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-31-DemoxResearch-seats.png"
+        length="164266"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jul 2019 15:36:19 +0200</pubDate>
+      <dc:date>2019-07-06T15:36:19.744698+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Demox Research, 1–31 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-31-DemoxResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-31-DemoxResearch-coalitions-seats.png"
+        length="244594"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jul 2019 15:36:19 +0200</pubDate>
+      <dc:date>2019-07-06T15:36:19.744698+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Demox Research, 1–31 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-31-DemoxResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.7–40.8%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.1–25.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 16.3–21.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.8–12.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 6.9–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-31-DemoxResearch.png"
         length="174642"
         type="image/png"/>
-      <pubDate>Wed, 03 Jul 2019 22:53:52 +0200</pubDate>
-      <dc:date>2019-07-03T22:53:52.988583+02:00</dc:date>
+      <pubDate>Sat, 06 Jul 2019 15:36:19 +0200</pubDate>
+      <dc:date>2019-07-06T15:36:19.744698+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 27–29 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-29-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 62–74 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 36–47 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 34–45 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 11–19 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 15–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-29-OGM-seats.png"
+        length="175931"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jul 2019 15:13:44 +0200</pubDate>
+      <dc:date>2019-07-06T15:13:44.618287+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 27–29 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-29-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-29-OGM-coalitions-seats.png"
+        length="260753"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jul 2019 15:13:44 +0200</pubDate>
+      <dc:date>2019-07-06T15:13:44.618287+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM for KURIER, 27–29 May 2019 – Voting Intentions</title>
@@ -266,8 +306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-29-OGM.png"
         length="192238"
         type="image/png"/>
-      <pubDate>Wed, 03 Jul 2019 20:04:46 +0200</pubDate>
-      <dc:date>2019-07-03T20:04:46.093686+02:00</dc:date>
+      <pubDate>Sat, 06 Jul 2019 15:13:44 +0200</pubDate>
+      <dc:date>2019-07-06T15:13:44.618287+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs, 18–20 May 2019 – Seat Projections for the Parties</title>
@@ -300,14 +340,34 @@
       <dc:date>2019-05-30T15:12:24.115566+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by OGM for KURIER, 29 April–2 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-02-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 52–64 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 47–58 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 41–52 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 10–16 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-02-OGM-seats.png"
+        length="179900"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jul 2019 16:28:37 +0200</pubDate>
+      <dc:date>2019-07-06T16:28:37.439832+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 29 April–2 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-02-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-02-OGM-coalitions-seats.png"
+        length="255112"
+        type="image/png"/>
+      <pubDate>Sat, 06 Jul 2019 16:28:37 +0200</pubDate>
+      <dc:date>2019-07-06T16:28:37.439832+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by OGM for KURIER, 29 April–2 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-05-02-OGM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 27.5–33.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.7–30.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.8–27.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.5–8.9%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.9–2.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 5.5–8.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-05-02-OGM.png"
         length="196605"
         type="image/png"/>
-      <pubDate>Thu, 30 May 2019 23:32:40 +0200</pubDate>
-      <dc:date>2019-05-30T23:32:40.80618+02:00</dc:date>
+      <pubDate>Sat, 06 Jul 2019 16:28:37 +0200</pubDate>
+      <dc:date>2019-07-06T16:28:37.439832+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demox Research, 25 April–2 May 2019 – Seat Projections for the Parties</title>
@@ -1379,6 +1439,6 @@
       <pubDate>Wed, 03 Jul 2019 20:11:16 +0200</pubDate>
       <dc:date>2019-07-03T20:11:16.465819+02:00</dc:date>
     </item>
-    <dc:date>2019-07-06T10:47:37.722917+02:00</dc:date>
+    <dc:date>2019-07-06T16:28:37.439832+02:00</dc:date>
   </channel>
 </rss>
