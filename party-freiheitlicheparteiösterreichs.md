@@ -145,8 +145,8 @@ Last result: **51** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 32–40 | 31–42 | 31–43 | 29–45 |
-| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs | 34 | 31–37 | 31–38 | 30–39 | 29–41 |
+| N/A | [Poll Average](average.html) | 36 | 32–40 | 31–42 | 30–43 | 29–45 |
+| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs | 34 | 32–37 | 30–39 | 30–39 | 29–41 |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 32 | 30–35 | 29–36 | 28–37 | 27–39 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 34 | 31–37 | 30–38 | 30–38 | 28–40 |
@@ -262,16 +262,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0.1% | 100% |  |
 | 28 | 0.1% | 99.9% |  |
 | 29 | 0.8% | 99.8% |  |
-| 30 | 1.4% | 99.0% |  |
-| 31 | 4% | 98% |  |
-| 32 | 7% | 94% |  |
-| 33 | 7% | 87% |  |
-| 34 | 15% | 80% |  |
-| 35 | 10% | 65% |  |
-| 36 | 13% | 55% | Median |
-| 37 | 11% | 42% |  |
+| 30 | 2% | 99.0% |  |
+| 31 | 3% | 97% |  |
+| 32 | 8% | 94% |  |
+| 33 | 7% | 86% |  |
+| 34 | 14% | 79% |  |
+| 35 | 11% | 65% |  |
+| 36 | 12% | 54% | Median |
+| 37 | 12% | 42% |  |
 | 38 | 8% | 31% |  |
-| 39 | 8% | 22% |  |
+| 39 | 8% | 23% |  |
 | 40 | 6% | 15% |  |
 | 41 | 4% | 9% |  |
 | 42 | 2% | 5% |  |
