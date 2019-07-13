@@ -10,16 +10,18 @@ Last result: **26.9%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.1% | 19.0–23.2% | 18.4–23.7% | 17.9–24.3% | 17.0–25.3% |
-| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs | 22.0% | 20.3–23.7% | 19.9–24.2% | 19.5–24.6% | 18.7–25.5% |
+| N/A | [Poll Average](average.html) | 21.0% | 18.9–23.3% | 18.3–24.0% | 17.9–24.7% | 17.0–26.0% |
+| [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
+| [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 19.7–24.5% | 19.1–25.2% | 18.5–25.8% | 17.5–27.0% |
+| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 20.3–23.7% | 19.9–24.2% | 19.5–24.6% | 18.7–25.5% |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
-| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.8–26.6% |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.8–26.6% |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 21.0% | 19.5–22.7% | 19.1–23.2% | 18.7–23.6% | 18.0–24.4% |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
-| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 21.0% | 19.3–22.7% | 18.9–23.2% | 18.5–23.7% | 17.7–24.5% |
-| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 23.0% | 20.7–25.5% | 20.1–26.3% | 19.5–26.9% | 18.5–28.2% |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23.0% | 20.7–25.5% | 20.1–26.3% | 19.5–26.9% | 18.5–28.2% |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.3–26.2% |
 | [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 22.0% | 20.2–23.9% | 19.7–24.5% | 19.3–25.0% | 18.4–25.9% |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 26.0% | 23.6–28.6% | 22.9–29.4% | 22.3–30.0% | 21.2–31.3% |
@@ -124,17 +126,19 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 1.2% | 99.8% |  |
-| 17.5–18.5% | 5% | 98.6% |  |
-| 18.5–19.5% | 12% | 94% |  |
-| 19.5–20.5% | 20% | 82% |  |
-| 20.5–21.5% | 24% | 62% | Median |
-| 21.5–22.5% | 20% | 38% |  |
-| 22.5–23.5% | 12% | 18% |  |
-| 23.5–24.5% | 5% | 6% |  |
-| 24.5–25.5% | 1.3% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.3% |  |
-| 26.5–27.5% | 0% | 0% | Last Result |
+| 16.5–17.5% | 1.3% | 99.8% |  |
+| 17.5–18.5% | 5% | 98.5% |  |
+| 18.5–19.5% | 13% | 93% |  |
+| 19.5–20.5% | 20% | 81% |  |
+| 20.5–21.5% | 23% | 61% | Median |
+| 21.5–22.5% | 19% | 38% |  |
+| 22.5–23.5% | 11% | 19% |  |
+| 23.5–24.5% | 5% | 8% |  |
+| 24.5–25.5% | 2% | 3% |  |
+| 25.5–26.5% | 0.7% | 0.9% |  |
+| 26.5–27.5% | 0.2% | 0.2% | Last Result |
+| 27.5–28.5% | 0% | 0% |  |
+| 28.5–29.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -145,16 +149,18 @@ Last result: **52** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39 | 35–44 | 34–45 | 33–46 | 32–48 |
-| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs | 42 | 39–45 | 38–46 | 37–47 | 36–49 |
+| N/A | [Poll Average](average.html) | 39 | 35–44 | 34–45 | 33–46 | 32–49 |
+| [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
+| [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 37–46 | 36–47 | 35–49 | 33–51 |
+| [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 39–45 | 38–46 | 37–47 | 36–49 |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
-| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs | 44 | 41–47 | 40–48 | 39–49 | 38–51 |
+| [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 44 | 41–47 | 40–48 | 39–49 | 38–51 |
 | [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 40 | 37–43 | 36–44 | 35–44 | 34–46 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 41 | 38–45 | 37–46 | 36–47 | 34–48 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
-| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs | 44 | 40–47 | 40–48 | 39–49 | 37–51 |
+| [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 44 | 40–47 | 40–48 | 39–49 | 37–51 |
 | [29–31 May 2019](2019-05-31-UniqueResearch.html) | Unique Research | 39 | 36–42 | 35–43 | 34–44 | 33–46 |
-| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs | 44 | 39–48 | 38–50 | 37–51 | 35–53 |
+| [29–31 May 2019](2019-05-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 44 | 39–48 | 38–50 | 37–51 | 35–53 |
 | [1–31 May 2019](2019-05-31-DemoxResearch.html) | Demox Research | 42 | 39–45 | 38–46 | 37–47 | 36–49 |
 | [27–29 May 2019](2019-05-29-OGM.html) | OGM <br> KURIER | 41 | 38–45 | 37–46 | 36–47 | 35–49 |
 | [18–20 May 2019](2019-05-20-ResearchAffairs.html) | Research Affairs | 50 | 45–55 | 44–56 | 42–58 | 40–60 |
@@ -261,26 +267,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
 | 31 | 0.3% | 99.9% |  |
-| 32 | 0.8% | 99.6% |  |
-| 33 | 2% | 98.8% |  |
+| 32 | 0.9% | 99.5% |  |
+| 33 | 2% | 98.6% |  |
 | 34 | 3% | 97% |  |
 | 35 | 5% | 94% |  |
-| 36 | 7% | 89% |  |
-| 37 | 9% | 83% |  |
-| 38 | 11% | 73% |  |
-| 39 | 12% | 62% | Median |
-| 40 | 12% | 50% |  |
-| 41 | 11% | 38% |  |
-| 42 | 9% | 27% |  |
-| 43 | 7% | 18% |  |
+| 36 | 7% | 88% |  |
+| 37 | 10% | 81% |  |
+| 38 | 12% | 71% |  |
+| 39 | 12% | 60% | Median |
+| 40 | 12% | 48% |  |
+| 41 | 10% | 35% |  |
+| 42 | 8% | 25% |  |
+| 43 | 6% | 17% |  |
 | 44 | 5% | 11% |  |
-| 45 | 3% | 6% |  |
-| 46 | 2% | 3% |  |
-| 47 | 0.8% | 1.4% |  |
-| 48 | 0.4% | 0.6% |  |
-| 49 | 0.1% | 0.2% |  |
-| 50 | 0% | 0.1% |  |
-| 51 | 0% | 0% |  |
-| 52 | 0% | 0% | Last Result |
+| 45 | 2% | 6% |  |
+| 46 | 2% | 4% |  |
+| 47 | 0.9% | 2% |  |
+| 48 | 0.6% | 1.2% |  |
+| 49 | 0.3% | 0.6% |  |
+| 50 | 0.2% | 0.3% |  |
+| 51 | 0.1% | 0.1% |  |
+| 52 | 0% | 0.1% | Last Result |
+| 53 | 0% | 0% |  |
 
 
