@@ -10,9 +10,10 @@ Last result: **31.5%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.6% | 35.3–39.9% | 34.5–40.6% | 33.9–41.1% | 32.6–42.3% |
+| N/A | [Poll Average](average.html) | 37.6% | 35.1–39.8% | 34.4–40.5% | 33.8–41.1% | 32.5–42.2% |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 37.0% | 34.8–39.2% | 34.2–39.9% | 33.7–40.4% | 32.7–41.5% |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36.9% | 34.2–39.8% | 33.5–40.6% | 32.8–41.2% | 31.5–42.6% |
+| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 36.1% | N/A | N/A | N/A | N/A |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37.0% | 35.1–39.0% | 34.6–39.6% | 34.1–40.1% | 33.2–41.0% |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 38.0% | 35.8–40.2% | 35.2–40.9% | 34.7–41.4% | 33.7–42.5% |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 36.0–40.0% | 35.5–40.5% | 35.0–41.0% | 34.1–42.0% |
@@ -29,7 +30,7 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 34.0% | 32.4–35.6% | 32.0–36.0% | 31.6–36.4% | 30.9–37.2% |
 | [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.2–37.0% | 30.3–38.0% |
 | [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–36.9% | 30.2–37.9% |
-| [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
+| [12–15 April 2019](2019-04-15-Market.html) | Market <br> Der Standard | 34.0% | N/A | N/A | N/A | N/A |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 33.0% | 31.5–34.6% | 31.0–35.0% | 30.7–35.4% | 29.9–36.2% |
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
@@ -39,8 +40,8 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
-| [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 33.7% | 31.9–36.2% | 31.3–36.8% | 30.8–37.3% | 29.8–38.4% |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.2–37.0% | 30.3–38.0% |
+| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard | 33.7% | N/A | N/A | N/A | N/A |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 32.0% | 29.9–34.2% | 29.4–34.8% | 28.9–35.3% | 27.9–36.4% |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.2–37.0% | 30.3–38.0% |
@@ -49,14 +50,14 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
 | [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.2–37.0% | 30.3–38.0% |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
-| [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.3% | 29.8–38.4% |
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
+| [7–12 December 2018](2018-12-12-Market.html) | Market <br> Der Standard | 34.0% | N/A | N/A | N/A | N/A |
 | [3–11 December 2018](2018-12-11-PeterHajek.html) | Peter Hajek <br> ATV | 34.9% | 32.8–37.1% | 32.2–37.7% | 31.6–38.3% | 30.7–39.3% |
 | [26 November–9 December 2018](2018-12-09-GfK.html) | GfK <br> Die Presse | 34.0% | 32.7–35.4% | 32.3–35.8% | 31.9–36.1% | 31.3–36.8% |
 | [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [22–28 November 2018](2018-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
 | [12–16 November 2018](2018-11-16-UniqueResearch.html) | Unique Research <br> profil | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
-| [13–15 November 2018](2018-11-15-market.html) | market <br> Der Standard | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.9–37.4% |
+| [13–15 November 2018](2018-11-15-Market.html) | Market <br> Der Standard | 33.0% | N/A | N/A | N/A | N/A |
 | [8–14 November 2018](2018-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
 | [22–31 October 2018](2018-10-31-PeterHajek.html) | Peter Hajek <br> ATV | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
 | [24–30 October 2018](2018-10-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
@@ -66,13 +67,13 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | [8–12 October 2018](2018-10-12-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [9–11 October 2018](2018-10-11-OGM.html) | OGM <br> KURIER | 34.0% | 31.9–36.2% | 31.4–36.9% | 30.8–37.4% | 29.8–38.5% |
 | [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
-| [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 33.0% | 30.9–35.1% | 30.3–35.8% | 29.8–36.3% | 28.8–37.3% |
+| [25–27 September 2018](2018-09-27-Market.html) | Market <br> Der Standard | 33.0% | N/A | N/A | N/A | N/A |
 | [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 31.4–36.8% | 30.6–37.6% | 30.0–38.2% | 28.8–39.6% |
 | [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [30 August–5 September 2018](2018-09-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33.0% | 31.2–35.0% | 30.6–35.5% | 30.2–36.0% | 29.3–37.0% |
 | [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 34.0% | 31.8–36.4% | 31.1–37.0% | 30.6–37.6% | 29.5–38.7% |
-| [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
+| [20–23 August 2018](2018-08-23-Market.html) | Market <br> Der Standard | 33.0% | N/A | N/A | N/A | N/A |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.2–36.9% |
 | [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33.0% | 31.2–35.0% | 30.6–35.5% | 30.2–36.0% | 29.3–37.0% |
@@ -83,7 +84,7 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.9–37.4% |
 | [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32.7% | 30.8–34.6% | 30.3–35.2% | 29.8–35.6% | 29.0–36.6% |
 | [18–21 June 2018](2018-06-21-UniqueResearch.html) | Unique Research <br> profil | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
-| [12–15 June 2018](2018-06-15-market.html) | market <br> Der Standard | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
+| [12–15 June 2018](2018-06-15-Market.html) | Market <br> Der Standard | 34.0% | N/A | N/A | N/A | N/A |
 | [7–13 June 2018](2018-06-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–35.9% | 29.2–36.9% |
 | [4–11 June 2018](2018-06-11-PeterHajek.html) | Peter Hajek <br> ATV | 34.0% | 31.8–36.4% | 31.1–37.0% | 30.6–37.6% | 29.5–38.7% |
 | [4–6 June 2018](2018-06-06-UniqueResearch.html) | Unique Research <br> Heute | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
@@ -98,14 +99,14 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | [12–18 April 2018](2018-04-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32.0% | 30.1–33.9% | 29.6–34.5% | 29.2–34.9% | 28.3–35.9% |
 | [8–13 April 2018](2018-04-13-UniqueResearch.html) | Unique Research <br> profil | 33.0% | 30.4–35.8% | 29.6–36.6% | 29.0–37.3% | 27.8–38.6% |
 | [29 March–4 April 2018](2018-04-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32.0% | 30.2–34.0% | 29.7–34.5% | 29.2–35.0% | 28.4–35.9% |
-| [26–29 March 2018](2018-03-29-market.html) | market <br> Der Standard | 32.1% | 30.0–34.2% | 29.4–34.8% | 28.9–35.4% | 28.0–36.4% |
+| [26–29 March 2018](2018-03-29-Market.html) | Market <br> Der Standard | 32.1% | N/A | N/A | N/A | N/A |
 | [6–26 March 2018](2018-03-26-Spectra.html) | Spectra <br> OÖNachrichten | 31.0% | 28.8–33.2% | 28.2–33.9% | 27.7–34.4% | 26.7–35.6% |
 | [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 32.0% | 29.9–34.2% | 29.4–34.8% | 28.9–35.3% | 27.9–36.4% |
 | [14–21 March 2018](2018-03-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32.0% | 30.2–34.0% | 29.7–34.5% | 29.2–35.0% | 28.4–35.9% |
 | [19–21 March 2018](2018-03-21-OGM.html) | OGM <br> ServusTV | 32.0% | 29.4–34.7% | 28.7–35.5% | 28.1–36.1% | 26.9–37.4% |
 | [14 February–18 March 2018](2018-03-18-IMAS.html) | IMAS <br> Kronen Zeitung | 32.0% | 30.7–33.3% | 30.3–33.7% | 30.0–34.0% | 29.4–34.7% |
 | [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 31.0% | 28.4–33.7% | 27.7–34.5% | 27.1–35.2% | 25.9–36.5% |
-| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 33.0% | 30.9–35.1% | 30.3–35.8% | 29.8–36.3% | 28.8–37.3% |
+| [6–8 March 2018](2018-03-08-Market.html) | Market <br> Der Standard | 33.0% | N/A | N/A | N/A | N/A |
 | [1–7 March 2018](2018-03-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32.0% | 30.2–33.9% | 29.6–34.4% | 29.2–34.9% | 28.3–35.8% |
 | [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31.0% | 29.2–32.9% | 28.7–33.4% | 28.2–33.9% | 27.3–34.8% |
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 34.0% | 31.8–36.3% | 31.2–37.0% | 30.7–37.6% | 29.6–38.7% |
@@ -116,7 +117,7 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.4–36.8% | 30.6–37.6% | 30.0–38.3% | 28.7–39.6% |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31.0% | 29.2–32.9% | 28.7–33.4% | 28.2–33.9% | 27.4–34.8% |
 | [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 31.0% | 28.8–33.3% | 28.2–34.0% | 27.7–34.5% | 26.7–35.7% |
-| [18–20 December 2017](2017-12-20-market.html) | market <br> Der Standard | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
+| [18–20 December 2017](2017-12-20-Market.html) | Market <br> Der Standard | 33.0% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -127,17 +128,17 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0.1% | 100% | Last Result |
 | 31.5–32.5% | 0.4% | 99.9% |  |
-| 32.5–33.5% | 1.2% | 99.5% |  |
-| 33.5–34.5% | 3% | 98% |  |
-| 34.5–35.5% | 8% | 95% |  |
-| 35.5–36.5% | 15% | 87% |  |
-| 36.5–37.5% | 21% | 73% |  |
-| 37.5–38.5% | 21% | 52% | Median |
-| 38.5–39.5% | 17% | 31% |  |
-| 39.5–40.5% | 9% | 14% |  |
-| 40.5–41.5% | 4% | 5% |  |
-| 41.5–42.5% | 1.1% | 1.4% |  |
-| 42.5–43.5% | 0.3% | 0.3% |  |
+| 32.5–33.5% | 1.4% | 99.4% |  |
+| 33.5–34.5% | 4% | 98% |  |
+| 34.5–35.5% | 8% | 94% |  |
+| 35.5–36.5% | 15% | 86% |  |
+| 36.5–37.5% | 21% | 71% |  |
+| 37.5–38.5% | 21% | 50% | Median |
+| 38.5–39.5% | 16% | 29% |  |
+| 39.5–40.5% | 8% | 13% |  |
+| 40.5–41.5% | 3% | 5% |  |
+| 41.5–42.5% | 1.0% | 1.3% |  |
+| 42.5–43.5% | 0.2% | 0.3% |  |
 | 43.5–44.5% | 0% | 0.1% |  |
 | 44.5–45.5% | 0% | 0% |  |
 
@@ -150,9 +151,10 @@ Last result: **62** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 71 | 66–75 | 65–76 | 64–77 | 61–79 |
+| N/A | [Poll Average](average.html) | 71 | 66–75 | 65–76 | 63–77 | 61–80 |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 69 | 65–73 | 64–75 | 63–76 | 61–78 |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 70 | 65–75 | 63–77 | 62–78 | 60–80 |
+| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 67–75 | 66–76 | 65–77 | 64–79 |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 71 | 67–75 | 66–76 | 65–78 | 63–80 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 69–76 | 68–78 | 67–78 | 65–80 |
@@ -169,7 +171,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [25 April–2 May 2019](2019-05-02-DemoxResearch.html) | Demox Research | 64 | 61–67 | 61–68 | 60–69 | 59–71 |
 | [25 April–1 May 2019](2019-05-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 62–70 | 61–71 | 60–72 | 58–74 |
 | [11–17 April 2019](2019-04-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 62–70 | 61–71 | 60–72 | 58–74 |
-| [12–15 April 2019](2019-04-15-market.html) | market <br> Der Standard | 65 | 61–69 | 60–71 | 59–72 | 57–74 |
+| [12–15 April 2019](2019-04-15-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [8–12 April 2019](2019-04-12-UniqueResearch.html) | Unique Research <br> profil | 65 | 61–70 | 60–71 | 59–72 | 57–74 |
 | [28 March–11 April 2019](2019-04-11-DemoxResearch.html) | Demox Research | 62 | 60–66 | 59–66 | 58–67 | 57–69 |
 | [28 March–3 April 2019](2019-04-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–69 | 61–71 | 60–72 | 58–75 |
@@ -179,8 +181,8 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [26 February–6 March 2019](2019-03-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 62–69 | 61–70 | 60–71 | 58–73 |
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 56 | 52–60 | 51–61 | 50–62 | 49–63 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 64 | 60–68 | 58–69 | 58–70 | 56–72 |
-| [18–20 February 2019](2019-02-20-market.html) | market <br> Der Standard | 62 | 59–67 | 58–69 | 57–69 | 55–71 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 62–69 | 60–70 | 60–71 | 58–73 |
+| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 60 | 56–65 | 55–66 | 55–67 | 53–69 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 64 | 61–69 | 60–70 | 59–71 | 57–73 |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 62–70 | 61–72 | 60–73 | 58–75 |
@@ -189,14 +191,14 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [7–11 January 2019](2019-01-11-UniqueResearch.html) | Unique Research <br> profil | 67 | 62–70 | 61–72 | 60–72 | 58–75 |
 | [3–9 January 2019](2019-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 62–69 | 60–70 | 59–71 | 58–74 |
 | [10–14 December 2018](2018-12-14-UniqueResearch.html) | Unique Research <br> profil | 66 | 62–70 | 61–71 | 60–72 | 59–74 |
-| [7–12 December 2018](2018-12-12-market.html) | market <br> Der Standard | 65 | 60–69 | 59–70 | 58–71 | 56–73 |
 | [6–12 December 2018](2018-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 62–69 | 60–70 | 60–72 | 58–73 |
+| [7–12 December 2018](2018-12-12-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [3–11 December 2018](2018-12-11-PeterHajek.html) | Peter Hajek <br> ATV | 66 | 62–71 | 61–72 | 60–73 | 57–74 |
 | [26 November–9 December 2018](2018-12-09-GfK.html) | GfK <br> Die Presse | 65 | 62–67 | 61–68 | 61–69 | 60–70 |
 | [3–6 December 2018](2018-12-06-UniqueResearch.html) | Unique Research <br> Heute | 63 | 59–67 | 58–68 | 57–69 | 55–71 |
 | [22–28 November 2018](2018-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 61–68 | 60–70 | 59–71 | 58–72 |
 | [12–16 November 2018](2018-11-16-UniqueResearch.html) | Unique Research <br> profil | 66 | 63–71 | 61–72 | 60–74 | 58–76 |
-| [13–15 November 2018](2018-11-15-market.html) | market <br> Der Standard | 62 | 59–67 | 57–68 | 56–69 | 54–71 |
+| [13–15 November 2018](2018-11-15-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [8–14 November 2018](2018-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 62–70 | 61–72 | 60–73 | 58–75 |
 | [22–31 October 2018](2018-10-31-PeterHajek.html) | Peter Hajek <br> ATV | 63 | 60–67 | 59–68 | 58–68 | 56–70 |
 | [24–30 October 2018](2018-10-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–71 | 61–72 | 60–73 | 58–75 |
@@ -206,13 +208,13 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [8–12 October 2018](2018-10-12-UniqueResearch.html) | Unique Research <br> profil | 65 | 61–68 | 59–70 | 58–71 | 56–73 |
 | [9–11 October 2018](2018-10-11-OGM.html) | OGM <br> KURIER | 66 | 62–71 | 60–71 | 60–73 | 58–75 |
 | [27 September–3 October 2018](2018-10-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–71 | 61–72 | 60–73 | 58–75 |
-| [25–27 September 2018](2018-09-27-market.html) | market <br> Der Standard | 62 | 59–67 | 57–68 | 56–69 | 55–71 |
+| [25–27 September 2018](2018-09-27-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [19–20 September 2018](2018-09-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 60–71 | 58–73 | 57–75 | 54–78 |
 | [10–13 September 2018](2018-09-13-UniqueResearch.html) | Unique Research <br> profil | 65 | 61–69 | 59–71 | 58–72 | 56–74 |
 | [3–6 September 2018](2018-09-06-UniqueResearch.html) | Unique Research <br> Heute | 63 | 59–67 | 57–68 | 56–69 | 54–71 |
 | [30 August–5 September 2018](2018-09-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 61–69 | 60–71 | 59–72 | 57–74 |
 | [23–29 August 2018](2018-08-29-PeterHajek.html) | Peter Hajek <br> ATV | 65 | 61–71 | 60–72 | 58–73 | 57–76 |
-| [20–23 August 2018](2018-08-23-market.html) | market <br> Der Standard | 62 | 58–67 | 57–68 | 56–69 | 54–71 |
+| [20–23 August 2018](2018-08-23-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [16–22 August 2018](2018-08-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 61–69 | 60–71 | 59–72 | 57–74 |
 | [6–10 August 2018](2018-08-10-UniqueResearch.html) | Unique Research <br> profil | 67 | 62–72 | 61–73 | 60–74 | 58–77 |
 | [2–8 August 2018](2018-08-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 64 | 61–69 | 59–70 | 59–71 | 57–73 |
@@ -223,7 +225,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [26–28 June 2018](2018-06-28-OGM.html) | OGM <br> ServusTV | 62 | 58–67 | 57–68 | 56–69 | 55–71 |
 | [21–27 June 2018](2018-06-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 62 | 58–67 | 57–68 | 56–69 | 55–72 |
 | [18–21 June 2018](2018-06-21-UniqueResearch.html) | Unique Research <br> profil | 64 | 59–68 | 58–69 | 57–71 | 55–73 |
-| [12–15 June 2018](2018-06-15-market.html) | market <br> Der Standard | 65 | 61–68 | 59–70 | 58–71 | 56–73 |
+| [12–15 June 2018](2018-06-15-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [7–13 June 2018](2018-06-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 63 | 59–68 | 58–68 | 57–70 | 55–72 |
 | [4–11 June 2018](2018-06-11-PeterHajek.html) | Peter Hajek <br> ATV | 66 | 60–70 | 59–71 | 58–73 | 56–76 |
 | [4–6 June 2018](2018-06-06-UniqueResearch.html) | Unique Research <br> Heute | 64 | 59–68 | 58–69 | 57–70 | 55–72 |
@@ -238,14 +240,14 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [12–18 April 2018](2018-04-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 62 | 58–66 | 57–67 | 56–68 | 54–70 |
 | [8–13 April 2018](2018-04-13-UniqueResearch.html) | Unique Research <br> profil | 64 | 58–68 | 56–70 | 56–72 | 53–74 |
 | [29 March–4 April 2018](2018-04-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 63 | 59–68 | 58–69 | 57–70 | 55–72 |
-| [26–29 March 2018](2018-03-29-market.html) | market <br> Der Standard | 62 | 57–67 | 56–68 | 55–69 | 53–71 |
+| [26–29 March 2018](2018-03-29-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [6–26 March 2018](2018-03-26-Spectra.html) | Spectra <br> OÖNachrichten | 60 | 55–64 | 54–66 | 53–66 | 51–69 |
 | [19–22 March 2018](2018-03-22-UniqueResearch.html) | Unique Research <br> Heute | 62 | 57–66 | 56–67 | 55–69 | 53–71 |
 | [14–21 March 2018](2018-03-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 61 | 58–66 | 57–67 | 56–69 | 54–71 |
 | [19–21 March 2018](2018-03-21-OGM.html) | OGM <br> ServusTV | 61 | 56–66 | 54–67 | 53–69 | 51–73 |
 | [14 February–18 March 2018](2018-03-18-IMAS.html) | IMAS <br> Kronen Zeitung | 64 | 61–66 | 61–67 | 60–68 | 59–69 |
 | [12–15 March 2018](2018-03-15-UniqueResearch.html) | Unique Research <br> profil | 58 | 53–63 | 52–65 | 51–66 | 48–69 |
-| [6–8 March 2018](2018-03-08-market.html) | market <br> Der Standard | 64 | 60–68 | 59–69 | 58–70 | 56–73 |
+| [6–8 March 2018](2018-03-08-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [1–7 March 2018](2018-03-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 62 | 59–66 | 57–68 | 56–69 | 54–71 |
 | [15–21 February 2018](2018-02-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 60 | 56–64 | 54–65 | 54–66 | 52–68 |
 | [12–20 February 2018](2018-02-20-PeterHajek.html) | Peter Hajek <br> ATV | 65 | 61–70 | 60–71 | 58–72 | 56–75 |
@@ -256,7 +258,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 66 | 60–72 | 58–73 | 56–73 | 54–77 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 61 | 57–65 | 56–67 | 55–68 | 53–69 |
 | [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 59 | 55–64 | 54–65 | 53–67 | 51–69 |
-| [18–20 December 2017](2017-12-20-market.html) | market <br> Der Standard | 64 | 60–69 | 58–70 | 57–71 | 55–74 |
+| [18–20 December 2017](2017-12-20-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -268,26 +270,26 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 58 | 0% | 100% |  |
 | 59 | 0.1% | 99.9% |  |
-| 60 | 0.1% | 99.9% |  |
+| 60 | 0.2% | 99.9% |  |
 | 61 | 0.3% | 99.7% |  |
-| 62 | 0.6% | 99.5% | Last Result |
-| 63 | 1.1% | 98.9% |  |
-| 64 | 2% | 98% |  |
-| 65 | 3% | 96% |  |
-| 66 | 4% | 93% |  |
-| 67 | 6% | 89% |  |
-| 68 | 8% | 83% |  |
-| 69 | 10% | 74% |  |
-| 70 | 11% | 64% |  |
-| 71 | 12% | 53% | Median |
-| 72 | 11% | 41% |  |
-| 73 | 9% | 31% |  |
+| 62 | 0.7% | 99.3% | Last Result |
+| 63 | 1.2% | 98.7% |  |
+| 64 | 2% | 97% |  |
+| 65 | 3% | 95% |  |
+| 66 | 4% | 92% |  |
+| 67 | 7% | 88% |  |
+| 68 | 8% | 81% |  |
+| 69 | 10% | 73% |  |
+| 70 | 11% | 63% |  |
+| 71 | 12% | 52% | Median |
+| 72 | 10% | 41% |  |
+| 73 | 9% | 30% |  |
 | 74 | 8% | 21% |  |
 | 75 | 5% | 13% |  |
 | 76 | 4% | 8% |  |
 | 77 | 2% | 4% |  |
 | 78 | 1.2% | 2% |  |
-| 79 | 0.6% | 1.1% |  |
+| 79 | 0.5% | 1.1% |  |
 | 80 | 0.3% | 0.5% |  |
 | 81 | 0.1% | 0.2% |  |
 | 82 | 0.1% | 0.1% |  |
