@@ -149,8 +149,8 @@ Last result: **52** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39 | 35–45 | 34–45 | 33–45 | 32–47 |
-| [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 43 | 40–45 | 40–45 | 39–47 | 37–47 |
+| N/A | [Poll Average](average.html) | 39 | 35–43 | 34–44 | 33–45 | 32–47 |
+| [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 38–45 | 37–46 | 37–46 | 35–48 |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 37–46 | 36–47 | 35–49 | 33–51 |
 | [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 39 | 36–43 | 35–44 | 34–44 | 32–46 |
@@ -273,20 +273,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 2% | 98.6% |  |
 | 34 | 3% | 97% |  |
 | 35 | 6% | 93% |  |
-| 36 | 8% | 88% |  |
-| 37 | 10% | 80% |  |
-| 38 | 12% | 70% |  |
-| 39 | 11% | 58% | Median |
-| 40 | 18% | 47% |  |
-| 41 | 7% | 30% |  |
-| 42 | 5% | 22% |  |
-| 43 | 5% | 17% |  |
-| 44 | 2% | 12% |  |
-| 45 | 9% | 10% |  |
-| 46 | 0.3% | 1.1% |  |
-| 47 | 0.7% | 0.8% |  |
-| 48 | 0% | 0.1% |  |
-| 49 | 0% | 0% |  |
+| 36 | 8% | 87% |  |
+| 37 | 10% | 79% |  |
+| 38 | 13% | 69% |  |
+| 39 | 13% | 56% | Median |
+| 40 | 13% | 44% |  |
+| 41 | 10% | 31% |  |
+| 42 | 8% | 21% |  |
+| 43 | 6% | 12% |  |
+| 44 | 3% | 7% |  |
+| 45 | 2% | 3% |  |
+| 46 | 0.9% | 2% |  |
+| 47 | 0.4% | 0.6% |  |
+| 48 | 0.2% | 0.2% |  |
+| 49 | 0.1% | 0.1% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% | Last Result |

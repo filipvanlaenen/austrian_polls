@@ -151,8 +151,8 @@ Last result: **62** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 69 | 66–74 | 64–75 | 63–76 | 61–79 |
-| [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 69 | 69–70 | 69–71 | 68–71 | 67–80 |
+| N/A | [Poll Average](average.html) | 70 | 66–74 | 64–76 | 63–77 | 61–79 |
+| [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 70 | 66–74 | 65–75 | 65–76 | 63–78 |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 69 | 65–73 | 64–75 | 63–76 | 61–78 |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 70 | 65–75 | 63–77 | 62–78 | 60–80 |
 | [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 68 | 63–72 | 62–73 | 61–74 | 59–76 |
@@ -273,24 +273,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 60 | 0.2% | 99.9% |  |
 | 61 | 0.4% | 99.7% |  |
 | 62 | 0.8% | 99.3% | Last Result |
-| 63 | 1.5% | 98% |  |
+| 63 | 2% | 98% |  |
 | 64 | 2% | 97% |  |
-| 65 | 3% | 95% |  |
-| 66 | 4% | 92% |  |
-| 67 | 7% | 87% |  |
-| 68 | 8% | 81% |  |
-| 69 | 23% | 73% | Median |
-| 70 | 11% | 50% |  |
-| 71 | 10% | 38% |  |
-| 72 | 8% | 28% |  |
-| 73 | 7% | 20% |  |
-| 74 | 6% | 14% |  |
-| 75 | 3% | 8% |  |
-| 76 | 2% | 5% |  |
-| 77 | 1.0% | 2% |  |
-| 78 | 0.7% | 1.4% |  |
-| 79 | 0.3% | 0.7% |  |
-| 80 | 0.2% | 0.3% |  |
+| 65 | 4% | 94% |  |
+| 66 | 5% | 91% |  |
+| 67 | 8% | 85% |  |
+| 68 | 9% | 77% |  |
+| 69 | 11% | 68% |  |
+| 70 | 11% | 57% | Median |
+| 71 | 12% | 46% |  |
+| 72 | 10% | 34% |  |
+| 73 | 8% | 24% |  |
+| 74 | 7% | 16% |  |
+| 75 | 4% | 9% |  |
+| 76 | 3% | 5% |  |
+| 77 | 1.2% | 3% |  |
+| 78 | 0.8% | 1.3% |  |
+| 79 | 0.3% | 0.5% |  |
+| 80 | 0.1% | 0.2% |  |
 | 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
 
