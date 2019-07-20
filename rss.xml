@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Thu, 18 Jul 2019 11:11:29 +0200</pubDate>
+    <pubDate>Sat, 20 Jul 2019 11:49:58 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 5–17 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-07-17-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.1–40.1%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.5–24.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 16.6–21.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 5.6–8.7%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.1–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-07-17-ResearchAffairs.png"
+        length="186653"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jul 2019 11:49:58 +0200</pubDate>
+      <dc:date>2019-07-20T11:49:58.328221+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 8–12 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-07-12-UniqueResearch.html#seats</link>
@@ -1539,6 +1549,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-07-18T11:11:29.593845+02:00</dc:date>
+    <dc:date>2019-07-20T11:49:58.328221+02:00</dc:date>
   </channel>
 </rss>
