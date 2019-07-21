@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sun, 21 Jul 2019 16:16:09 +0200</pubDate>
+    <pubDate>Sun, 21 Jul 2019 18:54:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 5–17 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-07-17-ResearchAffairs.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-07-13T12:46:36.373842+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Market for Der Standard, 8–9 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-07-09-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 61–74 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 34–44 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 32–43 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 15–23 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-07-09-Market-seats.png"
+        length="175007"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 18:04:24 +0200</pubDate>
+      <dc:date>2019-07-21T18:04:24.248072+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 8–9 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-07-09-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-07-09-Market-coalitions-seats.png"
+        length="287818"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 18:04:24 +0200</pubDate>
+      <dc:date>2019-07-21T18:04:24.248072+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market for Der Standard, 8–9 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-07-09-Market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 32.8–39.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.3–23.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 17.3–22.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.1–12.3%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-07-09-Market.png"
         length="193233"
         type="image/png"/>
-      <pubDate>Sun, 21 Jul 2019 14:07:53 +0200</pubDate>
-      <dc:date>2019-07-21T14:07:53.824073+02:00</dc:date>
+      <pubDate>Sun, 21 Jul 2019 18:04:24 +0200</pubDate>
+      <dc:date>2019-07-21T18:04:24.248072+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 27 June–4 July 2019 – Seat Projections for the Parties</title>
@@ -140,14 +160,34 @@
       <dc:date>2019-07-07T12:54:44.016348+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 24–28 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 65–78 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 32–43 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 32–43 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 13–21 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek-seats.png"
+        length="171593"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 17:05:04 +0200</pubDate>
+      <dc:date>2019-07-21T17:05:04.13507+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for ATV, 24–28 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek-coalitions-seats.png"
+        length="288879"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 17:05:04 +0200</pubDate>
+      <dc:date>2019-07-21T17:05:04.13507+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peter Hajek for ATV, 24–28 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.7–41.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 17.4–22.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 17.4–22.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.2–11.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.5–2.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-28-PeterHajek.png"
         length="189678"
         type="image/png"/>
-      <pubDate>Sun, 21 Jul 2019 16:16:09 +0200</pubDate>
-      <dc:date>2019-07-21T16:16:09.413972+02:00</dc:date>
+      <pubDate>Sun, 21 Jul 2019 17:05:04 +0200</pubDate>
+      <dc:date>2019-07-21T17:05:04.13507+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 14–20 June 2019 – Seat Projections for the Parties</title>
@@ -180,14 +220,34 @@
       <dc:date>2019-07-03T18:09:51.573141+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by SORA for ORF, 31 May–10 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 67–77 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 35–44 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 30–38 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 12–18 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 19–26 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA-seats.png"
+        length="167582"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 18:54:18 +0200</pubDate>
+      <dc:date>2019-07-21T18:54:18.279219+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SORA for ORF, 31 May–10 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA-coalitions-seats.png"
+        length="268072"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 18:54:18 +0200</pubDate>
+      <dc:date>2019-07-21T18:54:18.279219+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by SORA for ORF, 31 May–10 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 35.2–40.9%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.7–23.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 15.8–20.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.5–9.8%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.2–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-06-10-SORA.png"
         length="183493"
         type="image/png"/>
-      <pubDate>Sun, 21 Jul 2019 13:35:27 +0200</pubDate>
-      <dc:date>2019-07-21T13:35:27.354836+02:00</dc:date>
+      <pubDate>Sun, 21 Jul 2019 18:54:18 +0200</pubDate>
+      <dc:date>2019-07-21T18:54:18.279219+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 5–6 June 2019 – Seat Projections for the Parties</title>
@@ -1509,6 +1569,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-07-21T16:16:09.413972+02:00</dc:date>
+    <dc:date>2019-07-21T18:54:18.279219+02:00</dc:date>
   </channel>
 </rss>
