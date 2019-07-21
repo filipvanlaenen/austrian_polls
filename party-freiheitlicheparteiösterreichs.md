@@ -153,11 +153,11 @@ Last result: **51** seats (General Election of 15 October 2017)
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36 | 33–39 | 32–40 | 31–41 | 30–42 |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 39 | 36–43 | 35–44 | 34–45 | 33–46 |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34 | 30–38 | 29–39 | 28–41 | 26–43 |
-| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
+| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 37 | 34–40 | 33–41 | 32–43 | 31–44 |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34 | 32–37 | 30–39 | 30–39 | 29–41 |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 30–35 | 29–36 | 28–37 | 27–39 |
-| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 34 | 31–37 | 30–38 | 30–38 | 28–40 |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 34 | 31–37 | 30–37 | 30–38 | 28–40 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 35 | 32–39 | 31–40 | 31–41 | 29–43 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 39 | 36–43 | 35–44 | 34–45 | 33–47 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 29–35 | 29–36 | 28–37 | 27–38 |
@@ -269,21 +269,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
 | 29 | 0.4% | 99.9% |  |
-| 30 | 1.1% | 99.5% |  |
+| 30 | 1.2% | 99.5% |  |
 | 31 | 2% | 98% |  |
 | 32 | 4% | 96% |  |
 | 33 | 7% | 92% |  |
 | 34 | 9% | 85% |  |
-| 35 | 12% | 76% |  |
-| 36 | 12% | 64% |  |
-| 37 | 13% | 52% | Median |
-| 38 | 11% | 39% |  |
-| 39 | 9% | 28% |  |
-| 40 | 7% | 19% |  |
-| 41 | 5% | 11% |  |
-| 42 | 3% | 7% |  |
+| 35 | 12% | 75% |  |
+| 36 | 12% | 63% |  |
+| 37 | 13% | 51% | Median |
+| 38 | 11% | 38% |  |
+| 39 | 9% | 27% |  |
+| 40 | 7% | 18% |  |
+| 41 | 4% | 11% |  |
+| 42 | 3% | 6% |  |
 | 43 | 2% | 3% |  |
-| 44 | 0.8% | 2% |  |
+| 44 | 0.7% | 2% |  |
 | 45 | 0.5% | 0.8% |  |
 | 46 | 0.2% | 0.3% |  |
 | 47 | 0.1% | 0.1% |  |

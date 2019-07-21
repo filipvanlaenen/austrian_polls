@@ -222,6 +222,7 @@
 | Sozialdemokratische Partei Österreichs – Freiheitliche Partei Österreichs | 103 | 77 | 0% | 74–81 | 72–82 | 72–83 | 70–85 |
 | Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative – NEOS–Das Neue Österreich und Liberales Forum | 62 | 77 | 0% | 73–81 | 72–82 | 71–83 | 69–85 |
 | Österreichische Volkspartei | 62 | 70 | 0% | 66–74 | 65–75 | 65–76 | 63–78 |
+| Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative | 52 | 64 | 0% | 60–68 | 59–69 | 58–70 | 57–71 |
 | Sozialdemokratische Partei Österreichs | 52 | 41 | 0% | 38–45 | 37–46 | 37–46 | 35–48 |
 
 ### Österreichische Volkspartei – Sozialdemokratische Partei Österreichs
@@ -517,6 +518,37 @@
 | 79 | 0.1% | 0.2% |  |
 | 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
+
+### Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative
+
+![Graph with seats probability mass function not yet produced](2019-07-17-ResearchAffairs-coalitions-seats-pmf-spö–grüne.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 52 | 0% | 100% | Last Result |
+| 53 | 0% | 100% |  |
+| 54 | 0% | 100% |  |
+| 55 | 0.1% | 100% |  |
+| 56 | 0.3% | 99.9% |  |
+| 57 | 0.6% | 99.6% |  |
+| 58 | 2% | 99.0% |  |
+| 59 | 3% | 97% |  |
+| 60 | 6% | 94% |  |
+| 61 | 8% | 89% |  |
+| 62 | 12% | 81% |  |
+| 63 | 13% | 69% | Median |
+| 64 | 14% | 56% |  |
+| 65 | 13% | 42% |  |
+| 66 | 11% | 29% |  |
+| 67 | 8% | 19% |  |
+| 68 | 5% | 11% |  |
+| 69 | 3% | 6% |  |
+| 70 | 2% | 3% |  |
+| 71 | 0.8% | 1.2% |  |
+| 72 | 0.3% | 0.5% |  |
+| 73 | 0.1% | 0.2% |  |
+| 74 | 0% | 0.1% |  |
+| 75 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs
 

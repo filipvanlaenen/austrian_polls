@@ -155,9 +155,9 @@ Last result: **52** seats (General Election of 15 October 2017)
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 37–46 | 36–47 | 35–49 | 33–51 |
 | [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 39 | 36–43 | 35–44 | 34–44 | 32–46 |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 39–45 | 38–46 | 37–47 | 36–49 |
-| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
+| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 37 | 34–40 | 33–42 | 32–43 | 31–44 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 44 | 41–47 | 40–48 | 39–49 | 38–51 |
-| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 40 | 37–43 | 36–44 | 35–44 | 34–46 |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 40 | 37–43 | 36–43 | 35–44 | 34–46 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 41 | 38–45 | 37–46 | 36–47 | 34–48 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 44 | 40–47 | 40–48 | 39–49 | 37–51 |
@@ -274,13 +274,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 3% | 97% |  |
 | 35 | 6% | 93% |  |
 | 36 | 8% | 87% |  |
-| 37 | 10% | 79% |  |
-| 38 | 13% | 69% |  |
+| 37 | 11% | 79% |  |
+| 38 | 12% | 68% |  |
 | 39 | 13% | 56% | Median |
-| 40 | 13% | 44% |  |
+| 40 | 12% | 43% |  |
 | 41 | 10% | 31% |  |
-| 42 | 8% | 21% |  |
-| 43 | 6% | 12% |  |
+| 42 | 9% | 21% |  |
+| 43 | 6% | 13% |  |
 | 44 | 3% | 7% |  |
 | 45 | 2% | 3% |  |
 | 46 | 0.9% | 2% |  |
