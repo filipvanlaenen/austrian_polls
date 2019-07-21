@@ -151,15 +151,15 @@ Last result: **62** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 70 | 66–74 | 64–76 | 63–76 | 61–79 |
+| N/A | [Poll Average](average.html) | 70 | 66–74 | 64–76 | 63–77 | 61–79 |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 70 | 66–74 | 65–75 | 65–76 | 63–78 |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 69 | 65–73 | 64–75 | 63–76 | 61–78 |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 70 | 65–75 | 63–77 | 62–78 | 60–80 |
-| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 68 | 63–71 | 62–73 | 61–74 | 60–76 |
+| [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 68 | 63–72 | 62–73 | 61–74 | 59–76 |
 | [27 June–4 July 2019](2019-07-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 67–75 | 66–76 | 65–77 | 64–79 |
-| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 72 | 67–75 | 67–76 | 65–78 | 63–80 |
+| [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 71 | 67–75 | 66–76 | 65–78 | 63–80 |
 | [14–20 June 2019](2019-06-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 69–76 | 68–78 | 67–78 | 65–80 |
-| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 72 | 69–76 | 67–76 | 67–78 | 65–79 |
+| [31 May–10 June 2019](2019-06-10-SORA.html) | SORA <br> ORF | 72 | 69–76 | 67–76 | 67–77 | 65–79 |
 | [5–6 June 2019](2019-06-06-Market.html) | Market <br> Der Standard | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
 | [31 May–5 June 2019](2019-06-05-UniqueResearch.html) | Unique Research | 69 | 65–73 | 64–74 | 63–76 | 61–78 |
 | [29 May–4 June 2019](2019-06-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 69–76 | 68–77 | 67–78 | 65–80 |
@@ -272,26 +272,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 59 | 0.1% | 100% |  |
 | 60 | 0.2% | 99.9% |  |
 | 61 | 0.4% | 99.7% |  |
-| 62 | 1.0% | 99.3% | Last Result |
+| 62 | 0.8% | 99.3% | Last Result |
 | 63 | 2% | 98% |  |
 | 64 | 2% | 97% |  |
 | 65 | 4% | 94% |  |
-| 66 | 4% | 90% |  |
-| 67 | 8% | 86% |  |
-| 68 | 9% | 78% |  |
+| 66 | 5% | 91% |  |
+| 67 | 8% | 85% |  |
+| 68 | 9% | 77% |  |
 | 69 | 11% | 68% |  |
-| 70 | 10% | 57% | Median |
-| 71 | 12% | 47% |  |
-| 72 | 8% | 35% |  |
-| 73 | 10% | 26% |  |
-| 74 | 8% | 17% |  |
+| 70 | 11% | 57% | Median |
+| 71 | 12% | 46% |  |
+| 72 | 10% | 34% |  |
+| 73 | 8% | 24% |  |
+| 74 | 7% | 16% |  |
 | 75 | 4% | 9% |  |
 | 76 | 3% | 5% |  |
-| 77 | 1.0% | 2% |  |
-| 78 | 1.0% | 2% |  |
+| 77 | 1.2% | 3% |  |
+| 78 | 0.8% | 1.3% |  |
 | 79 | 0.3% | 0.5% |  |
-| 80 | 0.2% | 0.3% |  |
-| 81 | 0% | 0.1% |  |
+| 80 | 0.1% | 0.2% |  |
+| 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
 
 
