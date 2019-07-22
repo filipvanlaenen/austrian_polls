@@ -22,6 +22,8 @@
 
 ![Graph with seats not yet produced](2019-05-31-DemoxResearch-seats.png "Seats")
 
+![Graph with seating plan not yet produced](2019-05-31-DemoxResearch-seating-plan.png "Seating Plan")
+
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |

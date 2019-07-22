@@ -1,4 +1,4 @@
-# Opinion Poll by Research Affairs, 27 June–4 July 2019
+# Opinion Poll by Research Affairs for ÖSTERREICH, 27 June–4 July 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -22,6 +22,8 @@
 ## Seats
 
 ![Graph with seats not yet produced](2019-07-04-ResearchAffairs-seats.png "Seats")
+
+![Graph with seating plan not yet produced](2019-07-04-ResearchAffairs-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
@@ -555,7 +557,7 @@
 ### Opinion Poll
 
 + **Polling firm:** Research Affairs
-+ **Commissioner(s):** —
++ **Commissioner(s):** ÖSTERREICH
 + **Fieldwork period:** 27 June–4 July 2019
 
 ### Calculations
