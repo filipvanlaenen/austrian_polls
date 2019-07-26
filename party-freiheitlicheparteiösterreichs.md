@@ -10,7 +10,8 @@ Last result: **26.0%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 17.5–21.9% | 17.0–22.5% | 16.5–23.1% | 15.8–24.1% |
+| N/A | [Poll Average](average.html) | 19.9% | 17.6–22.2% | 17.0–22.8% | 16.6–23.3% | 15.7–24.4% |
+| [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.0% | 17.9–22.5% | 17.3–23.2% | 16.8–23.8% | 15.8–25.0% |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19.0% | 17.4–20.6% | 17.0–21.1% | 16.6–21.5% | 15.9–22.3% |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 21.0% | 19.2–22.9% | 18.7–23.5% | 18.3–24.0% | 17.5–24.9% |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18.0% | 15.9–20.3% | 15.3–21.0% | 14.8–21.6% | 13.9–22.7% |
@@ -129,16 +130,17 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.3% | 100% |  |
 | 15.5–16.5% | 2% | 99.7% |  |
-| 16.5–17.5% | 8% | 97% |  |
-| 17.5–18.5% | 16% | 90% |  |
-| 18.5–19.5% | 22% | 73% |  |
-| 19.5–20.5% | 21% | 51% | Median |
-| 20.5–21.5% | 16% | 30% |  |
-| 21.5–22.5% | 9% | 14% |  |
-| 22.5–23.5% | 3% | 5% |  |
-| 23.5–24.5% | 1.0% | 1.2% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
-| 25.5–26.5% | 0% | 0% | Last Result |
+| 16.5–17.5% | 7% | 98% |  |
+| 17.5–18.5% | 14% | 90% |  |
+| 18.5–19.5% | 20% | 76% |  |
+| 19.5–20.5% | 21% | 57% | Median |
+| 20.5–21.5% | 18% | 36% |  |
+| 21.5–22.5% | 11% | 17% |  |
+| 22.5–23.5% | 5% | 6% |  |
+| 23.5–24.5% | 1.5% | 2% |  |
+| 24.5–25.5% | 0.3% | 0.4% |  |
+| 25.5–26.5% | 0.1% | 0.1% | Last Result |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -149,7 +151,8 @@ Last result: **51** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37 | 33–41 | 32–42 | 31–43 | 30–45 |
+| N/A | [Poll Average](average.html) | 37 | 33–41 | 32–43 | 31–44 | 29–46 |
+| [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38 | 34–42 | 32–44 | 31–45 | 30–47 |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36 | 33–39 | 32–40 | 31–41 | 30–42 |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 39 | 36–43 | 35–44 | 34–45 | 33–46 |
 | [5–10 July 2019](2019-07-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34 | 30–38 | 29–39 | 28–41 | 26–43 |
@@ -272,22 +275,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 1.1% | 99.5% |  |
 | 31 | 2% | 98% |  |
 | 32 | 4% | 96% |  |
-| 33 | 7% | 92% |  |
-| 34 | 9% | 85% |  |
-| 35 | 12% | 76% |  |
-| 36 | 12% | 64% |  |
-| 37 | 13% | 52% | Median |
-| 38 | 11% | 39% |  |
-| 39 | 9% | 28% |  |
-| 40 | 7% | 19% |  |
-| 41 | 5% | 11% |  |
-| 42 | 3% | 7% |  |
-| 43 | 2% | 3% |  |
-| 44 | 0.8% | 2% |  |
-| 45 | 0.5% | 0.8% |  |
-| 46 | 0.2% | 0.3% |  |
-| 47 | 0.1% | 0.1% |  |
-| 48 | 0% | 0% |  |
+| 33 | 6% | 92% |  |
+| 34 | 8% | 86% |  |
+| 35 | 10% | 78% |  |
+| 36 | 11% | 68% |  |
+| 37 | 12% | 57% | Median |
+| 38 | 11% | 45% |  |
+| 39 | 10% | 33% |  |
+| 40 | 8% | 23% |  |
+| 41 | 6% | 15% |  |
+| 42 | 4% | 9% |  |
+| 43 | 3% | 5% |  |
+| 44 | 1.3% | 3% |  |
+| 45 | 0.7% | 1.4% |  |
+| 46 | 0.4% | 0.6% |  |
+| 47 | 0.1% | 0.3% |  |
+| 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% | Last Result |
