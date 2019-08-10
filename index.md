@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 33–41% <br> 62–77 | 18–24% <br> 33–46 | 16–23% <br> 31–44 | 7–12% <br> 12–21 | 0–2% <br> 0 | 9–14% <br> 16–26 | N/A <br> N/A |
-| [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 60–76 | 19–26% <br> 35–49 | 17–24% <br> 31–44 | 6–11% <br> 11–20 | 0–2% <br> 0 | 9–14% <br> 16–26 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 33–41% <br> 62–77 | 18–24% <br> 33–47 | 16–23% <br> 31–44 | 6–12% <br> 12–21 | 0–3% <br> 0 | 9–14% <br> 15–25 | N/A <br> N/A |
+| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 60–76 | 19–26% <br> 36–49 | 17–24% <br> 32–45 | 6–11% <br> 10–20 | 1–4% <br> 0 | 8–13% <br> 14–25 | N/A <br> N/A |
 | [8–12 July 2019](2019-07-12-UniqueResearch.html) | Unique Research <br> profil | 34–40% <br> 63–76 | 17–23% <br> 32–43 | 18–24% <br> 34–45 | 7–11% <br> 13–21 | 1–2% <br> 0 | 9–13% <br> 17–25 | N/A <br> N/A |
 | [8–9 July 2019](2019-07-09-Market.html) | Market <br> Der Standard | 33–39% <br> 61–74 | 18–24% <br> 34–44 | 17–23% <br> 32–43 | 8–12% <br> 15–23 | 1–2% <br> 0 | 9–13% <br> 17–25 | N/A <br> N/A |
 | [24–28 June 2019](2019-06-28-PeterHajek.html) | Peter Hajek <br> ATV | 35–41% <br> 65–78 | 17–23% <br> 32–43 | 17–23% <br> 32–43 | 7–11% <br> 13–21 | 1–2% <br> 0 | 9–13% <br> 17–25 | N/A <br> N/A |
