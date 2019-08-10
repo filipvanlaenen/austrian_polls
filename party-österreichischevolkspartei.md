@@ -11,6 +11,7 @@ Last result: **31.5%** (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 37.1% | 34.5–39.5% | 33.8–40.2% | 33.1–40.7% | 31.8–41.9% |
+| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36.0% | 33.4–38.9% | 32.6–39.6% | 32.0–40.3% | 30.7–41.7% |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36.1% | 33.4–38.9% | 32.6–39.7% | 32.0–40.4% | 30.7–41.7% |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.9% | 33.2–38.7% | 32.5–39.5% | 31.8–40.2% | 30.6–41.6% |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37.0% | 35.1–39.0% | 34.6–39.6% | 34.1–40.1% | 33.2–41.0% |
@@ -155,6 +156,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 70 | 65–74 | 63–76 | 62–77 | 60–79 |
+| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 68 | 63–73 | 61–75 | 60–76 | 58–79 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 68 | 63–74 | 62–75 | 60–76 | 58–79 |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 68 | 63–73 | 61–75 | 60–76 | 58–78 |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 70 | 66–74 | 65–75 | 65–76 | 63–78 |
@@ -274,31 +276,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0.1% | 100% |  |
+| 57 | 0% | 100% |  |
 | 58 | 0.1% | 99.9% |  |
 | 59 | 0.2% | 99.8% |  |
-| 60 | 0.4% | 99.6% |  |
-| 61 | 0.8% | 99.2% |  |
-| 62 | 1.4% | 98% | Last Result |
+| 60 | 0.5% | 99.6% |  |
+| 61 | 0.9% | 99.1% |  |
+| 62 | 2% | 98% | Last Result |
 | 63 | 2% | 97% |  |
-| 64 | 3% | 95% |  |
+| 64 | 3% | 94% |  |
 | 65 | 5% | 91% |  |
-| 66 | 6% | 87% |  |
-| 67 | 8% | 81% |  |
+| 66 | 6% | 86% |  |
+| 67 | 9% | 80% |  |
 | 68 | 9% | 72% |  |
-| 69 | 10% | 63% |  |
+| 69 | 10% | 62% |  |
 | 70 | 10% | 53% | Median |
 | 71 | 10% | 42% |  |
 | 72 | 9% | 32% |  |
 | 73 | 7% | 23% |  |
-| 74 | 7% | 16% |  |
-| 75 | 4% | 9% |  |
-| 76 | 3% | 5% |  |
+| 74 | 6% | 16% |  |
+| 75 | 3% | 9% |  |
+| 76 | 3% | 6% |  |
 | 77 | 1.2% | 3% |  |
-| 78 | 0.8% | 1.4% |  |
+| 78 | 0.8% | 1.5% |  |
 | 79 | 0.3% | 0.6% |  |
 | 80 | 0.2% | 0.3% |  |
 | 81 | 0.1% | 0.1% |  |
-| 82 | 0% | 0% |  |
+| 82 | 0% | 0.1% |  |
+| 83 | 0% | 0% |  |
 
 

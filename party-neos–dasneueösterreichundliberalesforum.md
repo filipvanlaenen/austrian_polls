@@ -10,7 +10,8 @@ Last result: **5.3%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.3–10.6% | 6.9–11.1% | 6.6–11.5% | 5.9–12.4% |
+| N/A | [Poll Average](average.html) | 8.8% | 7.3–10.6% | 6.9–11.1% | 6.5–11.5% | 5.8–12.4% |
+| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.9% | 6.6–9.7% | 6.2–10.2% | 5.9–10.6% | 5.3–11.5% |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8.0% | 6.6–9.7% | 6.2–10.2% | 5.9–10.7% | 5.3–11.6% |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 6.9% | 5.7–8.6% | 5.3–9.1% | 5.0–9.5% | 4.5–10.4% |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
@@ -131,8 +132,8 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% | Last Result |
 | 5.5–6.5% | 2% | 99.8% |  |
-| 6.5–7.5% | 12% | 98% |  |
-| 7.5–8.5% | 27% | 86% |  |
+| 6.5–7.5% | 12% | 97% |  |
+| 7.5–8.5% | 27% | 85% |  |
 | 8.5–9.5% | 29% | 59% | Median |
 | 9.5–10.5% | 19% | 30% |  |
 | 10.5–11.5% | 8% | 11% |  |
@@ -149,7 +150,8 @@ Last result: **10** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–20 | 13–20 | 12–21 | 11–23 |
+| N/A | [Poll Average](average.html) | 16 | 13–20 | 12–20 | 12–21 | 10–23 |
+| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 14 | 11–18 | 11–20 | 10–20 | 9–22 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15 | 12–18 | 11–19 | 11–20 | 10–21 |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 10–16 | 10–17 | 9–18 | 8–19 |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–15 | 11–16 | 10–16 | 9–17 |
@@ -270,22 +272,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
-| 10 | 0.3% | 99.9% | Last Result |
-| 11 | 1.1% | 99.6% |  |
-| 12 | 3% | 98.5% |  |
-| 13 | 7% | 96% |  |
-| 14 | 11% | 89% |  |
-| 15 | 15% | 77% |  |
-| 16 | 17% | 62% | Median |
-| 17 | 15% | 46% |  |
+| 10 | 0.5% | 99.9% | Last Result |
+| 11 | 2% | 99.3% |  |
+| 12 | 4% | 98% |  |
+| 13 | 8% | 94% |  |
+| 14 | 12% | 86% |  |
+| 15 | 14% | 74% |  |
+| 16 | 15% | 60% | Median |
+| 17 | 14% | 45% |  |
 | 18 | 12% | 31% |  |
-| 19 | 8% | 19% |  |
-| 20 | 6% | 10% |  |
+| 19 | 9% | 19% |  |
+| 20 | 6% | 11% |  |
 | 21 | 3% | 5% |  |
-| 22 | 1.2% | 2% |  |
-| 23 | 0.5% | 0.7% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0% | 0.1% |  |
+| 22 | 1.3% | 2% |  |
+| 23 | 0.5% | 0.8% |  |
+| 24 | 0.2% | 0.3% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 
