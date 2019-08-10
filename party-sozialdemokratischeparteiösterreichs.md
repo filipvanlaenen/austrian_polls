@@ -154,8 +154,8 @@ Last result: **52** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39 | 35–43 | 34–44 | 33–47 | 32–49 |
-| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 37–47 | 37–48 | 36–49 | 33–52 |
+| N/A | [Poll Average](average.html) | 39 | 35–43 | 34–45 | 33–46 | 32–49 |
+| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 37–46 | 36–48 | 35–49 | 33–51 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 37–46 | 36–47 | 35–49 | 33–51 |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 37–46 | 36–48 | 35–49 | 33–51 |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 38–45 | 37–46 | 37–46 | 35–48 |
@@ -276,7 +276,7 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
-| 31 | 0.3% | 99.9% |  |
+| 31 | 0.3% | 99.8% |  |
 | 32 | 0.9% | 99.5% |  |
 | 33 | 2% | 98.6% |  |
 | 34 | 4% | 97% |  |
@@ -285,20 +285,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 11% | 79% |  |
 | 38 | 13% | 68% |  |
 | 39 | 13% | 55% | Median |
-| 40 | 11% | 42% |  |
-| 41 | 9% | 32% |  |
-| 42 | 8% | 23% |  |
-| 43 | 7% | 15% |  |
+| 40 | 12% | 43% |  |
+| 41 | 9% | 31% |  |
+| 42 | 7% | 21% |  |
+| 43 | 5% | 14% |  |
 | 44 | 4% | 9% |  |
-| 45 | 2% | 5% |  |
-| 46 | 0.7% | 3% |  |
-| 47 | 0.8% | 3% |  |
-| 48 | 1.0% | 2% |  |
-| 49 | 0.5% | 0.7% |  |
-| 50 | 0.1% | 0.3% |  |
-| 51 | 0% | 0.1% |  |
+| 45 | 2% | 6% |  |
+| 46 | 1.3% | 3% |  |
+| 47 | 0.8% | 2% |  |
+| 48 | 0.5% | 1.3% |  |
+| 49 | 0.3% | 0.7% |  |
+| 50 | 0.2% | 0.4% |  |
+| 51 | 0.1% | 0.2% |  |
 | 52 | 0% | 0.1% | Last Result |
-| 53 | 0% | 0.1% |  |
-| 54 | 0% | 0% |  |
+| 53 | 0% | 0% |  |
 
 
