@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
-| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 60–76 | 19–26% <br> 36–49 | 17–24% <br> 32–45 | 6–11% <br> 10–20 | 1–4% <br> 0 | 8–13% <br> 14–25 | N/A <br> N/A |
+| [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 61–77 | 19–26% <br> 35–49 | 17–24% <br> 32–45 | 6–11% <br> 11–20 | 1–4% <br> 0 | 8–13% <br> 15–25 | N/A <br> N/A |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 60–76 | 19–26% <br> 35–49 | 17–24% <br> 31–44 | 6–11% <br> 11–20 | 0–2% <br> 0 | 9–14% <br> 16–26 | N/A <br> N/A |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 60–76 | 19–26% <br> 35–49 | 17–24% <br> 31–45 | 5–10% <br> 9–18 | 0–2% <br> 0 | 9–15% <br> 17–28 | N/A <br> N/A |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34–40% <br> 65–76 | 19–25% <br> 37–46 | 17–22% <br> 31–41 | 6–9% <br> 10–16 | 1–2% <br> 0 | 10–14% <br> 19–27 | N/A <br> N/A |
