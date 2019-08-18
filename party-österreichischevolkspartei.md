@@ -156,9 +156,9 @@ Last result: **62** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 70 | 65–74 | 63–76 | 62–77 | 59–79 |
+| N/A | [Poll Average](average.html) | 70 | 64–74 | 63–76 | 62–77 | 59–79 |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 69 | 64–74 | 62–76 | 61–77 | 59–79 |
-| [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 66 | 62–70 | 61–71 | 60–73 | 58–74 |
+| [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 66 | 62–70 | 61–71 | 60–73 | 58–75 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 68 | 63–74 | 62–75 | 60–76 | 58–79 |
 | [18–24 July 2019](2019-07-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 68 | 63–73 | 61–75 | 60–76 | 58–78 |
 | [5–17 July 2019](2019-07-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 70 | 66–74 | 65–75 | 65–76 | 63–78 |
@@ -278,25 +278,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 0% | 100% |  |
-| 58 | 0.2% | 99.9% |  |
-| 59 | 0.3% | 99.7% |  |
-| 60 | 0.4% | 99.4% |  |
-| 61 | 1.0% | 99.0% |  |
-| 62 | 3% | 98% | Last Result |
-| 63 | 2% | 96% |  |
-| 64 | 3% | 94% |  |
-| 65 | 8% | 90% |  |
-| 66 | 4% | 83% |  |
+| 57 | 0.1% | 100% |  |
+| 58 | 0.1% | 99.9% |  |
+| 59 | 0.3% | 99.8% |  |
+| 60 | 0.6% | 99.5% |  |
+| 61 | 1.0% | 98.9% |  |
+| 62 | 2% | 98% | Last Result |
+| 63 | 3% | 96% |  |
+| 64 | 4% | 93% |  |
+| 65 | 5% | 90% |  |
+| 66 | 6% | 84% |  |
 | 67 | 8% | 78% |  |
-| 68 | 10% | 70% |  |
-| 69 | 8% | 60% |  |
-| 70 | 11% | 52% | Median |
-| 71 | 10% | 41% |  |
-| 72 | 8% | 31% |  |
-| 73 | 8% | 23% |  |
-| 74 | 7% | 16% |  |
-| 75 | 3% | 9% |  |
+| 68 | 9% | 70% |  |
+| 69 | 9% | 61% |  |
+| 70 | 10% | 52% | Median |
+| 71 | 10% | 42% |  |
+| 72 | 9% | 32% |  |
+| 73 | 7% | 23% |  |
+| 74 | 6% | 16% |  |
+| 75 | 4% | 9% |  |
 | 76 | 3% | 6% |  |
 | 77 | 1.3% | 3% |  |
 | 78 | 0.8% | 1.5% |  |
