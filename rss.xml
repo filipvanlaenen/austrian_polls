@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Mon, 19 Aug 2019 19:54:19 +0200</pubDate>
+    <pubDate>Mon, 19 Aug 2019 20:16:09 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 9–14 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-14-ResearchAffairs.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-08-19T19:38:04.019821+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by OGM for KURIER, 8–12 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-12-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 60–73 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 38–49 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 33–43 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 12–19 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-12-OGM-seats.png"
+        length="176741"
+        type="image/png"/>
+      <pubDate>Mon, 19 Aug 2019 20:16:09 +0200</pubDate>
+      <dc:date>2019-08-19T20:16:09.504178+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 8–12 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-12-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-12-OGM-coalitions-seats.png"
+        length="291742"
+        type="image/png"/>
+      <pubDate>Mon, 19 Aug 2019 20:16:09 +0200</pubDate>
+      <dc:date>2019-08-19T20:16:09.504178+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by OGM for KURIER, 8–12 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-12-OGM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.8–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.3–26.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 17.3–22.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.3–10.1%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.9–2.6%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-12-OGM.png"
         length="195318"
         type="image/png"/>
-      <pubDate>Mon, 19 Aug 2019 19:54:19 +0200</pubDate>
-      <dc:date>2019-08-19T19:54:19.023031+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 20:16:09 +0200</pubDate>
+      <dc:date>2019-08-19T20:16:09.504178+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–7 August 2019 – Seat Projections for the Parties</title>
@@ -1729,6 +1749,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-08-19T19:54:19.023031+02:00</dc:date>
+    <dc:date>2019-08-19T20:16:09.504178+02:00</dc:date>
   </channel>
 </rss>
