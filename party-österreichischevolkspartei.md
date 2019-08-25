@@ -270,7 +270,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 62 | 57–68 | 56–69 | 55–71 | 53–73 |
 | [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 60 | 55–64 | 54–65 | 53–66 | 52–68 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 62 | 58–65 | 56–67 | 55–68 | 53–69 |
-| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 66 | 60–72 | 58–73 | 56–73 | 54–77 |
+| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 65 | 60–72 | 59–73 | 57–74 | 54–77 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 61 | 57–65 | 56–67 | 55–68 | 53–69 |
 | [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 59 | 55–64 | 54–65 | 53–67 | 51–69 |
 | [18–20 December 2017](2017-12-20-Market.html) | Market <br> Der Standard | 64 | 60–69 | 58–70 | 57–71 | 55–74 |
