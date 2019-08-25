@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Mon, 19 Aug 2019 20:16:09 +0200</pubDate>
+    <pubDate>Sun, 25 Aug 2019 20:12:02 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 9–14 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-14-ResearchAffairs.html#seats</link>
@@ -1716,8 +1716,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-01-19-UniqueResearch.png"
         length="204719"
         type="image/png"/>
-      <pubDate>Tue, 02 Jul 2019 17:33:44 +0200</pubDate>
-      <dc:date>2019-07-02T17:33:44.628772+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 20:12:02 +0200</pubDate>
+      <dc:date>2019-08-25T20:12:02.193022+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 4–10 January 2018 – Voting Intentions</title>
@@ -1749,6 +1749,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-08-19T20:16:09.504178+02:00</dc:date>
+    <dc:date>2019-08-25T20:12:02.193022+02:00</dc:date>
   </channel>
 </rss>
