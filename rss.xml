@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sun, 25 Aug 2019 20:12:02 +0200</pubDate>
+    <pubDate>Mon, 26 Aug 2019 19:22:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 9–14 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-14-ResearchAffairs.html#seats</link>
@@ -980,14 +980,34 @@
       <dc:date>2019-06-17T06:59:24.300494+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Market for Der Standard, 18–20 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-02-20-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 57–69 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 41–52 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 34–44 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 16–24 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 11–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-02-20-Market-seats.png"
+        length="177371"
+        type="image/png"/>
+      <pubDate>Mon, 26 Aug 2019 19:22:18 +0200</pubDate>
+      <dc:date>2019-08-26T19:22:18.6892+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 18–20 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-02-20-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-02-20-Market-coalitions-seats.png"
+        length="284928"
+        type="image/png"/>
+      <pubDate>Mon, 26 Aug 2019 19:22:18 +0200</pubDate>
+      <dc:date>2019-08-26T19:22:18.6892+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market for Der Standard, 18–20 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-02-20-Market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.5–37.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 21.9–27.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.2–23.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.9–13.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 6.2–10.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-02-20-Market.png"
         length="196301"
         type="image/png"/>
-      <pubDate>Wed, 17 Jul 2019 23:08:47 +0200</pubDate>
-      <dc:date>2019-07-17T23:08:47.369735+02:00</dc:date>
+      <pubDate>Mon, 26 Aug 2019 19:22:18 +0200</pubDate>
+      <dc:date>2019-08-26T19:22:18.6892+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 11–15 February 2019 – Voting Intentions</title>
@@ -1710,14 +1730,34 @@
       <dc:date>2019-07-03T20:30:59.820934+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Unique Research for profil, 15–19 January 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-01-19-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 57–75 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 44–60 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 41–56 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8–16 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0–9 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-01-19-UniqueResearch-seats.png"
+        length="196117"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 20:41:23 +0200</pubDate>
+      <dc:date>2019-08-25T20:41:23.830698+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 15–19 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2018-01-19-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-01-19-UniqueResearch-coalitions-seats.png"
+        length="325961"
+        type="image/png"/>
+      <pubDate>Sun, 25 Aug 2019 20:41:23 +0200</pubDate>
+      <dc:date>2019-08-25T20:41:23.830698+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Unique Research for profil, 15–19 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2018-01-19-UniqueResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.0–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 23.3–31.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 21.4–29.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.2–8.4%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.8–4.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 2.6–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2018-01-19-UniqueResearch.png"
         length="204719"
         type="image/png"/>
-      <pubDate>Sun, 25 Aug 2019 20:12:02 +0200</pubDate>
-      <dc:date>2019-08-25T20:12:02.193022+02:00</dc:date>
+      <pubDate>Sun, 25 Aug 2019 20:41:23 +0200</pubDate>
+      <dc:date>2019-08-25T20:41:23.830698+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 4–10 January 2018 – Voting Intentions</title>
@@ -1749,6 +1789,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-08-25T20:12:02.193022+02:00</dc:date>
+    <dc:date>2019-08-26T19:22:18.6892+02:00</dc:date>
   </channel>
 </rss>
