@@ -191,7 +191,7 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 15 | 13–17 | 13–18 | 12–19 | 11–20 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 15 | 12–17 | 12–18 | 11–19 | 11–20 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–15 | 11–16 | 10–16 | 9–17 |
-| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard | 20 | 18–22 | 17–23 | 16–24 | 15–26 |
+| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–23 | 16–24 | 15–26 |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 15 | 13–17 | 12–18 | 11–19 | 11–20 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 16 | 14–18 | 13–19 | 13–19 | 12–20 |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 13 | 11–16 | 11–16 | 10–17 | 10–18 |
@@ -264,7 +264,7 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 13 | 10–16 | 10–17 | 9–18 | 8–20 |
 | [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12 | 10–14 | 9–14 | 9–15 | 8–16 |
-| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 12 | 9–14 | 8–15 | 8–16 | 0–17 |
+| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 11 | 9–14 | 8–15 | 8–16 | 0–17 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 11 | 9–13 | 9–14 | 8–15 | 8–16 |
 | [18–20 December 2017](2017-12-20-Market.html) | Market <br> Der Standard | 11 | 9–14 | 9–14 | 9–15 | 8–16 |

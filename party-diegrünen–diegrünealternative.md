@@ -194,7 +194,7 @@ Last result: **0** seats (General Election of 15 October 2017)
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 11 | 9–13 | 9–14 | 8–14 | 7–16 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
-| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard | 14 | 12–17 | 12–18 | 11–18 | 10–19 |
+| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard | 15 | 12–17 | 12–18 | 11–18 | 10–19 |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 11 | 9–13 | 9–14 | 8–14 | 7–16 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 9 | 8–11 | 7–12 | 0–12 | 0–13 |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
@@ -267,7 +267,7 @@ Last result: **0** seats (General Election of 15 October 2017)
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 9 | 0–12 | 0–12 | 0–13 | 0–15 |
 | [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8 | 0–9 | 0–10 | 0–10 | 0–11 |
-| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 7 | 0–10 | 0–11 | 0–11 | 0–13 |
+| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 7 | 0–10 | 0–10 | 0–11 | 0–13 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0–9 | 0–10 | 0–10 | 0–11 |
 | [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 9 | 8–11 | 0–12 | 0–13 | 0–13 |
 | [18–20 December 2017](2017-12-20-Market.html) | Market <br> Der Standard | 0 | 0–9 | 0–10 | 0–10 | 0–11 |

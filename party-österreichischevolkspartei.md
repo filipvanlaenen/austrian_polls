@@ -197,7 +197,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 56 | 52–60 | 51–61 | 50–62 | 49–63 |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 64 | 60–68 | 58–69 | 58–70 | 56–72 |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 62–69 | 60–70 | 60–71 | 58–73 |
-| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard | 64 | 59–67 | 59–69 | 57–70 | 55–71 |
+| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard | 63 | 59–67 | 58–68 | 57–69 | 55–71 |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 60 | 56–65 | 55–66 | 55–67 | 53–69 |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 64 | 61–69 | 60–70 | 59–71 | 57–73 |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 62–70 | 61–72 | 60–73 | 58–75 |
@@ -270,7 +270,7 @@ Last result: **62** seats (General Election of 15 October 2017)
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 62 | 57–68 | 56–69 | 55–71 | 53–73 |
 | [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 60 | 55–64 | 54–65 | 53–66 | 52–68 |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 62 | 58–65 | 56–67 | 55–68 | 53–69 |
-| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 65 | 60–72 | 59–73 | 57–74 | 54–77 |
+| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 66 | 60–71 | 58–73 | 57–75 | 54–77 |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 61 | 57–65 | 56–67 | 55–68 | 53–69 |
 | [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 59 | 55–64 | 54–65 | 53–67 | 51–69 |
 | [18–20 December 2017](2017-12-20-Market.html) | Market <br> Der Standard | 64 | 60–69 | 58–70 | 57–71 | 55–74 |
