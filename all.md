@@ -42,7 +42,7 @@ The table below lists all polls registered and analyzed so far.
 | [27 February–1 March 2019](2019-03-01-INSA.html) | INSA <br> SWG | 26–32% <br> 50–62 | 22–28% <br> 43–54 | 21–27% <br> 41–51 | 6–10% <br> 12–19 | 1–3% <br> 0 | 7–11% <br> 14–21 | N/A <br> N/A |
 | [21–28 February 2019](2019-02-28-PeterHajek.html) | Peter Hajek <br> ATV | 31–37% <br> 58–70 | 24–30% <br> 45–57 | 20–26% <br> 37–49 | 6–10% <br> 11–19 | 1–2% <br> 0 | 5–8% <br> 8–14 | N/A <br> N/A |
 | [13–20 February 2019](2019-02-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–71 | 22–28% <br> 42–53 | 21–27% <br> 41–51 | 6–9% <br> 10–16 | 1–3% <br> 0 | 5–8% <br> 9–14 | N/A <br> N/A |
-| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard | 30–37% <br> 57–70 | 22–28% <br> 41–52 | 18–24% <br> 34–44 | 9–13% <br> 16–24 | 1–3% <br> 0 | 6–10% <br> 11–18 | N/A <br> N/A |
+| [18–20 February 2019](2019-02-20-Market.html) | Market <br> Der Standard | 30–37% <br> 57–69 | 22–28% <br> 41–52 | 18–24% <br> 34–44 | 9–13% <br> 16–24 | 1–3% <br> 0 | 6–10% <br> 11–18 | N/A <br> N/A |
 | [11–15 February 2019](2019-02-15-UniqueResearch.html) | Unique Research <br> profil | 29–35% <br> 55–67 | 23–29% <br> 44–56 | 22–28% <br> 42–53 | 6–10% <br> 11–19 | 1–2% <br> 0 | 5–8% <br> 8–14 | N/A <br> N/A |
 | [5–8 February 2019](2019-02-08-DemoxResearch.html) | Demox Research <br> Die Presse | 31–37% <br> 59–71 | 24–30% <br> 46–57 | 20–25% <br> 37–47 | 7–10% <br> 13–19 | 1–2% <br> 0 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [31 January–6 February 2019](2019-02-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 60–73 | 22–28% <br> 43–54 | 20–26% <br> 40–50 | 6–9% <br> 10–17 | 2–4% <br> 0–8 | 4–7% <br> 0–12 | N/A <br> N/A |
@@ -115,7 +115,7 @@ The table below lists all polls registered and analyzed so far.
 | [11–16 February 2018](2018-02-16-UniqueResearch.html) | Unique Research <br> profil | 29–37% <br> 55–71 | 22–30% <br> 42–57 | 22–30% <br> 42–57 | 5–10% <br> 9–18 | 1–4% <br> 0 | 3–7% <br> 0–13 | N/A <br> N/A |
 | [1–8 February 2018](2018-02-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28–34% <br> 53–66 | 23–29% <br> 44–56 | 22–28% <br> 43–54 | 5–8% <br> 9–14 | 2–4% <br> 0–8 | 4–7% <br> 0–12 | N/A <br> N/A |
 | [18–24 January 2018](2018-01-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28–34% <br> 55–68 | 24–30% <br> 47–60 | 23–29% <br> 45–58 | 5–8% <br> 9–15 | 2–4% <br> 0–8 | 3–5% <br> 0–10 | N/A <br> N/A |
-| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 30–38% <br> 57–74 | 23–31% <br> 44–60 | 21–29% <br> 41–56 | 4–8% <br> 8–16 | 2–5% <br> 0–9 | 3–6% <br> 0–11 | N/A <br> N/A |
+| [15–19 January 2018](2018-01-19-UniqueResearch.html) | Unique Research <br> profil | 30–38% <br> 57–75 | 23–31% <br> 44–60 | 21–29% <br> 41–56 | 4–8% <br> 8–16 | 2–5% <br> 0–9 | 3–6% <br> 0–11 | N/A <br> N/A |
 | [4–10 January 2018](2018-01-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28–34% <br> 55–68 | 24–30% <br> 47–58 | 24–30% <br> 47–59 | 5–8% <br> 9–14 | 1–3% <br> 0 | 3–5% <br> 0–10 | N/A <br> N/A |
 | [18–21 December 2017](2017-12-21-PeterHajek.html) | Peter Hajek <br> ATV | 28–35% <br> 53–67 | 25–31% <br> 47–61 | 23–29% <br> 44–56 | 4–8% <br> 8–15 | 1–3% <br> 0 | 4–7% <br> 0–13 | N/A <br> N/A |
 | [18–20 December 2017](2017-12-20-Market.html) | Market <br> Der Standard | 30–36% <br> 57–71 | 24–30% <br> 46–59 | 23–29% <br> 45–57 | 5–8% <br> 9–15 | 1–3% <br> 0 | 3–6% <br> 0–10 | N/A <br> N/A |
