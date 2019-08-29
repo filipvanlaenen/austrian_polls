@@ -157,8 +157,8 @@ Last result: **51** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37 | 34–41 | 32–42 | 32–43 | 30–45 |
-| [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 37 | 35–42 | 33–42 | 32–43 | 31–45 |
+| N/A | [Poll Average](average.html) | 37 | 34–41 | 32–42 | 32–43 | 29–45 |
+| [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 38 | 34–41 | 33–42 | 33–43 | 31–45 |
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36 | 32–40 | 31–42 | 30–43 | 28–45 |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36 | 32–41 | 31–42 | 30–43 | 28–45 |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 38 | 34–41 | 33–42 | 33–43 | 31–45 |
@@ -283,25 +283,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0.1% | 100% |  |
+| 27 | 0% | 100% |  |
 | 28 | 0.1% | 99.9% |  |
 | 29 | 0.3% | 99.8% |  |
 | 30 | 0.6% | 99.5% |  |
 | 31 | 1.3% | 98.9% |  |
 | 32 | 3% | 98% |  |
 | 33 | 4% | 95% |  |
-| 34 | 7% | 90% |  |
-| 35 | 9% | 84% |  |
-| 36 | 13% | 75% |  |
-| 37 | 15% | 62% | Median |
-| 38 | 13% | 46% |  |
+| 34 | 7% | 91% |  |
+| 35 | 10% | 84% |  |
+| 36 | 13% | 74% |  |
+| 37 | 14% | 61% | Median |
+| 38 | 13% | 47% |  |
 | 39 | 12% | 34% |  |
-| 40 | 8% | 22% |  |
-| 41 | 6% | 14% |  |
-| 42 | 4% | 8% |  |
+| 40 | 9% | 22% |  |
+| 41 | 6% | 13% |  |
+| 42 | 4% | 7% |  |
 | 43 | 2% | 4% |  |
-| 44 | 0.9% | 2% |  |
-| 45 | 0.4% | 0.7% |  |
+| 44 | 1.0% | 2% |  |
+| 45 | 0.5% | 0.7% |  |
 | 46 | 0.2% | 0.3% |  |
 | 47 | 0.1% | 0.1% |  |
 | 48 | 0% | 0% |  |
