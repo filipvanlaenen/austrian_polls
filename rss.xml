@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Wed, 28 Aug 2019 20:08:41 +0200</pubDate>
+    <pubDate>Wed, 28 Aug 2019 22:49:05 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 19–22 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-22-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 62–74 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 33–43 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 33–43 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 13–21 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 19–27 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-22-UniqueResearch-seats.png"
+        length="173487"
+        type="image/png"/>
+      <pubDate>Wed, 28 Aug 2019 22:49:05 +0200</pubDate>
+      <dc:date>2019-08-28T22:49:05.224721+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 19–22 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-22-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-22-UniqueResearch-coalitions-seats.png"
+        length="287763"
+        type="image/png"/>
+      <pubDate>Wed, 28 Aug 2019 22:49:05 +0200</pubDate>
+      <dc:date>2019-08-28T22:49:05.224721+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 19–22 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-22-UniqueResearch.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-22-UniqueResearch.png"
         length="191229"
         type="image/png"/>
-      <pubDate>Wed, 28 Aug 2019 19:36:10 +0200</pubDate>
-      <dc:date>2019-08-28T19:36:10.521225+02:00</dc:date>
+      <pubDate>Wed, 28 Aug 2019 22:49:05 +0200</pubDate>
+      <dc:date>2019-08-28T22:49:05.224721+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 16–21 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-21-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 58–75 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 33–47 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 30–43 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 11–20 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 16–27 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-21-ResearchAffairs-seats.png"
+        length="190236"
+        type="image/png"/>
+      <pubDate>Wed, 28 Aug 2019 20:55:51 +0200</pubDate>
+      <dc:date>2019-08-28T20:55:51.528726+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 16–21 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-21-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-21-ResearchAffairs-coalitions-seats.png"
+        length="334202"
+        type="image/png"/>
+      <pubDate>Wed, 28 Aug 2019 20:55:51 +0200</pubDate>
+      <dc:date>2019-08-28T20:55:51.528726+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 16–21 August 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-21-ResearchAffairs.png"
         length="207754"
         type="image/png"/>
-      <pubDate>Wed, 28 Aug 2019 20:08:41 +0200</pubDate>
-      <dc:date>2019-08-28T20:08:41.019481+02:00</dc:date>
+      <pubDate>Wed, 28 Aug 2019 20:55:51 +0200</pubDate>
+      <dc:date>2019-08-28T20:55:51.528726+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 9–14 August 2019 – Seat Projections for the Parties</title>
@@ -1809,6 +1849,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-08-28T20:08:41.019481+02:00</dc:date>
+    <dc:date>2019-08-28T22:49:05.224721+02:00</dc:date>
   </channel>
 </rss>
