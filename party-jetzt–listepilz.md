@@ -11,6 +11,7 @@ Last result: **4.4%** (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.8–2.3% | 0.6–2.6% | 0.6–2.9% | 0.4–3.6% |
+| [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
@@ -138,7 +139,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 64% | 98% | Median |
 | 1.5–2.5% | 28% | 34% |  |
 | 2.5–3.5% | 5% | 6% |  |
-| 3.5–4.5% | 0.5% | 0.6% | Last Result |
+| 3.5–4.5% | 0.6% | 0.6% | Last Result |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -151,6 +152,7 @@ Last result: **8** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 0 | 0 | 0 | 0 | 0 |
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
