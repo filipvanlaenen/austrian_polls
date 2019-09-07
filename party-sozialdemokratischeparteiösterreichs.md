@@ -164,7 +164,7 @@ Last result: **52** seats (General Election of 15 October 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 41 | 37–45 | 35–47 | 34–48 | 32–50 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 37–46 | 36–47 | 35–49 | 33–51 |
-| [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 40 | 38–42 | 37–42 | 37–42 | 36–43 |
+| [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 40 | 38–41 | 37–42 | 37–42 | 36–43 |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 37–46 | 36–47 | 35–49 | 33–51 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 38 | 34–41 | 33–42 | 33–43 | 31–45 |
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 40 | 35–45 | 34–46 | 33–47 | 31–50 |
@@ -301,7 +301,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 6% | 91% |  |
 | 38 | 9% | 85% |  |
 | 39 | 12% | 77% |  |
-| 40 | 14% | 64% |  |
+| 40 | 13% | 64% |  |
 | 41 | 12% | 51% | Median |
 | 42 | 10% | 39% |  |
 | 43 | 8% | 29% |  |
