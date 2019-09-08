@@ -10,9 +10,9 @@ Last result: **4.4%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.9% | 0.6–2.1% | 0.6–2.3% | 0.4–2.7% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.2% | 0.7–2.5% | 0.6–2.8% | 0.4–3.3% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1.0% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
-| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 2.0% | N/A | N/A | N/A | N/A |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.4% | 0.6–1.6% |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
@@ -139,10 +139,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 77% | 98% | Median |
-| 1.5–2.5% | 20% | 21% |  |
-| 2.5–3.5% | 1.0% | 1.0% |  |
-| 3.5–4.5% | 0% | 0% | Last Result |
+| 0.5–1.5% | 64% | 98% | Median |
+| 1.5–2.5% | 30% | 34% |  |
+| 2.5–3.5% | 5% | 5% |  |
+| 3.5–4.5% | 0.2% | 0.2% | Last Result |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -155,7 +156,7 @@ Last result: **8** seats (General Election of 15 October 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
-| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 0 | 0 | 0 | 0 | 0 |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 0 | 0 | 0 | 0 | 0 |

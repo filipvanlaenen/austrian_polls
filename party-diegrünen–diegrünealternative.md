@@ -10,9 +10,9 @@ Last result: **3.8%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.6% | 10.0–13.0% | 9.5–13.5% | 9.1–13.9% | 8.3–14.8% |
+| N/A | [Poll Average](average.html) | 11.5% | 9.9–12.9% | 9.4–13.4% | 9.0–13.8% | 8.3–14.7% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.9% | 9.3–12.9% | 8.9–13.5% | 8.5–13.9% | 7.8–15.0% |
-| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 11.0% | N/A | N/A | N/A | N/A |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 12.0% | 11.3–12.8% | 11.1–13.0% | 10.9–13.2% | 10.5–13.6% |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.9% | 9.3–12.9% | 8.9–13.5% | 8.5–13.9% | 7.8–15.0% |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
@@ -144,12 +144,12 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.1% | 100% |  |
 | 7.5–8.5% | 0.8% | 99.9% |  |
 | 8.5–9.5% | 5% | 99.1% |  |
-| 9.5–10.5% | 14% | 94% |  |
-| 10.5–11.5% | 27% | 80% |  |
-| 11.5–12.5% | 34% | 53% | Median |
-| 12.5–13.5% | 15% | 19% |  |
+| 9.5–10.5% | 16% | 94% |  |
+| 10.5–11.5% | 29% | 78% |  |
+| 11.5–12.5% | 32% | 49% | Median |
+| 12.5–13.5% | 14% | 17% |  |
 | 13.5–14.5% | 3% | 4% |  |
-| 14.5–15.5% | 0.7% | 0.8% |  |
+| 14.5–15.5% | 0.6% | 0.7% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -162,9 +162,9 @@ Last result: **0** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 18–24 | 18–25 | 17–26 | 15–28 |
+| N/A | [Poll Average](average.html) | 22 | 18–24 | 17–25 | 17–26 | 15–27 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–24 | 16–25 | 16–26 | 14–28 |
-| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–24 | 17–25 | 16–26 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 22 | 21–24 | 21–24 | 20–25 | 20–25 |
 | [22–28 August 2019](2019-08-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 17–24 | 16–25 | 16–26 | 14–28 |
 | [19–22 August 2019](2019-08-22-UniqueResearch.html) | Unique Research <br> profil | 22 | 20–25 | 19–26 | 19–27 | 17–29 |
@@ -308,21 +308,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0.1% | 100% |  |
 | 15 | 0.5% | 99.8% |  |
-| 16 | 1.3% | 99.3% |  |
+| 16 | 1.3% | 99.4% |  |
 | 17 | 3% | 98% |  |
-| 18 | 5% | 95% |  |
-| 19 | 9% | 90% |  |
-| 20 | 12% | 81% |  |
-| 21 | 15% | 69% |  |
-| 22 | 19% | 54% | Median |
-| 23 | 16% | 34% |  |
-| 24 | 10% | 18% |  |
-| 25 | 5% | 8% |  |
-| 26 | 2% | 4% |  |
-| 27 | 0.8% | 1.4% |  |
-| 28 | 0.4% | 0.6% |  |
+| 18 | 6% | 95% |  |
+| 19 | 10% | 89% |  |
+| 20 | 14% | 79% |  |
+| 21 | 15% | 65% |  |
+| 22 | 19% | 50% | Median |
+| 23 | 15% | 32% |  |
+| 24 | 9% | 16% |  |
+| 25 | 4% | 7% |  |
+| 26 | 2% | 3% |  |
+| 27 | 0.7% | 1.2% |  |
+| 28 | 0.3% | 0.5% |  |
 | 29 | 0.1% | 0.2% |  |
-| 30 | 0.1% | 0.1% |  |
+| 30 | 0% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
 
