@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sun, 08 Sep 2019 18:02:04 +0200</pubDate>
+    <pubDate>Mon, 09 Sep 2019 17:47:23 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 30 August–4 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-04-ResearchAffairs.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-09-06T19:20:58.357089+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Market for Der Standard, 2–4 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-04-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 58–71 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 36–47 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 34–45 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 13–21 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-04-Market-seats.png"
+        length="181164"
+        type="image/png"/>
+      <pubDate>Mon, 09 Sep 2019 17:47:23 +0200</pubDate>
+      <dc:date>2019-09-09T17:47:23.108702+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 2–4 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-04-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-04-Market-coalitions-seats.png"
+        length="288247"
+        type="image/png"/>
+      <pubDate>Mon, 09 Sep 2019 17:47:23 +0200</pubDate>
+      <dc:date>2019-09-09T17:47:23.108702+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market for Der Standard, 2–4 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-04-Market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.8–37.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.3–24.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.2–11.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-04-Market.png"
         length="196116"
         type="image/png"/>
-      <pubDate>Sun, 08 Sep 2019 18:02:04 +0200</pubDate>
-      <dc:date>2019-09-08T18:02:04.858856+02:00</dc:date>
+      <pubDate>Mon, 09 Sep 2019 17:47:23 +0200</pubDate>
+      <dc:date>2019-09-09T17:47:23.108702+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Karmasin for PULS 24, 29 August–3 September 2019 – Seat Projections for the Parties</title>
@@ -1949,6 +1969,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-08T18:02:04.858856+02:00</dc:date>
+    <dc:date>2019-09-09T17:47:23.108702+02:00</dc:date>
   </channel>
 </rss>
