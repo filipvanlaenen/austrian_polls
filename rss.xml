@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 14 Sep 2019 18:38:40 +0200</pubDate>
+    <pubDate>Sat, 14 Sep 2019 19:33:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by OGM for KURIER, 1–14 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-14-OGM.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-13-UniqueResearch.png"
         length="174922"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2019 18:38:40 +0200</pubDate>
-      <dc:date>2019-09-14T18:38:40.79123+02:00</dc:date>
+      <pubDate>Sat, 14 Sep 2019 18:52:18 +0200</pubDate>
+      <dc:date>2019-09-14T18:52:18.518143+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 6–11 September 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-11-ResearchAffairs.png"
         length="207625"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2019 17:52:30 +0200</pubDate>
-      <dc:date>2019-09-14T17:52:30.869178+02:00</dc:date>
+      <pubDate>Sat, 14 Sep 2019 19:13:42 +0200</pubDate>
+      <dc:date>2019-09-14T19:13:42.672837+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Karmasin for PULS 24, 5–10 September 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-10-Karmasin.png"
         length="170845"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2019 18:08:41 +0200</pubDate>
-      <dc:date>2019-09-14T18:08:41.861078+02:00</dc:date>
+      <pubDate>Sat, 14 Sep 2019 19:33:12 +0200</pubDate>
+      <dc:date>2019-09-14T19:33:12.929291+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 30 August–4 September 2019 – Seat Projections for the Parties</title>
@@ -2009,6 +2009,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-14T18:38:40.79123+02:00</dc:date>
+    <dc:date>2019-09-14T19:33:12.929291+02:00</dc:date>
   </channel>
 </rss>
