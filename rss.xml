@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 14 Sep 2019 19:33:12 +0200</pubDate>
+    <pubDate>Sat, 14 Sep 2019 20:04:53 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 1–14 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-14-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 63–71 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 39–45 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 35–41 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 13–17 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 18–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-14-OGM-seats.png"
+        length="159553"
+        type="image/png"/>
+      <pubDate>Sat, 14 Sep 2019 20:04:53 +0200</pubDate>
+      <dc:date>2019-09-14T20:04:53.347191+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 1–14 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-14-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-14-OGM-coalitions-seats.png"
+        length="244354"
+        type="image/png"/>
+      <pubDate>Sat, 14 Sep 2019 20:04:53 +0200</pubDate>
+      <dc:date>2019-09-14T20:04:53.347191+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by OGM for KURIER, 1–14 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-14-OGM.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-14-OGM.png"
         length="173152"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2019 18:29:45 +0200</pubDate>
-      <dc:date>2019-09-14T18:29:45.656508+02:00</dc:date>
+      <pubDate>Sat, 14 Sep 2019 20:04:53 +0200</pubDate>
+      <dc:date>2019-09-14T20:04:53.347191+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Voting Intentions</title>
@@ -2009,6 +2029,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-14T19:33:12.929291+02:00</dc:date>
+    <dc:date>2019-09-14T20:04:53.347191+02:00</dc:date>
   </channel>
 </rss>
