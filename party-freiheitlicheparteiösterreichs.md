@@ -167,7 +167,7 @@ Last result: **51** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38 | 34–41 | 33–42 | 32–43 | 30–45 |
-| [1–14 September 2019](2019-09-14-OGM.html) | OGM <br> KURIER | 38 | 36–40 | 36–41 | 35–41 | 34–42 |
+| [1–14 September 2019](2019-09-14-OGM.html) | OGM <br> KURIER | 38 | 36–40 | 35–41 | 35–41 | 34–42 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 38 | 36–40 | 36–41 | 35–41 | 34–42 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36 | 32–40 | 31–42 | 30–43 | 28–45 |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 36 | 34–38 | 34–38 | 33–39 | 32–39 |
@@ -310,10 +310,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 3% | 97% |  |
 | 34 | 6% | 94% |  |
 | 35 | 9% | 88% |  |
-| 36 | 14% | 80% |  |
+| 36 | 13% | 80% |  |
 | 37 | 16% | 66% |  |
 | 38 | 16% | 50% | Median |
-| 39 | 13% | 35% |  |
+| 39 | 14% | 35% |  |
 | 40 | 9% | 21% |  |
 | 41 | 5% | 12% |  |
 | 42 | 3% | 7% |  |
