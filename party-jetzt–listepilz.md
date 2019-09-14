@@ -10,7 +10,11 @@ Last result: **4.4%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.2% | 0.7–2.5% | 0.6–2.8% | 0.4–3.3% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
+| [1–14 September 2019](2019-09-14-OGM.html) | OGM <br> KURIER | 2.0% | 1.2–2.5% | 1.2–2.5% | 1.2–2.5% | 1.2–3.7% |
+| [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 2.0% | N/A | N/A | N/A | N/A |
+| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1.0% | N/A | N/A | N/A | N/A |
+| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 2.0% | N/A | N/A | N/A | N/A |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1.0% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.4% | 0.6–1.6% |
@@ -19,6 +23,7 @@ Last result: **4.4%** (General Election of 15 October 2017)
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 1.5% | 1.1–2.2% | 0.9–2.4% | 0.9–2.6% | 0.7–3.0% |
+| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 2.0% | N/A | N/A | N/A | N/A |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1.0% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
@@ -138,11 +143,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% |  |
-| 0.5–1.5% | 64% | 98% | Median |
-| 1.5–2.5% | 30% | 34% |  |
-| 2.5–3.5% | 5% | 5% |  |
-| 3.5–4.5% | 0.2% | 0.2% | Last Result |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 13% | 100% |  |
+| 1.5–2.5% | 68% | 87% | Median |
+| 2.5–3.5% | 19% | 19% |  |
+| 3.5–4.5% | 0.7% | 0.7% | Last Result |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -155,6 +160,10 @@ Last result: **8** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–14 September 2019](2019-09-14-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 |  |  |  |  |  |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 0 | 0 | 0 | 0 | 0 |
@@ -163,6 +172,7 @@ Last result: **8** seats (General Election of 15 October 2017)
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 0 | 0 | 0 | 0 | 0 |
+| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung |  |  |  |  |  |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
@@ -284,14 +294,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% |  |
-| 2 | 0% | 0% |  |
-| 3 | 0% | 0% |  |
-| 4 | 0% | 0% |  |
-| 5 | 0% | 0% |  |
-| 6 | 0% | 0% |  |
-| 7 | 0% | 0% |  |
+| 0 | 99.9% | 100% | Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0.1% |  |
+| 4 | 0% | 0.1% |  |
+| 5 | 0% | 0.1% |  |
+| 6 | 0% | 0.1% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% | Last Result |
 
 
