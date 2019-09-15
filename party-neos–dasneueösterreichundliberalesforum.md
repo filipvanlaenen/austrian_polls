@@ -167,7 +167,7 @@ Last result: **10** seats (General Election of 15 October 2017)
 | [1–14 September 2019](2019-09-14-OGM.html) | OGM <br> KURIER | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
-| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15 | 12–18 | 11–19 | 11–20 | 10–22 |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
@@ -309,10 +309,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 10% | 20% |  |
 | 19 | 5% | 10% |  |
 | 20 | 3% | 5% |  |
-| 21 | 1.2% | 2% |  |
+| 21 | 1.3% | 2% |  |
 | 22 | 0.6% | 1.0% |  |
 | 23 | 0.3% | 0.4% |  |
-| 24 | 0.1% | 0.1% |  |
+| 24 | 0.1% | 0.2% |  |
 | 25 | 0% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
