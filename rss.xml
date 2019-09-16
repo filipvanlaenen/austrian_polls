@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 14 Sep 2019 23:39:28 +0200</pubDate>
+    <pubDate>Mon, 16 Sep 2019 06:44:04 +0200</pubDate>
     <item>
       <title>Opinion Poll by OGM for KURIER, 1–14 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-14-OGM.html#seats</link>
@@ -368,6 +368,16 @@
         type="image/png"/>
       <pubDate>Mon, 19 Aug 2019 20:16:09 +0200</pubDate>
       <dc:date>2019-08-19T20:16:09.504178+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kowarcz Marktforschung, 26 July–9 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-08-09-KowarczMarktforschung.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.8–33.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.1–22.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 20.0–24.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.7–10.5%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.4–2.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 11.4–14.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-08-09-KowarczMarktforschung.png"
+        length="184490"
+        type="image/png"/>
+      <pubDate>Mon, 16 Sep 2019 06:44:04 +0200</pubDate>
+      <dc:date>2019-09-16T06:44:04.712667+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 1–7 August 2019 – Seat Projections for the Parties</title>
@@ -2089,6 +2099,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-14T23:39:28.024359+02:00</dc:date>
+    <dc:date>2019-09-16T06:44:04.712667+02:00</dc:date>
   </channel>
 </rss>
