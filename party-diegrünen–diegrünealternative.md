@@ -23,7 +23,7 @@ Last result: **3.8%** (General Election of 15 October 2017)
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.1% | 9.5–13.1% | 9.0–13.6% | 8.6–14.1% | 7.9–15.1% |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.1% | 9.4–13.0% | 9.0–13.6% | 8.6–14.1% | 7.9–15.1% |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 11.0% | 9.7–12.5% | 9.3–12.9% | 9.0–13.3% | 8.4–14.1% |
-| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 13.0% | N/A | N/A | N/A | N/A |
+| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 13.0% | 12.0–14.1% | 11.7–14.5% | 11.4–14.7% | 11.0–15.3% |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.1% | 8.6–12.0% | 8.1–12.6% | 7.8–13.0% | 7.1–14.0% |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.3–12.9% | 8.9–13.5% | 8.5–14.0% | 7.8–15.0% |
@@ -179,7 +179,7 @@ Last result: **0** seats (General Election of 15 October 2017)
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 18–24 | 17–26 | 16–27 | 14–28 |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 18–25 | 17–26 | 16–27 | 15–29 |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 21 | 18–23 | 17–24 | 17–25 | 16–26 |
-| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung |  |  |  |  |  |
+| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 25 | 23–27 | 22–28 | 22–28 | 21–29 |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 16–22 | 15–23 | 15–25 | 13–26 |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 19 | 16–21 | 16–22 | 15–23 | 14–24 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 17–24 | 16–25 | 16–26 | 14–28 |

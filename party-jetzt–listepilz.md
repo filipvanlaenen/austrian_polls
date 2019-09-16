@@ -23,7 +23,7 @@ Last result: **4.4%** (General Election of 15 October 2017)
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 1.5% | 1.1–2.2% | 0.9–2.4% | 0.9–2.6% | 0.7–3.0% |
-| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 2.0% | N/A | N/A | N/A | N/A |
+| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.2–3.1% |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.4–3.0% | 1.2–3.3% | 1.1–3.6% | 0.9–4.2% |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 1.0% | 0.7–1.6% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1.0% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
@@ -172,7 +172,7 @@ Last result: **8** seats (General Election of 15 October 2017)
 | [16–21 August 2019](2019-08-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [9–14 August 2019](2019-08-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [8–12 August 2019](2019-08-12-OGM.html) | OGM <br> KURIER | 0 | 0 | 0 | 0 | 0 |
-| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung |  |  |  |  |  |
+| [26 July–9 August 2019](2019-08-09-KowarczMarktforschung.html) | Kowarcz Marktforschung | 0 | 0 | 0 | 0 | 0 |
 | [1–7 August 2019](2019-08-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [2–5 August 2019](2019-08-05-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [25–31 July 2019](2019-07-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
