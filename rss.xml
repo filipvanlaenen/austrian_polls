@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Mon, 16 Sep 2019 06:44:04 +0200</pubDate>
+    <pubDate>Wed, 18 Sep 2019 16:41:41 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-13-UniqueResearch.html#seats</link>
@@ -38,6 +38,16 @@
         type="image/png"/>
       <pubDate>Sat, 14 Sep 2019 20:38:20 +0200</pubDate>
       <dc:date>2019-09-14T20:38:20.860702+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 6–13 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-13-OGM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 33.0–37.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.3–23.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.4–21.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.9–9.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.7–12.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-13-OGM.png"
+        length="173831"
+        type="image/png"/>
+      <pubDate>Wed, 18 Sep 2019 16:41:41 +0200</pubDate>
+      <dc:date>2019-09-18T16:41:41.224782+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 6–11 September 2019 – Seat Projections for the Parties</title>
@@ -2069,6 +2079,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-16T06:44:04.712667+02:00</dc:date>
+    <dc:date>2019-09-18T16:41:41.224782+02:00</dc:date>
   </channel>
 </rss>
