@@ -10,9 +10,9 @@ Last result: **26.0%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.8% | 18.2–21.6% | 17.7–22.3% | 17.1–22.9% | 15.8–24.1% |
-| [1–14 September 2019](2019-09-14-OGM.html) | OGM <br> KURIER | 20.0% | 18.9–21.1% | 18.6–21.4% | 18.4–21.7% | 17.8–22.3% |
+| N/A | [Poll Average](average.html) | 19.7% | 18.1–21.7% | 17.5–22.5% | 16.9–23.1% | 15.7–24.2% |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 20.0% | 19.0–21.1% | 18.7–21.4% | 18.4–21.6% | 18.0–22.2% |
+| [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 20.0% | N/A | N/A | N/A | N/A |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19.0% | 16.9–21.4% | 16.3–22.0% | 15.8–22.6% | 14.9–23.8% |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 19.0% | 18.1–20.0% | 17.8–20.2% | 17.6–20.5% | 17.2–20.9% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.0% | 17.9–22.5% | 17.3–23.2% | 16.8–23.8% | 15.8–25.0% |
@@ -143,18 +143,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.1% | 100% |  |
 | 14.5–15.5% | 0.3% | 99.9% |  |
-| 15.5–16.5% | 1.0% | 99.7% |  |
-| 16.5–17.5% | 3% | 98.7% |  |
-| 17.5–18.5% | 11% | 96% |  |
-| 18.5–19.5% | 27% | 85% |  |
-| 19.5–20.5% | 30% | 58% | Median |
-| 20.5–21.5% | 17% | 27% |  |
-| 21.5–22.5% | 7% | 10% |  |
+| 15.5–16.5% | 1.3% | 99.6% |  |
+| 16.5–17.5% | 4% | 98% |  |
+| 17.5–18.5% | 13% | 95% |  |
+| 18.5–19.5% | 28% | 82% |  |
+| 19.5–20.5% | 27% | 54% | Median |
+| 20.5–21.5% | 16% | 28% |  |
+| 21.5–22.5% | 7% | 12% |  |
 | 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.8% | 1.1% |  |
-| 24.5–25.5% | 0.2% | 0.2% |  |
+| 23.5–24.5% | 1.0% | 1.3% |  |
+| 24.5–25.5% | 0.2% | 0.3% |  |
 | 25.5–26.5% | 0% | 0% | Last Result |
 
 
@@ -166,9 +167,9 @@ Last result: **51** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 34–41 | 33–42 | 32–43 | 30–45 |
-| [1–14 September 2019](2019-09-14-OGM.html) | OGM <br> KURIER | 38 | 36–40 | 35–41 | 35–41 | 34–42 |
+| N/A | [Poll Average](average.html) | 37 | 34–41 | 33–42 | 32–43 | 29–46 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 38 | 36–40 | 36–41 | 35–41 | 34–42 |
+| [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36 | 32–40 | 31–42 | 30–43 | 28–45 |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 36 | 34–38 | 34–38 | 33–39 | 32–39 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38 | 34–43 | 33–43 | 31–44 | 30–47 |
@@ -301,28 +302,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 27 | 0% | 100% |  |
+| 27 | 0.1% | 100% |  |
 | 28 | 0.1% | 99.9% |  |
-| 29 | 0.2% | 99.8% |  |
-| 30 | 0.5% | 99.6% |  |
-| 31 | 0.9% | 99.1% |  |
+| 29 | 0.3% | 99.8% |  |
+| 30 | 0.6% | 99.5% |  |
+| 31 | 1.1% | 98.8% |  |
 | 32 | 2% | 98% |  |
-| 33 | 3% | 97% |  |
-| 34 | 5% | 94% |  |
-| 35 | 9% | 89% |  |
-| 36 | 13% | 80% |  |
-| 37 | 16% | 66% |  |
-| 38 | 16% | 51% | Median |
-| 39 | 13% | 35% |  |
-| 40 | 9% | 21% |  |
-| 41 | 5% | 12% |  |
-| 42 | 3% | 7% |  |
-| 43 | 2% | 4% |  |
-| 44 | 1.0% | 2% |  |
-| 45 | 0.5% | 1.0% |  |
-| 46 | 0.2% | 0.4% |  |
+| 33 | 3% | 96% |  |
+| 34 | 6% | 93% |  |
+| 35 | 10% | 86% |  |
+| 36 | 14% | 76% |  |
+| 37 | 15% | 62% | Median |
+| 38 | 14% | 47% |  |
+| 39 | 12% | 33% |  |
+| 40 | 8% | 21% |  |
+| 41 | 5% | 13% |  |
+| 42 | 3% | 8% |  |
+| 43 | 2% | 5% |  |
+| 44 | 1.2% | 2% |  |
+| 45 | 0.7% | 1.2% |  |
+| 46 | 0.3% | 0.5% |  |
 | 47 | 0.1% | 0.2% |  |
-| 48 | 0% | 0.1% |  |
+| 48 | 0.1% | 0.1% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% | Last Result |
