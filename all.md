@@ -9,6 +9,7 @@ The table below lists all polls registered and analyzed so far.
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 33–37% <br> 63–71 | 20–24% <br> 39–45 | 18–22% <br> 35–41 | 7–9% <br> 13–17 | 1–3% <br> 0 | 10–12% <br> 18–23 | N/A <br> N/A |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 58–75 | 19–26% <br> 35–49 | 16–23% <br> 30–43 | 7–12% <br> 12–22 | 0–2% <br> 0 | 9–14% <br> 16–26 | N/A <br> N/A |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 33–37% <br> 63–70 | 21–24% <br> 39–44 | 18–20% <br> 33–39 | 8–10% <br> 15–19 | 2–3% <br> 0 | 11–13% <br> 20–25 | N/A <br> N/A |
+| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 31–37% <br> 58–71 | 19–25% <br> 36–47 | 18–24% <br> 34–45 | 8–12% <br> 15–23 | 1–3% <br> 0 | 8–12% <br> 15–23 | N/A <br> N/A |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 60–76 | 19–26% <br> 35–49 | 17–24% <br> 31–44 | 6–11% <br> 11–20 | 0–2% <br> 0 | 8–14% <br> 16–26 | N/A <br> N/A |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 31–37% <br> 58–71 | 19–25% <br> 36–47 | 18–24% <br> 34–45 | 7–11% <br> 13–21 | 1–3% <br> 0 | 9–13% <br> 17–25 | N/A <br> N/A |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 33–37% <br> 63–70 | 20–22% <br> 37–42 | 19–21% <br> 35–40 | 8–10% <br> 15–19 | 1% <br> 0 | 11–13% <br> 20–25 | N/A <br> N/A |
