@@ -15,6 +15,7 @@ Last result: **4.4%** (General Election of 15 October 2017)
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 2.0% | 1.6–2.4% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1.0% | 0.6–1.8% | 0.5–2.0% | 0.4–2.3% | 0.3–2.7% |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.6–2.6% | 1.4–2.8% |
+| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 1.0% | 0.6–1.8% | 0.5–2.1% | 0.4–2.3% | 0.3–2.8% |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.2% | 1.0–3.7% |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 1.0% | 0.8–1.3% | 0.7–1.4% | 0.7–1.4% | 0.6–1.6% |
@@ -147,7 +148,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 20% | 98.7% |  |
 | 1.5–2.5% | 73% | 79% | Median |
 | 2.5–3.5% | 6% | 7% |  |
-| 3.5–4.5% | 0.2% | 0.2% | Last Result |
+| 3.5–4.5% | 0.1% | 0.1% | Last Result |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -164,6 +165,7 @@ Last result: **8** seats (General Election of 15 October 2017)
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 0 | 0 | 0 | 0 | 0 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 0 | 0 | 0 | 0 | 0 |
+| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 0 | 0 | 0 | 0 | 0 |

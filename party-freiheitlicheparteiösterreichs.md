@@ -15,6 +15,7 @@ Last result: **26.0%** (General Election of 15 October 2017)
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 20.0% | 18.9–21.1% | 18.6–21.4% | 18.4–21.7% | 17.8–22.3% |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19.0% | 16.9–21.4% | 16.3–22.0% | 15.8–22.6% | 14.9–23.8% |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 19.0% | 18.1–20.0% | 17.8–20.2% | 17.6–20.5% | 17.2–20.9% |
+| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 21.0% | 19.3–23.0% | 18.8–23.5% | 18.4–24.0% | 17.5–25.0% |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.0% | 17.9–22.5% | 17.3–23.2% | 16.8–23.8% | 15.8–25.0% |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 21.0% | 19.2–22.9% | 18.7–23.5% | 18.3–24.0% | 17.5–24.9% |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 20.0% | 19.1–21.0% | 18.8–21.2% | 18.6–21.5% | 18.2–21.9% |
@@ -150,10 +151,10 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 11% | 96% |  |
 | 18.5–19.5% | 27% | 85% |  |
 | 19.5–20.5% | 30% | 58% | Median |
-| 20.5–21.5% | 17% | 27% |  |
-| 21.5–22.5% | 7% | 10% |  |
+| 20.5–21.5% | 17% | 28% |  |
+| 21.5–22.5% | 7% | 11% |  |
 | 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.8% | 1.1% |  |
+| 23.5–24.5% | 0.9% | 1.1% |  |
 | 24.5–25.5% | 0.2% | 0.2% |  |
 | 25.5–26.5% | 0% | 0% | Last Result |
 
@@ -171,6 +172,7 @@ Last result: **51** seats (General Election of 15 October 2017)
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 38 | 36–40 | 36–41 | 35–41 | 34–42 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36 | 32–40 | 31–42 | 30–43 | 28–45 |
 | [5–10 September 2019](2019-09-10-Karmasin.html) | Karmasin <br> PULS 24 | 36 | 34–38 | 34–38 | 33–39 | 32–39 |
+| [5–8 September 2019](2019-09-08-Market.html) | Market <br> Der Standard | 40 | 36–43 | 35–44 | 34–45 | 33–47 |
 | [30 August–4 September 2019](2019-09-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38 | 34–43 | 33–43 | 31–44 | 30–47 |
 | [2–4 September 2019](2019-09-04-Market.html) | Market <br> Der Standard | 40 | 36–43 | 35–44 | 34–45 | 33–47 |
 | [29 August–3 September 2019](2019-09-03-Karmasin.html) | Karmasin <br> PULS 24 | 38 | 36–40 | 35–40 | 35–40 | 34–41 |
@@ -313,14 +315,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 14% | 80% |  |
 | 37 | 16% | 66% |  |
 | 38 | 16% | 51% | Median |
-| 39 | 13% | 34% |  |
-| 40 | 9% | 21% |  |
-| 41 | 5% | 12% |  |
+| 39 | 13% | 35% |  |
+| 40 | 9% | 22% |  |
+| 41 | 5% | 13% |  |
 | 42 | 3% | 7% |  |
 | 43 | 2% | 4% |  |
 | 44 | 1.0% | 2% |  |
-| 45 | 0.5% | 1.0% |  |
-| 46 | 0.2% | 0.4% |  |
+| 45 | 0.6% | 1.0% |  |
+| 46 | 0.3% | 0.4% |  |
 | 47 | 0.1% | 0.2% |  |
 | 48 | 0% | 0.1% |  |
 | 49 | 0% | 0% |  |
