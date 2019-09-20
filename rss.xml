@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 20 Sep 2019 11:50:38 +0200</pubDate>
+    <pubDate>Fri, 20 Sep 2019 13:11:28 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-13-UniqueResearch.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-09-14T20:38:20.860702+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by OGM for KURIER, 6–13 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-13-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 63–71 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 39–45 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 35–41 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 13–17 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 18–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-13-OGM-seats.png"
+        length="160355"
+        type="image/png"/>
+      <pubDate>Fri, 20 Sep 2019 13:11:28 +0200</pubDate>
+      <dc:date>2019-09-20T13:11:28.211764+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 6–13 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-13-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-13-OGM-coalitions-seats.png"
+        length="245113"
+        type="image/png"/>
+      <pubDate>Fri, 20 Sep 2019 13:11:28 +0200</pubDate>
+      <dc:date>2019-09-20T13:11:28.211764+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by OGM for KURIER, 6–13 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-13-OGM.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 33.0–37.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.3–23.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.4–21.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.9–9.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.7–12.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-13-OGM.png"
         length="173831"
         type="image/png"/>
-      <pubDate>Thu, 19 Sep 2019 07:36:45 +0200</pubDate>
-      <dc:date>2019-09-19T07:36:45.513287+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 13:11:28 +0200</pubDate>
+      <dc:date>2019-09-20T13:11:28.211764+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 6–11 September 2019 – Seat Projections for the Parties</title>
@@ -110,14 +130,34 @@
       <dc:date>2019-09-14T23:39:28.024359+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Market for Der Standard, 5–8 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-08-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 58–71 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 36–47 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 34–45 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 15–23 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 15–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-08-Market-seats.png"
+        length="183290"
+        type="image/png"/>
+      <pubDate>Fri, 20 Sep 2019 12:22:34 +0200</pubDate>
+      <dc:date>2019-09-20T12:22:34.218278+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 5–8 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-08-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-08-Market-coalitions-seats.png"
+        length="289331"
+        type="image/png"/>
+      <pubDate>Fri, 20 Sep 2019 12:22:34 +0200</pubDate>
+      <dc:date>2019-09-20T12:22:34.218278+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market for Der Standard, 5–8 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-08-Market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.8–37.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.4–24.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.1–12.2%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.1–12.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-08-Market.png"
         length="197423"
         type="image/png"/>
-      <pubDate>Fri, 20 Sep 2019 11:50:38 +0200</pubDate>
-      <dc:date>2019-09-20T11:50:38.40663+02:00</dc:date>
+      <pubDate>Fri, 20 Sep 2019 12:22:34 +0200</pubDate>
+      <dc:date>2019-09-20T12:22:34.218278+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 30 August–4 September 2019 – Seat Projections for the Parties</title>
@@ -2089,6 +2129,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T11:50:38.40663+02:00</dc:date>
+    <dc:date>2019-09-20T13:11:28.211764+02:00</dc:date>
   </channel>
 </rss>
