@@ -174,7 +174,7 @@ Last result: **52** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 42 | 37–45 | 35–46 | 33–47 | 31–49 |
-| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 43 | 40–47 | 39–48 | 39–48 | 37–50 |
+| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 43 | 40–47 | 39–48 | 39–49 | 37–50 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 43 | 40–47 | 39–48 | 38–49 | 36–51 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 36 | 32–40 | 31–40 | 30–41 | 29–43 |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 41 | 39–43 | 39–44 | 38–44 | 38–45 |
@@ -333,7 +333,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 6% | 14% |  |
 | 46 | 4% | 8% |  |
 | 47 | 2% | 4% |  |
-| 48 | 1.2% | 2% |  |
+| 48 | 1.1% | 2% |  |
 | 49 | 0.6% | 1.1% |  |
 | 50 | 0.3% | 0.4% |  |
 | 51 | 0.1% | 0.2% |  |
