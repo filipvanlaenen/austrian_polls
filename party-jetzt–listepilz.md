@@ -10,9 +10,9 @@ Last result: **4.4%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.6% | 1.3–2.9% |
-| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | N/A | N/A | N/A | N/A |
-| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 2.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 2.0% | 1.6–2.6% | 1.5–2.8% | 1.4–3.0% | 1.1–3.4% |
+| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 2.0% | 1.5–2.8% | 1.3–3.0% | 1.2–3.2% | 1.0–3.6% |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 3.5% | N/A | N/A | N/A | N/A |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 1.0% | N/A | N/A | N/A | N/A |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 2.0% | 1.7–2.4% | 1.6–2.5% | 1.5–2.7% | 1.4–2.9% |
@@ -149,10 +149,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 91% | 96% | Median |
-| 2.5–3.5% | 5% | 5% |  |
-| 3.5–4.5% | 0% | 0% | Last Result |
+| 0.5–1.5% | 8% | 100% |  |
+| 1.5–2.5% | 81% | 92% | Median |
+| 2.5–3.5% | 11% | 11% |  |
+| 3.5–4.5% | 0.2% | 0.2% | Last Result |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -164,8 +165,8 @@ Last result: **8** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
+| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 0 | 0 | 0 | 0 | 0 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung |  |  |  |  |  |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin |  |  |  |  |  |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 0 | 0 | 0 | 0 | 0 |
