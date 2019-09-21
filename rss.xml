@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 21 Sep 2019 18:33:47 +0200</pubDate>
+    <pubDate>Sat, 21 Sep 2019 21:23:41 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 13–18 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 59–70 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 39–49 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 33–43 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 12–18 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 19–26 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs-seats.png"
+        length="172729"
+        type="image/png"/>
+      <pubDate>Sat, 21 Sep 2019 21:23:41 +0200</pubDate>
+      <dc:date>2019-09-21T21:23:41.218124+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 13–18 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs-coalitions-seats.png"
+        length="281439"
+        type="image/png"/>
+      <pubDate>Sat, 21 Sep 2019 21:23:41 +0200</pubDate>
+      <dc:date>2019-09-21T21:23:41.218124+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 13–18 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs.png"
         length="192845"
         type="image/png"/>
-      <pubDate>Sat, 21 Sep 2019 17:24:55 +0200</pubDate>
-      <dc:date>2019-09-21T17:24:55.004846+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2019 21:23:41 +0200</pubDate>
+      <dc:date>2019-09-21T21:23:41.218124+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 16–18 September 2019 – Voting Intentions</title>
@@ -2169,6 +2189,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-21T18:33:47.235016+02:00</dc:date>
+    <dc:date>2019-09-21T21:23:41.218124+02:00</dc:date>
   </channel>
 </rss>
