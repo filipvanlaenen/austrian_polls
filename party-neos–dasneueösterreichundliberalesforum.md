@@ -10,11 +10,11 @@ Last result: **5.3%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 7.1–9.0% | 6.8–9.3% | 6.6–9.6% | 6.1–10.3% |
+| N/A | [Poll Average](average.html) | 8.2% | 7.2–9.3% | 6.9–9.6% | 6.6–9.9% | 6.0–10.5% |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 7.9% | 6.8–9.3% | 6.5–9.7% | 6.3–10.0% | 5.8–10.7% |
-| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 8.0% | N/A | N/A | N/A | N/A |
-| [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 9.0% | N/A | N/A | N/A | N/A |
+| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 8.0% | 6.9–9.5% | 6.5–9.9% | 6.2–10.3% | 5.7–11.0% |
+| [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 9.0% | 8.4–9.7% | 8.2–9.9% | 8.0–10.1% | 7.7–10.4% |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 7.3–8.7% | 7.1–9.0% | 7.0–9.2% | 6.7–9.5% |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 8.0% | 7.3–8.8% | 7.1–9.0% | 6.9–9.2% | 6.6–9.6% |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.6–10.8% | 7.1–11.4% | 6.8–11.8% | 6.2–12.7% |
@@ -148,13 +148,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
+| 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% | Last Result |
 | 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 22% | 98% |  |
-| 7.5–8.5% | 52% | 75% | Median |
-| 8.5–9.5% | 20% | 23% |  |
-| 9.5–10.5% | 3% | 3% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 19% | 98% |  |
+| 7.5–8.5% | 44% | 79% | Median |
+| 8.5–9.5% | 29% | 35% |  |
+| 9.5–10.5% | 6% | 6% |  |
+| 10.5–11.5% | 0.4% | 0.5% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -166,11 +167,11 @@ Last result: **10** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 12–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 12–18 | 11–20 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
-| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 15 |  |  |  |  |
-| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung |  |  |  |  |  |
-| [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin |  |  |  |  |  |
+| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 15 | 13–17 | 12–18 | 11–19 | 11–20 |
+| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 15 | 12–18 | 12–18 | 11–19 | 10–20 |
+| [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
 | [6–11 September 2019](2019-09-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
@@ -306,17 +307,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% | Last Result |
-| 11 | 0.7% | 99.9% |  |
-| 12 | 4% | 99.1% |  |
-| 13 | 9% | 95% |  |
-| 14 | 23% | 86% |  |
-| 15 | 29% | 63% | Median |
-| 16 | 20% | 35% |  |
-| 17 | 10% | 14% |  |
-| 18 | 3% | 5% |  |
-| 19 | 0.9% | 1.4% |  |
-| 20 | 0.4% | 0.5% |  |
+| 10 | 0.2% | 100% | Last Result |
+| 11 | 0.9% | 99.8% |  |
+| 12 | 4% | 98.9% |  |
+| 13 | 8% | 95% |  |
+| 14 | 19% | 87% |  |
+| 15 | 26% | 68% | Median |
+| 16 | 21% | 43% |  |
+| 17 | 14% | 21% |  |
+| 18 | 6% | 8% |  |
+| 19 | 1.4% | 2% |  |
+| 20 | 0.5% | 0.6% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
