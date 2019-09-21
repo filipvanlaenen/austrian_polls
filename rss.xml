@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 21 Sep 2019 16:12:46 +0200</pubDate>
+    <pubDate>Sat, 21 Sep 2019 18:33:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 13–18 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs.png"
         length="192845"
         type="image/png"/>
-      <pubDate>Sat, 21 Sep 2019 16:00:25 +0200</pubDate>
-      <dc:date>2019-09-21T16:00:25.808208+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2019 17:24:55 +0200</pubDate>
+      <dc:date>2019-09-21T17:24:55.004846+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 16–18 September 2019 – Voting Intentions</title>
@@ -26,8 +26,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-18-Market.png"
         length="194509"
         type="image/png"/>
-      <pubDate>Sat, 21 Sep 2019 16:12:46 +0200</pubDate>
-      <dc:date>2019-09-21T16:12:46.297753+02:00</dc:date>
+      <pubDate>Sat, 21 Sep 2019 17:47:38 +0200</pubDate>
+      <dc:date>2019-09-21T17:47:38.910521+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Institut für Grundlagenforschung, 1–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-18-InstitutfürGrundlagenforschung.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.6–35.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 16.3–22.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 23.0–29.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.2–10.3%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 2.4–5.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.9–13.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-18-InstitutfürGrundlagenforschung.png"
+        length="206636"
+        type="image/png"/>
+      <pubDate>Sat, 21 Sep 2019 18:10:36 +0200</pubDate>
+      <dc:date>2019-09-21T18:10:36.751424+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Karmasin, 11–17 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-17-Karmasin.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 32.3–35.7%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.5–23.5%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.6–21.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.0–10.1%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0.7–1.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 11.8–14.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-17-Karmasin.png"
+        length="169540"
+        type="image/png"/>
+      <pubDate>Sat, 21 Sep 2019 18:33:47 +0200</pubDate>
+      <dc:date>2019-09-21T18:33:47.235016+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Seat Projections for the Parties</title>
@@ -2149,6 +2169,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-21T16:12:46.297753+02:00</dc:date>
+    <dc:date>2019-09-21T18:33:47.235016+02:00</dc:date>
   </channel>
 </rss>
