@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 20 Sep 2019 13:11:28 +0200</pubDate>
+    <pubDate>Sat, 21 Sep 2019 16:12:46 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 13–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.1–37.0%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.5–25.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 17.6–22.6%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.5–9.9%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.1–14.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-18-ResearchAffairs.png"
+        length="192845"
+        type="image/png"/>
+      <pubDate>Sat, 21 Sep 2019 16:00:25 +0200</pubDate>
+      <dc:date>2019-09-21T16:00:25.808208+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 16–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-18-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.8–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.2–26.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 17.4–22.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 6.3–10.0%&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 1.2–3.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.1–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-18-Market.png"
+        length="194509"
+        type="image/png"/>
+      <pubDate>Sat, 21 Sep 2019 16:12:46 +0200</pubDate>
+      <dc:date>2019-09-21T16:12:46.297753+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 2–13 September 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-13-UniqueResearch.html#seats</link>
@@ -2129,6 +2149,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-20T13:11:28.211764+02:00</dc:date>
+    <dc:date>2019-09-21T16:12:46.297753+02:00</dc:date>
   </channel>
 </rss>
