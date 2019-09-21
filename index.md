@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 32–37% <br> 60–70 | 20–24% <br> 39–45 | 18–22% <br> 35–41 | 7–9% <br> 13–17 | 2–3% <br> 0 | 10–14% <br> 19–27 | N/A <br> N/A |
-| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 31–37% <br> 60–71 | 20–25% <br> 39–48 | 18–22% <br> 33–42 | 7–10% <br> 12–18 | 1–3% <br> 0 | 10–14% <br> 18–27 | N/A <br> N/A |
+| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 59–70 | 20–26% <br> 39–48 | 18–23% <br> 33–43 | 6–10% <br> 12–18 | 1–3% <br> 0 | 10–14% <br> 19–27 | N/A <br> N/A |
+| [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 32–38% <br> 61–73 | 20–26% <br> 38–49 | 17–23% <br> 32–43 | 6–10% <br> 12–19 | 1–3% <br> 0 | 9–13% <br> 16–25 | N/A <br> N/A |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 31–35% <br> 60–67 | 20–24% <br> 39–45 | 18–22% <br> 35–41 | 7–9% <br> 13–17 | 2–3% <br> 0 | 12–14% <br> 22–27 | N/A <br> N/A |
