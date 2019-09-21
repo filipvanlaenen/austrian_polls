@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 30–37% <br> 57–70 | 18–25% <br> 33–47 | 18–28% <br> 34–53 | 7–10% <br> 12–18 | 1–4% <br> 0–7 | 10–14% <br> 17–26 | N/A <br> N/A |
-| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 59–70 | 20–26% <br> 39–48 | 18–23% <br> 33–43 | 6–10% <br> 12–18 | 1–3% <br> 0 | 10–14% <br> 19–26 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 30–37% <br> 57–71 | 18–25% <br> 33–47 | 18–28% <br> 34–53 | 7–10% <br> 12–18 | 1–4% <br> 0–7 | 10–14% <br> 17–26 | N/A <br> N/A |
+| [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 59–70 | 20–26% <br> 39–49 | 18–23% <br> 33–43 | 6–10% <br> 12–18 | 1–3% <br> 0 | 10–14% <br> 19–26 | N/A <br> N/A |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 32–38% <br> 60–72 | 20–26% <br> 38–49 | 17–23% <br> 33–43 | 6–10% <br> 11–19 | 1–3% <br> 0 | 9–13% <br> 17–25 | N/A <br> N/A |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 29–35% <br> 54–67 | 16–22% <br> 30–41 | 23–29% <br> 43–56 | 6–10% <br> 11–19 | 2–5% <br> 0–9 | 9–14% <br> 16–25 | N/A <br> N/A |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 32–36% <br> 61–67 | 21–24% <br> 38–44 | 19–21% <br> 35–40 | 8–10% <br> 15–19 | 1% <br> 0 | 12–14% <br> 22–26 | N/A <br> N/A |
