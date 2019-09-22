@@ -176,10 +176,10 @@ Last result: **51** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 36–48 | 35–51 | 34–53 | 32–55 |
+| N/A | [Poll Average](average.html) | 38 | 36–48 | 35–51 | 34–52 | 32–55 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38 | 35–41 | 34–42 | 33–43 | 32–44 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 38 | 34–41 | 33–42 | 33–43 | 31–45 |
-| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 49 | 45–53 | 44–55 | 43–56 | 41–58 |
+| [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 49 | 45–53 | 44–54 | 43–55 | 41–58 |
 | [11–17 September 2019](2019-09-17-Karmasin.html) | Karmasin | 37 | 36–39 | 35–40 | 35–40 | 34–41 |
 | [2–13 September 2019](2019-09-13-UniqueResearch.html) | Unique Research <br> profil | 38 | 36–40 | 36–41 | 35–41 | 34–42 |
 | [6–13 September 2019](2019-09-13-OGM.html) | OGM <br> KURIER | 38 | 36–40 | 35–41 | 35–41 | 34–42 |
@@ -316,31 +316,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0.1% | 99.9% |  |
 | 32 | 0.4% | 99.8% |  |
 | 33 | 1.0% | 99.4% |  |
 | 34 | 2% | 98% |  |
 | 35 | 5% | 96% |  |
 | 36 | 11% | 91% |  |
-| 37 | 16% | 79% |  |
+| 37 | 16% | 80% |  |
 | 38 | 18% | 64% | Median |
 | 39 | 14% | 46% |  |
 | 40 | 8% | 32% |  |
 | 41 | 4% | 24% |  |
 | 42 | 2% | 20% |  |
 | 43 | 1.1% | 18% |  |
-| 44 | 0.8% | 17% |  |
-| 45 | 1.0% | 16% |  |
-| 46 | 1.3% | 15% |  |
+| 44 | 0.9% | 17% |  |
+| 45 | 1.1% | 16% |  |
+| 46 | 1.5% | 15% |  |
 | 47 | 2% | 13% |  |
-| 48 | 2% | 12% |  |
+| 48 | 2% | 11% |  |
 | 49 | 2% | 10% |  |
 | 50 | 2% | 7% |  |
-| 51 | 2% | 6% | Last Result |
-| 52 | 1.4% | 4% |  |
-| 53 | 1.0% | 3% |  |
-| 54 | 0.7% | 2% |  |
-| 55 | 0.4% | 0.9% |  |
+| 51 | 2% | 5% | Last Result |
+| 52 | 1.2% | 4% |  |
+| 53 | 1.0% | 2% |  |
+| 54 | 0.7% | 1.5% |  |
+| 55 | 0.4% | 0.8% |  |
 | 56 | 0.2% | 0.4% |  |
 | 57 | 0.1% | 0.2% |  |
 | 58 | 0.1% | 0.1% |  |
