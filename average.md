@@ -208,18 +208,18 @@ Only polls for which at least the sample size has been published are included in
 | 59 | 2% | 95% |  |
 | 60 | 3% | 93% |  |
 | 61 | 6% | 90% |  |
-| 62 | 9% | 84% | Last Result |
+| 62 | 10% | 84% | Last Result |
 | 63 | 13% | 74% |  |
-| 64 | 13% | 61% | Median |
-| 65 | 14% | 48% |  |
-| 66 | 12% | 33% |  |
+| 64 | 14% | 61% | Median |
+| 65 | 14% | 47% |  |
+| 66 | 11% | 33% |  |
 | 67 | 8% | 22% |  |
 | 68 | 6% | 14% |  |
 | 69 | 4% | 8% |  |
 | 70 | 2% | 4% |  |
 | 71 | 1.1% | 2% |  |
 | 72 | 0.6% | 1.0% |  |
-| 73 | 0.3% | 0.5% |  |
+| 73 | 0.2% | 0.5% |  |
 | 74 | 0.1% | 0.2% |  |
 | 75 | 0.1% | 0.1% |  |
 | 76 | 0% | 0% |  |
@@ -244,17 +244,17 @@ Only polls for which at least the sample size has been published are included in
 | 37 | 2% | 92% |  |
 | 38 | 3% | 89% |  |
 | 39 | 6% | 86% |  |
-| 40 | 10% | 80% |  |
+| 40 | 11% | 81% |  |
 | 41 | 16% | 70% |  |
-| 42 | 18% | 54% | Median |
+| 42 | 18% | 53% | Median |
 | 43 | 14% | 35% |  |
-| 44 | 10% | 22% |  |
-| 45 | 6% | 12% |  |
+| 44 | 9% | 21% |  |
+| 45 | 5% | 12% |  |
 | 46 | 3% | 7% |  |
 | 47 | 2% | 4% |  |
 | 48 | 1.0% | 2% |  |
 | 49 | 0.5% | 0.9% |  |
-| 50 | 0.3% | 0.4% |  |
+| 50 | 0.2% | 0.4% |  |
 | 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0.1% | Last Result |
 | 53 | 0% | 0% |  |
@@ -271,13 +271,13 @@ Only polls for which at least the sample size has been published are included in
 | 32 | 0.2% | 99.9% |  |
 | 33 | 0.6% | 99.7% |  |
 | 34 | 2% | 99.1% |  |
-| 35 | 5% | 97% |  |
+| 35 | 4% | 97% |  |
 | 36 | 10% | 93% |  |
-| 37 | 17% | 83% |  |
-| 38 | 18% | 66% | Median |
+| 37 | 16% | 83% |  |
+| 38 | 19% | 67% | Median |
 | 39 | 15% | 48% |  |
 | 40 | 9% | 33% |  |
-| 41 | 4% | 24% |  |
+| 41 | 5% | 24% |  |
 | 42 | 3% | 19% |  |
 | 43 | 2% | 16% |  |
 | 44 | 1.1% | 15% |  |
@@ -312,7 +312,7 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 20% | 87% |  |
 | 15 | 27% | 67% | Median |
 | 16 | 21% | 40% |  |
-| 17 | 12% | 19% |  |
+| 17 | 13% | 19% |  |
 | 18 | 5% | 6% |  |
 | 19 | 1.2% | 2% |  |
 | 20 | 0.4% | 0.5% |  |
@@ -367,16 +367,16 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 0.7% | 99.8% |  |
 | 17 | 2% | 99.1% |  |
 | 18 | 4% | 97% |  |
-| 19 | 8% | 94% |  |
+| 19 | 8% | 93% |  |
 | 20 | 13% | 86% |  |
-| 21 | 11% | 72% |  |
-| 22 | 11% | 61% | Median |
-| 23 | 12% | 50% |  |
-| 24 | 16% | 37% |  |
-| 25 | 14% | 22% |  |
+| 21 | 12% | 73% |  |
+| 22 | 10% | 60% | Median |
+| 23 | 13% | 50% |  |
+| 24 | 15% | 37% |  |
+| 25 | 13% | 21% |  |
 | 26 | 6% | 8% |  |
 | 27 | 2% | 2% |  |
-| 28 | 0.3% | 0.4% |  |
+| 28 | 0.4% | 0.4% |  |
 | 29 | 0% | 0.1% |  |
 | 30 | 0% | 0% |  |
 
@@ -389,7 +389,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Österreichische Volkspartei – Sozialdemokratische Partei Österreichs | 114 | 106 | 98% | 98–111 | 95–112 | 92–114 | 89–116 |
+| Österreichische Volkspartei – Sozialdemokratische Partei Österreichs | 114 | 106 | 98% | 98–111 | 95–112 | 92–113 | 89–116 |
 | Österreichische Volkspartei – Freiheitliche Partei Österreichs | 113 | 103 | 100% | 100–109 | 99–111 | 98–112 | 97–117 |
 | Österreichische Volkspartei – NEOS–Das Neue Österreich und Liberales Forum – Die Grünen–Die Grüne Alternative | 72 | 102 | 98% | 96–106 | 94–106 | 92–107 | 88–109 |
 | Österreichische Volkspartei – Die Grünen–Die Grüne Alternative | 62 | 87 | 4% | 81–90 | 79–91 | 77–92 | 74–94 |
@@ -397,7 +397,7 @@ Only polls for which at least the sample size has been published are included in
 | Österreichische Volkspartei – NEOS–Das Neue Österreich und Liberales Forum | 72 | 80 | 0% | 75–83 | 73–84 | 72–85 | 68–88 |
 | Sozialdemokratische Partei Österreichs – NEOS–Das Neue Österreich und Liberales Forum – Die Grünen–Die Grüne Alternative | 62 | 80 | 0% | 73–83 | 71–84 | 67–85 | 64–86 |
 | Österreichische Volkspartei | 62 | 64 | 0% | 60–68 | 59–69 | 57–70 | 54–72 |
-| Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative | 52 | 65 | 0% | 58–68 | 56–69 | 53–69 | 50–71 |
+| Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative | 52 | 64 | 0% | 58–68 | 56–69 | 53–69 | 50–71 |
 | Sozialdemokratische Partei Österreichs | 52 | 42 | 0% | 37–45 | 35–46 | 33–47 | 31–49 |
 
 ### Österreichische Volkspartei – Sozialdemokratische Partei Österreichs
@@ -422,23 +422,23 @@ Only polls for which at least the sample size has been published are included in
 | 98 | 1.4% | 91% |  |
 | 99 | 1.1% | 90% |  |
 | 100 | 1.3% | 89% |  |
-| 101 | 1.2% | 87% |  |
+| 101 | 1.3% | 87% |  |
 | 102 | 3% | 86% |  |
 | 103 | 5% | 83% |  |
 | 104 | 8% | 78% |  |
 | 105 | 11% | 70% |  |
-| 106 | 13% | 59% | Median |
+| 106 | 12% | 59% | Median |
 | 107 | 11% | 46% |  |
 | 108 | 10% | 36% |  |
-| 109 | 7% | 26% |  |
-| 110 | 6% | 19% |  |
-| 111 | 6% | 13% |  |
+| 109 | 8% | 26% |  |
+| 110 | 6% | 18% |  |
+| 111 | 5% | 12% |  |
 | 112 | 3% | 7% |  |
 | 113 | 2% | 4% |  |
-| 114 | 1.3% | 3% | Last Result |
+| 114 | 1.1% | 2% | Last Result |
 | 115 | 0.6% | 1.2% |  |
 | 116 | 0.3% | 0.6% |  |
-| 117 | 0.2% | 0.3% |  |
+| 117 | 0.1% | 0.3% |  |
 | 118 | 0.1% | 0.1% |  |
 | 119 | 0% | 0% |  |
 
@@ -456,7 +456,7 @@ Only polls for which at least the sample size has been published are included in
 | 100 | 8% | 92% |  |
 | 101 | 12% | 84% |  |
 | 102 | 13% | 72% | Median |
-| 103 | 13% | 59% |  |
+| 103 | 12% | 59% |  |
 | 104 | 11% | 47% |  |
 | 105 | 8% | 36% |  |
 | 106 | 7% | 28% |  |
@@ -504,21 +504,21 @@ Only polls for which at least the sample size has been published are included in
 | 91 | 0.6% | 98.7% |  |
 | 92 | 1.0% | 98% | Majority |
 | 93 | 1.3% | 97% |  |
-| 94 | 1.4% | 96% |  |
+| 94 | 1.5% | 96% |  |
 | 95 | 2% | 94% |  |
 | 96 | 2% | 92% |  |
 | 97 | 3% | 90% |  |
 | 98 | 4% | 87% |  |
 | 99 | 5% | 83% |  |
 | 100 | 7% | 77% |  |
-| 101 | 9% | 70% | Median |
+| 101 | 9% | 71% | Median |
 | 102 | 12% | 61% |  |
 | 103 | 14% | 49% |  |
-| 104 | 14% | 35% |  |
-| 105 | 11% | 22% |  |
+| 104 | 13% | 35% |  |
+| 105 | 10% | 21% |  |
 | 106 | 6% | 11% |  |
 | 107 | 3% | 5% |  |
-| 108 | 1.3% | 2% |  |
+| 108 | 1.2% | 2% |  |
 | 109 | 0.4% | 0.6% |  |
 | 110 | 0.1% | 0.2% |  |
 | 111 | 0% | 0.1% |  |
@@ -551,17 +551,17 @@ Only polls for which at least the sample size has been published are included in
 | 80 | 2% | 94% |  |
 | 81 | 3% | 92% |  |
 | 82 | 3% | 90% |  |
-| 83 | 4% | 87% |  |
-| 84 | 5% | 83% |  |
+| 83 | 4% | 86% |  |
+| 84 | 5% | 82% |  |
 | 85 | 7% | 77% |  |
 | 86 | 11% | 70% | Median |
 | 87 | 13% | 59% |  |
-| 88 | 14% | 45% |  |
+| 88 | 15% | 46% |  |
 | 89 | 13% | 31% |  |
-| 90 | 10% | 18% |  |
+| 90 | 9% | 18% |  |
 | 91 | 5% | 9% |  |
 | 92 | 2% | 4% | Majority |
-| 93 | 0.9% | 1.4% |  |
+| 93 | 0.8% | 1.3% |  |
 | 94 | 0.3% | 0.5% |  |
 | 95 | 0.1% | 0.2% |  |
 | 96 | 0.1% | 0.1% |  |
@@ -581,19 +581,19 @@ Only polls for which at least the sample size has been published are included in
 | 77 | 6% | 95% |  |
 | 78 | 11% | 89% |  |
 | 79 | 14% | 78% |  |
-| 80 | 14% | 64% | Median |
+| 80 | 15% | 64% | Median |
 | 81 | 12% | 50% |  |
-| 82 | 10% | 38% |  |
-| 83 | 8% | 28% |  |
+| 82 | 10% | 37% |  |
+| 83 | 7% | 28% |  |
 | 84 | 5% | 20% |  |
 | 85 | 4% | 15% |  |
-| 86 | 3% | 10% |  |
-| 87 | 2% | 7% |  |
+| 86 | 3% | 11% |  |
+| 87 | 2% | 8% |  |
 | 88 | 2% | 5% |  |
-| 89 | 1.1% | 3% |  |
+| 89 | 1.2% | 3% |  |
 | 90 | 0.9% | 2% |  |
 | 91 | 0.6% | 1.2% |  |
-| 92 | 0.2% | 0.6% | Majority |
+| 92 | 0.3% | 0.6% | Majority |
 | 93 | 0.2% | 0.4% |  |
 | 94 | 0.1% | 0.2% |  |
 | 95 | 0% | 0.1% |  |
@@ -618,21 +618,21 @@ Only polls for which at least the sample size has been published are included in
 | 68 | 0.2% | 99.7% |  |
 | 69 | 0.4% | 99.5% |  |
 | 70 | 0.6% | 99.0% |  |
-| 71 | 0.9% | 98% |  |
+| 71 | 0.8% | 98% |  |
 | 72 | 1.2% | 98% | Last Result |
 | 73 | 2% | 96% |  |
 | 74 | 2% | 95% |  |
 | 75 | 3% | 93% |  |
 | 76 | 5% | 89% |  |
 | 77 | 8% | 84% |  |
-| 78 | 11% | 76% |  |
+| 78 | 12% | 76% |  |
 | 79 | 14% | 65% | Median |
 | 80 | 14% | 51% |  |
-| 81 | 12% | 37% |  |
+| 81 | 13% | 38% |  |
 | 82 | 10% | 25% |  |
 | 83 | 6% | 15% |  |
 | 84 | 4% | 9% |  |
-| 85 | 2% | 4% |  |
+| 85 | 2% | 5% |  |
 | 86 | 1.2% | 2% |  |
 | 87 | 0.6% | 1.1% |  |
 | 88 | 0.3% | 0.5% |  |
@@ -657,13 +657,13 @@ Only polls for which at least the sample size has been published are included in
 | 70 | 0.5% | 97% |  |
 | 71 | 1.3% | 96% |  |
 | 72 | 2% | 95% |  |
-| 73 | 3% | 92% |  |
+| 73 | 4% | 92% |  |
 | 74 | 4% | 89% |  |
 | 75 | 4% | 85% |  |
-| 76 | 5% | 81% |  |
+| 76 | 4% | 81% |  |
 | 77 | 7% | 77% |  |
-| 78 | 7% | 70% |  |
-| 79 | 11% | 63% | Median |
+| 78 | 8% | 70% |  |
+| 79 | 10% | 62% | Median |
 | 80 | 12% | 52% |  |
 | 81 | 13% | 40% |  |
 | 82 | 11% | 27% |  |
@@ -692,18 +692,18 @@ Only polls for which at least the sample size has been published are included in
 | 59 | 2% | 95% |  |
 | 60 | 3% | 93% |  |
 | 61 | 6% | 90% |  |
-| 62 | 9% | 84% | Last Result |
+| 62 | 10% | 84% | Last Result |
 | 63 | 13% | 74% |  |
-| 64 | 13% | 61% | Median |
-| 65 | 14% | 48% |  |
-| 66 | 12% | 33% |  |
+| 64 | 14% | 61% | Median |
+| 65 | 14% | 47% |  |
+| 66 | 11% | 33% |  |
 | 67 | 8% | 22% |  |
 | 68 | 6% | 14% |  |
 | 69 | 4% | 8% |  |
 | 70 | 2% | 4% |  |
 | 71 | 1.1% | 2% |  |
 | 72 | 0.6% | 1.0% |  |
-| 73 | 0.3% | 0.5% |  |
+| 73 | 0.2% | 0.5% |  |
 | 74 | 0.1% | 0.2% |  |
 | 75 | 0.1% | 0.1% |  |
 | 76 | 0% | 0% |  |
@@ -732,13 +732,13 @@ Only polls for which at least the sample size has been published are included in
 | 62 | 7% | 77% |  |
 | 63 | 9% | 70% |  |
 | 64 | 11% | 61% | Median |
-| 65 | 14% | 50% |  |
+| 65 | 14% | 49% |  |
 | 66 | 13% | 36% |  |
-| 67 | 10% | 23% |  |
-| 68 | 7% | 13% |  |
+| 67 | 11% | 23% |  |
+| 68 | 7% | 12% |  |
 | 69 | 3% | 6% |  |
 | 70 | 1.5% | 2% |  |
-| 71 | 0.5% | 0.8% |  |
+| 71 | 0.6% | 0.9% |  |
 | 72 | 0.2% | 0.3% |  |
 | 73 | 0.1% | 0.1% |  |
 | 74 | 0% | 0% |  |
@@ -761,17 +761,17 @@ Only polls for which at least the sample size has been published are included in
 | 37 | 2% | 92% |  |
 | 38 | 3% | 89% |  |
 | 39 | 6% | 86% |  |
-| 40 | 10% | 80% |  |
+| 40 | 11% | 81% |  |
 | 41 | 16% | 70% |  |
-| 42 | 18% | 54% | Median |
+| 42 | 18% | 53% | Median |
 | 43 | 14% | 35% |  |
-| 44 | 10% | 22% |  |
-| 45 | 6% | 12% |  |
+| 44 | 9% | 21% |  |
+| 45 | 5% | 12% |  |
 | 46 | 3% | 7% |  |
 | 47 | 2% | 4% |  |
 | 48 | 1.0% | 2% |  |
 | 49 | 0.5% | 0.9% |  |
-| 50 | 0.3% | 0.4% |  |
+| 50 | 0.2% | 0.4% |  |
 | 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0.1% | Last Result |
 | 53 | 0% | 0% |  |
@@ -780,6 +780,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,505,024
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 7,340,032
 + **Error estimate:** 1.37%
