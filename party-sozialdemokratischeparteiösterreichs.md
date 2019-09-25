@@ -10,7 +10,9 @@ Last result: **26.9%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 19.4–23.9% | 18.3–24.5% | 17.6–25.1% | 16.4–26.2% |
+| N/A | [Poll Average](average.html) | 22.0% | 19.7–23.7% | 18.5–24.4% | 17.7–25.0% | 16.5–26.1% |
+| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
+| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 22.0% | 21.1–23.0% | 20.8–23.3% | 20.6–23.5% | 20.1–24.0% |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 23.0% | 21.1–24.9% | 20.6–25.5% | 20.2–26.0% | 19.3–27.0% |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 19.0% | 17.2–21.0% | 16.7–21.6% | 16.3–22.1% | 15.5–23.1% |
@@ -151,17 +153,17 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0.1% | 100% |  |
 | 15.5–16.5% | 0.5% | 99.9% |  |
-| 16.5–17.5% | 2% | 99.4% |  |
-| 17.5–18.5% | 4% | 98% |  |
-| 18.5–19.5% | 5% | 94% |  |
-| 19.5–20.5% | 6% | 89% |  |
-| 20.5–21.5% | 18% | 83% |  |
-| 21.5–22.5% | 31% | 65% | Median |
-| 22.5–23.5% | 20% | 34% |  |
-| 23.5–24.5% | 9% | 14% |  |
-| 24.5–25.5% | 3% | 5% |  |
-| 25.5–26.5% | 1.1% | 1.3% |  |
-| 26.5–27.5% | 0.2% | 0.3% | Last Result |
+| 16.5–17.5% | 2% | 99.5% |  |
+| 17.5–18.5% | 3% | 98% |  |
+| 18.5–19.5% | 4% | 95% |  |
+| 19.5–20.5% | 6% | 91% |  |
+| 20.5–21.5% | 19% | 85% |  |
+| 21.5–22.5% | 34% | 66% | Median |
+| 22.5–23.5% | 21% | 33% |  |
+| 23.5–24.5% | 8% | 12% |  |
+| 24.5–25.5% | 3% | 4% |  |
+| 25.5–26.5% | 0.9% | 1.1% |  |
+| 26.5–27.5% | 0.2% | 0.2% | Last Result |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -173,7 +175,9 @@ Last result: **52** seats (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42 | 37–45 | 34–46 | 33–47 | 31–49 |
+| N/A | [Poll Average](average.html) | 42 | 37–45 | 35–46 | 33–47 | 31–49 |
+| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 44 | 40–47 | 39–48 | 39–49 | 37–50 |
+| [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 42 | 40–43 | 39–44 | 39–44 | 38–45 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 43 | 40–47 | 39–48 | 39–49 | 37–50 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 43 | 40–47 | 39–48 | 38–49 | 36–51 |
 | [1–18 September 2019](2019-09-18-InstitutfürGrundlagenforschung.html) | Institut für Grundlagenforschung | 36 | 32–39 | 31–40 | 30–41 | 29–43 |
@@ -313,30 +317,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.1% | 100% |  |
+| 28 | 0% | 100% |  |
 | 29 | 0.1% | 99.9% |  |
 | 30 | 0.3% | 99.8% |  |
-| 31 | 0.6% | 99.5% |  |
-| 32 | 0.9% | 98.9% |  |
-| 33 | 1.4% | 98% |  |
-| 34 | 2% | 97% |  |
-| 35 | 2% | 95% |  |
-| 36 | 2% | 92% |  |
-| 37 | 2% | 90% |  |
-| 38 | 3% | 88% |  |
-| 39 | 6% | 84% |  |
-| 40 | 10% | 79% |  |
-| 41 | 15% | 68% |  |
-| 42 | 17% | 53% | Median |
-| 43 | 13% | 37% |  |
-| 44 | 9% | 23% |  |
-| 45 | 6% | 14% |  |
-| 46 | 4% | 8% |  |
+| 31 | 0.5% | 99.6% |  |
+| 32 | 0.8% | 99.1% |  |
+| 33 | 1.2% | 98% |  |
+| 34 | 1.4% | 97% |  |
+| 35 | 2% | 96% |  |
+| 36 | 2% | 94% |  |
+| 37 | 2% | 92% |  |
+| 38 | 3% | 89% |  |
+| 39 | 6% | 86% |  |
+| 40 | 11% | 81% |  |
+| 41 | 17% | 70% |  |
+| 42 | 18% | 53% | Median |
+| 43 | 14% | 36% |  |
+| 44 | 10% | 22% |  |
+| 45 | 6% | 12% |  |
+| 46 | 3% | 7% |  |
 | 47 | 2% | 4% |  |
-| 48 | 1.2% | 2% |  |
-| 49 | 0.6% | 1.1% |  |
+| 48 | 1.0% | 2% |  |
+| 49 | 0.5% | 0.9% |  |
 | 50 | 0.3% | 0.4% |  |
-| 51 | 0.1% | 0.2% |  |
+| 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0.1% | Last Result |
 | 53 | 0% | 0% |  |
 
