@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | NEOS | JETZT | GRÜNE | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 15 October 2017 | General Election | 31.5% <br> 62 | 26.9% <br> 52 | 26.0% <br> 51 | 5.3% <br> 10 | 4.4% <br> 8 | 3.8% <br> 0 | 1.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 30–37% <br> 57–70 | 18–25% <br> 33–47 | 18–28% <br> 35–52 | 7–10% <br> 12–18 | 1–4% <br> 0–8 | 9–14% <br> 17–27 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 30–37% <br> 57–70 | 18–25% <br> 33–47 | 18–28% <br> 34–52 | 7–10% <br> 12–18 | 1–4% <br> 0–8 | 9–14% <br> 17–26 | N/A <br> N/A |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–37% <br> 59–70 | 20–26% <br> 39–49 | 19–24% <br> 35–45 | 6–10% <br> 12–18 | 1–3% <br> 0 | 9–13% <br> 17–24 | N/A <br> N/A |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 32–36% <br> 61–68 | 21–24% <br> 39–44 | 19–21% <br> 35–40 | 7–9% <br> 13–17 | 2–3% <br> 0 | 12–14% <br> 22–27 | N/A <br> N/A |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 32–38% <br> 60–73 | 20–26% <br> 38–49 | 17–23% <br> 33–43 | 6–10% <br> 11–19 | 1–3% <br> 0 | 9–13% <br> 17–25 | N/A <br> N/A |
