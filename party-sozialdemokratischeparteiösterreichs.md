@@ -176,7 +176,7 @@ Last result: **52** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 42 | 37–45 | 35–46 | 33–47 | 31–49 |
-| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 44 | 40–47 | 39–48 | 39–49 | 37–50 |
+| [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 43 | 40–47 | 39–48 | 39–49 | 37–50 |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 42 | 40–43 | 39–44 | 39–44 | 38–45 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 43 | 40–47 | 39–48 | 39–49 | 37–50 |
 | [16–18 September 2019](2019-09-18-Market.html) | Market <br> Der Standard | 43 | 40–47 | 39–48 | 38–49 | 36–51 |
@@ -329,17 +329,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 2% | 92% |  |
 | 38 | 3% | 89% |  |
 | 39 | 6% | 86% |  |
-| 40 | 10% | 80% |  |
+| 40 | 11% | 81% |  |
 | 41 | 16% | 70% |  |
-| 42 | 18% | 54% | Median |
+| 42 | 18% | 53% | Median |
 | 43 | 14% | 35% |  |
-| 44 | 10% | 22% |  |
-| 45 | 6% | 12% |  |
+| 44 | 9% | 21% |  |
+| 45 | 5% | 12% |  |
 | 46 | 3% | 7% |  |
 | 47 | 2% | 4% |  |
 | 48 | 1.0% | 2% |  |
 | 49 | 0.5% | 0.9% |  |
-| 50 | 0.3% | 0.4% |  |
+| 50 | 0.2% | 0.4% |  |
 | 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0.1% | Last Result |
 | 53 | 0% | 0% |  |
