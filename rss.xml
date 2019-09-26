@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Thu, 26 Sep 2019 15:05:02 +0200</pubDate>
+    <pubDate>Thu, 26 Sep 2019 19:14:36 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by OGM for Servus TV, 16–23 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-23-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 60–71 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 37–47 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 34–43 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 12–18 seats&lt;/li&gt;&lt;li&gt;JETZT–Liste Pilz: 0 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 19–27 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-23-OGM-seats.png"
+        length="171593"
+        type="image/png"/>
+      <pubDate>Thu, 26 Sep 2019 19:14:36 +0200</pubDate>
+      <dc:date>2019-09-26T19:14:36.961706+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for Servus TV, 16–23 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-23-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-23-OGM-coalitions-seats.png"
+        length="279556"
+        type="image/png"/>
+      <pubDate>Thu, 26 Sep 2019 19:14:36 +0200</pubDate>
+      <dc:date>2019-09-26T19:14:36.961706+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by OGM for Servus TV, 16–23 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-09-23-OGM.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-09-23-OGM.png"
         length="191482"
         type="image/png"/>
-      <pubDate>Thu, 26 Sep 2019 15:05:02 +0200</pubDate>
-      <dc:date>2019-09-26T15:05:02.36016+02:00</dc:date>
+      <pubDate>Thu, 26 Sep 2019 19:14:36 +0200</pubDate>
+      <dc:date>2019-09-26T19:14:36.961706+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 19–22 September 2019 – Seat Projections for the Parties</title>
@@ -2319,6 +2339,6 @@
       <pubDate>Thu, 18 Jul 2019 06:57:13 +0200</pubDate>
       <dc:date>2019-07-18T06:57:13.739041+02:00</dc:date>
     </item>
-    <dc:date>2019-09-26T15:05:02.36016+02:00</dc:date>
+    <dc:date>2019-09-26T19:14:36.961706+02:00</dc:date>
   </channel>
 </rss>
