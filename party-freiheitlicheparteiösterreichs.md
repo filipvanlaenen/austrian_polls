@@ -10,7 +10,8 @@ Last result: **26.0%** (General Election of 15 October 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.3% | 19.0–25.2% | 18.6–26.7% | 18.3–27.7% | 17.5–29.1% |
+| N/A | [Poll Average](average.html) | 20.3% | 19.0–25.2% | 18.5–26.7% | 18.1–27.7% | 17.3–29.1% |
+| [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 20.0% | 18.4–21.7% | 18.0–22.1% | 17.6–22.6% | 16.9–23.4% |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 20.0% | 19.1–21.0% | 18.8–21.2% | 18.6–21.5% | 18.2–21.9% |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -152,13 +153,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.5% | 99.9% |  |
-| 17.5–18.5% | 3% | 99.4% |  |
-| 18.5–19.5% | 19% | 96% |  |
-| 19.5–20.5% | 34% | 77% | Median |
-| 20.5–21.5% | 20% | 43% |  |
-| 21.5–22.5% | 6% | 23% |  |
-| 22.5–23.5% | 2% | 16% |  |
+| 16.5–17.5% | 0.7% | 99.9% |  |
+| 17.5–18.5% | 4% | 99.2% |  |
+| 18.5–19.5% | 19% | 95% |  |
+| 19.5–20.5% | 32% | 76% | Median |
+| 20.5–21.5% | 20% | 44% |  |
+| 21.5–22.5% | 7% | 24% |  |
+| 22.5–23.5% | 3% | 17% |  |
 | 23.5–24.5% | 2% | 14% |  |
 | 24.5–25.5% | 3% | 12% |  |
 | 25.5–26.5% | 3% | 9% | Last Result |
@@ -179,6 +180,7 @@ Last result: **51** seats (General Election of 15 October 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38 | 36–47 | 35–50 | 34–52 | 33–55 |
+| [16–23 September 2019](2019-09-23-OGM.html) | OGM <br> Servus TV | 38 | 35–41 | 34–42 | 34–43 | 32–45 |
 | [19–22 September 2019](2019-09-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 40 | 37–43 | 36–44 | 35–45 | 34–46 |
 | [12–20 September 2019](2019-09-20-PeterHajek.html) | Peter Hajek <br> ATV, PULS 4 and Servus TV | 38 | 36–40 | 35–40 | 35–40 | 34–41 |
 | [13–18 September 2019](2019-09-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38 | 35–41 | 34–42 | 33–43 | 32–44 |
@@ -321,20 +323,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 31 | 0.1% | 100% |  |
-| 32 | 0.2% | 99.9% |  |
-| 33 | 0.6% | 99.7% |  |
-| 34 | 2% | 99.1% |  |
-| 35 | 4% | 97% |  |
-| 36 | 10% | 93% |  |
-| 37 | 16% | 83% |  |
-| 38 | 19% | 67% | Median |
-| 39 | 15% | 48% |  |
-| 40 | 9% | 33% |  |
-| 41 | 5% | 24% |  |
-| 42 | 3% | 19% |  |
-| 43 | 2% | 16% |  |
-| 44 | 1.1% | 15% |  |
-| 45 | 1.1% | 14% |  |
+| 32 | 0.3% | 99.9% |  |
+| 33 | 0.8% | 99.5% |  |
+| 34 | 2% | 98.7% |  |
+| 35 | 5% | 97% |  |
+| 36 | 10% | 92% |  |
+| 37 | 16% | 82% |  |
+| 38 | 18% | 65% | Median |
+| 39 | 14% | 48% |  |
+| 40 | 9% | 34% |  |
+| 41 | 5% | 25% |  |
+| 42 | 3% | 20% |  |
+| 43 | 2% | 17% |  |
+| 44 | 1.2% | 15% |  |
+| 45 | 1.2% | 14% |  |
 | 46 | 1.4% | 13% |  |
 | 47 | 2% | 11% |  |
 | 48 | 2% | 10% |  |
