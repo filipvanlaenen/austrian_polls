@@ -8,5 +8,17 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
+    <pubDate>Tue, 29 Oct 2019 06:47:10 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–25 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-10-25-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 35.0–41.1%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 16.7–21.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 12.9–17.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.4–10.9%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 12.9–17.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-10-25-ResearchAffairs.png"
+        length="171318"
+        type="image/png"/>
+      <pubDate>Tue, 29 Oct 2019 06:47:10 +0100</pubDate>
+      <dc:date>2019-10-29T06:47:10.32593+01:00</dc:date>
+    </item>
+    <dc:date>2019-10-29T06:47:10.32593+01:00</dc:date>
   </channel>
 </rss>
