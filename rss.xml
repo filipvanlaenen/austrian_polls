@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sun, 15 Dec 2019 11:01:52 +0100</pubDate>
+    <pubDate>Sun, 15 Dec 2019 18:31:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 29 November–5 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-12-05-ResearchAffairs.html</link>
@@ -18,6 +18,26 @@
         type="image/png"/>
       <pubDate>Fri, 13 Dec 2019 07:05:52 +0100</pubDate>
       <dc:date>2019-12-13T07:05:52.516158+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 11–15 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-11-15-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.7–41.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 16.4–21.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 14.6–19.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.3–11.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 13.7–18.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-11-15-UniqueResearch.png"
+        length="176259"
+        type="image/png"/>
+      <pubDate>Sun, 15 Dec 2019 18:16:16 +0100</pubDate>
+      <dc:date>2019-12-15T18:16:16.579286+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Karmasin, 8–13 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-11-13-Karmasin.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 36.3–39.8%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.6–21.5%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.8–16.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.0–10.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 13.8–16.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-11-13-Karmasin.png"
+        length="154200"
+        type="image/png"/>
+      <pubDate>Sun, 15 Dec 2019 18:31:37 +0100</pubDate>
+      <dc:date>2019-12-15T18:31:37.184792+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–25 October 2019 – Voting Intentions</title>
@@ -49,6 +69,6 @@
       <pubDate>Sun, 15 Dec 2019 11:01:52 +0100</pubDate>
       <dc:date>2019-12-15T11:01:52.413983+01:00</dc:date>
     </item>
-    <dc:date>2019-12-15T11:01:52.413983+01:00</dc:date>
+    <dc:date>2019-12-15T18:31:37.184792+01:00</dc:date>
   </channel>
 </rss>
