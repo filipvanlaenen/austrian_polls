@@ -9,10 +9,10 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 36–40% <br> 69–75 | 19–22% <br> 35–41 | 14–16% <br> 26–31 | 14–16% <br> 26–31 | 8–10% <br> 15–19 | N/A <br> N/A | N/A <br> N/A |
-| [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [29 November–4 December 2019](2019-12-04-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 36–42% <br> 67–79 | 15–21% <br> 28–40 | 12–17% <br> 23–32 | 14–19% <br> 25–35 | 8–12% <br> 14–22 | N/A <br> N/A | N/A <br> N/A |
+| [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 36–42% <br> 66–79 | 15–21% <br> 28–38 | 13–18% <br> 23–32 | 15–20% <br> 27–36 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A |
+| [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 66–79 | 15–20% <br> 27–36 | 12–17% <br> 22–30 | 14–19% <br> 25–34 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
+| [29 November–4 December 2019](2019-12-04-Market.html) | Market <br> Der Standard | 36–42% <br> 67–79 | 16–21% <br> 29–39 | 13–18% <br> 23–33 | 14–19% <br> 25–35 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A |
 | [8–13 November 2019](2019-11-13-Karmasin.html) | Karmasin | 36–40% <br> 69–75 | 19–21% <br> 35–41 | 14–16% <br> 26–31 | 14–16% <br> 26–31 | 8–10% <br> 15–19 | N/A <br> N/A | N/A <br> N/A |
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
 
@@ -39,11 +39,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 37.5% | 38.0% | 36.9–39.1% |36.6–39.5% | 36.3–39.8% | 35.7–40.3% |
-| <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 21.2% | 20.0% | 19.1–21.0% |18.8–21.2% | 18.6–21.5% | 18.2–21.9% |
-| <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 16.2% | 15.0% | 14.2–15.9% |14.0–16.1% | 13.8–16.3% | 13.4–16.7% |
-| <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 13.9% | 15.0% | 14.2–15.9% |14.0–16.1% | 13.8–16.3% | 13.4–16.7% |
-| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 8.1% | 9.0% | 8.4–9.7% |8.2–9.9% | 8.0–10.1% | 7.7–10.4% |
+| <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 37.5% | 38.6% | 36.9–40.9% |36.4–41.6% | 35.9–42.2% | 34.9–43.3% |
+| <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 21.2% | 18.3% | 16.2–20.4% |15.7–20.8% | 15.2–21.1% | 14.4–21.8% |
+| <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 16.2% | 14.9% | 13.3–16.3% |12.8–16.8% | 12.4–17.3% | 11.7–18.2% |
+| <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 13.9% | 15.9% | 14.5–17.9% |14.1–18.5% | 13.8–19.0% | 13.2–20.0% |
+| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 8.1% | 9.5% | 8.3–11.0% |8.0–11.5% | 7.8–11.9% | 7.2–12.7% |
 | <a href="#jetzt–liste-pilz">JETZT–Liste Pilz</a> | 1.9% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#meine-stimme-g!lt">Meine Stimme G!LT</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 
@@ -53,15 +53,20 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 33.5–34.5% | 0% | 100% |  |
-| 34.5–35.5% | 0.2% | 100% |  |
-| 35.5–36.5% | 5% | 99.7% |  |
-| 36.5–37.5% | 26% | 95% |  |
-| 37.5–38.5% | 42% | 69% | Last Result, Median |
-| 38.5–39.5% | 23% | 27% |  |
-| 39.5–40.5% | 4% | 4% |  |
-| 40.5–41.5% | 0.2% | 0.2% |  |
-| 41.5–42.5% | 0% | 0% |  |
+| 32.5–33.5% | 0% | 100% |  |
+| 33.5–34.5% | 0.2% | 100% |  |
+| 34.5–35.5% | 1.2% | 99.7% |  |
+| 35.5–36.5% | 5% | 98.5% |  |
+| 36.5–37.5% | 16% | 93% |  |
+| 37.5–38.5% | 25% | 78% | Last Result |
+| 38.5–39.5% | 23% | 53% | Median |
+| 39.5–40.5% | 15% | 29% |  |
+| 40.5–41.5% | 9% | 14% |  |
+| 41.5–42.5% | 4% | 5% |  |
+| 42.5–43.5% | 1.2% | 1.5% |  |
+| 43.5–44.5% | 0.3% | 0.3% |  |
+| 44.5–45.5% | 0% | 0.1% |  |
+| 45.5–46.5% | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs
 
@@ -69,13 +74,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 2% | 100% |  |
-| 18.5–19.5% | 24% | 98% |  |
-| 19.5–20.5% | 50% | 74% | Median |
-| 20.5–21.5% | 22% | 23% | Last Result |
-| 21.5–22.5% | 2% | 2% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0.6% | 100% |  |
+| 14.5–15.5% | 3% | 99.4% |  |
+| 15.5–16.5% | 11% | 96% |  |
+| 16.5–17.5% | 19% | 85% |  |
+| 17.5–18.5% | 21% | 66% | Median |
+| 18.5–19.5% | 20% | 46% |  |
+| 19.5–20.5% | 18% | 26% |  |
+| 20.5–21.5% | 7% | 8% | Last Result |
+| 21.5–22.5% | 0.8% | 0.9% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs
 
@@ -83,13 +93,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 1.0% | 100% |  |
-| 13.5–14.5% | 23% | 99.0% |  |
-| 14.5–15.5% | 55% | 76% | Median |
-| 15.5–16.5% | 20% | 21% | Last Result |
-| 16.5–17.5% | 1.1% | 1.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.3% | 100% |  |
+| 11.5–12.5% | 3% | 99.7% |  |
+| 12.5–13.5% | 11% | 97% |  |
+| 13.5–14.5% | 26% | 86% |  |
+| 14.5–15.5% | 35% | 61% | Median |
+| 15.5–16.5% | 19% | 26% | Last Result |
+| 16.5–17.5% | 6% | 7% |  |
+| 17.5–18.5% | 1.3% | 2% |  |
+| 18.5–19.5% | 0.2% | 0.2% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative
 
@@ -97,13 +111,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 1.0% | 100% |  |
-| 13.5–14.5% | 23% | 99.0% | Last Result |
-| 14.5–15.5% | 55% | 76% | Median |
-| 15.5–16.5% | 20% | 21% |  |
-| 16.5–17.5% | 1.1% | 1.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 1.2% | 99.9% |  |
+| 13.5–14.5% | 11% | 98.7% | Last Result |
+| 14.5–15.5% | 28% | 88% |  |
+| 15.5–16.5% | 26% | 60% | Median |
+| 16.5–17.5% | 19% | 34% |  |
+| 17.5–18.5% | 10% | 15% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 0.9% | 1.1% |  |
+| 20.5–21.5% | 0.1% | 0.2% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum
 
@@ -111,13 +130,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 18% | 99.9% | Last Result |
-| 8.5–9.5% | 66% | 82% | Median |
-| 9.5–10.5% | 15% | 16% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 1.4% | 99.9% |  |
+| 7.5–8.5% | 14% | 98.6% | Last Result |
+| 8.5–9.5% | 39% | 85% | Median |
+| 9.5–10.5% | 28% | 46% |  |
+| 10.5–11.5% | 14% | 18% |  |
+| 11.5–12.5% | 4% | 5% |  |
+| 12.5–13.5% | 0.7% | 0.8% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -130,11 +152,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 71 | 72 | 70–74 |69–75 | 69–75 | 68–76 |
-| <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 40 | 38 | 36–40 |36–40 | 35–41 | 34–41 |
-| <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 31 | 28 | 27–30 |26–30 | 26–31 | 25–31 |
-| <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 26 | 28 | 27–30 |26–30 | 26–31 | 25–31 |
-| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 15 | 17 | 15–18 |15–18 | 15–19 | 14–19 |
+| <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 71 | 72 | 69–76 |68–77 | 67–79 | 65–81 |
+| <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 40 | 34 | 30–38 |29–39 | 28–40 | 26–41 |
+| <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 31 | 28 | 24–30 |23–31 | 23–32 | 21–34 |
+| <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 26 | 29 | 27–33 |26–34 | 25–35 | 24–37 |
+| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 15 | 17 | 15–20 |15–21 | 14–22 | 13–23 |
 | <a href="#jetzt–liste-pilz">JETZT–Liste Pilz</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#meine-stimme-g!lt">Meine Stimme G!LT</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
@@ -146,20 +168,29 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0% | 100% |  |
-| 67 | 0.3% | 99.9% |  |
-| 68 | 1.3% | 99.7% |  |
-| 69 | 5% | 98% |  |
-| 70 | 10% | 94% |  |
-| 71 | 18% | 83% | Last Result |
-| 72 | 23% | 66% | Median |
-| 73 | 23% | 43% |  |
-| 74 | 13% | 20% |  |
-| 75 | 5% | 7% |  |
-| 76 | 2% | 2% |  |
-| 77 | 0.4% | 0.4% |  |
-| 78 | 0.1% | 0.1% |  |
-| 79 | 0% | 0% |  |
+| 62 | 0% | 100% |  |
+| 63 | 0.1% | 99.9% |  |
+| 64 | 0.3% | 99.8% |  |
+| 65 | 0.7% | 99.5% |  |
+| 66 | 1.3% | 98.8% |  |
+| 67 | 2% | 98% |  |
+| 68 | 4% | 95% |  |
+| 69 | 7% | 91% |  |
+| 70 | 10% | 85% |  |
+| 71 | 12% | 75% | Last Result |
+| 72 | 15% | 62% | Median |
+| 73 | 15% | 48% |  |
+| 74 | 12% | 33% |  |
+| 75 | 8% | 21% |  |
+| 76 | 6% | 14% |  |
+| 77 | 4% | 8% |  |
+| 78 | 2% | 5% |  |
+| 79 | 1.4% | 3% |  |
+| 80 | 0.6% | 1.2% |  |
+| 81 | 0.3% | 0.6% |  |
+| 82 | 0.2% | 0.3% |  |
+| 83 | 0.1% | 0.1% |  |
+| 84 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs
 
@@ -169,16 +200,24 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% |  |
-| 34 | 0.8% | 99.9% |  |
-| 35 | 4% | 99.1% |  |
-| 36 | 13% | 95% |  |
-| 37 | 25% | 82% |  |
-| 38 | 26% | 57% | Median |
-| 39 | 20% | 31% |  |
-| 40 | 7% | 10% | Last Result |
-| 41 | 2% | 3% |  |
-| 42 | 0.4% | 0.5% |  |
+| 25 | 0.1% | 100% |  |
+| 26 | 0.4% | 99.8% |  |
+| 27 | 1.2% | 99.4% |  |
+| 28 | 2% | 98% |  |
+| 29 | 5% | 96% |  |
+| 30 | 8% | 91% |  |
+| 31 | 9% | 83% |  |
+| 32 | 11% | 74% |  |
+| 33 | 10% | 64% |  |
+| 34 | 10% | 54% | Median |
+| 35 | 8% | 44% |  |
+| 36 | 9% | 35% |  |
+| 37 | 9% | 27% |  |
+| 38 | 8% | 17% |  |
+| 39 | 6% | 9% |  |
+| 40 | 2% | 3% | Last Result |
+| 41 | 0.7% | 0.9% |  |
+| 42 | 0.2% | 0.2% |  |
 | 43 | 0% | 0% |  |
 
 ### Freiheitliche Partei Österreichs
@@ -189,16 +228,24 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.1% | 100% |  |
-| 25 | 1.1% | 99.9% |  |
-| 26 | 7% | 98.8% |  |
-| 27 | 20% | 91% |  |
-| 28 | 32% | 71% | Median |
-| 29 | 23% | 39% |  |
-| 30 | 11% | 15% |  |
-| 31 | 3% | 4% | Last Result |
-| 32 | 0.5% | 0.5% |  |
-| 33 | 0% | 0% |  |
+| 20 | 0.1% | 100% |  |
+| 21 | 0.5% | 99.8% |  |
+| 22 | 1.5% | 99.4% |  |
+| 23 | 3% | 98% |  |
+| 24 | 6% | 94% |  |
+| 25 | 9% | 89% |  |
+| 26 | 13% | 80% |  |
+| 27 | 17% | 67% |  |
+| 28 | 19% | 51% | Median |
+| 29 | 15% | 32% |  |
+| 30 | 9% | 17% |  |
+| 31 | 4% | 8% | Last Result |
+| 32 | 2% | 3% |  |
+| 33 | 0.8% | 1.4% |  |
+| 34 | 0.4% | 0.6% |  |
+| 35 | 0.1% | 0.2% |  |
+| 36 | 0% | 0.1% |  |
+| 37 | 0% | 0% |  |
 
 ### Die Grünen–Die Grüne Alternative
 
@@ -208,16 +255,24 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 24 | 0.1% | 100% |  |
-| 25 | 1.2% | 99.9% |  |
-| 26 | 8% | 98.7% | Last Result |
-| 27 | 21% | 91% |  |
-| 28 | 33% | 70% | Median |
-| 29 | 24% | 37% |  |
-| 30 | 10% | 13% |  |
-| 31 | 3% | 3% |  |
-| 32 | 0.4% | 0.4% |  |
-| 33 | 0% | 0% |  |
+| 23 | 0.1% | 100% |  |
+| 24 | 0.6% | 99.8% |  |
+| 25 | 2% | 99.3% |  |
+| 26 | 6% | 97% | Last Result |
+| 27 | 11% | 92% |  |
+| 28 | 16% | 81% |  |
+| 29 | 16% | 66% | Median |
+| 30 | 15% | 49% |  |
+| 31 | 11% | 34% |  |
+| 32 | 9% | 23% |  |
+| 33 | 6% | 14% |  |
+| 34 | 4% | 8% |  |
+| 35 | 2% | 4% |  |
+| 36 | 1.0% | 2% |  |
+| 37 | 0.4% | 0.7% |  |
+| 38 | 0.2% | 0.3% |  |
+| 39 | 0.1% | 0.1% |  |
+| 40 | 0% | 0% |  |
 
 ### NEOS–Das Neue Österreich und Liberales Forum
 
@@ -227,14 +282,21 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.9% | 100% |  |
-| 15 | 10% | 99.1% | Last Result |
-| 16 | 31% | 89% |  |
-| 17 | 35% | 58% | Median |
-| 18 | 20% | 23% |  |
-| 19 | 4% | 4% |  |
-| 20 | 0.4% | 0.4% |  |
-| 21 | 0% | 0% |  |
+| 12 | 0.3% | 100% |  |
+| 13 | 1.1% | 99.7% |  |
+| 14 | 3% | 98.6% |  |
+| 15 | 9% | 95% | Last Result |
+| 16 | 18% | 87% |  |
+| 17 | 22% | 68% | Median |
+| 18 | 19% | 47% |  |
+| 19 | 12% | 28% |  |
+| 20 | 8% | 16% |  |
+| 21 | 5% | 8% |  |
+| 22 | 2% | 4% |  |
+| 23 | 0.8% | 1.2% |  |
+| 24 | 0.3% | 0.4% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -245,16 +307,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Österreichische Volkspartei – Die Grünen–Die Grüne Alternative – NEOS–Das Neue Österreich und Liberales Forum | 112 | 117 | 100% | 115–119 | 114–120 | 114–120 | 113–121 |
-| Österreichische Volkspartei – Sozialdemokratische Partei Österreichs | 111 | 110 | 100% | 108–112 | 107–113 | 106–113 | 105–114 |
-| Österreichische Volkspartei – Die Grünen–Die Grüne Alternative | 97 | 100 | 100% | 98–102 | 97–103 | 97–104 | 96–105 |
-| Österreichische Volkspartei – Freiheitliche Partei Österreichs | 102 | 100 | 100% | 98–102 | 97–103 | 97–104 | 96–105 |
-| Österreichische Volkspartei – NEOS–Das Neue Österreich und Liberales Forum | 86 | 89 | 6% | 87–91 | 86–92 | 85–92 | 84–93 |
-| Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative – NEOS–Das Neue Österreich und Liberales Forum | 81 | 83 | 0% | 81–85 | 80–86 | 79–86 | 78–87 |
-| Österreichische Volkspartei | 71 | 72 | 0% | 70–74 | 69–75 | 69–75 | 68–76 |
-| Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative | 66 | 66 | 0% | 64–68 | 63–69 | 63–69 | 62–70 |
-| Sozialdemokratische Partei Österreichs – Freiheitliche Partei Österreichs | 71 | 66 | 0% | 64–68 | 63–69 | 63–69 | 62–70 |
-| Sozialdemokratische Partei Österreichs | 40 | 38 | 0% | 36–40 | 36–40 | 35–41 | 34–41 |
+| Österreichische Volkspartei – Die Grünen–Die Grüne Alternative – NEOS–Das Neue Österreich und Liberales Forum | 112 | 119 | 100% | 115–125 | 114–126 | 113–127 | 111–129 |
+| Österreichische Volkspartei – Sozialdemokratische Partei Österreichs | 111 | 107 | 100% | 101–111 | 100–112 | 98–113 | 96–114 |
+| Österreichische Volkspartei – Die Grünen–Die Grüne Alternative | 97 | 102 | 100% | 98–107 | 97–108 | 96–109 | 94–111 |
+| Österreichische Volkspartei – Freiheitliche Partei Österreichs | 102 | 100 | 99.1% | 95–104 | 94–105 | 93–106 | 91–108 |
+| Österreichische Volkspartei – NEOS–Das Neue Österreich und Liberales Forum | 86 | 90 | 29% | 86–94 | 85–96 | 84–97 | 81–99 |
+| Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative – NEOS–Das Neue Österreich und Liberales Forum | 81 | 82 | 0.2% | 76–86 | 74–87 | 73–88 | 70–90 |
+| Österreichische Volkspartei | 71 | 72 | 0% | 69–76 | 68–77 | 67–79 | 65–81 |
+| Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative | 66 | 64 | 0% | 59–68 | 58–69 | 56–70 | 54–72 |
+| Sozialdemokratische Partei Österreichs – Freiheitliche Partei Österreichs | 71 | 62 | 0% | 56–67 | 54–68 | 52–68 | 51–70 |
+| Sozialdemokratische Partei Österreichs | 40 | 34 | 0% | 30–38 | 29–39 | 28–40 | 26–41 |
 
 ### Österreichische Volkspartei – Die Grünen–Die Grüne Alternative – NEOS–Das Neue Österreich und Liberales Forum
 
@@ -262,19 +324,31 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 111 | 0.1% | 100% |  |
-| 112 | 0.4% | 99.9% | Last Result |
-| 113 | 2% | 99.5% |  |
-| 114 | 5% | 98% |  |
-| 115 | 11% | 93% |  |
-| 116 | 19% | 83% |  |
-| 117 | 24% | 63% | Median |
-| 118 | 22% | 39% |  |
-| 119 | 10% | 17% |  |
-| 120 | 5% | 7% |  |
-| 121 | 1.4% | 2% |  |
-| 122 | 0.3% | 0.4% |  |
-| 123 | 0% | 0% |  |
+| 108 | 0.1% | 100% |  |
+| 109 | 0.1% | 99.9% |  |
+| 110 | 0.1% | 99.9% |  |
+| 111 | 0.4% | 99.8% |  |
+| 112 | 1.2% | 99.4% | Last Result |
+| 113 | 2% | 98% |  |
+| 114 | 3% | 96% |  |
+| 115 | 4% | 93% |  |
+| 116 | 8% | 89% |  |
+| 117 | 12% | 81% |  |
+| 118 | 14% | 69% | Median |
+| 119 | 9% | 55% |  |
+| 120 | 7% | 46% |  |
+| 121 | 8% | 38% |  |
+| 122 | 7% | 31% |  |
+| 123 | 7% | 23% |  |
+| 124 | 5% | 16% |  |
+| 125 | 4% | 10% |  |
+| 126 | 3% | 6% |  |
+| 127 | 2% | 4% |  |
+| 128 | 1.2% | 2% |  |
+| 129 | 0.5% | 0.8% |  |
+| 130 | 0.2% | 0.3% |  |
+| 131 | 0.1% | 0.1% |  |
+| 132 | 0% | 0% |  |
 
 ### Österreichische Volkspartei – Sozialdemokratische Partei Österreichs
 
@@ -282,18 +356,28 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 104 | 0.1% | 100% |  |
-| 105 | 0.4% | 99.9% |  |
-| 106 | 2% | 99.4% |  |
-| 107 | 6% | 97% |  |
-| 108 | 13% | 92% |  |
-| 109 | 14% | 78% |  |
-| 110 | 30% | 64% | Median |
-| 111 | 16% | 34% | Last Result |
-| 112 | 13% | 18% |  |
-| 113 | 3% | 5% |  |
-| 114 | 2% | 2% |  |
-| 115 | 0.1% | 0.2% |  |
+| 94 | 0.1% | 100% |  |
+| 95 | 0.1% | 99.9% |  |
+| 96 | 0.3% | 99.8% |  |
+| 97 | 0.7% | 99.5% |  |
+| 98 | 1.3% | 98.7% |  |
+| 99 | 2% | 97% |  |
+| 100 | 3% | 95% |  |
+| 101 | 4% | 92% |  |
+| 102 | 6% | 87% |  |
+| 103 | 6% | 81% |  |
+| 104 | 8% | 75% |  |
+| 105 | 7% | 67% |  |
+| 106 | 9% | 60% | Median |
+| 107 | 8% | 52% |  |
+| 108 | 10% | 44% |  |
+| 109 | 9% | 33% |  |
+| 110 | 11% | 25% |  |
+| 111 | 7% | 14% | Last Result |
+| 112 | 4% | 7% |  |
+| 113 | 2% | 3% |  |
+| 114 | 1.0% | 1.3% |  |
+| 115 | 0.2% | 0.4% |  |
 | 116 | 0.1% | 0.1% |  |
 | 117 | 0% | 0% |  |
 
@@ -303,20 +387,30 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 94 | 0% | 100% |  |
-| 95 | 0.3% | 99.9% |  |
-| 96 | 1.3% | 99.6% |  |
-| 97 | 4% | 98% | Last Result |
-| 98 | 10% | 94% |  |
-| 99 | 16% | 84% |  |
-| 100 | 23% | 68% | Median |
-| 101 | 19% | 45% |  |
-| 102 | 16% | 25% |  |
-| 103 | 6% | 9% |  |
-| 104 | 2% | 3% |  |
-| 105 | 0.6% | 0.8% |  |
-| 106 | 0.1% | 0.2% |  |
-| 107 | 0% | 0% |  |
+| 92 | 0.1% | 100% | Majority |
+| 93 | 0.2% | 99.9% |  |
+| 94 | 0.4% | 99.7% |  |
+| 95 | 0.8% | 99.3% |  |
+| 96 | 2% | 98% |  |
+| 97 | 3% | 97% | Last Result |
+| 98 | 6% | 93% |  |
+| 99 | 9% | 88% |  |
+| 100 | 12% | 78% |  |
+| 101 | 13% | 66% | Median |
+| 102 | 13% | 53% |  |
+| 103 | 10% | 40% |  |
+| 104 | 7% | 30% |  |
+| 105 | 7% | 23% |  |
+| 106 | 6% | 16% |  |
+| 107 | 4% | 10% |  |
+| 108 | 3% | 6% |  |
+| 109 | 2% | 3% |  |
+| 110 | 0.9% | 2% |  |
+| 111 | 0.5% | 0.9% |  |
+| 112 | 0.2% | 0.4% |  |
+| 113 | 0.1% | 0.2% |  |
+| 114 | 0% | 0.1% |  |
+| 115 | 0% | 0% |  |
 
 ### Österreichische Volkspartei – Freiheitliche Partei Österreichs
 
@@ -324,20 +418,31 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 94 | 0.1% | 100% |  |
-| 95 | 0.3% | 99.9% |  |
-| 96 | 1.3% | 99.6% |  |
-| 97 | 4% | 98% |  |
-| 98 | 8% | 94% |  |
-| 99 | 16% | 86% |  |
-| 100 | 21% | 70% | Median |
-| 101 | 25% | 49% |  |
-| 102 | 16% | 24% | Last Result |
-| 103 | 6% | 8% |  |
-| 104 | 2% | 3% |  |
-| 105 | 0.5% | 0.6% |  |
-| 106 | 0.1% | 0.2% |  |
-| 107 | 0% | 0% |  |
+| 88 | 0% | 100% |  |
+| 89 | 0.1% | 99.9% |  |
+| 90 | 0.3% | 99.8% |  |
+| 91 | 0.5% | 99.6% |  |
+| 92 | 1.0% | 99.1% | Majority |
+| 93 | 2% | 98% |  |
+| 94 | 2% | 96% |  |
+| 95 | 4% | 94% |  |
+| 96 | 5% | 90% |  |
+| 97 | 8% | 85% |  |
+| 98 | 9% | 77% |  |
+| 99 | 12% | 68% |  |
+| 100 | 14% | 56% | Median |
+| 101 | 13% | 42% |  |
+| 102 | 11% | 29% | Last Result |
+| 103 | 7% | 18% |  |
+| 104 | 4% | 11% |  |
+| 105 | 3% | 7% |  |
+| 106 | 2% | 4% |  |
+| 107 | 1.1% | 2% |  |
+| 108 | 0.5% | 1.0% |  |
+| 109 | 0.3% | 0.5% |  |
+| 110 | 0.1% | 0.2% |  |
+| 111 | 0.1% | 0.1% |  |
+| 112 | 0% | 0% |  |
 
 ### Österreichische Volkspartei – NEOS–Das Neue Österreich und Liberales Forum
 
@@ -345,20 +450,31 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 83 | 0.1% | 100% |  |
-| 84 | 0.6% | 99.9% |  |
-| 85 | 2% | 99.3% |  |
-| 86 | 6% | 97% | Last Result |
-| 87 | 12% | 91% |  |
-| 88 | 19% | 79% |  |
-| 89 | 23% | 60% | Median |
-| 90 | 20% | 37% |  |
-| 91 | 10% | 16% |  |
-| 92 | 5% | 6% | Majority |
-| 93 | 1.5% | 2% |  |
-| 94 | 0.3% | 0.4% |  |
-| 95 | 0.1% | 0.1% |  |
-| 96 | 0% | 0% |  |
+| 79 | 0% | 100% |  |
+| 80 | 0.1% | 99.9% |  |
+| 81 | 0.3% | 99.8% |  |
+| 82 | 0.6% | 99.5% |  |
+| 83 | 1.3% | 98.8% |  |
+| 84 | 2% | 98% |  |
+| 85 | 3% | 96% |  |
+| 86 | 6% | 92% | Last Result |
+| 87 | 9% | 87% |  |
+| 88 | 13% | 78% |  |
+| 89 | 13% | 66% | Median |
+| 90 | 13% | 53% |  |
+| 91 | 11% | 40% |  |
+| 92 | 8% | 29% | Majority |
+| 93 | 7% | 20% |  |
+| 94 | 5% | 14% |  |
+| 95 | 3% | 9% |  |
+| 96 | 2% | 5% |  |
+| 97 | 1.4% | 3% |  |
+| 98 | 0.8% | 2% |  |
+| 99 | 0.4% | 0.7% |  |
+| 100 | 0.2% | 0.4% |  |
+| 101 | 0.1% | 0.1% |  |
+| 102 | 0% | 0.1% |  |
+| 103 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative – NEOS–Das Neue Österreich und Liberales Forum
 
@@ -366,19 +482,33 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 77 | 0.1% | 100% |  |
-| 78 | 0.5% | 99.8% |  |
-| 79 | 2% | 99.3% |  |
-| 80 | 6% | 97% |  |
-| 81 | 16% | 92% | Last Result |
-| 82 | 25% | 76% |  |
-| 83 | 21% | 51% | Median |
-| 84 | 16% | 30% |  |
-| 85 | 8% | 14% |  |
-| 86 | 4% | 6% |  |
-| 87 | 1.2% | 2% |  |
-| 88 | 0.3% | 0.3% |  |
-| 89 | 0% | 0% |  |
+| 68 | 0.1% | 100% |  |
+| 69 | 0.1% | 99.9% |  |
+| 70 | 0.3% | 99.8% |  |
+| 71 | 0.7% | 99.5% |  |
+| 72 | 1.0% | 98.8% |  |
+| 73 | 1.4% | 98% |  |
+| 74 | 3% | 96% |  |
+| 75 | 3% | 94% |  |
+| 76 | 4% | 91% |  |
+| 77 | 4% | 87% |  |
+| 78 | 5% | 83% |  |
+| 79 | 6% | 77% |  |
+| 80 | 9% | 71% | Median |
+| 81 | 11% | 63% | Last Result |
+| 82 | 13% | 52% |  |
+| 83 | 12% | 39% |  |
+| 84 | 10% | 27% |  |
+| 85 | 6% | 17% |  |
+| 86 | 5% | 11% |  |
+| 87 | 3% | 6% |  |
+| 88 | 2% | 3% |  |
+| 89 | 0.9% | 2% |  |
+| 90 | 0.5% | 0.9% |  |
+| 91 | 0.2% | 0.4% |  |
+| 92 | 0.1% | 0.2% | Majority |
+| 93 | 0% | 0.1% |  |
+| 94 | 0% | 0% |  |
 
 ### Österreichische Volkspartei
 
@@ -386,20 +516,29 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 66 | 0% | 100% |  |
-| 67 | 0.3% | 99.9% |  |
-| 68 | 1.3% | 99.7% |  |
-| 69 | 5% | 98% |  |
-| 70 | 10% | 94% |  |
-| 71 | 18% | 83% | Last Result |
-| 72 | 23% | 66% | Median |
-| 73 | 23% | 43% |  |
-| 74 | 13% | 20% |  |
-| 75 | 5% | 7% |  |
-| 76 | 2% | 2% |  |
-| 77 | 0.4% | 0.4% |  |
-| 78 | 0.1% | 0.1% |  |
-| 79 | 0% | 0% |  |
+| 62 | 0% | 100% |  |
+| 63 | 0.1% | 99.9% |  |
+| 64 | 0.3% | 99.8% |  |
+| 65 | 0.7% | 99.5% |  |
+| 66 | 1.3% | 98.8% |  |
+| 67 | 2% | 98% |  |
+| 68 | 4% | 95% |  |
+| 69 | 7% | 91% |  |
+| 70 | 10% | 85% |  |
+| 71 | 12% | 75% | Last Result |
+| 72 | 15% | 62% | Median |
+| 73 | 15% | 48% |  |
+| 74 | 12% | 33% |  |
+| 75 | 8% | 21% |  |
+| 76 | 6% | 14% |  |
+| 77 | 4% | 8% |  |
+| 78 | 2% | 5% |  |
+| 79 | 1.4% | 3% |  |
+| 80 | 0.6% | 1.2% |  |
+| 81 | 0.3% | 0.6% |  |
+| 82 | 0.2% | 0.3% |  |
+| 83 | 0.1% | 0.1% |  |
+| 84 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs – Die Grünen–Die Grüne Alternative
 
@@ -407,20 +546,30 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0% | 100% |  |
-| 61 | 0.3% | 99.9% |  |
-| 62 | 2% | 99.7% |  |
-| 63 | 5% | 98% |  |
-| 64 | 13% | 93% |  |
-| 65 | 20% | 80% |  |
-| 66 | 25% | 60% | Last Result, Median |
-| 67 | 18% | 35% |  |
-| 68 | 11% | 17% |  |
-| 69 | 4% | 6% |  |
-| 70 | 1.5% | 2% |  |
-| 71 | 0.3% | 0.3% |  |
-| 72 | 0% | 0.1% |  |
-| 73 | 0% | 0% |  |
+| 52 | 0% | 100% |  |
+| 53 | 0.1% | 99.9% |  |
+| 54 | 0.3% | 99.8% |  |
+| 55 | 0.7% | 99.5% |  |
+| 56 | 1.4% | 98.8% |  |
+| 57 | 2% | 97% |  |
+| 58 | 3% | 95% |  |
+| 59 | 5% | 92% |  |
+| 60 | 6% | 87% |  |
+| 61 | 7% | 81% |  |
+| 62 | 8% | 74% |  |
+| 63 | 10% | 65% | Median |
+| 64 | 11% | 55% |  |
+| 65 | 12% | 45% |  |
+| 66 | 12% | 32% | Last Result |
+| 67 | 9% | 20% |  |
+| 68 | 6% | 11% |  |
+| 69 | 3% | 6% |  |
+| 70 | 1.5% | 3% |  |
+| 71 | 0.7% | 1.2% |  |
+| 72 | 0.3% | 0.5% |  |
+| 73 | 0.1% | 0.2% |  |
+| 74 | 0.1% | 0.1% |  |
+| 75 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs – Freiheitliche Partei Österreichs
 
@@ -428,20 +577,31 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0.1% | 100% |  |
-| 61 | 0.3% | 99.9% |  |
-| 62 | 1.4% | 99.6% |  |
-| 63 | 5% | 98% |  |
-| 64 | 10% | 93% |  |
-| 65 | 22% | 83% |  |
-| 66 | 24% | 60% | Median |
-| 67 | 19% | 37% |  |
-| 68 | 11% | 17% |  |
-| 69 | 5% | 7% |  |
-| 70 | 2% | 2% |  |
-| 71 | 0.3% | 0.4% | Last Result |
-| 72 | 0% | 0.1% |  |
-| 73 | 0% | 0% |  |
+| 48 | 0% | 100% |  |
+| 49 | 0% | 99.9% |  |
+| 50 | 0.1% | 99.9% |  |
+| 51 | 0.5% | 99.8% |  |
+| 52 | 2% | 99.3% |  |
+| 53 | 2% | 97% |  |
+| 54 | 1.0% | 96% |  |
+| 55 | 2% | 95% |  |
+| 56 | 7% | 92% |  |
+| 57 | 8% | 86% |  |
+| 58 | 6% | 77% |  |
+| 59 | 6% | 72% |  |
+| 60 | 8% | 66% |  |
+| 61 | 8% | 58% |  |
+| 62 | 8% | 50% | Median |
+| 63 | 7% | 43% |  |
+| 64 | 7% | 36% |  |
+| 65 | 9% | 28% |  |
+| 66 | 8% | 20% |  |
+| 67 | 6% | 11% |  |
+| 68 | 3% | 6% |  |
+| 69 | 2% | 2% |  |
+| 70 | 0.6% | 0.7% |  |
+| 71 | 0.1% | 0.2% | Last Result |
+| 72 | 0% | 0% |  |
 
 ### Sozialdemokratische Partei Österreichs
 
@@ -449,22 +609,30 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 33 | 0.1% | 100% |  |
-| 34 | 0.8% | 99.9% |  |
-| 35 | 4% | 99.1% |  |
-| 36 | 13% | 95% |  |
-| 37 | 25% | 82% |  |
-| 38 | 26% | 57% | Median |
-| 39 | 20% | 31% |  |
-| 40 | 7% | 10% | Last Result |
-| 41 | 2% | 3% |  |
-| 42 | 0.4% | 0.5% |  |
+| 25 | 0.1% | 100% |  |
+| 26 | 0.4% | 99.8% |  |
+| 27 | 1.2% | 99.4% |  |
+| 28 | 2% | 98% |  |
+| 29 | 5% | 96% |  |
+| 30 | 8% | 91% |  |
+| 31 | 9% | 83% |  |
+| 32 | 11% | 74% |  |
+| 33 | 10% | 64% |  |
+| 34 | 10% | 54% | Median |
+| 35 | 8% | 44% |  |
+| 36 | 9% | 35% |  |
+| 37 | 9% | 27% |  |
+| 38 | 8% | 17% |  |
+| 39 | 6% | 9% |  |
+| 40 | 2% | 3% | Last Result |
+| 41 | 0.7% | 0.9% |  |
+| 42 | 0.2% | 0.2% |  |
 | 43 | 0% | 0% |  |
 
 
 ## Technical Information
 
 + **Number of polls included in this average:** 4
-+ **Lowest number of simulations done in a poll included in this average:** 0
-+ **Total number of simulations done in the polls included in this average:** 131,072
-+ **Error estimate:** 0.55%
++ **Lowest number of simulations done in a poll included in this average:** 131,072
++ **Total number of simulations done in the polls included in this average:** 524,288
++ **Error estimate:** 1.48%
