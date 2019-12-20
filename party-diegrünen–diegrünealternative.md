@@ -55,9 +55,9 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 27–33 | 26–34 | 25–35 | 24–37 |
+| N/A | [Poll Average](average.html) | 29 | 27–33 | 26–34 | 26–35 | 24–37 |
 | [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 31 | 28–34 | 27–36 | 27–36 | 25–38 |
-| [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 26–32 | 25–33 | 25–34 | 24–36 |
+| [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 26–32 | 26–33 | 25–34 | 24–36 |
 | [29 November–5 December 2019](2019-12-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
 | [29 November–4 December 2019](2019-12-04-Market.html) | Market <br> Der Standard | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
 | [22–28 November 2019](2019-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
@@ -81,15 +81,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 23 | 0.1% | 100% |  |
-| 24 | 0.6% | 99.8% |  |
+| 24 | 0.5% | 99.8% |  |
 | 25 | 2% | 99.3% |  |
-| 26 | 6% | 97% | Last Result |
+| 26 | 5% | 98% | Last Result |
 | 27 | 11% | 92% |  |
-| 28 | 16% | 81% |  |
-| 29 | 16% | 66% | Median |
-| 30 | 15% | 49% |  |
-| 31 | 11% | 34% |  |
-| 32 | 9% | 23% |  |
+| 28 | 17% | 81% |  |
+| 29 | 17% | 65% | Median |
+| 30 | 14% | 48% |  |
+| 31 | 11% | 33% |  |
+| 32 | 9% | 22% |  |
 | 33 | 6% | 14% |  |
 | 34 | 4% | 8% |  |
 | 35 | 2% | 4% |  |
