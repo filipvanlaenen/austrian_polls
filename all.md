@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
 | [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 36–42% <br> 66–79 | 15–21% <br> 28–38 | 13–18% <br> 23–32 | 15–20% <br> 27–36 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A |
-| [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 66–79 | 15–20% <br> 27–36 | 12–17% <br> 22–30 | 14–19% <br> 25–34 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
+| [6–12 December 2019](2019-12-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 66–78 | 15–20% <br> 27–36 | 12–17% <br> 22–30 | 14–19% <br> 25–34 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
 | [29 November–5 December 2019](2019-12-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 66–80 | 15–20% <br> 27–37 | 12–16% <br> 21–31 | 14–19% <br> 25–35 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A |
 | [29 November–4 December 2019](2019-12-04-Market.html) | Market <br> Der Standard | 36–42% <br> 67–79 | 16–21% <br> 29–39 | 13–18% <br> 23–33 | 14–19% <br> 25–35 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A |
 | [22–28 November 2019](2019-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–41% <br> 64–78 | 16–21% <br> 29–39 | 12–16% <br> 22–30 | 14–19% <br> 25–35 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A |
