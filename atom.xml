@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_polls</id>
   <title>All Registered Polls for the Nationalrat</title>
-  <updated>2019-12-28T18:16:19.601962+01:00</updated>
+  <updated>2019-12-29T12:14:38.672906+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 35.8–42.3%, 66–80 seats</li><li>Sozialdemokratische Partei Österreichs: 14.6–19.6%, 27–37 seats</li><li>Freiheitliche Partei Österreichs: 12.8–17.6%, 24–33 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 7.3–11.1%, 13–20 seats</li><li>Die Grünen–Die Grüne Alternative: 13.7–18.5%, 25–35 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_polls/2019-12-19-ResearchAffairs.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Research Affairs for ÖSTERREICH, 12–19 December 2019</title>
     <updated>2019-12-28T18:16:19.601962+01:00</updated>
     <dc:date>2019-12-28T18:16:19.601962+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 35.7–42.4%, 67–79 seats</li><li>Sozialdemokratische Partei Österreichs: 16.4–21.8%, 30–41 seats</li><li>Freiheitliche Partei Österreichs: 11.8–16.6%, 22–31 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 8.2–12.3%, 15–23 seats</li><li>Die Grünen–Die Grüne Alternative: 13.6–18.7%, 25–35 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2019-12-19-Market.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2019-12-19-Market.html"/>
+    <title>Opinion Poll by Market for Der Standard, 16–19 December 2019</title>
+    <updated>2019-12-29T12:14:38.672906+01:00</updated>
+    <dc:date>2019-12-29T12:14:38.672906+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 35.7–42.4%, 66–79 seats</li><li>Sozialdemokratische Partei Österreichs: 15.5–20.8%, 28–38 seats</li><li>Freiheitliche Partei Österreichs: 12.7–17.6%, 23–32 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 8.1–12.3%, 15–22 seats</li><li>Die Grünen–Die Grüne Alternative: 14.5–19.7%, 27–36 seats</li></ul></div></content>
@@ -55,5 +63,5 @@
     <updated>2019-12-23T12:03:09.360786+01:00</updated>
     <dc:date>2019-12-23T12:03:09.360786+01:00</dc:date>
   </entry>
-  <dc:date>2019-12-28T18:16:19.601962+01:00</dc:date>
+  <dc:date>2019-12-29T12:14:38.672906+01:00</dc:date>
 </feed>
