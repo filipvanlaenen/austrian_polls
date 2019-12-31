@@ -59,7 +59,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 73 | 69–76 | 68–78 | 67–79 | 65–81 |
+| N/A | [Poll Average](average.html) | 72 | 69–76 | 68–78 | 67–79 | 65–81 |
 | [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 68–77 | 67–79 | 66–80 | 64–82 |
 | [16–19 December 2019](2019-12-19-Market.html) | Market <br> Der Standard | 73 | 69–77 | 68–78 | 67–79 | 65–81 |
 | [9–13 December 2019](2019-12-13-UniqueResearch.html) | Unique Research <br> profil | 72 | 68–77 | 67–78 | 66–79 | 64–81 |
@@ -96,8 +96,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 6% | 92% |  |
 | 70 | 9% | 86% |  |
 | 71 | 12% | 77% | Last Result |
-| 72 | 15% | 65% |  |
-| 73 | 14% | 50% | Median |
+| 72 | 15% | 65% | Median |
+| 73 | 14% | 50% |  |
 | 74 | 12% | 36% |  |
 | 75 | 8% | 24% |  |
 | 76 | 6% | 16% |  |
