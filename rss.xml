@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sun, 29 Dec 2019 12:14:38 +0100</pubDate>
+    <pubDate>Tue, 31 Dec 2019 14:54:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 12–19 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-12-19-ResearchAffairs.html#seats</link>
@@ -250,14 +250,34 @@
       <dc:date>2019-12-19T16:06:42.400948+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Karmasin, 8–13 November 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-11-13-Karmasin.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 69–75 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 35–41 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 26–31 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 15–19 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 26–31 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-11-13-Karmasin-seats.png"
+        length="144237"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2019 14:54:09 +0100</pubDate>
+      <dc:date>2019-12-31T14:54:09.279017+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Karmasin, 8–13 November 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2019-11-13-Karmasin.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-11-13-Karmasin-coalitions-seats.png"
+        length="226277"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2019 14:54:09 +0100</pubDate>
+      <dc:date>2019-12-31T14:54:09.279017+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Karmasin, 8–13 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2019-11-13-Karmasin.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 36.3–39.8%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.6–21.5%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.8–16.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.0–10.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 13.8–16.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2019-11-13-Karmasin.png"
         length="154200"
         type="image/png"/>
-      <pubDate>Sat, 28 Dec 2019 16:19:11 +0100</pubDate>
-      <dc:date>2019-12-28T16:19:11.889165+01:00</dc:date>
+      <pubDate>Tue, 31 Dec 2019 14:54:09 +0100</pubDate>
+      <dc:date>2019-12-31T14:54:09.279017+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 2–7 November 2019 – Voting Intentions</title>
@@ -319,6 +339,6 @@
       <pubDate>Sun, 15 Dec 2019 11:01:52 +0100</pubDate>
       <dc:date>2019-12-15T11:01:52.413983+01:00</dc:date>
     </item>
-    <dc:date>2019-12-29T12:14:38.672906+01:00</dc:date>
+    <dc:date>2019-12-31T14:54:09.279017+01:00</dc:date>
   </channel>
 </rss>
