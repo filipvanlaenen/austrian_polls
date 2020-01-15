@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_polls</id>
   <title>All Registered Polls for the Nationalrat</title>
-  <updated>2020-01-13T21:06:59.707405+01:00</updated>
+  <updated>2020-01-13T23:02:49.456042+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 34.7–41.4%, 65–78 seats</li><li>Sozialdemokratische Partei Österreichs: 13.6–18.7%, 25–35 seats</li><li>Freiheitliche Partei Österreichs: 13.6–18.7%, 25–35 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 8.2–12.3%, 15–23 seats</li><li>Die Grünen–Die Grüne Alternative: 14.6–19.8%, 27–37 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2020-01-10-UniqueResearch.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2020-01-10-UniqueResearch.html"/>
+    <title>Opinion Poll by Unique Research for profil, 6–10 January 2020</title>
+    <updated>2020-01-13T23:02:49.456042+01:00</updated>
+    <dc:date>2020-01-13T23:02:49.456042+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 35.8–42.3%, 66–78 seats</li><li>Sozialdemokratische Partei Österreichs: 14.6–19.7%, 27–36 seats</li><li>Freiheitliche Partei Österreichs: 10.9–15.5%, 20–28 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 7.2–11.1%, 13–20 seats</li><li>Die Grünen–Die Grüne Alternative: 14.6–19.7%, 27–36 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_polls/2020-01-09-ResearchAffairs.html</id>
@@ -71,5 +79,5 @@
     <updated>2019-12-23T12:03:09.360786+01:00</updated>
     <dc:date>2019-12-23T12:03:09.360786+01:00</dc:date>
   </entry>
-  <dc:date>2020-01-13T21:06:59.707405+01:00</dc:date>
+  <dc:date>2020-01-13T23:02:49.456042+01:00</dc:date>
 </feed>
