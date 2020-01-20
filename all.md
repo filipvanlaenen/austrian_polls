@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
+| [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 66–78 | 14–18% <br> 25–34 | 11–15% <br> 20–27 | 15–19% <br> 27–36 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A |
+| [10 January 2019–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 36–42% <br> 71–79 | 15–19% <br> 28–36 | 13–17% <br> 24–35 | 15–19% <br> 28–33 | 7–11% <br> 15–20 | N/A <br> N/A | N/A <br> N/A |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 35–41% <br> 65–78 | 14–19% <br> 25–35 | 14–19% <br> 25–35 | 15–20% <br> 27–37 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A |
 | [3–9 January 2020](2020-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 66–78 | 15–20% <br> 27–36 | 11–15% <br> 20–28 | 15–20% <br> 27–36 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
 | [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 66–80 | 15–20% <br> 27–37 | 13–18% <br> 24–33 | 14–19% <br> 25–35 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
