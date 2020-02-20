@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 17 Jan 2020 23:57:10 +0100</pubDate>
+    <pubDate>Thu, 20 Feb 2020 06:55:31 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 10–14 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-02-14-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.8–41.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 12.7–17.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.7–18.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.1–12.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 14.6–19.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-02-14-UniqueResearch.png"
+        length="175940"
+        type="image/png"/>
+      <pubDate>Thu, 20 Feb 2020 06:55:31 +0100</pubDate>
+      <dc:date>2020-02-20T06:55:31.812412+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 10–16 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-01-16-ResearchAffairs.html</link>
@@ -399,6 +409,6 @@
       <pubDate>Sun, 15 Dec 2019 11:01:52 +0100</pubDate>
       <dc:date>2019-12-15T11:01:52.413983+01:00</dc:date>
     </item>
-    <dc:date>2020-01-17T23:57:10.488006+01:00</dc:date>
+    <dc:date>2020-02-20T06:55:31.812412+01:00</dc:date>
   </channel>
 </rss>
