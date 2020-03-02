@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Mon, 24 Feb 2020 06:45:15 +0100</pubDate>
+    <pubDate>Mon, 02 Mar 2020 20:30:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 10–14 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-02-14-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 64–78 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 23–33 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 25–35 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 15–23 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 27–37 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-02-14-UniqueResearch-seats.png"
+        length="168292"
+        type="image/png"/>
+      <pubDate>Mon, 02 Mar 2020 20:30:30 +0100</pubDate>
+      <dc:date>2020-03-02T20:30:30.586291+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 10–14 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-02-14-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-02-14-UniqueResearch-coalitions-seats.png"
+        length="284876"
+        type="image/png"/>
+      <pubDate>Mon, 02 Mar 2020 20:30:30 +0100</pubDate>
+      <dc:date>2020-03-02T20:30:30.586291+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 10–14 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-02-14-UniqueResearch.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-02-14-UniqueResearch.png"
         length="175940"
         type="image/png"/>
-      <pubDate>Thu, 20 Feb 2020 06:55:31 +0100</pubDate>
-      <dc:date>2020-02-20T06:55:31.812412+01:00</dc:date>
+      <pubDate>Mon, 02 Mar 2020 20:30:30 +0100</pubDate>
+      <dc:date>2020-03-02T20:30:30.586291+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 28–31 January 2020 – Voting Intentions</title>
@@ -429,6 +449,6 @@
       <pubDate>Sun, 15 Dec 2019 11:01:52 +0100</pubDate>
       <dc:date>2019-12-15T11:01:52.413983+01:00</dc:date>
     </item>
-    <dc:date>2020-02-24T06:45:15.227424+01:00</dc:date>
+    <dc:date>2020-03-02T20:30:30.586291+01:00</dc:date>
   </channel>
 </rss>
