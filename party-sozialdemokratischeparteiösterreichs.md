@@ -66,8 +66,8 @@ Last result: **40** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 27–37 | 25–38 | 25–39 | 23–41 |
-| [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 24–33 | 22–35 |
+| N/A | [Poll Average](average.html) | 32 | 27–37 | 26–38 | 25–39 | 23–41 |
+| [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 23–33 | 22–35 |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 27–35 | 26–36 | 26–37 | 24–40 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 27–32 | 26–33 | 25–34 | 24–35 |
 | [10 January 2019–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 32 | 29–35 | 28–36 | 28–37 | 26–38 |
@@ -102,15 +102,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
 | 22 | 0.2% | 99.9% |  |
-| 23 | 0.4% | 99.8% |  |
-| 24 | 1.3% | 99.4% |  |
-| 25 | 3% | 98% |  |
-| 26 | 4% | 95% |  |
-| 27 | 5% | 91% |  |
-| 28 | 6% | 86% |  |
-| 29 | 9% | 80% |  |
-| 30 | 10% | 71% |  |
-| 31 | 11% | 61% |  |
+| 23 | 0.5% | 99.8% |  |
+| 24 | 1.3% | 99.2% |  |
+| 25 | 2% | 98% |  |
+| 26 | 4% | 96% |  |
+| 27 | 5% | 92% |  |
+| 28 | 7% | 86% |  |
+| 29 | 8% | 79% |  |
+| 30 | 9% | 71% |  |
+| 31 | 11% | 62% |  |
 | 32 | 10% | 51% | Median |
 | 33 | 9% | 41% |  |
 | 34 | 9% | 32% |  |
