@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Mon, 02 Mar 2020 20:30:30 +0100</pubDate>
+    <pubDate>Wed, 04 Mar 2020 13:57:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 24–27 February 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-02-27-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 67–78 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 27–36 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 17–24 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 15–22 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 27–36 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-02-27-ResearchAffairs-seats.png"
+        length="161008"
+        type="image/png"/>
+      <pubDate>Wed, 04 Mar 2020 13:57:30 +0100</pubDate>
+      <dc:date>2020-03-04T13:57:30.368054+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 24–27 February 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-02-27-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-02-27-ResearchAffairs-coalitions-seats.png"
+        length="266387"
+        type="image/png"/>
+      <pubDate>Wed, 04 Mar 2020 13:57:30 +0100</pubDate>
+      <dc:date>2020-03-04T13:57:30.368054+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 24–27 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-02-27-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 36.4–42.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 14.9–19.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 9.3–13.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.4–12.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 14.9–19.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-02-27-ResearchAffairs.png"
+        length="174066"
+        type="image/png"/>
+      <pubDate>Wed, 04 Mar 2020 13:57:30 +0100</pubDate>
+      <dc:date>2020-03-04T13:57:30.368054+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 10–14 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-02-14-UniqueResearch.html#seats</link>
@@ -449,6 +479,6 @@
       <pubDate>Sun, 15 Dec 2019 11:01:52 +0100</pubDate>
       <dc:date>2019-12-15T11:01:52.413983+01:00</dc:date>
     </item>
-    <dc:date>2020-03-02T20:30:30.586291+01:00</dc:date>
+    <dc:date>2020-03-04T13:57:30.368054+01:00</dc:date>
   </channel>
 </rss>
