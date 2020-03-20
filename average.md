@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 36–43% <br> 66–80 | 14–22% <br> 25–40 | 11–18% <br> 20–33 | 15–20% <br> 27–37 | 8–12% <br> 14–21 | N/A <br> N/A | N/A <br> N/A |
-| [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 37–43% <br> 68–80 | 18–23% <br> 32–42 | 11–15% <br> 20–28 | 15–19% <br> 27–36 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
+| [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 37–43% <br> 69–80 | 18–23% <br> 32–42 | 11–15% <br> 20–28 | 15–19% <br> 27–36 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–43% <br> 68–81 | 15–20% <br> 28–37 | 10–14% <br> 19–27 | 15–20% <br> 28–37 | 8–11% <br> 14–21 | N/A <br> N/A | N/A <br> N/A |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 35–41% <br> 64–78 | 13–18% <br> 23–33 | 14–19% <br> 25–35 | 15–20% <br> 27–37 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 36–42% <br> 68–80 | 15–19% <br> 28–37 | 13–17% <br> 24–33 | 15–19% <br> 28–37 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
@@ -156,7 +156,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 71 | 73 | 69–78 |68–79 | 66–80 | 64–82 |
+| <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 71 | 74 | 69–78 |68–79 | 66–80 | 64–82 |
 | <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 40 | 32 | 27–38 |26–39 | 25–40 | 23–42 |
 | <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 31 | 26 | 22–31 |21–32 | 20–33 | 19–35 |
 | <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 26 | 32 | 29–35 |28–36 | 27–37 | 26–38 |
