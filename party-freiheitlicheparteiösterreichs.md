@@ -10,7 +10,9 @@ Last result: **16.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14.0% | 11.8–16.7% | 11.3–17.3% | 10.9–17.9% | 10.2–18.9% |
+| N/A | [Poll Average](average.html) | 14.7% | 11.8–17.0% | 11.3–17.6% | 10.9–18.1% | 10.2–19.1% |
+| [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 12.0% | N/A | N/A | N/A | N/A |
+| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 11.0% | N/A | N/A | N/A | N/A |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.3% | 11.0–13.7% | 10.7–14.1% | 10.4–14.5% | 9.8–15.2% |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.1% | 9.9–12.4% | 9.6–12.8% | 9.3–13.2% | 8.7–13.9% |
@@ -46,17 +48,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0.1% | 100% |  |
-| 9.5–10.5% | 1.0% | 99.9% |  |
-| 10.5–11.5% | 6% | 98.9% |  |
-| 11.5–12.5% | 15% | 93% |  |
-| 12.5–13.5% | 19% | 77% |  |
-| 13.5–14.5% | 17% | 59% | Median |
-| 14.5–15.5% | 16% | 42% |  |
-| 15.5–16.5% | 14% | 25% | Last Result |
-| 16.5–17.5% | 8% | 12% |  |
-| 17.5–18.5% | 3% | 4% |  |
-| 18.5–19.5% | 0.8% | 0.9% |  |
-| 19.5–20.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 1.2% | 99.9% |  |
+| 10.5–11.5% | 6% | 98.8% |  |
+| 11.5–12.5% | 12% | 93% |  |
+| 12.5–13.5% | 13% | 80% |  |
+| 13.5–14.5% | 15% | 67% |  |
+| 14.5–15.5% | 19% | 53% | Median |
+| 15.5–16.5% | 18% | 33% | Last Result |
+| 16.5–17.5% | 10% | 15% |  |
+| 17.5–18.5% | 4% | 5% |  |
+| 18.5–19.5% | 1.0% | 1.2% |  |
+| 19.5–20.5% | 0.2% | 0.2% |  |
 | 20.5–21.5% | 0% | 0% |  |
 
 
@@ -68,7 +70,9 @@ Last result: **31** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 22–31 | 21–32 | 20–33 | 19–35 |
+| N/A | [Poll Average](average.html) | 27 | 22–32 | 21–33 | 20–34 | 19–36 |
+| [31 March–2 April 2020](2020-04-02-OGM.html) | OGM |  |  |  |  |  |
+| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 24 | 21–26 | 21–27 | 20–28 | 19–29 |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23 | 20–25 | 20–26 | 19–27 | 18–28 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 18–23 | 17–23 | 17–24 | 16–25 |
@@ -106,27 +110,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 17 | 0.1% | 100% |  |
-| 18 | 0.3% | 99.9% |  |
-| 19 | 1.1% | 99.6% |  |
-| 20 | 3% | 98.5% |  |
+| 18 | 0.4% | 99.9% |  |
+| 19 | 1.2% | 99.5% |  |
+| 20 | 3% | 98% |  |
 | 21 | 5% | 96% |  |
-| 22 | 8% | 90% |  |
-| 23 | 10% | 82% |  |
-| 24 | 10% | 73% |  |
-| 25 | 9% | 63% |  |
-| 26 | 8% | 54% | Median |
-| 27 | 8% | 45% |  |
-| 28 | 9% | 38% |  |
-| 29 | 8% | 29% |  |
-| 30 | 7% | 21% |  |
-| 31 | 5% | 14% | Last Result |
-| 32 | 4% | 8% |  |
-| 33 | 2% | 4% |  |
-| 34 | 1.2% | 2% |  |
-| 35 | 0.6% | 1.0% |  |
-| 36 | 0.3% | 0.4% |  |
+| 22 | 6% | 91% |  |
+| 23 | 7% | 84% |  |
+| 24 | 6% | 78% |  |
+| 25 | 6% | 71% |  |
+| 26 | 7% | 65% |  |
+| 27 | 9% | 58% | Median |
+| 28 | 11% | 49% |  |
+| 29 | 11% | 38% |  |
+| 30 | 9% | 27% |  |
+| 31 | 7% | 18% | Last Result |
+| 32 | 5% | 11% |  |
+| 33 | 3% | 6% |  |
+| 34 | 2% | 3% |  |
+| 35 | 0.8% | 1.4% |  |
+| 36 | 0.3% | 0.6% |  |
 | 37 | 0.1% | 0.2% |  |
-| 38 | 0% | 0.1% |  |
+| 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
 
 
