@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
-| [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 42–48% <br> 78–91 | 14–19% <br> 25–35 | 10–14% <br> 18–27 | 15–21% <br> 29–39 | 5–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
+| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 40–46% <br> 74–86 | 17–22% <br> 31–40 | 9–13% <br> 17–24 | 17–22% <br> 31–40 | 6–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 37–43% <br> 69–80 | 18–23% <br> 32–42 | 11–15% <br> 20–28 | 15–19% <br> 27–36 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–43% <br> 68–81 | 15–20% <br> 28–37 | 10–14% <br> 19–27 | 15–20% <br> 28–37 | 8–11% <br> 14–21 | N/A <br> N/A | N/A <br> N/A |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 67–78 | 15–20% <br> 27–36 | 9–13% <br> 17–24 | 15–20% <br> 27–36 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A |
