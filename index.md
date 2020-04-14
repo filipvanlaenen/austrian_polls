@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 36–42% <br> 66–80 | 13–19% <br> 25–36 | 11–18% <br> 20–34 | 15–20% <br> 27–37 | 8–12% <br> 14–22 | N/A <br> N/A | N/A <br> N/A |
-| [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 36–47% <br> 67–88 | 14–21% <br> 25–38 | 10–18% <br> 18–33 | 15–21% <br> 28–38 | 6–11% <br> 10–21 | N/A <br> N/A | N/A <br> N/A |
+| [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 42–48% <br> 78–91 | 14–19% <br> 25–35 | 10–14% <br> 18–27 | 15–21% <br> 29–39 | 5–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
+| [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 40–46% <br> 74–86 | 17–22% <br> 31–40 | 9–13% <br> 17–24 | 17–22% <br> 31–40 | 6–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–43% <br> 68–81 | 15–20% <br> 28–37 | 10–14% <br> 19–27 | 15–20% <br> 28–37 | 8–11% <br> 14–21 | N/A <br> N/A | N/A <br> N/A |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 35–41% <br> 64–78 | 13–18% <br> 23–33 | 14–19% <br> 25–35 | 15–20% <br> 27–37 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 36–42% <br> 68–80 | 15–19% <br> 28–37 | 13–17% <br> 24–33 | 15–19% <br> 28–37 | 7–11% <br> 14–20 | N/A <br> N/A | N/A <br> N/A |
