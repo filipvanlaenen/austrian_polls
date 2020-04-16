@@ -10,7 +10,8 @@ Last result: **21.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.9% | 14.6–19.3% | 14.0–20.0% | 13.6–20.6% | 12.7–21.6% |
+| N/A | [Poll Average](average.html) | 16.9% | 14.6–19.3% | 14.0–19.8% | 13.6–20.2% | 12.7–20.9% |
+| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 19.0% | 17.8–20.2% | 17.5–20.6% | 17.3–20.9% | 16.7–21.5% |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -53,14 +54,13 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 7% | 98% |  |
 | 14.5–15.5% | 13% | 91% |  |
 | 15.5–16.5% | 19% | 77% |  |
-| 16.5–17.5% | 21% | 58% | Median |
-| 17.5–18.5% | 17% | 37% |  |
-| 18.5–19.5% | 11% | 19% |  |
-| 19.5–20.5% | 6% | 8% |  |
-| 20.5–21.5% | 2% | 3% | Last Result |
-| 21.5–22.5% | 0.4% | 0.5% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 16.5–17.5% | 20% | 58% | Median |
+| 17.5–18.5% | 18% | 38% |  |
+| 18.5–19.5% | 13% | 20% |  |
+| 19.5–20.5% | 6% | 7% |  |
+| 20.5–21.5% | 1.2% | 1.2% | Last Result |
+| 21.5–22.5% | 0.1% | 0.1% |  |
+| 22.5–23.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -71,7 +71,8 @@ Last result: **40** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–36 | 26–37 | 25–38 | 23–40 |
+| N/A | [Poll Average](average.html) | 32 | 27–36 | 26–37 | 25–37 | 23–39 |
+| [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 35 | 33–37 | 32–38 | 32–39 | 31–40 |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 35 | 32–38 | 31–39 | 31–40 | 29–41 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 37 | 34–40 | 33–41 | 32–42 | 31–43 |
@@ -119,18 +120,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 7% | 87% |  |
 | 29 | 9% | 80% |  |
 | 30 | 10% | 71% |  |
-| 31 | 11% | 61% | Median |
-| 32 | 11% | 49% |  |
-| 33 | 10% | 38% |  |
-| 34 | 9% | 28% |  |
-| 35 | 7% | 19% |  |
-| 36 | 5% | 12% |  |
-| 37 | 3% | 7% |  |
-| 38 | 2% | 3% |  |
-| 39 | 0.9% | 2% |  |
-| 40 | 0.4% | 0.7% | Last Result |
-| 41 | 0.2% | 0.3% |  |
-| 42 | 0.1% | 0.1% |  |
-| 43 | 0% | 0% |  |
+| 31 | 11% | 61% |  |
+| 32 | 11% | 50% | Median |
+| 33 | 10% | 39% |  |
+| 34 | 10% | 29% |  |
+| 35 | 8% | 19% |  |
+| 36 | 6% | 12% |  |
+| 37 | 3% | 5% |  |
+| 38 | 1.5% | 2% |  |
+| 39 | 0.6% | 0.8% |  |
+| 40 | 0.1% | 0.2% | Last Result |
+| 41 | 0% | 0% |  |
 
 
