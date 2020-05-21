@@ -14,19 +14,19 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 15.0% | 13.4–16.7% | 13.0–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
-| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 16.0% | N/A | N/A | N/A | N/A |
+| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 19.0% | 17.8–20.2% | 17.5–20.6% | 17.3–20.9% | 16.7–21.5% |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 18.0% | 16.4–19.8% | 15.9–20.4% | 15.5–20.8% | 14.7–21.7% |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 19.0% | 17.5–20.7% | 17.1–21.1% | 16.7–21.6% | 16.0–22.4% |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 16.0% | N/A | N/A | N/A | N/A |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 16.0% | 14.5–17.8% | 14.0–18.3% | 13.7–18.7% | 12.9–19.6% |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.4% | 15.9–19.0% | 15.5–19.4% | 15.1–19.8% | 14.5–20.6% |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.1% | 15.7–18.8% | 15.3–19.2% | 14.9–19.6% | 14.3–20.4% |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 17.0% | 15.4–18.8% | 15.0–19.4% | 14.6–19.8% | 13.9–20.7% |
-| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 16.9% | N/A | N/A | N/A | N/A |
-| [4–6 February 2020](2020-02-06-Market.html) | Market | 17.0% | N/A | N/A | N/A | N/A |
+| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 16.9% | 15.2–18.9% | 14.7–19.5% | 14.3–20.0% | 13.5–21.0% |
+| [4–6 February 2020](2020-02-06-Market.html) | Market | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.5–19.7% | 13.8–20.6% |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.0% | 15.0–19.3% | 14.4–20.0% | 14.0–20.5% | 13.0–21.7% |
-| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 17.0% | N/A | N/A | N/A | N/A |
+| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 17.0% | 15.5–18.7% | 15.0–19.2% | 14.6–19.6% | 13.9–20.5% |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.0% | 15.5–18.6% | 15.1–19.0% | 14.8–19.4% | 14.1–20.2% |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.6–19.8% | 13.8–20.6% |
@@ -83,19 +83,19 @@ Last result: **26** seats (General Election of 29 September 2019)
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 23–33 | 22–34 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 31 | 29–34 | 28–35 | 27–36 | 26–37 |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 33 | 30–36 | 30–37 | 29–38 | 28–39 |
-| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 29 | 27–33 | 26–34 | 25–34 | 24–36 |
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 35 | 33–37 | 32–38 | 32–39 | 31–40 |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 34 | 30–37 | 29–38 | 29–39 | 27–40 |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 35 | 32–38 | 31–39 | 31–40 | 29–41 |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research |  |  |  |  |  |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 30 | 27–33 | 26–34 | 25–35 | 24–37 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 31 | 29–34 | 28–35 | 27–36 | 26–37 |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 29–35 | 29–36 | 28–37 | 27–39 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 29–34 | 28–35 | 27–36 | 26–37 |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 32 | 28–35 | 28–36 | 27–37 | 25–39 |
-| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
-| [4–6 February 2020](2020-02-06-Market.html) | Market |  |  |  |  |  |
+| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 31 | 28–35 | 27–36 | 26–37 | 25–39 |
+| [4–6 February 2020](2020-02-06-Market.html) | Market | 31 | 28–34 | 27–36 | 27–36 | 25–38 |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 28–36 | 27–37 | 26–38 | 24–41 |
-| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs |  |  |  |  |  |
+| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 31 | 28–35 | 28–36 | 27–37 | 25–38 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 28–34 | 28–35 | 27–36 | 26–37 |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 32 | 29–35 | 28–36 | 28–37 | 26–38 |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 32 | 29–35 | 28–36 | 27–37 | 26–39 |
@@ -130,18 +130,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0% | 100% |  |
 | 22 | 0.2% | 99.9% |  |
 | 23 | 0.5% | 99.8% |  |
-| 24 | 1.4% | 99.3% |  |
+| 24 | 1.2% | 99.3% |  |
 | 25 | 2% | 98% |  |
 | 26 | 4% | 96% | Last Result |
 | 27 | 5% | 92% |  |
 | 28 | 7% | 87% |  |
-| 29 | 8% | 81% |  |
-| 30 | 10% | 72% |  |
-| 31 | 13% | 62% | Median |
-| 32 | 12% | 49% |  |
-| 33 | 12% | 36% |  |
+| 29 | 9% | 81% |  |
+| 30 | 11% | 72% |  |
+| 31 | 12% | 61% | Median |
+| 32 | 13% | 49% |  |
+| 33 | 11% | 36% |  |
 | 34 | 9% | 25% |  |
-| 35 | 6% | 15% |  |
+| 35 | 7% | 15% |  |
 | 36 | 4% | 9% |  |
 | 37 | 2% | 5% |  |
 | 38 | 1.2% | 2% |  |
