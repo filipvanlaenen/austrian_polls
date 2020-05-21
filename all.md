@@ -6,21 +6,21 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 43–49% <br> 80–93 | 15–20% <br> 27–37 | 12–17% <br> 22–31 | 13–18% <br> 23–33 | 5–8% <br> 8–14 | N/A <br> N/A | N/A <br> N/A |
-| [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 41–47% <br> 76–88 | 19–24% <br> 34–44 | 9–13% <br> 17–24 | 15–19% <br> 27–36 | 5–8% <br> 8–14 | N/A <br> N/A | N/A <br> N/A |
+| [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 41–47% <br> 76–87 | 19–24% <br> 34–44 | 9–13% <br> 17–24 | 15–19% <br> 27–36 | 5–8% <br> 8–14 | N/A <br> N/A | N/A <br> N/A |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 41–47% <br> 76–87 | 18–23% <br> 32–42 | 8–12% <br> 15–22 | 16–21% <br> 29–38 | 6–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
-| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 45–51% <br> 83–96 | 14–19% <br> 25–34 | 11–16% <br> 20–28 | 14–19% <br> 25–34 | 5–8% <br> 8–14 | N/A <br> N/A | N/A <br> N/A |
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 42–46% <br> 78–86 | 17–21% <br> 32–39 | 10–13% <br> 18–23 | 17–21% <br> 32–39 | 5–7% <br> 9–13 | N/A <br> N/A | N/A <br> N/A |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 42–48% <br> 78–91 | 14–19% <br> 25–35 | 10–14% <br> 18–27 | 15–21% <br> 29–39 | 5–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 40–46% <br> 74–86 | 17–22% <br> 31–40 | 9–13% <br> 17–24 | 17–22% <br> 31–40 | 6–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 36–42% <br> 67–80 | 14–19% <br> 25–35 | 15–20% <br> 27–37 | 14–19% <br> 25–35 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 37–43% <br> 69–80 | 18–23% <br> 32–42 | 11–15% <br> 20–28 | 15–19% <br> 27–36 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–43% <br> 68–81 | 15–20% <br> 28–37 | 10–14% <br> 19–27 | 15–20% <br> 28–37 | 8–11% <br> 14–21 | N/A <br> N/A | N/A <br> N/A |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 67–78 | 15–20% <br> 27–36 | 9–13% <br> 17–24 | 15–20% <br> 27–36 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 35–41% <br> 64–78 | 13–18% <br> 23–33 | 14–19% <br> 25–35 | 15–20% <br> 27–37 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A |
-| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [4–6 February 2020](2020-02-06-Market.html) | Market | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 35–43% <br> 65–81 | 15–21% <br> 28–39 | 11–16% <br> 19–29 | 14–20% <br> 26–37 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A |
+| [4–6 February 2020](2020-02-06-Market.html) | Market | 36–42% <br> 66–79 | 16–22% <br> 30–40 | 13–18% <br> 23–32 | 15–20% <br> 27–36 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35–43% <br> 66–80 | 14–21% <br> 26–37 | 10–16% <br> 19–29 | 14–21% <br> 26–38 | 8–13% <br> 14–23 | N/A <br> N/A | N/A <br> N/A |
-| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 36–42% <br> 66–80 | 14–19% <br> 25–34 | 11–15% <br> 20–29 | 15–20% <br> 27–37 | 9–13% <br> 16–24 | N/A <br> N/A | N/A <br> N/A |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–42% <br> 66–78 | 14–18% <br> 25–34 | 11–15% <br> 20–28 | 15–19% <br> 27–36 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 36–42% <br> 68–80 | 15–19% <br> 28–37 | 13–17% <br> 24–33 | 15–19% <br> 28–37 | 7–11% <br> 14–20 | N/A <br> N/A | N/A <br> N/A |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 35–41% <br> 65–78 | 14–19% <br> 25–35 | 14–19% <br> 25–35 | 15–20% <br> 27–37 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A |
