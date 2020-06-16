@@ -5,11 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 38–49% <br> 70–91 | 14–23% <br> 26–42 | 10–16% <br> 18–29 | 14–20% <br> 25–37 | 5–10% <br> 9–19 | N/A <br> N/A | N/A <br> N/A |
-| [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 43–49% <br> 80–93 | 15–20% <br> 27–37 | 12–17% <br> 22–31 | 13–18% <br> 23–33 | 5–8% <br> 8–14 | N/A <br> N/A | N/A <br> N/A |
-| [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 41–47% <br> 76–87 | 19–24% <br> 34–44 | 9–13% <br> 17–24 | 15–19% <br> 27–36 | 5–8% <br> 8–14 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 41–48% <br> 76–90 | 14–19% <br> 26–36 | 10–16% <br> 19–30 | 14–20% <br> 26–38 | 6–10% <br> 10–18 | N/A <br> N/A | N/A <br> N/A |
+| [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 41–47% <br> 76–88 | 15–20% <br> 27–36 | 12–17% <br> 22–30 | 14–19% <br> 25–34 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A |
+| [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 42–48% <br> 78–91 | 14–19% <br> 25–35 | 10–14% <br> 18–27 | 15–21% <br> 29–39 | 5–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
-| [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–43% <br> 68–81 | 15–20% <br> 28–37 | 10–14% <br> 19–27 | 15–20% <br> 28–37 | 8–11% <br> 14–21 | N/A <br> N/A | N/A <br> N/A |
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
