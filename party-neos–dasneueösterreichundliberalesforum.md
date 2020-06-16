@@ -10,7 +10,9 @@ Last result: **8.1%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.4–9.5% | 5.1–10.0% | 4.8–10.4% | 4.4–11.2% |
+| N/A | [Poll Average](average.html) | 7.6% | 6.3–9.0% | 5.9–9.4% | 5.7–9.8% | 5.1–10.5% |
+| [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.3% | 6.6–9.7% | 6.3–10.1% | 5.8–10.8% |
+| [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 6.0% | N/A | N/A | N/A | N/A |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 6.0% | 5.0–7.2% | 4.8–7.5% | 4.5–7.8% | 4.1–8.5% |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -56,17 +58,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.0% | 100% |  |
-| 4.5–5.5% | 13% | 99.0% |  |
-| 5.5–6.5% | 30% | 86% |  |
-| 6.5–7.5% | 23% | 57% | Median |
-| 7.5–8.5% | 13% | 34% | Last Result |
-| 8.5–9.5% | 12% | 21% |  |
-| 9.5–10.5% | 7% | 9% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 15% | 98% |  |
+| 6.5–7.5% | 33% | 84% |  |
+| 7.5–8.5% | 32% | 50% | Last Result, Median |
+| 8.5–9.5% | 15% | 18% |  |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -77,7 +77,9 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–17 | 9–18 | 9–19 | 8–21 |
+| N/A | [Poll Average](average.html) | 14 | 11–16 | 11–17 | 10–18 | 9–19 |
+| [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 15 | 12–17 | 12–17 | 11–18 | 10–20 |
+| [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 11 | 9–13 | 8–14 | 8–14 | 7–15 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 11 | 9–13 | 9–13 | 8–14 | 8–15 |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
@@ -125,29 +127,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% |  |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 0% | 99.9% |  |
-| 4 | 0% | 99.9% |  |
-| 5 | 0% | 99.9% |  |
-| 6 | 0% | 99.9% |  |
-| 7 | 0.2% | 99.9% |  |
-| 8 | 2% | 99.7% |  |
-| 9 | 7% | 98% |  |
-| 10 | 13% | 91% |  |
-| 11 | 16% | 78% |  |
-| 12 | 15% | 62% | Median |
-| 13 | 11% | 47% |  |
-| 14 | 8% | 36% |  |
-| 15 | 7% | 28% | Last Result |
-| 16 | 6% | 22% |  |
-| 17 | 6% | 15% |  |
-| 18 | 4% | 9% |  |
-| 19 | 3% | 5% |  |
-| 20 | 1.4% | 2% |  |
-| 21 | 0.5% | 0.7% |  |
-| 22 | 0.1% | 0.2% |  |
-| 23 | 0% | 0% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 0.7% | 99.9% |  |
+| 10 | 3% | 99.2% |  |
+| 11 | 8% | 96% |  |
+| 12 | 16% | 88% |  |
+| 13 | 19% | 72% |  |
+| 14 | 17% | 52% | Median |
+| 15 | 14% | 35% | Last Result |
+| 16 | 13% | 21% |  |
+| 17 | 6% | 9% |  |
+| 18 | 2% | 3% |  |
+| 19 | 0.6% | 1.0% |  |
+| 20 | 0.3% | 0.4% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
