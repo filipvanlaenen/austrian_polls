@@ -84,7 +84,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 82 | 77–87 | 76–88 | 75–89 | 73–92 |
-| [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 82 | 78–86 | 76–87 | 76–88 | 73–90 |
+| [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 82 | 78–86 | 76–87 | 75–88 | 73–90 |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 80 | 76–84 | 75–85 | 74–86 | 72–87 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 86 | 82–91 | 81–92 | 80–93 | 78–95 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 82 | 78–85 | 77–87 | 76–87 | 74–89 |
@@ -136,24 +136,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 71 | 0.1% | 100% | Last Result |
 | 72 | 0.2% | 99.9% |  |
 | 73 | 0.4% | 99.7% |  |
-| 74 | 0.8% | 99.3% |  |
-| 75 | 2% | 98.5% |  |
+| 74 | 0.9% | 99.3% |  |
+| 75 | 2% | 98% |  |
 | 76 | 3% | 97% |  |
 | 77 | 5% | 94% |  |
-| 78 | 7% | 89% |  |
-| 79 | 9% | 82% |  |
-| 80 | 9% | 73% |  |
-| 81 | 11% | 64% |  |
-| 82 | 10% | 54% | Median |
-| 83 | 9% | 44% |  |
-| 84 | 9% | 34% |  |
+| 78 | 6% | 89% |  |
+| 79 | 8% | 83% |  |
+| 80 | 10% | 75% |  |
+| 81 | 11% | 65% |  |
+| 82 | 11% | 54% | Median |
+| 83 | 10% | 43% |  |
+| 84 | 9% | 33% |  |
 | 85 | 7% | 25% |  |
-| 86 | 6% | 18% |  |
-| 87 | 5% | 12% |  |
+| 86 | 6% | 17% |  |
+| 87 | 4% | 12% |  |
 | 88 | 3% | 7% |  |
 | 89 | 2% | 4% |  |
-| 90 | 1.1% | 2% |  |
-| 91 | 0.6% | 1.2% |  |
+| 90 | 1.2% | 2% |  |
+| 91 | 0.7% | 1.2% |  |
 | 92 | 0.3% | 0.6% | Majority |
 | 93 | 0.1% | 0.2% |  |
 | 94 | 0.1% | 0.1% |  |
