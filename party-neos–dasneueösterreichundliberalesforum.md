@@ -84,7 +84,7 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 11 | 9–13 | 8–14 | 8–14 | 7–15 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 11 | 9–13 | 9–13 | 8–14 | 8–15 |
 | [20–22 April 2020](2020-04-22-Market.html) | Market | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
-| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 11 | 9–13 | 8–13 | 8–14 | 7–15 |
+| [13–16 April 2020](2020-04-16-UniqueResearch.html) | Unique Research <br> profil | 11 | 9–13 | 8–14 | 8–14 | 7–15 |
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 11 | 9–12 | 9–13 | 9–13 | 8–14 |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 13 | 11–15 | 10–16 | 10–16 | 9–18 |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 13 | 11–15 | 10–15 | 10–16 | 9–17 |
