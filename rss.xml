@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 19 Jun 2020 11:23:42 +0200</pubDate>
+    <pubDate>Wed, 12 Aug 2020 20:00:25 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 9–12 June 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-06-12-UniqueResearch.html#seats</link>
@@ -160,14 +160,34 @@
       <dc:date>2020-05-20T19:02:13.802833+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Unique Research for profil, 13–16 April 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-04-16-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 83–96 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 25–34 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 20–28 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8–14 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 25–34 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-04-16-UniqueResearch-seats.png"
+        length="195269"
+        type="image/png"/>
+      <pubDate>Wed, 12 Aug 2020 20:00:25 +0200</pubDate>
+      <dc:date>2020-08-12T20:00:25.345065+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 13–16 April 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-04-16-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-04-16-UniqueResearch-coalitions-seats.png"
+        length="282885"
+        type="image/png"/>
+      <pubDate>Wed, 12 Aug 2020 20:00:25 +0200</pubDate>
+      <dc:date>2020-08-12T20:00:25.345065+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Unique Research for profil, 13–16 April 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-04-16-UniqueResearch.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 44.6–51.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 13.6–18.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 10.9–15.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 4.5–7.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 13.6–18.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-04-16-UniqueResearch.png"
         length="222173"
         type="image/png"/>
-      <pubDate>Thu, 21 May 2020 11:22:41 +0200</pubDate>
-      <dc:date>2020-05-21T11:22:41.544728+02:00</dc:date>
+      <pubDate>Wed, 12 Aug 2020 20:00:25 +0200</pubDate>
+      <dc:date>2020-08-12T20:00:25.345065+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 3–7 April 2020 – Seat Projections for the Parties</title>
@@ -829,6 +849,6 @@
       <pubDate>Sun, 15 Dec 2019 11:01:52 +0100</pubDate>
       <dc:date>2019-12-15T11:01:52.413983+01:00</dc:date>
     </item>
-    <dc:date>2020-06-19T11:23:42.923637+02:00</dc:date>
+    <dc:date>2020-08-12T20:00:25.345065+02:00</dc:date>
   </channel>
 </rss>
