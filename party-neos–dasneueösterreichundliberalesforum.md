@@ -10,8 +10,12 @@ Last result: **8.1%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.6–8.7% | 5.3–9.2% | 5.0–9.5% | 4.5–10.3% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.6–9.1% | 6.2–9.5% | 5.9–9.9% | 5.4–10.6% |
+| [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.4% | 6.6–9.7% | 6.3–10.1% | 5.8–10.8% |
+| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 8.0% | 6.8–9.3% | 6.5–9.7% | 6.3–10.0% | 5.8–10.7% |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.3% | 6.6–9.7% | 6.3–10.1% | 5.8–10.8% |
+| [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.5–9.0% | 5.0–9.7% |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 6.0% | 5.0–7.2% | 4.8–7.5% | 4.5–7.8% | 4.1–8.5% |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
@@ -58,15 +62,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 9% | 99.5% |  |
-| 5.5–6.5% | 26% | 91% |  |
-| 6.5–7.5% | 30% | 64% | Median |
-| 7.5–8.5% | 22% | 35% | Last Result |
-| 8.5–9.5% | 10% | 12% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.9% | 100% |  |
+| 5.5–6.5% | 9% | 99.1% |  |
+| 6.5–7.5% | 29% | 90% |  |
+| 7.5–8.5% | 37% | 61% | Last Result, Median |
+| 8.5–9.5% | 19% | 24% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.5% | 0.5% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -78,8 +81,12 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–17 | 9–17 | 8–19 |
+| N/A | [Poll Average](average.html) | 14 | 12–17 | 11–17 | 11–18 | 9–19 |
+| [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
+| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
+| [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
+| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 11 | 9–13 | 9–13 | 8–14 | 8–15 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 11 | 9–13 | 8–14 | 8–14 | 7–15 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 11 | 9–13 | 9–13 | 8–14 | 8–15 |
@@ -128,20 +135,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 7 | 0.1% | 100% |  |
-| 8 | 1.2% | 99.8% |  |
-| 9 | 5% | 98.6% |  |
-| 10 | 10% | 94% |  |
-| 11 | 14% | 84% |  |
-| 12 | 16% | 69% |  |
-| 13 | 15% | 53% | Median |
-| 14 | 14% | 37% |  |
-| 15 | 11% | 23% | Last Result |
-| 16 | 7% | 12% |  |
-| 17 | 3% | 5% |  |
-| 18 | 1.5% | 2% |  |
-| 19 | 0.6% | 0.8% |  |
-| 20 | 0.2% | 0.2% |  |
-| 21 | 0% | 0% |  |
+| 9 | 0.5% | 100% |  |
+| 10 | 2% | 99.5% |  |
+| 11 | 5% | 98% |  |
+| 12 | 11% | 93% |  |
+| 13 | 17% | 82% |  |
+| 14 | 20% | 65% | Median |
+| 15 | 19% | 44% | Last Result |
+| 16 | 13% | 26% |  |
+| 17 | 7% | 12% |  |
+| 18 | 3% | 5% |  |
+| 19 | 1.1% | 2% |  |
+| 20 | 0.3% | 0.4% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
