@@ -86,10 +86,10 @@ Last result: **40** seats (General Election of 29 September 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36 | 32–39 | 32–40 | 31–41 | 29–43 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 35 | 32–38 | 31–39 | 30–40 | 29–42 |
-| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 35 | 32–39 | 31–40 | 31–41 | 29–42 |
+| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 35 | 32–39 | 31–40 | 30–41 | 29–42 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 31 | 28–35 | 27–35 | 27–36 | 25–38 |
-| [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 36 | 33–39 | 32–40 | 31–40 | 30–42 |
-| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 37 | 34–40 | 33–42 | 32–42 | 30–44 |
+| [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 36 | 33–39 | 32–40 | 31–41 | 30–42 |
+| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 37 | 34–40 | 33–41 | 32–42 | 30–44 |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 39 | 36–42 | 35–43 | 34–44 | 33–45 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 32 | 29–35 | 28–36 | 27–37 | 26–38 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 39 | 36–42 | 35–43 | 34–44 | 33–45 |
@@ -140,19 +140,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 28 | 0.1% | 100% |  |
 | 29 | 0.5% | 99.8% |  |
-| 30 | 1.2% | 99.3% |  |
+| 30 | 1.2% | 99.4% |  |
 | 31 | 3% | 98% |  |
-| 32 | 6% | 96% |  |
+| 32 | 5% | 95% |  |
 | 33 | 9% | 90% |  |
-| 34 | 12% | 80% |  |
+| 34 | 12% | 81% |  |
 | 35 | 15% | 69% |  |
 | 36 | 15% | 54% | Median |
-| 37 | 12% | 38% |  |
+| 37 | 14% | 39% |  |
 | 38 | 10% | 26% |  |
 | 39 | 7% | 16% |  |
 | 40 | 4% | 9% | Last Result |
 | 41 | 2% | 4% |  |
-| 42 | 1.3% | 2% |  |
+| 42 | 1.1% | 2% |  |
 | 43 | 0.5% | 0.8% |  |
 | 44 | 0.2% | 0.3% |  |
 | 45 | 0.1% | 0.1% |  |

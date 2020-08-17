@@ -81,12 +81,12 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–17 | 11–17 | 11–18 | 9–19 |
+| N/A | [Poll Average](average.html) | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
-| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 13 | 11–15 | 10–16 | 10–16 | 9–17 |
+| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 13 | 11–15 | 10–16 | 10–16 | 9–18 |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 11 | 9–13 | 9–13 | 8–14 | 8–15 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 11 | 9–13 | 8–14 | 8–14 | 7–15 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 11 | 9–13 | 9–13 | 8–14 | 8–15 |
@@ -135,13 +135,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.5% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.4% | 99.9% |  |
 | 10 | 2% | 99.5% |  |
 | 11 | 5% | 98% |  |
 | 12 | 11% | 93% |  |
 | 13 | 17% | 82% |  |
-| 14 | 20% | 65% | Median |
-| 15 | 19% | 44% | Last Result |
+| 14 | 21% | 65% | Median |
+| 15 | 19% | 45% | Last Result |
 | 16 | 13% | 26% |  |
 | 17 | 7% | 12% |  |
 | 18 | 3% | 5% |  |

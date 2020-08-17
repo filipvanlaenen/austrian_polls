@@ -85,12 +85,12 @@ Last result: **31** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 21–29 | 20–30 | 19–31 | 18–33 |
+| N/A | [Poll Average](average.html) | 24 | 21–29 | 20–30 | 19–31 | 18–33 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 23–32 | 22–34 |
-| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 25 | 21–27 | 21–28 | 20–29 | 19–30 |
+| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 26 | 23–29 | 22–30 | 21–30 | 20–32 |
 | [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 24 | 22–27 | 21–28 | 21–28 | 19–30 |
-| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 22 | 19–25 | 19–26 | 18–27 | 17–28 |
+| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 22 | 19–25 | 19–26 | 18–26 | 17–28 |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 22 | 20–25 | 19–25 | 18–26 | 17–27 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 26 | 23–29 | 22–30 | 22–31 | 20–32 |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–23 | 17–24 | 16–25 |
@@ -140,18 +140,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
-| 17 | 0.2% | 99.9% |  |
+| 17 | 0.3% | 99.9% |  |
 | 18 | 0.8% | 99.7% |  |
-| 19 | 2% | 98.9% |  |
+| 19 | 2% | 98.8% |  |
 | 20 | 4% | 97% |  |
 | 21 | 7% | 92% |  |
 | 22 | 10% | 85% |  |
-| 23 | 12% | 74% |  |
-| 24 | 11% | 62% |  |
-| 25 | 14% | 51% | Median |
-| 26 | 12% | 37% |  |
-| 27 | 8% | 25% |  |
-| 28 | 7% | 17% |  |
+| 23 | 13% | 75% |  |
+| 24 | 13% | 62% | Median |
+| 25 | 13% | 49% |  |
+| 26 | 11% | 36% |  |
+| 27 | 9% | 25% |  |
+| 28 | 6% | 17% |  |
 | 29 | 4% | 10% |  |
 | 30 | 3% | 6% |  |
 | 31 | 2% | 3% | Last Result |
