@@ -6,10 +6,10 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 38–44% <br> 70–82 | 16–22% <br> 30–40 | 13–18% <br> 23–32 | 14–19% <br> 25–34 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A |
-| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 39–45% <br> 72–85 | 16–22% <br> 31–41 | 11–16% <br> 20–29 | 14–19% <br> 25–35 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A |
+| [23–25 June 2020](2020-06-25-OGM.html) | OGM | 39–45% <br> 72–85 | 16–22% <br> 30–41 | 11–16% <br> 20–29 | 14–19% <br> 25–35 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 41–47% <br> 75–88 | 15–20% <br> 27–36 | 12–17% <br> 21–30 | 14–19% <br> 25–34 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A |
-| [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 39–45% <br> 73–85 | 17–22% <br> 31–40 | 11–15% <br> 21–28 | 13–17% <br> 24–33 | 6–10% <br> 12–18 | N/A <br> N/A | N/A <br> N/A |
-| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 41–47% <br> 75–88 | 17–23% <br> 32–42 | 10–14% <br> 18–27 | 14–19% <br> 25–34 | 5–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
+| [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 39–45% <br> 73–85 | 17–22% <br> 31–41 | 11–15% <br> 21–28 | 13–17% <br> 24–33 | 6–10% <br> 12–18 | N/A <br> N/A | N/A <br> N/A |
+| [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 41–47% <br> 75–88 | 17–23% <br> 32–42 | 10–14% <br> 18–26 | 14–19% <br> 25–34 | 5–9% <br> 10–16 | N/A <br> N/A | N/A <br> N/A |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 40–46% <br> 74–86 | 19–24% <br> 34–44 | 10–14% <br> 18–26 | 15–19% <br> 27–36 | 5–8% <br> 8–14 | N/A <br> N/A | N/A <br> N/A |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 43–49% <br> 80–93 | 15–20% <br> 27–37 | 12–17% <br> 22–31 | 13–18% <br> 23–33 | 5–8% <br> 8–14 | N/A <br> N/A | N/A <br> N/A |
 | [11–13 May 2020](2020-05-13-Market.html) | Market <br> Der Standard | 41–47% <br> 76–87 | 19–24% <br> 34–44 | 9–13% <br> 17–24 | 15–19% <br> 27–36 | 5–8% <br> 8–14 | N/A <br> N/A | N/A <br> N/A |
