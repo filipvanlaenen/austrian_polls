@@ -131,7 +131,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
 | [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 71 | 67–76 | 66–77 | 65–78 | 63–80 |
 | [15–17 October 2019](2019-10-17-Market.html) | Market <br> Der Standard | 71 | 67–76 | 66–77 | 65–78 | 63–80 |
-| [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 67–75 | 66–76 | 65–77 | 63–80 |
+| [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
 | [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 69 | 65–73 | 64–75 | 63–76 | 61–78 |
 
 ### Probability Mass Function
