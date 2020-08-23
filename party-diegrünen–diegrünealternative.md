@@ -10,7 +10,8 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.1–17.6% | 13.7–18.1% | 13.3–18.5% | 12.6–19.4% |
+| N/A | [Poll Average](average.html) | 15.8% | 14.2–17.6% | 13.7–18.1% | 13.3–18.5% | 12.6–19.4% |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.8% | 14.0–18.2% | 13.6–18.7% | 12.9–19.6% |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 16.0% | 14.5–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 16.0% | 14.4–17.7% | 14.0–18.2% | 13.6–18.7% | 12.9–19.5% |
@@ -68,7 +69,7 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 13% | 96% | Last Result |
 | 14.5–15.5% | 26% | 83% |  |
 | 15.5–16.5% | 29% | 57% | Median |
-| 16.5–17.5% | 18% | 28% |  |
+| 16.5–17.5% | 19% | 29% |  |
 | 17.5–18.5% | 8% | 10% |  |
 | 18.5–19.5% | 2% | 2% |  |
 | 19.5–20.5% | 0.3% | 0.4% |  |
@@ -84,6 +85,7 @@ Last result: **26** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 26–32 | 25–33 | 25–34 | 23–36 |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 29 | 26–33 | 26–34 | 25–34 | 24–36 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 29 | 26–33 | 26–34 | 25–34 | 24–36 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 29 | 26–33 | 26–34 | 25–34 | 24–36 |

@@ -10,7 +10,8 @@ Last result: **16.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 11.4–15.5% | 10.9–16.2% | 10.5–16.7% | 9.8–17.7% |
+| N/A | [Poll Average](average.html) | 13.2% | 11.4–15.5% | 10.9–16.2% | 10.5–16.8% | 9.8–17.8% |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 15.0% | 13.5–16.7% | 13.1–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 15.0% | 13.5–16.7% | 13.0–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 13.0% | 11.6–14.7% | 11.2–15.2% | 10.9–15.6% | 10.2–16.4% |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 14.0% | 12.5–15.7% | 12.1–16.1% | 11.7–16.6% | 11.1–17.4% |
@@ -70,9 +71,9 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 25% | 67% | Median |
 | 13.5–14.5% | 20% | 42% |  |
 | 14.5–15.5% | 12% | 22% |  |
-| 15.5–16.5% | 6% | 10% | Last Result |
+| 15.5–16.5% | 7% | 10% | Last Result |
 | 16.5–17.5% | 2% | 3% |  |
-| 17.5–18.5% | 0.6% | 0.7% |  |
+| 17.5–18.5% | 0.6% | 0.8% |  |
 | 18.5–19.5% | 0.1% | 0.1% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
@@ -86,6 +87,7 @@ Last result: **31** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 21–29 | 20–30 | 19–31 | 18–33 |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 23–32 | 22–34 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 23–32 | 22–34 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 26 | 23–29 | 22–30 | 21–30 | 20–32 |
@@ -151,13 +153,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 13% | 49% |  |
 | 26 | 11% | 36% |  |
 | 27 | 9% | 25% |  |
-| 28 | 6% | 17% |  |
+| 28 | 7% | 17% |  |
 | 29 | 4% | 10% |  |
 | 30 | 3% | 6% |  |
 | 31 | 2% | 3% | Last Result |
 | 32 | 0.8% | 1.4% |  |
 | 33 | 0.4% | 0.6% |  |
-| 34 | 0.2% | 0.2% |  |
+| 34 | 0.1% | 0.2% |  |
 | 35 | 0.1% | 0.1% |  |
 | 36 | 0% | 0% |  |
 

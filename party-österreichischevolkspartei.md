@@ -11,6 +11,7 @@ Last result: **37.5%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 42.2% | 39.7–44.9% | 39.0–45.7% | 38.4–46.4% | 37.3–47.6% |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 40.9% | 38.7–43.2% | 38.1–43.8% | 37.6–44.4% | 36.5–45.5% |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 40.9% | 38.7–43.2% | 38.1–43.9% | 37.6–44.4% | 36.5–45.5% |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 42.0% | 39.8–44.2% | 39.2–44.9% | 38.6–45.4% | 37.6–46.5% |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 44.0% | 41.8–46.3% | 41.2–46.9% | 40.6–47.5% | 39.6–48.6% |
@@ -88,7 +89,8 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 79 | 74–84 | 73–85 | 72–86 | 69–89 |
+| N/A | [Poll Average](average.html) | 79 | 74–84 | 73–85 | 71–86 | 69–89 |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 76 | 72–80 | 71–81 | 70–82 | 68–84 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 76 | 72–80 | 71–81 | 70–82 | 68–84 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 79 | 75–83 | 73–84 | 72–85 | 70–87 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 82 | 78–86 | 76–87 | 75–88 | 73–90 |
@@ -143,15 +145,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 67 | 0.1% | 100% |  |
-| 68 | 0.1% | 99.9% |  |
-| 69 | 0.3% | 99.8% |  |
+| 68 | 0.2% | 99.9% |  |
+| 69 | 0.4% | 99.7% |  |
 | 70 | 0.7% | 99.4% |  |
 | 71 | 1.2% | 98.7% | Last Result |
-| 72 | 2% | 98% |  |
-| 73 | 3% | 96% |  |
-| 74 | 5% | 92% |  |
+| 72 | 2% | 97% |  |
+| 73 | 3% | 95% |  |
+| 74 | 4% | 92% |  |
 | 75 | 6% | 88% |  |
-| 76 | 7% | 82% |  |
+| 76 | 8% | 82% |  |
 | 77 | 9% | 74% |  |
 | 78 | 10% | 65% |  |
 | 79 | 11% | 55% | Median |

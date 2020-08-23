@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.6–9.1% | 6.2–9.5% | 5.9–9.9% | 5.4–10.6% |
+| N/A | [Poll Average](average.html) | 8.1% | 6.6–9.7% | 6.3–10.1% | 6.0–10.6% | 5.4–11.4% |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 9.1% | 7.9–10.5% | 7.5–10.9% | 7.3–11.2% | 6.7–12.0% |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.4% | 6.6–9.7% | 6.3–10.1% | 5.8–10.8% |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 8.0% | 6.8–9.3% | 6.5–9.7% | 6.3–10.0% | 5.8–10.7% |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 8.0% | 6.9–9.3% | 6.6–9.7% | 6.3–10.1% | 5.8–10.8% |
@@ -63,14 +64,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.9% | 100% |  |
-| 5.5–6.5% | 9% | 99.1% |  |
-| 6.5–7.5% | 29% | 90% |  |
-| 7.5–8.5% | 37% | 61% | Last Result, Median |
-| 8.5–9.5% | 19% | 24% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 0.5% | 0.5% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.8% | 100% |  |
+| 5.5–6.5% | 8% | 99.2% |  |
+| 6.5–7.5% | 24% | 91% |  |
+| 7.5–8.5% | 33% | 67% | Last Result, Median |
+| 8.5–9.5% | 23% | 34% |  |
+| 9.5–10.5% | 9% | 11% |  |
+| 10.5–11.5% | 2% | 3% |  |
+| 11.5–12.5% | 0.3% | 0.3% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -81,7 +83,8 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–17 | 11–17 | 11–18 | 10–19 |
+| N/A | [Poll Average](average.html) | 15 | 12–18 | 11–18 | 11–19 | 10–21 |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 17 | 14–19 | 14–20 | 13–20 | 12–22 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
@@ -137,18 +140,20 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0% | 100% |  |
 | 9 | 0.4% | 99.9% |  |
-| 10 | 2% | 99.5% |  |
-| 11 | 5% | 98% |  |
-| 12 | 11% | 93% |  |
-| 13 | 17% | 82% |  |
-| 14 | 21% | 65% | Median |
-| 15 | 19% | 45% | Last Result |
-| 16 | 13% | 26% |  |
-| 17 | 7% | 12% |  |
-| 18 | 3% | 5% |  |
-| 19 | 1.1% | 2% |  |
-| 20 | 0.3% | 0.4% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 10 | 2% | 99.6% |  |
+| 11 | 4% | 98% |  |
+| 12 | 9% | 93% |  |
+| 13 | 14% | 84% |  |
+| 14 | 17% | 71% |  |
+| 15 | 18% | 53% | Last Result, Median |
+| 16 | 14% | 36% |  |
+| 17 | 10% | 21% |  |
+| 18 | 6% | 11% |  |
+| 19 | 3% | 5% |  |
+| 20 | 1.3% | 2% |  |
+| 21 | 0.5% | 0.7% |  |
+| 22 | 0.1% | 0.2% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 
