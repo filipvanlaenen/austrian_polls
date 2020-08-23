@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 |
+| [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 38–44% <br> 70–82 | 15–21% <br> 28–38 | 13–18% <br> 23–32 | 14–19% <br> 25–34 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 38–44% <br> 70–82 | 16–22% <br> 30–40 | 13–18% <br> 23–32 | 14–19% <br> 25–34 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 39–45% <br> 72–85 | 16–22% <br> 30–41 | 11–16% <br> 20–29 | 14–19% <br> 25–35 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 41–47% <br> 75–88 | 15–20% <br> 27–36 | 12–17% <br> 21–30 | 14–19% <br> 25–34 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A |
