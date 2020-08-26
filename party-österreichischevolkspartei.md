@@ -10,12 +10,17 @@ Last result: **37.5%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42.2% | 39.7–44.9% | 39.0–45.7% | 38.4–46.4% | 37.3–47.6% |
+| N/A | [Poll Average](average.html) | 42.2% | 39.6–44.9% | 38.9–45.7% | 38.3–46.4% | 37.1–47.7% |
+| [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42.0% | 39.2–44.8% | 38.4–45.6% | 37.7–46.3% | 36.4–47.7% |
 | [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 40.9% | 38.7–43.2% | 38.1–43.8% | 37.6–44.4% | 36.5–45.5% |
+| [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42.0% | 39.2–44.9% | 38.4–45.7% | 37.7–46.4% | 36.4–47.8% |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 40.9% | 38.7–43.2% | 38.1–43.9% | 37.6–44.4% | 36.5–45.5% |
+| [6–9 July 2020](2020-07-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41.0% | 38.2–43.8% | 37.4–44.6% | 36.7–45.3% | 35.4–46.7% |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 42.0% | 39.8–44.2% | 39.2–44.9% | 38.6–45.4% | 37.6–46.5% |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 44.0% | 41.8–46.3% | 41.2–46.9% | 40.6–47.5% | 39.6–48.6% |
+| [5–10 June 2020](2020-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
 | [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
+| [25–28 May 2020](2020-05-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 43.0% | 41.0–45.0% | 40.4–45.6% | 40.0–46.1% | 39.0–47.1% |
 | [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 44.0% | 41.8–46.3% | 41.2–46.9% | 40.6–47.4% | 39.6–48.5% |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 43.0% | 41.0–45.0% | 40.4–45.6% | 40.0–46.1% | 39.0–47.1% |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 46.0% | 43.8–48.3% | 43.1–48.9% | 42.6–49.5% | 41.5–50.6% |
@@ -64,18 +69,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 34.5–35.5% | 0% | 100% |  |
-| 35.5–36.5% | 0.1% | 100% |  |
-| 36.5–37.5% | 0.6% | 99.9% |  |
-| 37.5–38.5% | 2% | 99.2% | Last Result |
+| 35.5–36.5% | 0.2% | 100% |  |
+| 36.5–37.5% | 0.8% | 99.8% |  |
+| 37.5–38.5% | 2% | 99.0% | Last Result |
 | 38.5–39.5% | 6% | 97% |  |
-| 39.5–40.5% | 11% | 91% |  |
-| 40.5–41.5% | 17% | 80% |  |
-| 41.5–42.5% | 20% | 63% | Median |
-| 42.5–43.5% | 17% | 43% |  |
-| 43.5–44.5% | 13% | 26% |  |
+| 39.5–40.5% | 11% | 90% |  |
+| 40.5–41.5% | 17% | 79% |  |
+| 41.5–42.5% | 19% | 62% | Median |
+| 42.5–43.5% | 17% | 42% |  |
+| 43.5–44.5% | 12% | 25% |  |
 | 44.5–45.5% | 7% | 13% |  |
 | 45.5–46.5% | 4% | 6% |  |
-| 46.5–47.5% | 1.5% | 2% |  |
+| 46.5–47.5% | 1.4% | 2% |  |
 | 47.5–48.5% | 0.4% | 0.6% |  |
 | 48.5–49.5% | 0.1% | 0.1% |  |
 | 49.5–50.5% | 0% | 0% |  |
@@ -89,12 +94,17 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 79 | 74–84 | 73–85 | 71–86 | 69–89 |
+| N/A | [Poll Average](average.html) | 79 | 74–84 | 72–85 | 71–86 | 69–89 |
+| [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 79 | 74–84 | 72–86 | 70–87 | 68–90 |
 | [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 76 | 72–80 | 71–81 | 70–82 | 68–84 |
+| [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 79 | 73–84 | 71–86 | 70–88 | 68–91 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 76 | 72–80 | 71–81 | 70–82 | 68–84 |
+| [6–9 July 2020](2020-07-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 79 | 73–84 | 71–86 | 70–87 | 67–90 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 79 | 75–83 | 73–84 | 72–85 | 70–87 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 82 | 78–86 | 76–87 | 75–88 | 73–90 |
+| [5–10 June 2020](2020-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 79 | 75–83 | 74–85 | 74–87 | 72–88 |
 | [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 79 | 76–83 | 74–84 | 73–85 | 72–87 |
+| [25–28 May 2020](2020-05-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 82 | 78–86 | 77–87 | 76–88 | 74–90 |
 | [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 82 | 78–86 | 76–87 | 75–88 | 73–90 |
 | [18–19 May 2020](2020-05-19-Market.html) | Market <br> Der Standard | 80 | 76–84 | 75–85 | 74–86 | 72–87 |
 | [11–14 May 2020](2020-05-14-UniqueResearch.html) | Unique Research <br> profil | 86 | 82–91 | 81–92 | 80–93 | 78–95 |
@@ -126,7 +136,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [22–28 November 2019](2019-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 66–75 | 65–77 | 64–78 | 62–80 |
 | [15–21 November 2019](2019-11-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 72 | 68–76 | 67–77 | 66–78 | 64–80 |
 | [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 70 | 67–74 | 65–76 | 64–77 | 62–79 |
-| [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 72 | 68–76 | 66–77 | 66–78 | 64–80 |
+| [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 72 | 68–76 | 67–77 | 66–78 | 64–80 |
 | [8–13 November 2019](2019-11-13-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 72 | 70–74 | 69–75 | 69–75 | 68–76 |
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 70 | 66–74 | 65–75 | 64–76 | 62–78 |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 72 | 67–76 | 66–77 | 65–78 | 63–80 |
@@ -144,31 +154,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0.1% | 100% |  |
-| 68 | 0.2% | 99.9% |  |
-| 69 | 0.4% | 99.7% |  |
-| 70 | 0.7% | 99.4% |  |
-| 71 | 1.2% | 98.7% | Last Result |
+| 66 | 0% | 100% |  |
+| 67 | 0.1% | 99.9% |  |
+| 68 | 0.2% | 99.8% |  |
+| 69 | 0.4% | 99.6% |  |
+| 70 | 0.8% | 99.2% |  |
+| 71 | 1.3% | 98% | Last Result |
 | 72 | 2% | 97% |  |
 | 73 | 3% | 95% |  |
-| 74 | 4% | 92% |  |
-| 75 | 6% | 88% |  |
-| 76 | 8% | 82% |  |
-| 77 | 9% | 74% |  |
-| 78 | 10% | 65% |  |
-| 79 | 11% | 55% | Median |
-| 80 | 10% | 44% |  |
-| 81 | 9% | 34% |  |
-| 82 | 8% | 25% |  |
-| 83 | 6% | 17% |  |
-| 84 | 4% | 11% |  |
+| 74 | 5% | 92% |  |
+| 75 | 6% | 87% |  |
+| 76 | 8% | 81% |  |
+| 77 | 9% | 73% |  |
+| 78 | 10% | 64% |  |
+| 79 | 10% | 54% | Median |
+| 80 | 9% | 44% |  |
+| 81 | 9% | 35% |  |
+| 82 | 8% | 26% |  |
+| 83 | 6% | 18% |  |
+| 84 | 5% | 12% |  |
 | 85 | 3% | 7% |  |
 | 86 | 2% | 4% |  |
-| 87 | 1.1% | 2% |  |
-| 88 | 0.6% | 1.1% |  |
-| 89 | 0.3% | 0.5% |  |
-| 90 | 0.1% | 0.2% |  |
+| 87 | 1.2% | 2% |  |
+| 88 | 0.7% | 1.3% |  |
+| 89 | 0.3% | 0.6% |  |
+| 90 | 0.1% | 0.3% |  |
 | 91 | 0.1% | 0.1% |  |
-| 92 | 0% | 0% | Majority |
+| 92 | 0% | 0.1% | Majority |
+| 93 | 0% | 0% |  |
 
 
