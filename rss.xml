@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Wed, 26 Aug 2020 19:49:17 +0200</pubDate>
+    <pubDate>Thu, 27 Aug 2020 19:15:53 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 17–20 August 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-08-20-ResearchAffairs.html#seats</link>
@@ -226,8 +226,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-05-28-ResearchAffairs.png"
         length="249628"
         type="image/png"/>
-      <pubDate>Wed, 26 Aug 2020 07:48:32 +0200</pubDate>
-      <dc:date>2020-08-26T07:48:32.879073+02:00</dc:date>
+      <pubDate>Thu, 27 Aug 2020 19:15:53 +0200</pubDate>
+      <dc:date>2020-08-27T19:15:53.431376+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 21–26 May 2020 – Seat Projections for the Parties</title>
@@ -1109,6 +1109,6 @@
       <pubDate>Sun, 15 Dec 2019 11:01:52 +0100</pubDate>
       <dc:date>2019-12-15T11:01:52.413983+01:00</dc:date>
     </item>
-    <dc:date>2020-08-26T19:49:17.008915+02:00</dc:date>
+    <dc:date>2020-08-27T19:15:53.431376+02:00</dc:date>
   </channel>
 </rss>
