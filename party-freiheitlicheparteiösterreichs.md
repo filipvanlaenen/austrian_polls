@@ -96,10 +96,10 @@ Last result: **31** seats (General Election of 29 September 2019)
 | [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 23–32 | 22–34 |
 | [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 17–24 | 16–25 | 16–26 | 14–28 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 23–32 | 22–34 |
-| [6–9 July 2020](2020-07-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–24 | 16–26 | 15–27 | 14–29 |
+| [6–9 July 2020](2020-07-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 17–24 | 16–25 | 16–26 | 14–29 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 26 | 23–29 | 22–30 | 21–30 | 20–32 |
-| [5–10 June 2020](2020-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23 | 20–26 | 20–27 | 19–27 | 18–29 |
+| [5–10 June 2020](2020-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23 | 20–25 | 20–26 | 19–27 | 18–28 |
 | [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 24 | 22–27 | 21–28 | 21–28 | 19–30 |
 | [25–28 May 2020](2020-05-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23 | 20–25 | 19–26 | 19–27 | 18–28 |
 | [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 22 | 19–25 | 19–26 | 18–26 | 17–28 |

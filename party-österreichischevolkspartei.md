@@ -97,12 +97,12 @@ Last result: **71** seats (General Election of 29 September 2019)
 | N/A | [Poll Average](average.html) | 79 | 74–84 | 72–85 | 71–86 | 69–89 |
 | [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 79 | 74–84 | 72–86 | 70–87 | 68–90 |
 | [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 76 | 72–80 | 71–81 | 70–82 | 68–84 |
-| [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 79 | 73–84 | 71–86 | 70–88 | 68–91 |
+| [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 79 | 73–85 | 72–86 | 70–88 | 68–91 |
 | [13–16 July 2020](2020-07-16-UniqueResearch.html) | Unique Research <br> profil | 76 | 72–80 | 71–81 | 70–82 | 68–84 |
 | [6–9 July 2020](2020-07-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 79 | 73–84 | 71–86 | 70–87 | 67–90 |
 | [23–25 June 2020](2020-06-25-OGM.html) | OGM | 79 | 75–83 | 73–84 | 72–85 | 70–87 |
 | [9–12 June 2020](2020-06-12-UniqueResearch.html) | Unique Research <br> profil | 82 | 78–86 | 76–87 | 75–88 | 73–90 |
-| [5–10 June 2020](2020-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 79 | 75–83 | 74–85 | 74–87 | 72–88 |
+| [5–10 June 2020](2020-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 80 | 76–84 | 75–85 | 74–86 | 72–88 |
 | [5–9 June 2020](2020-06-09-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 79 | 76–83 | 74–84 | 73–85 | 72–87 |
 | [25–28 May 2020](2020-05-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 82 | 78–86 | 77–87 | 76–88 | 74–90 |
 | [21–26 May 2020](2020-05-26-Market.html) | Market <br> Der Standard | 82 | 78–86 | 76–87 | 75–88 | 73–90 |
@@ -119,7 +119,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 74 | 70–79 | 69–80 | 68–81 | 66–83 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 69–76 | 68–77 | 67–78 | 65–80 |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 71 | 67–76 | 65–77 | 64–78 | 62–81 |
-| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 73 | 68–78 | 66–80 | 65–81 | 63–83 |
+| [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 73 | 68–78 | 66–79 | 65–81 | 63–83 |
 | [4–6 February 2020](2020-02-06-Market.html) | Market | 72 | 68–76 | 67–78 | 66–79 | 64–81 |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 69–78 | 67–79 | 66–80 | 64–82 |
 | [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 73 | 68–77 | 67–79 | 66–80 | 64–82 |
