@@ -119,8 +119,8 @@ Last result: **40** seats (General Election of 29 September 2019)
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 23–33 | 22–35 |
 | [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 33 | 30–37 | 29–38 | 28–39 | 26–41 |
 | [4–6 February 2020](2020-02-06-Market.html) | Market | 35 | 32–38 | 31–39 | 30–40 | 29–42 |
-| [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 27–35 | 26–36 | 26–37 | 24–40 |
-| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 30 | 27–33 | 26–34 | 25–34 | 24–36 |
+| [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 27–36 | 26–37 | 26–38 | 24–40 |
+| [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 27–32 | 26–33 | 25–34 | 24–35 |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 32 | 29–35 | 28–36 | 28–37 | 26–38 |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 30 | 27–33 | 26–34 | 25–35 | 24–37 |
@@ -136,7 +136,7 @@ Last result: **40** seats (General Election of 29 September 2019)
 | [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 35 | 32–38 | 31–39 | 30–40 | 29–42 |
 | [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37 | 35–41 | 33–42 | 32–43 | 31–44 |
 | [8–13 November 2019](2019-11-13-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 38 | 36–40 | 36–40 | 35–41 | 34–41 |
-| [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38 | 35–41 | 34–42 | 33–42 | 32–44 |
+| [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38 | 34–41 | 34–42 | 33–42 | 32–44 |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36 | 33–39 | 32–40 | 31–41 | 29–43 |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35 | 32–38 | 31–39 | 31–40 | 30–42 |
 | [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 37 | 34–41 | 33–42 | 32–43 | 31–44 |

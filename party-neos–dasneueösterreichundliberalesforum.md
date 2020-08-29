@@ -115,7 +115,7 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 16 | 14–19 | 13–20 | 13–21 | 11–22 |
 | [4–6 February 2020](2020-02-06-Market.html) | Market | 16 | 14–19 | 13–20 | 13–20 | 12–22 |
-| [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18 | 15–21 | 15–23 | 14–23 | 13–25 |
+| [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18 | 15–22 | 15–23 | 14–24 | 13–26 |
 | [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 20 | 18–23 | 17–24 | 16–24 | 15–26 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18 | 16–20 | 15–21 | 15–22 | 14–23 |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
@@ -132,7 +132,7 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 17 | 14–19 | 14–20 | 13–20 | 12–22 |
 | [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
 | [8–13 November 2019](2019-11-13-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 17 | 15–18 | 15–18 | 15–19 | 14–19 |
-| [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 15–19 | 14–20 | 13–20 | 13–22 |
+| [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16 | 14–19 | 14–20 | 13–20 | 12–21 |
 | [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 17 | 14–19 | 14–20 | 13–21 | 12–22 |

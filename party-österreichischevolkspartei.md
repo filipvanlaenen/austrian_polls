@@ -114,14 +114,14 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [3–7 April 2020](2020-04-07-Market.html) | Market <br> Der Standard | 82 | 79–85 | 78–85 | 78–86 | 76–87 |
 | [31 March–2 April 2020](2020-04-02-OGM.html) | OGM | 84 | 80–89 | 79–90 | 78–91 | 76–93 |
 | [24–31 March 2020](2020-03-31-Market.html) | Market <br> Der Standard | 80 | 76–84 | 75–85 | 74–86 | 72–87 |
-| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 73 | 69–78 | 68–79 | 67–80 | 65–82 |
+| [9–13 March 2020](2020-03-13-UniqueResearch.html) | Unique Research | 74 | 69–78 | 68–79 | 67–80 | 65–82 |
 | [11–12 March 2020](2020-03-12-Market.html) | Market <br> Der Standard | 74 | 71–78 | 69–79 | 69–80 | 67–82 |
 | [5–11 March 2020](2020-03-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 74 | 70–79 | 69–80 | 68–81 | 66–83 |
 | [24–27 February 2020](2020-02-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 69–76 | 68–77 | 67–78 | 65–80 |
 | [10–14 February 2020](2020-02-14-UniqueResearch.html) | Unique Research <br> profil | 71 | 67–76 | 65–77 | 64–78 | 62–81 |
 | [7–12 February 2020](2020-02-12-ResearchAffairs.html) | Research Affairs | 73 | 68–78 | 66–79 | 65–81 | 63–83 |
-| [4–6 February 2020](2020-02-06-Market.html) | Market | 72 | 68–76 | 67–78 | 66–79 | 64–81 |
-| [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 69–78 | 67–79 | 66–80 | 64–82 |
+| [4–6 February 2020](2020-02-06-Market.html) | Market | 72 | 68–77 | 67–78 | 66–79 | 64–81 |
+| [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 67–78 | 66–80 | 64–81 | 62–84 |
 | [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 73 | 68–77 | 67–79 | 66–80 | 64–82 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 72 | 68–76 | 67–77 | 66–78 | 65–80 |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 74 | 70–77 | 69–79 | 68–80 | 66–81 |
