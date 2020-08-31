@@ -135,16 +135,16 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [29 November–4 December 2019](2019-12-04-Market.html) | Market <br> Der Standard | 73 | 69–77 | 68–78 | 67–79 | 65–82 |
 | [22–28 November 2019](2019-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 66–75 | 65–77 | 64–78 | 62–80 |
 | [15–21 November 2019](2019-11-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 72 | 68–76 | 67–77 | 66–78 | 64–80 |
-| [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 70 | 67–74 | 65–76 | 64–77 | 62–79 |
+| [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 70 | 66–74 | 65–76 | 64–77 | 62–79 |
 | [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 72 | 68–76 | 67–77 | 66–78 | 64–80 |
 | [8–13 November 2019](2019-11-13-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 72 | 70–74 | 69–75 | 69–75 | 68–76 |
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 70 | 66–74 | 65–75 | 64–76 | 62–78 |
 | [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 72 | 67–76 | 66–77 | 65–78 | 63–80 |
-| [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
+| [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 67–75 | 66–77 | 65–78 | 63–80 |
 | [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 71 | 67–76 | 66–77 | 65–78 | 63–80 |
 | [15–17 October 2019](2019-10-17-Market.html) | Market <br> Der Standard | 71 | 67–76 | 66–77 | 65–78 | 63–80 |
 | [10–16 October 2019](2019-10-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 67–75 | 66–76 | 65–77 | 63–79 |
-| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 69 | 65–73 | 64–75 | 63–76 | 61–78 |
+| [7–11 October 2019](2019-10-11-UniqueResearch.html) | Unique Research <br> profil | 69 | 65–74 | 64–75 | 63–76 | 61–78 |
 
 ### Probability Mass Function
 

@@ -132,7 +132,7 @@ Last result: **26** seats (General Election of 29 September 2019)
 | [29 November–4 December 2019](2019-12-04-Market.html) | Market <br> Der Standard | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
 | [22–28 November 2019](2019-11-28-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
 | [15–21 November 2019](2019-11-21-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
-| [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 30 | 26–33 | 26–34 | 25–34 | 24–36 |
+| [11–15 November 2019](2019-11-15-UniqueResearch.html) | Unique Research <br> profil | 30 | 27–33 | 26–34 | 25–34 | 24–36 |
 | [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 27–33 | 26–34 | 25–35 | 24–37 |
 | [8–13 November 2019](2019-11-13-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 28 | 27–30 | 26–30 | 26–31 | 25–31 |
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 27–33 | 26–34 | 26–34 | 25–36 |

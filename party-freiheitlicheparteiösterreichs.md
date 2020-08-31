@@ -120,7 +120,7 @@ Last result: **31** seats (General Election of 29 September 2019)
 | [4–6 February 2020](2020-02-06-Market.html) | Market | 28 | 25–31 | 24–32 | 23–32 | 22–34 |
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24 | 20–28 | 20–29 | 19–30 | 17–32 |
 | [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
-| [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23 | 21–27 | 21–27 | 20–28 | 19–29 |
+| [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24 | 21–26 | 21–27 | 20–28 | 19–29 |
 | [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 28 | 25–31 | 25–32 | 24–33 | 23–34 |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 30 | 27–33 | 26–34 | 25–35 | 24–37 |
 | [3–9 January 2020](2020-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 24 | 21–27 | 20–27 | 20–28 | 19–30 |
@@ -136,7 +136,7 @@ Last result: **31** seats (General Election of 29 September 2019)
 | [8–14 November 2019](2019-11-14-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28 | 25–31 | 25–32 | 24–33 | 22–35 |
 | [8–13 November 2019](2019-11-13-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 28 | 27–30 | 26–30 | 26–31 | 25–31 |
 | [2–7 November 2019](2019-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28 | 25–31 | 25–32 | 24–32 | 23–34 |
-| [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28 | 25–31 | 24–32 | 23–33 | 22–35 |
+| [26–31 October 2019](2019-10-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28 | 25–31 | 24–32 | 24–33 | 22–35 |
 | [22–25 October 2019](2019-10-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28 | 25–31 | 24–32 | 24–32 | 22–34 |
 | [14–19 October 2019](2019-10-19-Market.html) | Market <br> Der Standard | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
 | [15–17 October 2019](2019-10-17-Market.html) | Market <br> Der Standard | 30 | 27–33 | 26–34 | 25–35 | 24–36 |
