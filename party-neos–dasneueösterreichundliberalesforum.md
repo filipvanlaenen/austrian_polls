@@ -118,7 +118,7 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [28–31 January 2020](2020-01-31-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18 | 15–22 | 15–23 | 14–24 | 13–26 |
 | [17–23 January 2020](2020-01-23-ResearchAffairs.html) | Research Affairs | 20 | 18–23 | 17–24 | 16–24 | 15–26 |
 | [10–16 January 2020](2020-01-16-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18 | 16–20 | 15–21 | 15–22 | 14–23 |
-| [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
+| [10–15 January 2020](2020-01-15-KarmasinResearchIdentity.html) | Karmasin Research & Identity | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
 | [6–10 January 2020](2020-01-10-UniqueResearch.html) | Unique Research <br> profil | 19 | 16–21 | 16–22 | 15–23 | 14–24 |
 | [3–9 January 2020](2020-01-09-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16 | 14–19 | 13–19 | 13–20 | 12–21 |
 | [12–19 December 2019](2019-12-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 14–19 | 14–20 | 13–20 | 12–22 |
