@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_polls</id>
   <title>All Registered Polls for the Nationalrat</title>
-  <updated>2020-08-31T21:17:32.611197+02:00</updated>
+  <updated>2020-09-12T19:14:31.386958+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 36.8–45.4%, 69–86 seats</li><li>Sozialdemokratische Partei Österreichs: 15.8–22.7%, 29–43 seats</li><li>Freiheitliche Partei Österreichs: 10.3–16.2%, 19–30 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 5.9–10.7%, 11–20 seats</li><li>Die Grünen–Die Grüne Alternative: 11.2–17.3%, 21–32 seats</li><li>Team HC Strache–Allianz für Österreich: 2.6–6.1%, 0–11 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2020-08-27-ResearchAffairs.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2020-08-27-ResearchAffairs.html"/>
+    <title>Opinion Poll by Research Affairs for ÖSTERREICH, 25–27 August 2020</title>
+    <updated>2020-09-12T19:14:31.386958+02:00</updated>
+    <dc:date>2020-09-12T19:14:31.386958+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 37.7–46.3%, 70–87 seats</li><li>Sozialdemokratische Partei Österreichs: 15.8–22.7%, 29–42 seats</li><li>Freiheitliche Partei Österreichs: 10.4–16.3%, 19–30 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 5.9–10.6%, 11–20 seats</li><li>Die Grünen–Die Grüne Alternative: 12.2–18.4%, 23–35 seats</li><li>Team HC Strache–Allianz für Österreich: 1.8–4.8%, 0–8 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_polls/2020-08-20-ResearchAffairs.html</id>
@@ -407,5 +415,5 @@
     <updated>2020-08-30T09:49:50.432314+02:00</updated>
     <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
   </entry>
-  <dc:date>2020-08-31T21:17:32.611197+02:00</dc:date>
+  <dc:date>2020-09-12T19:14:31.386958+02:00</dc:date>
 </feed>
