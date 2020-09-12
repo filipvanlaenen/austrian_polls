@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [25–27 August 2020](2020-08-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37–45% <br> 69–86 | 16–23% <br> 29–43 | 10–16% <br> 19–30 | 11–17% <br> 21–32 | 6–11% <br> 11–20 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–11 |
 | [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38–46% <br> 70–87 | 16–23% <br> 29–42 | 10–16% <br> 19–30 | 12–18% <br> 23–35 | 6–11% <br> 11–20 | N/A <br> N/A | N/A <br> N/A | 2–5% <br> 0–8 |
 | [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 38–44% <br> 70–82 | 15–21% <br> 28–38 | 13–18% <br> 23–32 | 14–19% <br> 25–34 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38–46% <br> 70–88 | 16–23% <br> 29–43 | 9–14% <br> 16–26 | 12–18% <br> 22–34 | 6–11% <br> 11–20 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–11 |
