@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 2.2–4.2% | 2.0–4.5% | 1.8–4.8% | 1.5–5.5% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
+| [25–27 August 2020](2020-08-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
 | [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 3.0% | 2.2–4.2% | 2.0–4.5% | 1.8–4.8% | 1.5–5.5% |
 | [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil | 0.0% | N/A | N/A | N/A | N/A |
 | [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 4.0% | 3.1–5.4% | 2.8–5.8% | 2.6–6.1% | 2.2–6.8% |
@@ -69,13 +70,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0.7% | 100% |  |
-| 1.5–2.5% | 22% | 99.3% |  |
-| 2.5–3.5% | 49% | 78% | Median |
-| 3.5–4.5% | 24% | 28% |  |
-| 4.5–5.5% | 4% | 5% |  |
-| 5.5–6.5% | 0.4% | 0.4% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 23% | 98% |  |
+| 3.5–4.5% | 43% | 75% | Median |
+| 4.5–5.5% | 25% | 32% |  |
+| 5.5–6.5% | 6% | 7% |  |
+| 6.5–7.5% | 0.8% | 0.9% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -86,7 +89,8 @@ Last result: **0** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–7 | 0–8 | 0–8 | 0–10 |
+| N/A | [Poll Average](average.html) | 7 | 0–9 | 0–10 | 0–11 | 0–12 |
+| [25–27 August 2020](2020-08-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 0–9 | 0–10 | 0–11 | 0–12 |
 | [17–20 August 2020](2020-08-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0–7 | 0–8 | 0–8 | 0–10 |
 | [10–13 August 2020](2020-08-13-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [20–22 July 2020](2020-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 0–9 | 0–10 | 0–11 | 0–12 |
@@ -146,18 +150,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 0% | 13% |  |
-| 2 | 0% | 13% |  |
-| 3 | 0% | 13% |  |
-| 4 | 0% | 13% |  |
-| 5 | 0% | 13% |  |
-| 6 | 0% | 13% |  |
-| 7 | 6% | 13% |  |
-| 8 | 4% | 7% |  |
-| 9 | 1.5% | 2% |  |
-| 10 | 0.5% | 0.6% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 0 | 45% | 100% | Last Result |
+| 1 | 0% | 55% |  |
+| 2 | 0% | 55% |  |
+| 3 | 0% | 55% |  |
+| 4 | 0% | 55% |  |
+| 5 | 0% | 55% |  |
+| 6 | 0% | 55% |  |
+| 7 | 13% | 55% | Median |
+| 8 | 19% | 42% |  |
+| 9 | 14% | 23% |  |
+| 10 | 6% | 10% |  |
+| 11 | 2% | 4% |  |
+| 12 | 0.9% | 1.2% |  |
+| 13 | 0.3% | 0.4% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
