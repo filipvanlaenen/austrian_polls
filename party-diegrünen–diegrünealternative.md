@@ -97,8 +97,8 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 21–32 | 19–33 | 18–34 | 17–35 |
-| [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 23 | 19–27 | 18–28 | 18–29 | 16–30 |
+| N/A | [Poll Average](average.html) | 27 | 20–32 | 19–33 | 18–34 | 17–35 |
+| [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 23 | 19–26 | 18–28 | 18–29 | 16–31 |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 30 | 27–33 | 26–34 | 25–34 | 24–36 |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 22 | 20–25 | 19–25 | 18–26 | 17–27 |
 | [25–27 August 2020](2020-08-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 26 | 23–30 | 21–31 | 21–32 | 19–35 |
@@ -162,20 +162,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.1% | 100% |  |
-| 16 | 0.2% | 99.9% |  |
-| 17 | 0.7% | 99.6% |  |
+| 16 | 0.3% | 99.9% |  |
+| 17 | 0.8% | 99.6% |  |
 | 18 | 2% | 98.9% |  |
-| 19 | 2% | 97% |  |
-| 20 | 4% | 95% |  |
-| 21 | 6% | 91% |  |
-| 22 | 8% | 85% |  |
-| 23 | 6% | 77% |  |
-| 24 | 8% | 71% |  |
-| 25 | 7% | 63% |  |
+| 19 | 3% | 97% |  |
+| 20 | 4% | 94% |  |
+| 21 | 6% | 90% |  |
+| 22 | 7% | 84% |  |
+| 23 | 7% | 77% |  |
+| 24 | 7% | 70% |  |
+| 25 | 6% | 63% |  |
 | 26 | 6% | 56% | Last Result |
-| 27 | 8% | 50% | Median |
-| 28 | 8% | 42% |  |
-| 29 | 8% | 34% |  |
+| 27 | 7% | 50% | Median |
+| 28 | 8% | 43% |  |
+| 29 | 9% | 35% |  |
 | 30 | 9% | 26% |  |
 | 31 | 7% | 17% |  |
 | 32 | 5% | 11% |  |

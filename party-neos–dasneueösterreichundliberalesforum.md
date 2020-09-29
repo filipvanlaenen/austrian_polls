@@ -94,8 +94,8 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–19 | 12–21 | 12–21 | 11–24 |
-| [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 17 | 14–21 | 13–21 | 13–22 | 11–24 |
+| N/A | [Poll Average](average.html) | 16 | 13–19 | 12–20 | 12–21 | 11–23 |
+| [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 17 | 14–20 | 13–21 | 13–22 | 11–24 |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 14 | 12–17 | 12–18 | 11–18 | 10–19 |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 16 | 14–19 | 14–19 | 13–20 | 12–21 |
 | [25–27 August 2020](2020-08-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15 | 12–18 | 11–19 | 11–20 | 10–22 |
@@ -158,24 +158,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0% | 100% |  |
-| 10 | 0.4% | 99.9% |  |
+| 10 | 0.4% | 100% |  |
 | 11 | 2% | 99.6% |  |
 | 12 | 5% | 98% |  |
-| 13 | 10% | 93% |  |
-| 14 | 15% | 83% |  |
+| 13 | 11% | 93% |  |
+| 14 | 14% | 82% |  |
 | 15 | 17% | 68% | Last Result |
-| 16 | 13% | 51% | Median |
-| 17 | 12% | 37% |  |
-| 18 | 10% | 25% |  |
-| 19 | 6% | 15% |  |
-| 20 | 5% | 10% |  |
-| 21 | 3% | 5% |  |
-| 22 | 1.1% | 2% |  |
+| 16 | 15% | 51% | Median |
+| 17 | 12% | 36% |  |
+| 18 | 9% | 25% |  |
+| 19 | 7% | 15% |  |
+| 20 | 4% | 9% |  |
+| 21 | 2% | 5% |  |
+| 22 | 1.4% | 2% |  |
 | 23 | 0.6% | 1.1% |  |
-| 24 | 0.4% | 0.6% |  |
+| 24 | 0.3% | 0.5% |  |
 | 25 | 0.1% | 0.2% |  |
-| 26 | 0.1% | 0.1% |  |
+| 26 | 0% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
 
