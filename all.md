@@ -5,6 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 37–45% <br> 69–87 | 18–25% <br> 33–47 | 8–13% <br> 14–24 | 9–15% <br> 17–29 | 8–13% <br> 14–24 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–11 |
+| [20–22 October 2020](2020-10-22-OGM.html) | OGM | 38–42% <br> 71–80 | 21–25% <br> 39–47 | 10–13% <br> 18–23 | 14–18% <br> 27–33 | 7–9% <br> 12–17 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–16 October 2020](2020-10-16-UniqueResearch.html) | Unique Research | 37–43% <br> 69–82 | 19–25% <br> 36–47 | 11–16% <br> 20–29 | 11–16% <br> 20–29 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–8 October 2020](2020-10-08-ResearchAffairs.html) | Research Affairs | 37–45% <br> 69–85 | 16–23% <br> 29–42 | 9–14% <br> 16–26 | 9–15% <br> 17–28 | 7–12% <br> 12–22 | N/A <br> N/A | N/A <br> N/A | 4–8% <br> 7–15 |
+| [28–30 September 2020](2020-09-30-ResearchAffairs.html) | Research Affairs | 37–45% <br> 69–86 | 17–24% <br> 31–45 | 9–14% <br> 16–26 | 9–15% <br> 17–28 | 7–12% <br> 12–22 | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–13 |
 | [21–24 September 2020](2020-09-24-ResearchAffairs.html) | Research Affairs | 37–45% <br> 69–87 | 17–24% <br> 31–45 | 9–15% <br> 18–29 | 9–15% <br> 18–29 | 7–12% <br> 13–22 | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–11 |
 | [14–18 September 2020](2020-09-18-UniqueResearch.html) | Unique Research | 36–42% <br> 66–79 | 17–23% <br> 32–42 | 14–19% <br> 25–34 | 14–19% <br> 25–34 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–16 September 2020](2020-09-16-ResearchAffairs.html) | Research Affairs | 39–45% <br> 72–84 | 17–22% <br> 31–40 | 10–14% <br> 18–26 | 10–14% <br> 18–26 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
