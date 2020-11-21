@@ -8,7 +8,47 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Mon, 26 Oct 2020 19:56:33 +0100</pubDate>
+    <pubDate>Sat, 21 Nov 2020 12:35:36 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research, 2–6 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-11-06-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 34.8–41.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.3–24.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.7–18.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.1–12.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.9–14.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-11-06-UniqueResearch.png"
+        length="228024"
+        type="image/png"/>
+      <pubDate>Fri, 20 Nov 2020 20:20:44 +0100</pubDate>
+      <dc:date>2020-11-20T20:20:44.766417+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs, 27–29 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-10-29-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 67–86 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 35–50 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 14–24 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 14–24 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 16–27 seats&lt;/li&gt;&lt;li&gt;Team HC Strache–Allianz für Österreich: 0–11 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-10-29-ResearchAffairs-seats.png"
+        length="235535"
+        type="image/png"/>
+      <pubDate>Sat, 21 Nov 2020 12:35:36 +0100</pubDate>
+      <dc:date>2020-11-21T12:35:36.342029+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs, 27–29 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-10-29-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-10-29-ResearchAffairs-coalitions-seats.png"
+        length="321823"
+        type="image/png"/>
+      <pubDate>Sat, 21 Nov 2020 12:35:36 +0100</pubDate>
+      <dc:date>2020-11-21T12:35:36.342029+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs, 27–29 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-10-29-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 35.8–44.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.6–25.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 7.7–13.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.7–13.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.6–14.1%&lt;/li&gt;&lt;li&gt;Team HC Strache–Allianz für Österreich: 2.6–6.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-10-29-ResearchAffairs.png"
+        length="264457"
+        type="image/png"/>
+      <pubDate>Sat, 21 Nov 2020 12:35:36 +0100</pubDate>
+      <dc:date>2020-11-21T12:35:36.342029+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs, 20–22 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-10-22-ResearchAffairs.html#seats</link>
@@ -1779,6 +1819,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2020-10-26T19:56:33.906061+01:00</dc:date>
+    <dc:date>2020-11-21T12:35:36.342029+01:00</dc:date>
   </channel>
 </rss>
