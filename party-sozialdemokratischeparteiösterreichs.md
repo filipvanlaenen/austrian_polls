@@ -10,7 +10,14 @@ Last result: **21.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.2% | 19.8–24.2% | 19.2–24.7% | 18.7–25.2% | 17.7–26.3% |
+| N/A | [Poll Average](average.html) | 22.2% | 19.6–24.5% | 18.9–25.1% | 18.3–25.7% | 17.3–26.8% |
+| [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 23.0% | 21.2–25.1% | 20.7–25.6% | 20.2–26.1% | 19.4–27.1% |
+| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
+| [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
+| [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 19.8–24.5% | 19.2–25.2% | 18.7–25.9% | 17.6–27.1% |
+| [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 22.0% | 19.7–24.5% | 19.1–25.2% | 18.5–25.8% | 17.5–27.0% |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 21.4% | 19.2–23.9% | 18.6–24.6% | 18.0–25.2% | 17.0–26.4% |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 21.0% | 19.3–23.0% | 18.8–23.5% | 18.3–24.0% | 17.5–24.9% |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 22.0% | 19.8–24.5% | 19.1–25.2% | 18.6–25.8% | 17.6–27.1% |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 21.0% | 18.8–23.5% | 18.2–24.2% | 17.6–24.8% | 16.6–26.0% |
@@ -79,18 +86,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.3% | 100% |  |
-| 17.5–18.5% | 2% | 99.7% |  |
-| 18.5–19.5% | 5% | 98% |  |
-| 19.5–20.5% | 11% | 93% |  |
-| 20.5–21.5% | 18% | 81% | Last Result |
-| 21.5–22.5% | 23% | 64% | Median |
-| 22.5–23.5% | 22% | 41% |  |
-| 23.5–24.5% | 13% | 19% |  |
-| 24.5–25.5% | 4% | 6% |  |
-| 25.5–26.5% | 1.2% | 2% |  |
-| 26.5–27.5% | 0.3% | 0.4% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.6% | 99.9% |  |
+| 17.5–18.5% | 3% | 99.3% |  |
+| 18.5–19.5% | 6% | 97% |  |
+| 19.5–20.5% | 11% | 90% |  |
+| 20.5–21.5% | 17% | 79% | Last Result |
+| 21.5–22.5% | 20% | 62% | Median |
+| 22.5–23.5% | 19% | 42% |  |
+| 23.5–24.5% | 13% | 23% |  |
+| 24.5–25.5% | 6% | 9% |  |
+| 25.5–26.5% | 2% | 3% |  |
+| 26.5–27.5% | 0.6% | 0.7% |  |
 | 27.5–28.5% | 0.1% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
@@ -103,7 +111,14 @@ Last result: **40** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42 | 37–45 | 36–47 | 35–48 | 33–50 |
+| N/A | [Poll Average](average.html) | 41 | 36–46 | 35–47 | 34–48 | 32–50 |
+| [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 43 | 40–47 | 39–48 | 38–49 | 36–50 |
+| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 41 | 37–44 | 36–45 | 35–46 | 34–48 |
+| [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
+| [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 38–47 | 36–48 | 35–49 | 33–51 |
+| [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 43 | 39–47 | 38–48 | 38–49 | 36–50 |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 42 | 37–47 | 36–48 | 35–49 | 33–51 |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 40 | 36–45 | 35–47 | 34–48 | 32–50 |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 40 | 36–43 | 35–44 | 34–45 | 33–47 |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 42 | 37–47 | 36–48 | 35–50 | 33–52 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 40 | 35–45 | 34–46 | 33–47 | 31–50 |
@@ -174,29 +189,30 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.2% | 99.9% |  |
-| 33 | 0.4% | 99.8% |  |
-| 34 | 1.0% | 99.3% |  |
-| 35 | 2% | 98% |  |
-| 36 | 3% | 97% |  |
-| 37 | 5% | 93% |  |
-| 38 | 7% | 89% |  |
-| 39 | 8% | 82% |  |
-| 40 | 10% | 74% | Last Result |
-| 41 | 12% | 64% |  |
-| 42 | 12% | 52% | Median |
-| 43 | 12% | 39% |  |
-| 44 | 10% | 27% |  |
-| 45 | 7% | 17% |  |
-| 46 | 4% | 10% |  |
-| 47 | 2% | 5% |  |
-| 48 | 1.3% | 3% |  |
-| 49 | 0.7% | 2% |  |
-| 50 | 0.4% | 0.9% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0.2% | 99.9% |  |
+| 32 | 0.3% | 99.7% |  |
+| 33 | 1.0% | 99.4% |  |
+| 34 | 2% | 98% |  |
+| 35 | 2% | 97% |  |
+| 36 | 5% | 94% |  |
+| 37 | 6% | 90% |  |
+| 38 | 6% | 84% |  |
+| 39 | 9% | 78% |  |
+| 40 | 10% | 68% | Last Result |
+| 41 | 11% | 59% | Median |
+| 42 | 11% | 48% |  |
+| 43 | 10% | 37% |  |
+| 44 | 9% | 27% |  |
+| 45 | 7% | 18% |  |
+| 46 | 5% | 12% |  |
+| 47 | 3% | 7% |  |
+| 48 | 2% | 4% |  |
+| 49 | 1.0% | 2% |  |
+| 50 | 0.5% | 0.9% |  |
 | 51 | 0.2% | 0.4% |  |
 | 52 | 0.1% | 0.2% |  |
-| 53 | 0.1% | 0.1% |  |
+| 53 | 0% | 0.1% |  |
 | 54 | 0% | 0% |  |
 
 
