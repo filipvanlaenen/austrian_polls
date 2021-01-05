@@ -117,8 +117,8 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 75 | 71–79 | 70–80 | 69–81 | 67–83 |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 76 | 71–82 | 69–83 | 68–84 | 66–87 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 73 | 69–77 | 68–78 | 67–79 | 65–82 |
-| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 78 | 73–84 | 72–85 | 70–87 | 67–89 |
-| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 75 | 70–81 | 68–83 | 66–84 | 64–87 |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 78 | 73–84 | 71–85 | 70–86 | 67–89 |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 75 | 70–81 | 68–83 | 67–84 | 64–87 |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 72 | 68–76 | 66–77 | 65–78 | 63–80 |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 76 | 70–82 | 69–84 | 67–86 | 65–88 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 78 | 72–84 | 71–85 | 69–87 | 67–90 |
