@@ -12,7 +12,7 @@ Last result: **21.2%** (General Election of 29 September 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.2% | 19.6–24.5% | 18.9–25.1% | 18.3–25.7% | 17.3–26.8% |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 23.0% | 21.2–25.1% | 20.7–25.6% | 20.2–26.1% | 19.4–27.1% |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 20.0% | 18.3–21.9% | 17.8–22.5% | 17.4–22.9% | 16.6–23.9% |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 19.8–24.5% | 19.2–25.2% | 18.7–25.9% | 17.6–27.1% |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
@@ -113,7 +113,7 @@ Last result: **40** seats (General Election of 29 September 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 41 | 36–46 | 35–47 | 34–48 | 32–50 |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 43 | 40–47 | 39–48 | 38–49 | 36–50 |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 41 | 37–44 | 36–45 | 35–46 | 34–48 |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 41 | 37–44 | 36–45 | 35–46 | 34–48 |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 38–47 | 36–48 | 35–49 | 33–51 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 43 | 39–47 | 38–48 | 38–49 | 36–50 |
