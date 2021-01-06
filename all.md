@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 37–44% <br> 69–82 | 20–26% <br> 38–49 | 11–16% <br> 20–29 | 11–16% <br> 20–29 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13 December 2020](2020-12-13-PeterHajek.html) | Peter Hajek <br> APA and ATV | 36–42% <br> 66–79 | 19–25% <br> 35–46 | 14–19% <br> 25–34 | 11–16% <br> 20–28 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 36–42% <br> 66–79 | 19–25% <br> 35–46 | 14–19% <br> 25–34 | 11–16% <br> 20–28 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 37–43% <br> 69–81 | 17–23% <br> 32–43 | 13–18% <br> 23–33 | 11–16% <br> 20–29 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36–44% <br> 68–84 | 19–26% <br> 35–49 | 10–16% <br> 19–31 | 8–13% <br> 14–24 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | 1–4% <br> 0 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 36–42% <br> 67–79 | 20–26% <br> 38–49 | 12–17% <br> 22–31 | 12–17% <br> 22–31 | 6–10% <br> 11–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
