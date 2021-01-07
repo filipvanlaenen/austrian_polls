@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Wed, 06 Jan 2021 19:22:40 +0100</pubDate>
+    <pubDate>Wed, 06 Jan 2021 19:32:56 +0100</pubDate>
     <item>
       <title>Opinion Poll by OGM for KURIER, 15–17 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-12-17-OGM.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2020-12-26T18:41:37.075992+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Peter Hajek for APA and ATV, 8–12 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-12-12-PeterHajek.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 66–79 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 35–46 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 25–34 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 13–20 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 20–28 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-12-12-PeterHajek-seats.png"
+        length="202861"
+        type="image/png"/>
+      <pubDate>Wed, 06 Jan 2021 19:32:56 +0100</pubDate>
+      <dc:date>2021-01-06T19:32:56.250934+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for APA and ATV, 8–12 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-12-12-PeterHajek.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-12-12-PeterHajek-coalitions-seats.png"
+        length="295584"
+        type="image/png"/>
+      <pubDate>Wed, 06 Jan 2021 19:32:56 +0100</pubDate>
+      <dc:date>2021-01-06T19:32:56.250934+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Peter Hajek for APA and ATV, 8–12 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-12-12-PeterHajek.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 35.7–42.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.6–18.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.2–11.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.8–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-12-12-PeterHajek.png"
         length="231596"
         type="image/png"/>
-      <pubDate>Wed, 06 Jan 2021 19:22:40 +0100</pubDate>
-      <dc:date>2021-01-06T19:22:40.659516+01:00</dc:date>
+      <pubDate>Wed, 06 Jan 2021 19:32:56 +0100</pubDate>
+      <dc:date>2021-01-06T19:32:56.250934+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 5 December 2020 – Seat Projections for the Parties</title>
@@ -2029,6 +2049,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-01-06T19:22:40.659516+01:00</dc:date>
+    <dc:date>2021-01-06T19:32:56.250934+01:00</dc:date>
   </channel>
 </rss>
