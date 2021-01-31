@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 23 Jan 2021 17:09:12 +0100</pubDate>
+    <pubDate>Sun, 31 Jan 2021 16:21:28 +0100</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for profil, 11–14 January 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-01-14-UniqueResearch.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2021-01-23T17:09:12.351185+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Market for Der Standard, 17–21 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-12-21-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 67–80 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 38–49 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 20–29 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 13–21 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 22–31 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-12-21-Market-seats.png"
+        length="201267"
+        type="image/png"/>
+      <pubDate>Sun, 31 Jan 2021 16:21:28 +0100</pubDate>
+      <dc:date>2021-01-31T16:21:28.881608+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 17–21 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-12-21-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-12-21-Market-coalitions-seats.png"
+        length="291624"
+        type="image/png"/>
+      <pubDate>Sun, 31 Jan 2021 16:21:28 +0100</pubDate>
+      <dc:date>2021-01-31T16:21:28.881608+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market for Der Standard, 17–21 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-12-21-Market.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 35.8–42.5%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.2–26.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 10.8–15.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.2–11.2%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 11.8–16.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-12-21-Market.png"
         length="230408"
         type="image/png"/>
-      <pubDate>Sat, 23 Jan 2021 15:39:02 +0100</pubDate>
-      <dc:date>2021-01-23T15:39:02.450178+01:00</dc:date>
+      <pubDate>Sun, 31 Jan 2021 16:21:28 +0100</pubDate>
+      <dc:date>2021-01-31T16:21:28.881608+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGM for KURIER, 15–17 December 2020 – Seat Projections for the Parties</title>
@@ -2119,6 +2139,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-01-23T17:09:12.351185+01:00</dc:date>
+    <dc:date>2021-01-31T16:21:28.881608+01:00</dc:date>
   </channel>
 </rss>
