@@ -115,7 +115,7 @@ Last result: **31** seats (General Election of 29 September 2019)
 | N/A | [Poll Average](average.html) | 28 | 23–32 | 22–33 | 21–34 | 19–36 |
 | [11–14 January 2021](2021-01-14-UniqueResearch.html) | Unique Research <br> profil | 29 | 26–33 | 26–34 | 25–34 | 24–36 |
 | [4–7 January 2021](2021-01-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 27–33 | 26–34 | 25–34 | 24–36 |
-| [17–21 December 2020](2020-12-21-Market.html) | Market <br> Der Standard | 24 | 22–27 | 21–28 | 20–29 | 19–30 |
+| [17–21 December 2020](2020-12-21-Market.html) | Market <br> Der Standard | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
 | [8–12 December 2020](2020-12-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 29 | 26–33 | 26–34 | 25–34 | 24–36 |
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 28 | 25–31 | 24–32 | 23–33 | 22–34 |
@@ -195,13 +195,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
 | 19 | 0.5% | 99.9% |  |
-| 20 | 1.2% | 99.4% |  |
-| 21 | 2% | 98% |  |
-| 22 | 5% | 96% |  |
-| 23 | 7% | 90% |  |
-| 24 | 7% | 83% |  |
-| 25 | 8% | 77% |  |
-| 26 | 9% | 69% |  |
+| 20 | 1.3% | 99.4% |  |
+| 21 | 3% | 98% |  |
+| 22 | 5% | 95% |  |
+| 23 | 7% | 91% |  |
+| 24 | 8% | 84% |  |
+| 25 | 8% | 76% |  |
+| 26 | 8% | 69% |  |
 | 27 | 9% | 60% |  |
 | 28 | 9% | 51% | Median |
 | 29 | 12% | 42% |  |
