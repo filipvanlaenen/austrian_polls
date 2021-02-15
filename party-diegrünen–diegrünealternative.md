@@ -10,9 +10,9 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.7% | 9.5–14.9% | 9.0–15.5% | 8.6–16.0% | 7.9–16.9% |
-| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 10.0% | N/A | N/A | N/A | N/A |
-| [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 10.9% | 8.6–14.4% | 8.1–15.1% | 7.6–15.6% | 6.8–16.6% |
+| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
+| [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.5–10.9% | 7.1–11.4% | 6.8–11.8% | 6.2–12.8% |
 | [1–4 February 2021](2021-02-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9.0% | 7.5–10.9% | 7.1–11.4% | 6.8–11.8% | 6.2–12.8% |
 | [25 January–1 February 2021](2021-02-01-IFDD.html) | IFDD <br> Kronen Zeitung | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [11–14 January 2021](2021-01-14-UniqueResearch.html) | Unique Research <br> profil | 14.0% | 12.5–15.7% | 12.1–16.2% | 11.8–16.6% | 11.1–17.4% |
@@ -23,8 +23,9 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.9–15.5% | 10.2–16.3% |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.0% | 8.5–11.9% | 8.1–12.5% | 7.7–13.0% | 7.0–13.9% |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 14.0% | 12.5–15.7% | 12.1–16.2% | 11.8–16.6% | 11.1–17.4% |
-| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.5–14.0% | 7.8–15.0% |
-| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 10.6% | 9.0–12.6% | 8.6–13.1% | 8.2–13.6% | 7.5–14.6% |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.5–14.0% | 7.8–15.0% |
+| [9–12 November 2020](2020-11-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.6% | 9.0–12.6% | 8.6–13.1% | 8.2–13.6% | 7.5–14.6% |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 11.9% | 10.6–13.5% | 10.2–14.0% | 9.9–14.4% | 9.3–15.2% |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 12.0% | 10.3–14.1% | 9.8–14.6% | 9.4–15.2% | 8.7–16.2% |
@@ -93,18 +94,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 2% | 99.8% |  |
-| 8.5–9.5% | 8% | 98% |  |
-| 9.5–10.5% | 12% | 90% |  |
-| 10.5–11.5% | 11% | 77% |  |
-| 11.5–12.5% | 13% | 66% |  |
-| 12.5–13.5% | 19% | 52% | Median |
-| 13.5–14.5% | 18% | 33% | Last Result |
-| 14.5–15.5% | 10% | 15% |  |
-| 15.5–16.5% | 4% | 5% |  |
-| 16.5–17.5% | 0.8% | 0.9% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.3% | 100% |  |
+| 6.5–7.5% | 2% | 99.7% |  |
+| 7.5–8.5% | 7% | 98% |  |
+| 8.5–9.5% | 16% | 91% |  |
+| 9.5–10.5% | 19% | 75% |  |
+| 10.5–11.5% | 14% | 56% | Median |
+| 11.5–12.5% | 10% | 42% |  |
+| 12.5–13.5% | 12% | 32% |  |
+| 13.5–14.5% | 11% | 20% | Last Result |
+| 14.5–15.5% | 6% | 9% |  |
+| 15.5–16.5% | 2% | 3% |  |
+| 16.5–17.5% | 0.5% | 0.5% |  |
 | 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
@@ -117,9 +119,9 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 17–28 | 16–29 | 16–30 | 14–31 |
-| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
-| [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 20 | 16–27 | 15–28 | 14–29 | 12–31 |
+| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
+| [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
 | [1–4 February 2021](2021-02-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
 | [25 January–1 February 2021](2021-02-01-IFDD.html) | IFDD <br> Kronen Zeitung | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [11–14 January 2021](2021-01-14-UniqueResearch.html) | Unique Research <br> profil | 26 | 23–29 | 22–30 | 21–30 | 20–32 |
@@ -130,8 +132,9 @@ Last result: **26** seats (General Election of 29 September 2019)
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 16–22 | 15–23 | 14–24 | 13–26 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 26 | 23–29 | 22–30 | 22–31 | 20–32 |
-| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 21 | 18–24 | 17–25 | 16–26 | 15–28 |
-| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 20 | 17–23 | 16–25 | 15–25 | 14–27 |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 18–24 | 17–25 | 16–26 | 15–28 |
+| [9–12 November 2020](2020-11-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 18–23 | 18–24 | 17–25 | 16–26 |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–23 | 16–25 | 15–25 | 14–27 |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 22 | 20–25 | 19–26 | 18–27 | 17–28 |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 21 | 18–25 | 17–26 | 16–27 | 14–29 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 23 | 19–26 | 18–28 | 17–29 | 16–30 |
@@ -202,26 +205,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 0.5% | 99.9% |  |
-| 15 | 1.0% | 99.4% |  |
-| 16 | 4% | 98% |  |
-| 17 | 5% | 94% |  |
-| 18 | 6% | 90% |  |
-| 19 | 8% | 83% |  |
-| 20 | 5% | 76% |  |
-| 21 | 7% | 71% |  |
-| 22 | 6% | 64% |  |
-| 23 | 8% | 58% | Median |
-| 24 | 11% | 49% |  |
-| 25 | 11% | 39% |  |
-| 26 | 10% | 28% | Last Result |
-| 27 | 8% | 19% |  |
-| 28 | 5% | 11% |  |
-| 29 | 3% | 6% |  |
-| 30 | 2% | 3% |  |
-| 31 | 0.7% | 1.1% |  |
-| 32 | 0.3% | 0.4% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 0.4% | 99.8% |  |
+| 13 | 1.1% | 99.4% |  |
+| 14 | 2% | 98% |  |
+| 15 | 4% | 96% |  |
+| 16 | 7% | 92% |  |
+| 17 | 9% | 85% |  |
+| 18 | 10% | 76% |  |
+| 19 | 10% | 65% |  |
+| 20 | 7% | 55% | Median |
+| 21 | 7% | 48% |  |
+| 22 | 5% | 41% |  |
+| 23 | 6% | 36% |  |
+| 24 | 7% | 30% |  |
+| 25 | 6% | 23% |  |
+| 26 | 6% | 17% | Last Result |
+| 27 | 5% | 11% |  |
+| 28 | 3% | 6% |  |
+| 29 | 2% | 3% |  |
+| 30 | 0.9% | 2% |  |
+| 31 | 0.4% | 0.7% |  |
+| 32 | 0.2% | 0.2% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
 

@@ -10,9 +10,9 @@ Last result: **37.5%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.4% | 34.1–41.4% | 33.3–42.2% | 32.6–42.8% | 31.4–44.0% |
-| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 36.0% | N/A | N/A | N/A | N/A |
-| [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 37.7% | 34.2–41.1% | 33.4–41.8% | 32.8–42.5% | 31.6–43.8% |
+| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 36.0% | 33.9–38.2% | 33.3–38.9% | 32.7–39.4% | 31.7–40.5% |
+| [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38.0% | 35.3–40.8% | 34.5–41.6% | 33.9–42.3% | 32.6–43.7% |
 | [1–4 February 2021](2021-02-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.0% | 36.3–41.9% | 35.5–42.7% | 34.8–43.3% | 33.5–44.7% |
 | [25 January–1 February 2021](2021-02-01-IFDD.html) | IFDD <br> Kronen Zeitung | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
 | [11–14 January 2021](2021-01-14-UniqueResearch.html) | Unique Research <br> profil | 37.0% | 34.8–39.2% | 34.2–39.9% | 33.7–40.4% | 32.7–41.5% |
@@ -23,8 +23,9 @@ Last result: **37.5%** (General Election of 29 September 2019)
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 40.0% | 37.9–42.3% | 37.3–42.9% | 36.7–43.5% | 35.7–44.5% |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 40.0% | 37.2–42.8% | 36.4–43.6% | 35.8–44.3% | 34.5–45.6% |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 39.0% | 36.8–41.2% | 36.2–41.9% | 35.7–42.4% | 34.6–43.5% |
-| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 40.9% | 38.1–43.8% | 37.4–44.6% | 36.7–45.3% | 35.4–46.7% |
-| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 39.8% | 37.0–42.7% | 36.3–43.5% | 35.6–44.2% | 34.3–45.5% |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 40.9% | 38.1–43.8% | 37.4–44.6% | 36.7–45.3% | 35.4–46.7% |
+| [9–12 November 2020](2020-11-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41.0% | 39.0–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.1% |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39.8% | 37.0–42.7% | 36.3–43.5% | 35.6–44.2% | 34.3–45.5% |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 38.1% | 35.9–40.3% | 35.3–40.9% | 34.8–41.5% | 33.7–42.6% |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 40.0% | 37.2–42.9% | 36.5–43.7% | 35.8–44.4% | 34.5–45.7% |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 41.0% | 38.2–43.9% | 37.4–44.7% | 36.8–45.4% | 35.5–46.7% |
@@ -95,21 +96,21 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0.1% | 100% |  |
-| 30.5–31.5% | 0.5% | 99.9% |  |
-| 31.5–32.5% | 2% | 99.4% |  |
+| 30.5–31.5% | 0.4% | 99.9% |  |
+| 31.5–32.5% | 1.4% | 99.5% |  |
 | 32.5–33.5% | 4% | 98% |  |
 | 33.5–34.5% | 7% | 94% |  |
-| 34.5–35.5% | 8% | 87% |  |
-| 35.5–36.5% | 9% | 79% |  |
-| 36.5–37.5% | 10% | 70% |  |
-| 37.5–38.5% | 12% | 60% | Last Result, Median |
-| 38.5–39.5% | 15% | 48% |  |
-| 39.5–40.5% | 14% | 34% |  |
-| 40.5–41.5% | 11% | 20% |  |
-| 41.5–42.5% | 6% | 9% |  |
-| 42.5–43.5% | 2% | 3% |  |
-| 43.5–44.5% | 0.7% | 1.0% |  |
-| 44.5–45.5% | 0.2% | 0.2% |  |
+| 34.5–35.5% | 10% | 87% |  |
+| 35.5–36.5% | 12% | 77% |  |
+| 36.5–37.5% | 13% | 65% |  |
+| 37.5–38.5% | 13% | 52% | Last Result, Median |
+| 38.5–39.5% | 13% | 39% |  |
+| 39.5–40.5% | 11% | 25% |  |
+| 40.5–41.5% | 8% | 14% |  |
+| 41.5–42.5% | 4% | 7% |  |
+| 42.5–43.5% | 2% | 2% |  |
+| 43.5–44.5% | 0.5% | 0.7% |  |
+| 44.5–45.5% | 0.1% | 0.2% |  |
 | 45.5–46.5% | 0% | 0% |  |
 
 
@@ -121,9 +122,9 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 72 | 64–78 | 62–79 | 61–80 | 59–82 |
-| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
-| [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 71 | 64–77 | 63–78 | 61–80 | 59–82 |
+| [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 68 | 64–72 | 63–73 | 62–74 | 59–76 |
+| [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 71 | 66–77 | 65–78 | 63–80 | 61–82 |
 | [1–4 February 2021](2021-02-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 73 | 68–79 | 66–80 | 65–82 | 62–84 |
 | [25 January–1 February 2021](2021-02-01-IFDD.html) | IFDD <br> Kronen Zeitung | 66 | 62–70 | 60–71 | 59–72 | 58–74 |
 | [11–14 January 2021](2021-01-14-UniqueResearch.html) | Unique Research <br> profil | 69 | 65–73 | 63–74 | 62–75 | 61–77 |
@@ -134,8 +135,9 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [5 December 2020](2020-12-05-UniqueResearch.html) | Unique Research <br> profil | 75 | 71–79 | 70–80 | 69–81 | 67–83 |
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 76 | 71–82 | 69–83 | 68–84 | 66–87 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 73 | 69–77 | 68–78 | 67–79 | 65–82 |
-| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs | 78 | 73–84 | 71–85 | 70–86 | 67–89 |
-| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs | 75 | 70–81 | 68–83 | 67–84 | 64–87 |
+| [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 78 | 73–84 | 71–85 | 70–86 | 67–89 |
+| [9–12 November 2020](2020-11-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 78 | 75–82 | 74–83 | 73–84 | 71–86 |
+| [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 75 | 70–81 | 68–83 | 67–84 | 64–87 |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 72 | 68–76 | 66–77 | 65–78 | 63–80 |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 76 | 70–82 | 69–84 | 67–86 | 65–88 |
 | [20–22 October 2020](2020-10-22-ResearchAffairs.html) | Research Affairs | 78 | 72–84 | 71–85 | 69–87 | 67–90 |
@@ -206,34 +208,33 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0% | 100% |  |
-| 57 | 0.1% | 99.9% |  |
-| 58 | 0.2% | 99.8% |  |
-| 59 | 0.5% | 99.6% |  |
-| 60 | 0.9% | 99.1% |  |
-| 61 | 2% | 98% |  |
+| 57 | 0.1% | 100% |  |
+| 58 | 0.2% | 99.9% |  |
+| 59 | 0.4% | 99.7% |  |
+| 60 | 0.7% | 99.3% |  |
+| 61 | 1.3% | 98.6% |  |
 | 62 | 2% | 97% |  |
-| 63 | 3% | 94% |  |
-| 64 | 4% | 91% |  |
-| 65 | 4% | 88% |  |
-| 66 | 5% | 83% |  |
-| 67 | 5% | 79% |  |
-| 68 | 5% | 74% |  |
-| 69 | 5% | 69% |  |
-| 70 | 5% | 65% |  |
-| 71 | 6% | 59% | Last Result |
-| 72 | 7% | 53% | Median |
-| 73 | 8% | 46% |  |
-| 74 | 8% | 39% |  |
-| 75 | 8% | 30% |  |
-| 76 | 7% | 23% |  |
-| 77 | 6% | 16% |  |
-| 78 | 4% | 10% |  |
-| 79 | 3% | 7% |  |
-| 80 | 2% | 4% |  |
-| 81 | 1.0% | 2% |  |
-| 82 | 0.6% | 1.0% |  |
-| 83 | 0.3% | 0.5% |  |
+| 63 | 3% | 95% |  |
+| 64 | 4% | 92% |  |
+| 65 | 5% | 89% |  |
+| 66 | 6% | 84% |  |
+| 67 | 6% | 78% |  |
+| 68 | 6% | 72% |  |
+| 69 | 7% | 65% |  |
+| 70 | 7% | 59% |  |
+| 71 | 7% | 52% | Last Result, Median |
+| 72 | 7% | 44% |  |
+| 73 | 7% | 37% |  |
+| 74 | 7% | 30% |  |
+| 75 | 6% | 23% |  |
+| 76 | 5% | 17% |  |
+| 77 | 4% | 12% |  |
+| 78 | 3% | 8% |  |
+| 79 | 2% | 5% |  |
+| 80 | 1.3% | 3% |  |
+| 81 | 0.8% | 2% |  |
+| 82 | 0.4% | 0.8% |  |
+| 83 | 0.2% | 0.4% |  |
 | 84 | 0.1% | 0.2% |  |
 | 85 | 0% | 0.1% |  |
 | 86 | 0% | 0% |  |
