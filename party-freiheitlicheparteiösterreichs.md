@@ -10,7 +10,8 @@ Last result: **16.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.6% | 12.2–18.7% | 11.7–19.3% | 11.3–19.9% | 10.5–21.0% |
+| N/A | [Poll Average](average.html) | 16.0% | 12.2–18.9% | 11.7–19.5% | 11.3–20.1% | 10.5–21.2% |
+| [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.9% | 15.0–19.2% | 14.4–19.9% | 13.9–20.5% | 13.0–21.6% |
 | [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.6–19.8% | 13.8–20.7% |
 | [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.1–18.3% | 13.5–18.9% | 13.0–19.5% | 12.2–20.6% |
 | [1–4 February 2021](2021-02-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.1–17.2% | 12.6–17.8% | 12.1–18.4% | 11.3–19.5% |
@@ -98,16 +99,16 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0.5% | 100% |  |
 | 10.5–11.5% | 3% | 99.5% |  |
 | 11.5–12.5% | 10% | 96% |  |
-| 12.5–13.5% | 14% | 86% |  |
-| 13.5–14.5% | 12% | 72% |  |
-| 14.5–15.5% | 10% | 60% |  |
-| 15.5–16.5% | 12% | 51% | Last Result, Median |
-| 16.5–17.5% | 14% | 38% |  |
-| 17.5–18.5% | 13% | 24% |  |
-| 18.5–19.5% | 7% | 11% |  |
-| 19.5–20.5% | 3% | 4% |  |
-| 20.5–21.5% | 0.8% | 1.0% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
+| 12.5–13.5% | 13% | 86% |  |
+| 13.5–14.5% | 11% | 73% |  |
+| 14.5–15.5% | 8% | 63% |  |
+| 15.5–16.5% | 12% | 54% | Last Result, Median |
+| 16.5–17.5% | 15% | 43% |  |
+| 17.5–18.5% | 14% | 28% |  |
+| 18.5–19.5% | 9% | 14% |  |
+| 19.5–20.5% | 4% | 5% |  |
+| 20.5–21.5% | 1.1% | 1.3% |  |
+| 21.5–22.5% | 0.2% | 0.3% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -119,7 +120,8 @@ Last result: **31** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 23–35 | 22–36 | 21–37 | 19–39 |
+| N/A | [Poll Average](average.html) | 30 | 23–35 | 22–36 | 21–37 | 19–39 |
+| [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 27–36 | 26–37 | 25–38 | 24–40 |
 | [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 32 | 29–35 | 28–36 | 27–37 | 26–39 |
 | [8–11 February 2021](2021-02-11-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 26–34 | 25–35 | 24–36 | 22–39 |
 | [1–4 February 2021](2021-02-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28 | 24–32 | 23–33 | 22–34 | 21–36 |
@@ -212,23 +214,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 5% | 95% |  |
 | 23 | 7% | 91% |  |
 | 24 | 7% | 84% |  |
-| 25 | 7% | 76% |  |
-| 26 | 6% | 69% |  |
-| 27 | 5% | 63% |  |
-| 28 | 5% | 58% |  |
-| 29 | 6% | 53% | Median |
-| 30 | 6% | 47% |  |
-| 31 | 7% | 41% | Last Result |
-| 32 | 8% | 33% |  |
-| 33 | 7% | 25% |  |
-| 34 | 6% | 18% |  |
-| 35 | 5% | 12% |  |
-| 36 | 3% | 7% |  |
-| 37 | 2% | 4% |  |
-| 38 | 1.1% | 2% |  |
-| 39 | 0.5% | 0.8% |  |
-| 40 | 0.2% | 0.3% |  |
-| 41 | 0.1% | 0.1% |  |
-| 42 | 0% | 0% |  |
+| 25 | 7% | 77% |  |
+| 26 | 6% | 70% |  |
+| 27 | 5% | 64% |  |
+| 28 | 4% | 60% |  |
+| 29 | 5% | 56% |  |
+| 30 | 6% | 51% | Median |
+| 31 | 8% | 44% | Last Result |
+| 32 | 8% | 37% |  |
+| 33 | 8% | 29% |  |
+| 34 | 7% | 21% |  |
+| 35 | 5% | 14% |  |
+| 36 | 4% | 8% |  |
+| 37 | 2% | 5% |  |
+| 38 | 1.3% | 2% |  |
+| 39 | 0.6% | 1.1% |  |
+| 40 | 0.3% | 0.5% |  |
+| 41 | 0.1% | 0.2% |  |
+| 42 | 0% | 0.1% |  |
+| 43 | 0% | 0% |  |
 
 
