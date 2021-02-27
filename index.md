@@ -5,11 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 33–42% <br> 61–79 | 20–27% <br> 38–50 | 11–20% <br> 21–37 | 7–16% <br> 12–29 | 8–13% <br> 14–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 33–42% <br> 61–79 | 21–27% <br> 38–51 | 12–20% <br> 21–37 | 7–14% <br> 12–27 | 8–13% <br> 14–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33–41% <br> 61–78 | 20–28% <br> 38–52 | 14–20% <br> 25–38 | 6–11% <br> 11–20 | 8–13% <br> 14–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–17 February 2021](2021-02-17-Market.html) | Market <br> Der Standard | 34–40% <br> 64–75 | 22–28% <br> 42–52 | 12–16% <br> 22–30 | 10–14% <br> 19–26 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–11 February 2021](2021-02-11-UniqueResearch.html) | Unique Research <br> profil | 33–39% <br> 62–74 | 20–26% <br> 38–49 | 15–20% <br> 27–37 | 8–12% <br> 15–23 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25 January–1 February 2021](2021-02-01-IFDD.html) | IFDD <br> Kronen Zeitung | 32–38% <br> 59–72 | 21–27% <br> 39–51 | 15–21% <br> 29–39 | 8–12% <br> 15–23 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [17–21 December 2020](2020-12-21-Market.html) | Market <br> Der Standard | 36–42% <br> 67–80 | 20–26% <br> 38–49 | 11–15% <br> 20–29 | 12–17% <br> 22–31 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–17 December 2020](2020-12-17-OGM.html) | OGM <br> KURIER | 37–44% <br> 69–82 | 20–26% <br> 38–49 | 11–16% <br> 20–29 | 11–16% <br> 20–29 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
