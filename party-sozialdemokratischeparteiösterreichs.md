@@ -136,7 +136,7 @@ Last result: **40** seats (General Election of 29 September 2019)
 | [30 November–3 December 2020](2020-12-03-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 38–47 | 36–48 | 35–49 | 33–51 |
 | [30 November–2 December 2020](2020-12-02-Market.html) | Market <br> Der Standard | 43 | 39–47 | 38–48 | 38–49 | 36–50 |
 | [17–19 November 2020](2020-11-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 37–47 | 36–48 | 35–49 | 33–51 |
-| [9–12 November 2020](2020-11-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 39–45 | 38–46 | 37–47 | 36–48 |
+| [9–12 November 2020](2020-11-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 42 | 39–45 | 38–46 | 37–47 | 36–49 |
 | [5–7 November 2020](2020-11-07-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 40 | 36–45 | 35–47 | 34–48 | 32–50 |
 | [2–6 November 2020](2020-11-06-UniqueResearch.html) | Unique Research | 40 | 36–43 | 35–44 | 34–45 | 33–47 |
 | [27–29 October 2020](2020-10-29-ResearchAffairs.html) | Research Affairs | 42 | 37–47 | 36–48 | 35–50 | 33–52 |
