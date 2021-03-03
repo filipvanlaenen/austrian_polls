@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 27 Feb 2021 21:39:07 +0100</pubDate>
+    <pubDate>Wed, 03 Mar 2021 07:37:20 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–18 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-02-18-ResearchAffairs.html#seats</link>
@@ -460,14 +460,34 @@
       <dc:date>2021-01-05T17:39:13.845715+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 9–12 November 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-11-12-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 73–84 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 37–47 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 19–27 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 15–23 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 17–25 seats&lt;/li&gt;&lt;li&gt;Team HC Strache–Allianz für Österreich: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-11-12-ResearchAffairs-seats.png"
+        length="216103"
+        type="image/png"/>
+      <pubDate>Wed, 03 Mar 2021 07:37:20 +0100</pubDate>
+      <dc:date>2021-03-03T07:37:20.668882+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 9–12 November 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2020-11-12-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-11-12-ResearchAffairs-coalitions-seats.png"
+        length="284344"
+        type="image/png"/>
+      <pubDate>Wed, 03 Mar 2021 07:37:20 +0100</pubDate>
+      <dc:date>2021-03-03T07:37:20.668882+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 9–12 November 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2020-11-12-ResearchAffairs.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 38.0–44.1%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.5–24.7%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 10.1–14.2%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.3–12.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Team HC Strache–Allianz für Österreich: 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2020-11-12-ResearchAffairs.png"
         length="251516"
         type="image/png"/>
-      <pubDate>Sun, 14 Feb 2021 22:49:33 +0100</pubDate>
-      <dc:date>2021-02-14T22:49:33.462693+01:00</dc:date>
+      <pubDate>Wed, 03 Mar 2021 07:37:20 +0100</pubDate>
+      <dc:date>2021-03-03T07:37:20.668882+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 5–7 November 2020 – Seat Projections for the Parties</title>
@@ -2329,6 +2349,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-02-27T21:39:07.814096+01:00</dc:date>
+    <dc:date>2021-03-03T07:37:20.668882+01:00</dc:date>
   </channel>
 </rss>
