@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 32–38% <br> 59–72 | 21–27% <br> 39–50 | 15–20% <br> 27–37 | 8–12% <br> 15–23 | 10–14% <br> 18–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 32–38% <br> 59–72 | 21–27% <br> 39–51 | 15–20% <br> 27–37 | 8–12% <br> 15–23 | 10–14% <br> 18–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–4 March 2021](2021-03-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33–41% <br> 61–78 | 19–27% <br> 36–50 | 14–21% <br> 26–38 | 7–12% <br> 12–22 | 8–13% <br> 14–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33–41% <br> 61–78 | 20–28% <br> 38–52 | 14–20% <br> 25–38 | 6–11% <br> 11–20 | 8–13% <br> 14–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–17 February 2021](2021-02-17-Market.html) | Market <br> Der Standard | 34–40% <br> 64–75 | 22–28% <br> 42–52 | 12–16% <br> 22–30 | 10–14% <br> 19–26 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
