@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Mon, 08 Mar 2021 23:26:38 +0100</pubDate>
+    <pubDate>Fri, 12 Mar 2021 19:01:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 1–4 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-04-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 59–72 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 39–51 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 27–37 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 18–27 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 15–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-04-UniqueResearch-seats.png"
+        length="206383"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 19:01:30 +0100</pubDate>
+      <dc:date>2021-03-12T19:01:30.163011+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 1–4 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-04-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-04-UniqueResearch-coalitions-seats.png"
+        length="294883"
+        type="image/png"/>
+      <pubDate>Fri, 12 Mar 2021 19:01:30 +0100</pubDate>
+      <dc:date>2021-03-12T19:01:30.163011+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 1–4 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-04-UniqueResearch.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-04-UniqueResearch.png"
         length="233988"
         type="image/png"/>
-      <pubDate>Mon, 08 Mar 2021 23:21:28 +0100</pubDate>
-      <dc:date>2021-03-08T23:21:28.715964+01:00</dc:date>
+      <pubDate>Fri, 12 Mar 2021 19:01:30 +0100</pubDate>
+      <dc:date>2021-03-12T19:01:30.163011+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 2–4 March 2021 – Voting Intentions</title>
@@ -2369,6 +2389,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-03-08T23:26:38.705219+01:00</dc:date>
+    <dc:date>2021-03-12T19:01:30.163011+01:00</dc:date>
   </channel>
 </rss>
