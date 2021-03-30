@@ -8,7 +8,67 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 12 Mar 2021 19:55:55 +0100</pubDate>
+    <pubDate>Tue, 30 Mar 2021 18:40:05 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 60–73 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 37–48 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 28–38 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 16–22 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 16–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch-seats.png"
+        length="206221"
+        type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 18:40:05 +0200</pubDate>
+      <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch-coalitions-seats.png"
+        length="295892"
+        type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 18:40:05 +0200</pubDate>
+      <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 32.7–39.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.2–26.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 15.5–20.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.0–13.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.png"
+        length="236940"
+        type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 18:40:05 +0200</pubDate>
+      <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 23–25 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.8–40.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.5–25.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.9–20.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.5–14.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 6.8–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.png"
+        length="245454"
+        type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 15:26:41 +0200</pubDate>
+      <dc:date>2021-03-30T15:26:41.275566+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 32.8–41.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.5–27.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.1–19.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 7.6–12.8%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 6.7–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.png"
+        length="243604"
+        type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 15:45:52 +0200</pubDate>
+      <dc:date>2021-03-30T15:45:52.031004+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for APA and ATV, 8–11 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.8–38.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 22.1–28.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 14.6–19.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.0–13.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.1–12.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.png"
+        length="235657"
+        type="image/png"/>
+      <pubDate>Tue, 30 Mar 2021 15:51:33 +0200</pubDate>
+      <dc:date>2021-03-30T15:51:33.864528+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 1–4 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-04-UniqueResearch.html#seats</link>
@@ -2409,6 +2469,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-03-12T19:55:55.309053+01:00</dc:date>
+    <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
   </channel>
 </rss>
