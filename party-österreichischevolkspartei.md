@@ -127,11 +127,11 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 66 | 62–71 | 61–73 | 60–74 | 57–76 |
+| N/A | [Poll Average](average.html) | 67 | 62–71 | 61–73 | 60–74 | 57–76 |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 67 | 63–71 | 62–72 | 60–73 | 59–75 |
-| [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 61–72 | 60–73 | 58–74 | 56–77 |
+| [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 61–71 | 60–73 | 58–74 | 56–77 |
 | [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 69 | 63–74 | 62–76 | 60–77 | 58–80 |
-| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 66 | 62–69 | 60–71 | 60–72 | 57–74 |
+| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 66 | 62–70 | 60–71 | 59–72 | 57–74 |
 | [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 66 | 62–70 | 60–71 | 59–72 | 58–74 |
 | [2–4 March 2021](2021-03-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 69 | 64–75 | 62–76 | 61–78 | 58–80 |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 69 | 63–75 | 62–76 | 61–78 | 58–80 |
@@ -222,27 +222,27 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 55 | 0.1% | 100% |  |
-| 56 | 0.2% | 99.9% |  |
-| 57 | 0.3% | 99.7% |  |
-| 58 | 0.5% | 99.4% |  |
-| 59 | 1.0% | 98.9% |  |
+| 56 | 0.1% | 99.9% |  |
+| 57 | 0.3% | 99.8% |  |
+| 58 | 0.6% | 99.5% |  |
+| 59 | 1.1% | 98.9% |  |
 | 60 | 2% | 98% |  |
 | 61 | 3% | 96% |  |
-| 62 | 5% | 93% |  |
-| 63 | 8% | 88% |  |
-| 64 | 7% | 79% |  |
-| 65 | 10% | 73% |  |
-| 66 | 13% | 62% | Median |
-| 67 | 9% | 50% |  |
-| 68 | 11% | 41% |  |
+| 62 | 5% | 92% |  |
+| 63 | 7% | 88% |  |
+| 64 | 8% | 81% |  |
+| 65 | 10% | 72% |  |
+| 66 | 11% | 62% |  |
+| 67 | 10% | 51% | Median |
+| 68 | 10% | 41% |  |
 | 69 | 9% | 30% |  |
-| 70 | 6% | 21% |  |
-| 71 | 6% | 15% | Last Result |
+| 70 | 7% | 21% |  |
+| 71 | 5% | 14% | Last Result |
 | 72 | 4% | 9% |  |
 | 73 | 2% | 5% |  |
-| 74 | 1.5% | 3% |  |
-| 75 | 0.8% | 1.5% |  |
-| 76 | 0.3% | 0.7% |  |
+| 74 | 1.4% | 3% |  |
+| 75 | 0.8% | 1.4% |  |
+| 76 | 0.4% | 0.7% |  |
 | 77 | 0.2% | 0.3% |  |
 | 78 | 0.1% | 0.1% |  |
 | 79 | 0% | 0.1% |  |

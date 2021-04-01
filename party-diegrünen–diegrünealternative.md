@@ -126,9 +126,9 @@ Last result: **26** seats (General Election of 29 September 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 16–23 | 14–24 | 14–25 | 12–26 |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 20 | 17–22 | 17–23 | 16–24 | 15–25 |
-| [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16 | 13–20 | 13–20 | 12–21 | 11–23 |
-| [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16 | 13–20 | 13–21 | 12–22 | 11–23 |
-| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
+| [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16 | 13–20 | 13–21 | 12–21 | 11–23 |
+| [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16 | 13–20 | 13–21 | 12–21 | 11–23 |
+| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [2–4 March 2021](2021-03-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15 | 12–18 | 11–19 | 11–20 | 10–21 |
@@ -218,16 +218,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
+| 10 | 0% | 100% |  |
 | 11 | 0.2% | 99.9% |  |
-| 12 | 0.6% | 99.8% |  |
-| 13 | 2% | 99.2% |  |
+| 12 | 0.6% | 99.7% |  |
+| 13 | 1.4% | 99.2% |  |
 | 14 | 3% | 98% |  |
 | 15 | 5% | 95% |  |
 | 16 | 8% | 90% |  |
 | 17 | 11% | 82% |  |
-| 18 | 13% | 71% |  |
-| 19 | 15% | 59% | Median |
+| 18 | 13% | 72% |  |
+| 19 | 15% | 58% | Median |
 | 20 | 12% | 44% |  |
 | 21 | 11% | 32% |  |
 | 22 | 8% | 20% |  |

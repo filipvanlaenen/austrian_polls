@@ -124,11 +124,11 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–23 | 16–23 | 16–24 | 15–26 |
+| N/A | [Poll Average](average.html) | 20 | 17–23 | 16–24 | 16–24 | 15–26 |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 21 | 20–22 | 20–22 | 16–22 | 15–26 |
 | [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–23 | 16–25 | 15–26 | 14–27 |
-| [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18 | 15–22 | 14–22 | 14–23 | 12–26 |
-| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 20 | 18–23 | 17–24 | 16–25 | 15–26 |
+| [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18 | 15–22 | 14–23 | 14–24 | 12–25 |
+| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 20 | 18–23 | 17–24 | 17–25 | 15–26 |
 | [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 22 | 20–25 | 19–26 | 18–27 | 17–28 |
 | [2–4 March 2021](2021-03-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18 | 15–22 | 15–23 | 14–24 | 13–26 |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 15–22 | 15–23 | 14–24 | 13–26 |
@@ -224,15 +224,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 4% | 98% |  |
 | 17 | 7% | 94% |  |
 | 18 | 11% | 87% |  |
-| 19 | 13% | 77% |  |
-| 20 | 17% | 64% | Median |
-| 21 | 23% | 47% |  |
+| 19 | 13% | 76% |  |
+| 20 | 17% | 63% | Median |
+| 21 | 22% | 46% |  |
 | 22 | 13% | 24% |  |
-| 23 | 5% | 10% |  |
+| 23 | 5% | 11% |  |
 | 24 | 3% | 5% |  |
 | 25 | 1.3% | 2% |  |
-| 26 | 0.6% | 1.1% |  |
-| 27 | 0.3% | 0.5% |  |
+| 26 | 0.6% | 1.0% |  |
+| 27 | 0.3% | 0.4% |  |
 | 28 | 0.1% | 0.2% |  |
 | 29 | 0% | 0% |  |
 

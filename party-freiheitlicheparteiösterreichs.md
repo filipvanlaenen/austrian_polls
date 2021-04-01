@@ -127,11 +127,11 @@ Last result: **31** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 26–36 | 25–37 | 24–38 | 22–40 |
+| N/A | [Poll Average](average.html) | 31 | 26–36 | 25–37 | 24–38 | 22–40 |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 33 | 30–36 | 29–37 | 28–38 | 27–40 |
-| [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 27–35 | 26–36 | 25–37 | 23–40 |
+| [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 27–35 | 26–36 | 25–38 | 24–40 |
 | [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 26–34 | 25–35 | 24–36 | 22–38 |
-| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 32 | 29–35 | 28–36 | 27–37 | 25–39 |
+| [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 32 | 29–35 | 28–36 | 27–37 | 26–39 |
 | [1–4 March 2021](2021-03-04-UniqueResearch.html) | Unique Research <br> profil | 32 | 29–35 | 28–36 | 27–37 | 26–38 |
 | [2–4 March 2021](2021-03-04-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 28–36 | 27–37 | 26–38 | 24–41 |
 | [15–18 February 2021](2021-02-18-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 27–36 | 26–37 | 25–38 | 24–40 |
@@ -229,13 +229,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 5% | 91% |  |
 | 27 | 5% | 87% |  |
 | 28 | 6% | 81% |  |
-| 29 | 7% | 76% |  |
+| 29 | 7% | 75% |  |
 | 30 | 9% | 69% |  |
-| 31 | 9% | 60% | Last Result |
-| 32 | 11% | 50% | Median |
+| 31 | 10% | 60% | Last Result, Median |
+| 32 | 11% | 50% |  |
 | 33 | 11% | 39% |  |
 | 34 | 10% | 28% |  |
-| 35 | 8% | 18% |  |
+| 35 | 8% | 19% |  |
 | 36 | 5% | 11% |  |
 | 37 | 3% | 6% |  |
 | 38 | 2% | 3% |  |
