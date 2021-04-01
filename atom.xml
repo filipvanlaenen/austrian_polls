@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_polls</id>
   <title>All Registered Polls for the Nationalrat</title>
-  <updated>2021-03-30T18:40:05.788727+02:00</updated>
+  <updated>2021-04-01T11:06:48.7933+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 32.7–39.4%, 60–73 seats</li><li>Sozialdemokratische Partei Österreichs: 20.2–26.0%, 37–48 seats</li><li>Freiheitliche Partei Österreichs: 15.5–20.8%, 28–38 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 9.0–13.4%, 16–22 seats</li><li>Die Grünen–Die Grüne Alternative: 9.0–13.4%, 16–24 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html</id>
@@ -14,6 +14,30 @@
     <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021</title>
     <updated>2021-03-30T18:40:05.788727+02:00</updated>
     <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 31.8–40.2%, 58–74 seats</li><li>Sozialdemokratische Partei Österreichs: 18.5–25.8%, 34–47 seats</li><li>Freiheitliche Partei Österreichs: 13.9–20.5%, 25–38 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 8.5–14.0%, 15–26 seats</li><li>Die Grünen–Die Grüne Alternative: 6.8–11.8%, 12–21 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html"/>
+    <title>Opinion Poll by Research Affairs for ÖSTERREICH, 23–25 March 2021</title>
+    <updated>2021-04-01T11:06:48.7933+02:00</updated>
+    <dc:date>2021-04-01T11:06:48.7933+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 32.8–41.2%, 60–77 seats</li><li>Sozialdemokratische Partei Österreichs: 20.5–27.9%, 37–52 seats</li><li>Freiheitliche Partei Österreichs: 13.1–19.5%, 24–36 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 7.6–12.8%, 14–24 seats</li><li>Die Grünen–Die Grüne Alternative: 6.7–11.8%, 12–21 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html"/>
+    <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 March 2021</title>
+    <updated>2021-04-01T09:24:33.902467+02:00</updated>
+    <dc:date>2021-04-01T09:24:33.902467+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 31.8–38.4%, 59–72 seats</li><li>Sozialdemokratische Partei Österreichs: 22.1–28.1%, 41–53 seats</li><li>Freiheitliche Partei Österreichs: 14.6–19.8%, 27–37 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 9.0–13.4%, 17–25 seats</li><li>Die Grünen–Die Grüne Alternative: 8.1–12.3%, 15–23 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html"/>
+    <title>Opinion Poll by Peter Hajek for APA and ATV, 8–11 March 2021</title>
+    <updated>2021-04-01T09:40:49.056598+02:00</updated>
+    <dc:date>2021-04-01T09:40:49.056598+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 31.8–38.4%, 59–72 seats</li><li>Sozialdemokratische Partei Österreichs: 21.2–27.1%, 39–51 seats</li><li>Freiheitliche Partei Österreichs: 14.6–19.8%, 27–37 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 9.9–14.4%, 18–27 seats</li><li>Die Grünen–Die Grüne Alternative: 8.1–12.3%, 15–23 seats</li></ul></div></content>
@@ -655,5 +679,5 @@
     <updated>2020-08-30T09:49:50.432314+02:00</updated>
     <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
   </entry>
-  <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
+  <dc:date>2021-04-01T11:06:48.7933+02:00</dc:date>
 </feed>
