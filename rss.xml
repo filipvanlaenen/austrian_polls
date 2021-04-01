@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Tue, 30 Mar 2021 18:40:05 +0200</pubDate>
+    <pubDate>Thu, 01 Apr 2021 11:06:48 +0200</pubDate>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html#seats</link>
@@ -40,14 +40,54 @@
       <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 23–25 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 58–74 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 34–47 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 25–38 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 15–26 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 12–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs-seats.png"
+        length="213938"
+        type="image/png"/>
+      <pubDate>Thu, 01 Apr 2021 11:06:48 +0200</pubDate>
+      <dc:date>2021-04-01T11:06:48.7933+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 23–25 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs-coalitions-seats.png"
+        length="321646"
+        type="image/png"/>
+      <pubDate>Thu, 01 Apr 2021 11:06:48 +0200</pubDate>
+      <dc:date>2021-04-01T11:06:48.7933+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 23–25 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.8–40.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.5–25.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.9–20.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 8.5–14.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 6.8–11.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.png"
         length="245454"
         type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 15:26:41 +0200</pubDate>
-      <dc:date>2021-03-30T15:26:41.275566+02:00</dc:date>
+      <pubDate>Thu, 01 Apr 2021 11:06:48 +0200</pubDate>
+      <dc:date>2021-04-01T11:06:48.7933+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 60–77 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 37–52 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 24–36 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 14–24 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 12–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs-seats.png"
+        length="211656"
+        type="image/png"/>
+      <pubDate>Thu, 01 Apr 2021 09:24:33 +0200</pubDate>
+      <dc:date>2021-04-01T09:24:33.902467+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs-coalitions-seats.png"
+        length="325032"
+        type="image/png"/>
+      <pubDate>Thu, 01 Apr 2021 09:24:33 +0200</pubDate>
+      <dc:date>2021-04-01T09:24:33.902467+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 March 2021 – Voting Intentions</title>
@@ -56,8 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.png"
         length="243604"
         type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 15:45:52 +0200</pubDate>
-      <dc:date>2021-03-30T15:45:52.031004+02:00</dc:date>
+      <pubDate>Thu, 01 Apr 2021 09:24:33 +0200</pubDate>
+      <dc:date>2021-04-01T09:24:33.902467+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for APA and ATV, 8–11 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 59–72 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 41–53 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 27–37 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 17–25 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 15–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek-seats.png"
+        length="203470"
+        type="image/png"/>
+      <pubDate>Thu, 01 Apr 2021 09:40:49 +0200</pubDate>
+      <dc:date>2021-04-01T09:40:49.056598+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for APA and ATV, 8–11 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek-coalitions-seats.png"
+        length="293344"
+        type="image/png"/>
+      <pubDate>Thu, 01 Apr 2021 09:40:49 +0200</pubDate>
+      <dc:date>2021-04-01T09:40:49.056598+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Peter Hajek for APA and ATV, 8–11 March 2021 – Voting Intentions</title>
@@ -66,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.png"
         length="235657"
         type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 15:51:33 +0200</pubDate>
-      <dc:date>2021-03-30T15:51:33.864528+02:00</dc:date>
+      <pubDate>Thu, 01 Apr 2021 09:40:49 +0200</pubDate>
+      <dc:date>2021-04-01T09:40:49.056598+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 1–4 March 2021 – Seat Projections for the Parties</title>
@@ -2469,6 +2529,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
+    <dc:date>2021-04-01T11:06:48.7933+02:00</dc:date>
   </channel>
 </rss>
