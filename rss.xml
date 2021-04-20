@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Thu, 15 Apr 2021 19:13:16 +0200</pubDate>
+    <pubDate>Tue, 20 Apr 2021 19:09:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 30 March–1 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-04-01-ResearchAffairs.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-04-01-OGM.png"
         length="233921"
         type="image/png"/>
-      <pubDate>Thu, 15 Apr 2021 19:13:16 +0200</pubDate>
-      <dc:date>2021-04-15T19:13:16.304335+02:00</dc:date>
+      <pubDate>Tue, 20 Apr 2021 19:09:57 +0200</pubDate>
+      <dc:date>2021-04-20T19:09:57.239878+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021 – Seat Projections for the Parties</title>
@@ -2549,6 +2549,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-04-15T19:13:16.304335+02:00</dc:date>
+    <dc:date>2021-04-20T19:09:57.239878+02:00</dc:date>
   </channel>
 </rss>
