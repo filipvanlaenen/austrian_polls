@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33–39% <br> 61–74 | 19–24% <br> 34–44 | 16–21% <br> 29–38 | 7–11% <br> 13–20 | 10–14% <br> 18–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 32–38% <br> 60–73 | 21–27% <br> 40–51 | 15–20% <br> 27–37 | 9–13% <br> 18–26 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 32–38% <br> 60–72 | 21–27% <br> 40–51 | 15–20% <br> 27–37 | 9–13% <br> 17–25 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 33–39% <br> 60–73 | 20–26% <br> 37–48 | 15–21% <br> 28–38 | 9–13% <br> 16–24 | 9–13% <br> 16–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 58–74 | 19–26% <br> 34–47 | 14–21% <br> 25–38 | 7–12% <br> 12–21 | 9–14% <br> 15–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33–41% <br> 60–77 | 20–28% <br> 37–52 | 13–20% <br> 24–36 | 7–12% <br> 12–21 | 8–13% <br> 14–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
