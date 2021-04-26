@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 32–39% <br> 60–74 | 20–27% <br> 36–51 | 13–20% <br> 24–37 | 8–14% <br> 14–25 | 8–14% <br> 16–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33–39% <br> 61–74 | 19–24% <br> 34–44 | 16–21% <br> 29–38 | 7–11% <br> 13–20 | 10–14% <br> 18–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 32–39% <br> 59–74 | 18–28% <br> 34–51 | 14–20% <br> 25–37 | 8–14% <br> 16–26 | 8–14% <br> 15–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 59–76 | 18–25% <br> 33–46 | 13–19% <br> 24–36 | 9–15% <br> 17–28 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 32–38% <br> 60–72 | 21–27% <br> 40–51 | 15–20% <br> 27–37 | 9–13% <br> 17–25 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 33–39% <br> 60–73 | 20–26% <br> 37–48 | 15–21% <br> 28–38 | 9–13% <br> 16–24 | 9–13% <br> 16–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–11 March 2021](2021-03-11-PeterHajek.html) | Peter Hajek <br> APA and ATV | 32–38% <br> 59–72 | 22–28% <br> 41–53 | 15–20% <br> 27–37 | 8–12% <br> 15–23 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [15–17 February 2021](2021-02-17-Market.html) | Market <br> Der Standard | 34–40% <br> 64–75 | 22–28% <br> 42–52 | 12–16% <br> 22–30 | 10–14% <br> 19–26 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
