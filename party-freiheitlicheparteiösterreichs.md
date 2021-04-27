@@ -10,12 +10,12 @@ Last result: **16.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.8% | 14.8–18.6% | 14.2–19.2% | 13.7–19.7% | 12.7–20.6% |
+| N/A | [Poll Average](average.html) | 16.8% | 14.4–19.4% | 13.8–20.2% | 13.4–20.8% | 12.5–21.9% |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.1–18.2% | 13.5–18.9% | 13.0–19.4% | 12.2–20.5% |
-| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 19.0% | N/A | N/A | N/A | N/A |
+| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.0–21.3% |
 | [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.5–19.7% | 13.8–20.6% |
-| [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard | 15.0% | N/A | N/A | N/A | N/A |
+| [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard | 15.0% | 13.5–16.7% | 13.0–17.2% | 12.7–17.6% | 12.0–18.5% |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 18.0% | 16.4–19.8% | 15.9–20.4% | 15.5–20.8% | 14.7–21.7% |
 | [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.0% | 15.0–19.3% | 14.4–19.9% | 13.9–20.5% | 13.0–21.7% |
 | [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.1% | 14.1–18.3% | 13.6–19.0% | 13.1–19.5% | 12.2–20.7% |
@@ -107,19 +107,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 2% | 99.6% |  |
-| 13.5–14.5% | 5% | 98% |  |
-| 14.5–15.5% | 13% | 93% |  |
-| 15.5–16.5% | 23% | 79% | Last Result |
-| 16.5–17.5% | 26% | 56% | Median |
-| 17.5–18.5% | 19% | 30% |  |
-| 18.5–19.5% | 8% | 11% |  |
-| 19.5–20.5% | 2% | 3% |  |
-| 20.5–21.5% | 0.5% | 0.6% |  |
-| 21.5–22.5% | 0.1% | 0.1% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 0.5% | 99.9% |  |
+| 12.5–13.5% | 3% | 99.4% |  |
+| 13.5–14.5% | 8% | 97% |  |
+| 14.5–15.5% | 14% | 89% |  |
+| 15.5–16.5% | 19% | 75% | Last Result |
+| 16.5–17.5% | 19% | 55% | Median |
+| 17.5–18.5% | 16% | 36% |  |
+| 18.5–19.5% | 11% | 20% |  |
+| 19.5–20.5% | 6% | 9% |  |
+| 20.5–21.5% | 2% | 3% |  |
+| 21.5–22.5% | 0.7% | 0.9% |  |
+| 22.5–23.5% | 0.1% | 0.2% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -130,12 +131,12 @@ Last result: **31** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 27–35 | 26–36 | 25–37 | 23–39 |
+| N/A | [Poll Average](average.html) | 31 | 27–36 | 25–38 | 24–39 | 23–41 |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 26–34 | 25–35 | 24–36 | 22–38 |
-| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 36 | 32–39 | 31–40 | 31–41 | 29–43 |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33 | 31–36 | 30–37 | 29–38 | 28–40 |
 | [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 32 | 29–35 | 28–36 | 27–37 | 26–39 |
-| [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard | 28 | 25–31 | 24–32 | 23–33 | 22–34 |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 33 | 30–36 | 29–37 | 28–38 | 27–40 |
 | [23–25 March 2021](2021-03-25-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 27–35 | 26–36 | 25–38 | 24–40 |
 | [15–17 March 2021](2021-03-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 26–34 | 25–35 | 24–36 | 22–38 |
@@ -230,26 +231,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 21 | 0.1% | 100% |  |
-| 22 | 0.2% | 99.9% |  |
-| 23 | 0.4% | 99.8% |  |
-| 24 | 0.9% | 99.4% |  |
-| 25 | 2% | 98% |  |
-| 26 | 3% | 97% |  |
-| 27 | 5% | 94% |  |
-| 28 | 8% | 89% |  |
-| 29 | 10% | 81% |  |
-| 30 | 13% | 71% |  |
-| 31 | 14% | 59% | Last Result, Median |
-| 32 | 13% | 45% |  |
-| 33 | 11% | 32% |  |
-| 34 | 9% | 21% |  |
-| 35 | 6% | 12% |  |
-| 36 | 3% | 6% |  |
-| 37 | 2% | 3% |  |
-| 38 | 0.7% | 1.3% |  |
-| 39 | 0.4% | 0.5% |  |
-| 40 | 0.1% | 0.2% |  |
-| 41 | 0% | 0.1% |  |
-| 42 | 0% | 0% |  |
+| 22 | 0.3% | 99.9% |  |
+| 23 | 0.8% | 99.6% |  |
+| 24 | 2% | 98.9% |  |
+| 25 | 3% | 97% |  |
+| 26 | 4% | 94% |  |
+| 27 | 6% | 90% |  |
+| 28 | 8% | 84% |  |
+| 29 | 9% | 76% |  |
+| 30 | 10% | 67% |  |
+| 31 | 10% | 57% | Last Result, Median |
+| 32 | 10% | 47% |  |
+| 33 | 9% | 37% |  |
+| 34 | 8% | 28% |  |
+| 35 | 7% | 20% |  |
+| 36 | 5% | 14% |  |
+| 37 | 3% | 9% |  |
+| 38 | 3% | 6% |  |
+| 39 | 1.5% | 3% |  |
+| 40 | 0.9% | 2% |  |
+| 41 | 0.4% | 0.7% |  |
+| 42 | 0.2% | 0.3% |  |
+| 43 | 0.1% | 0.1% |  |
+| 44 | 0% | 0% |  |
 
 
