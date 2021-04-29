@@ -130,7 +130,7 @@ Last result: **15** seats (General Election of 29 September 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 16–22 | 16–23 | 15–24 | 14–26 |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–24 | 16–25 | 16–26 | 14–28 |
-| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 18 | 16–21 | 16–22 | 15–23 | 14–24 |
+| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 18 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22 | 20–25 | 19–26 | 18–26 | 17–28 |
 | [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard | 18 | 16–21 | 15–22 | 15–22 | 14–24 |
@@ -229,17 +229,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.2% | 100% |  |
 | 14 | 1.0% | 99.8% |  |
-| 15 | 3% | 98.7% | Last Result |
-| 16 | 8% | 96% |  |
-| 17 | 11% | 88% |  |
+| 15 | 3% | 98.8% | Last Result |
+| 16 | 7% | 96% |  |
+| 17 | 11% | 89% |  |
 | 18 | 16% | 77% |  |
-| 19 | 18% | 61% | Median |
-| 20 | 14% | 44% |  |
-| 21 | 13% | 29% |  |
+| 19 | 17% | 61% | Median |
+| 20 | 15% | 44% |  |
+| 21 | 12% | 29% |  |
 | 22 | 8% | 17% |  |
 | 23 | 5% | 9% |  |
 | 24 | 2% | 5% |  |
-| 25 | 1.1% | 2% |  |
+| 25 | 1.2% | 2% |  |
 | 26 | 0.6% | 1.0% |  |
 | 27 | 0.3% | 0.4% |  |
 | 28 | 0.1% | 0.2% |  |

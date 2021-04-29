@@ -135,9 +135,9 @@ Last result: **40** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45 | 39–50 | 36–51 | 35–52 | 33–54 |
-| [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39 | 34–43 | 33–45 | 33–46 | 31–48 |
-| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 45 | 41–49 | 40–50 | 39–50 | 38–52 |
+| N/A | [Poll Average](average.html) | 45 | 39–50 | 37–51 | 35–52 | 32–54 |
+| [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39 | 34–43 | 33–45 | 32–46 | 30–48 |
+| [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 45 | 41–49 | 40–50 | 39–51 | 38–52 |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39 | 36–42 | 35–43 | 34–44 | 33–46 |
 | [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 45 | 41–49 | 40–50 | 40–51 | 38–53 |
 | [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard | 48 | 44–52 | 43–53 | 43–54 | 41–56 |
@@ -235,20 +235,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0.1% | 100% |  |
-| 31 | 0.1% | 99.9% |  |
-| 32 | 0.3% | 99.8% |  |
-| 33 | 0.7% | 99.5% |  |
-| 34 | 1.2% | 98.9% |  |
-| 35 | 1.5% | 98% |  |
-| 36 | 1.4% | 96% |  |
+| 31 | 0.2% | 99.9% |  |
+| 32 | 0.3% | 99.7% |  |
+| 33 | 0.6% | 99.4% |  |
+| 34 | 0.9% | 98.8% |  |
+| 35 | 1.3% | 98% |  |
+| 36 | 2% | 97% |  |
 | 37 | 2% | 95% |  |
-| 38 | 2% | 93% |  |
-| 39 | 3% | 91% |  |
-| 40 | 4% | 88% | Last Result |
-| 41 | 5% | 84% |  |
+| 38 | 3% | 93% |  |
+| 39 | 3% | 90% |  |
+| 40 | 4% | 87% | Last Result |
+| 41 | 4% | 84% |  |
 | 42 | 6% | 79% |  |
 | 43 | 7% | 73% |  |
-| 44 | 8% | 66% |  |
+| 44 | 9% | 66% |  |
 | 45 | 10% | 57% | Median |
 | 46 | 10% | 47% |  |
 | 47 | 10% | 37% |  |
