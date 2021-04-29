@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Wed, 28 Apr 2021 18:21:33 +0200</pubDate>
+    <pubDate>Thu, 29 Apr 2021 17:47:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 20–22 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-04-22-ResearchAffairs.html</link>
@@ -16,8 +16,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-04-22-ResearchAffairs.png"
         length="246134"
         type="image/png"/>
-      <pubDate>Mon, 26 Apr 2021 07:01:15 +0200</pubDate>
-      <dc:date>2021-04-26T07:01:15.058139+02:00</dc:date>
+      <pubDate>Thu, 29 Apr 2021 17:47:44 +0200</pubDate>
+      <dc:date>2021-04-29T17:47:44.45704+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 5–8 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-04-08-UniqueResearch.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 56–68 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 39–51 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 30–41 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 15–23 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 18–27 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-04-08-UniqueResearch-seats.png"
+        length="204950"
+        type="image/png"/>
+      <pubDate>Wed, 28 Apr 2021 22:48:09 +0200</pubDate>
+      <dc:date>2021-04-28T22:48:09.297126+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 5–8 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-04-08-UniqueResearch.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-04-08-UniqueResearch-coalitions-seats.png"
+        length="294537"
+        type="image/png"/>
+      <pubDate>Wed, 28 Apr 2021 22:48:09 +0200</pubDate>
+      <dc:date>2021-04-28T22:48:09.297126+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 5–8 April 2021 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-04-08-UniqueResearch.png"
         length="234889"
         type="image/png"/>
-      <pubDate>Mon, 26 Apr 2021 23:11:16 +0200</pubDate>
-      <dc:date>2021-04-26T23:11:16.93228+02:00</dc:date>
+      <pubDate>Wed, 28 Apr 2021 22:48:09 +0200</pubDate>
+      <dc:date>2021-04-28T22:48:09.297126+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 30 March–1 April 2021 – Voting Intentions</title>
@@ -2619,6 +2639,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-04-28T18:21:33.130215+02:00</dc:date>
+    <dc:date>2021-04-29T17:47:44.45704+02:00</dc:date>
   </channel>
 </rss>
