@@ -133,7 +133,7 @@ Last result: **26** seats (General Election of 29 September 2019)
 | N/A | [Poll Average](average.html) | 21 | 18–25 | 17–26 | 16–27 | 15–28 |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22 | 19–26 | 18–27 | 17–28 | 16–30 |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 22 | 20–25 | 19–26 | 18–27 | 17–28 |
-| [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 14–19 | 14–19 | 13–20 | 12–21 |
+| [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17 | 14–19 | 14–20 | 13–20 | 12–21 |
 | [30 March–1 April 2021](2021-04-01-OGM.html) | OGM <br> KURIER | 20 | 18–23 | 17–24 | 17–25 | 15–26 |
 | [26–30 March 2021](2021-03-30-Market.html) | Market <br> Der Standard | 22 | 19–25 | 19–26 | 18–26 | 17–28 |
 | [23–25 March 2021](2021-03-25-UniqueResearch.html) | Unique Research <br> Heute | 20 | 17–22 | 17–23 | 16–24 | 15–25 |
