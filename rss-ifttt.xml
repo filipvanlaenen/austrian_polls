@@ -6,12 +6,44 @@
     <description>All Registered Polls for the Nationalrat</description>
     <pubDate>Sat, 25 Jul 2020 17:44:10 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 11–13 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-05-13-ResearchAffairs.html</link>
+      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Research Affairs for ÖSTERREICH, 11–13 May 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-05-13-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-05-13-ResearchAffairs.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-05-13-ResearchAffairs.png" length="247564" type="image/png"/>
+      <pubDate>Thu, 27 May 2021 07:32:06 +0200</pubDate>
+      <dc:date>2021-05-27T07:32:06.201952+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 10–12 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-05-12-UniqueResearch.html</link>
+      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Unique Research for profil, 10–12 May 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-05-12-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-05-12-UniqueResearch.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-05-12-UniqueResearch.png" length="233298" type="image/png"/>
+      <pubDate>Thu, 27 May 2021 07:56:39 +0200</pubDate>
+      <dc:date>2021-05-27T07:56:39.524072+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 4–6 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-05-06-ResearchAffairs.html</link>
+      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Research Affairs for ÖSTERREICH, 4–6 May 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-05-06-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-05-06-ResearchAffairs.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-05-06-ResearchAffairs.png" length="246055" type="image/png"/>
+      <pubDate>Thu, 27 May 2021 08:01:50 +0200</pubDate>
+      <dc:date>2021-05-27T08:01:50.897862+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 27–29 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-04-29-ResearchAffairs.html</link>
       <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Research Affairs for ÖSTERREICH, 27–29 April 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-04-29-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-04-29-ResearchAffairs.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-04-29-ResearchAffairs.png" length="244243" type="image/png"/>
       <pubDate>Fri, 7 May 2021 21:21:12 +0200</pubDate>
       <dc:date>2021-05-07T21:21:12.151374+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek for APA and ATV, 26–29 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-04-29-PeterHajek.html</link>
+      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Peter Hajek for APA and ATV, 26–29 April 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-04-29-PeterHajek.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-04-29-PeterHajek.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-04-29-PeterHajek.png" length="234623" type="image/png"/>
+      <pubDate>Thu, 27 May 2021 08:19:18 +0200</pubDate>
+      <dc:date>2021-05-27T08:19:18.14638+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 20–22 April 2021 – Seating Plan Projection</title>
@@ -132,102 +164,6 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-30-Market.png" length="235864" type="image/png"/>
       <pubDate>Wed, 28 Apr 2021 18:21:33 +0200</pubDate>
       <dc:date>2021-04-28T18:21:33.130215+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 23–25 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Research Affairs for ÖSTERREICH, 23–25 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs-seating-plan.png" length="634509" type="image/png"/>
-      <pubDate>Thu, 1 Apr 2021 11:06:48 +0200</pubDate>
-      <dc:date>2021-04-01T11:06:48.7933+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 23–25 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html#seats</link>
-      <description><![CDATA[Seat projections for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Research Affairs for ÖSTERREICH, 23–25 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs-seats.png" length="213938" type="image/png"/>
-      <pubDate>Thu, 1 Apr 2021 11:06:48 +0200</pubDate>
-      <dc:date>2021-04-01T11:06:48.7933+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 23–25 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html</link>
-      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Research Affairs for ÖSTERREICH, 23–25 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-ResearchAffairs.png" length="245454" type="image/png"/>
-      <pubDate>Thu, 1 Apr 2021 11:06:48 +0200</pubDate>
-      <dc:date>2021-04-01T11:06:48.7933+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Unique Research for Heute, 23–25 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch-seating-plan.png" length="615930" type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 18:40:05 +0200</pubDate>
-      <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Unique Research for Heute, 23–25 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch-seats.png" length="206221" type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 18:40:05 +0200</pubDate>
-      <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for Heute, 23–25 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html</link>
-      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Unique Research for Heute, 23–25 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-25-UniqueResearch.png" length="236940" type="image/png"/>
-      <pubDate>Tue, 30 Mar 2021 18:40:05 +0200</pubDate>
-      <dc:date>2021-03-30T18:40:05.788727+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Research Affairs for ÖSTERREICH, 15–17 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs-seating-plan.png" length="630019" type="image/png"/>
-      <pubDate>Thu, 1 Apr 2021 09:24:33 +0200</pubDate>
-      <dc:date>2021-04-01T09:24:33.902467+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html#seats</link>
-      <description><![CDATA[Seat projections for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Research Affairs for ÖSTERREICH, 15–17 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs-seats.png" length="211656" type="image/png"/>
-      <pubDate>Thu, 1 Apr 2021 09:24:33 +0200</pubDate>
-      <dc:date>2021-04-01T09:24:33.902467+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 15–17 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html</link>
-      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Research Affairs for ÖSTERREICH, 15–17 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-17-ResearchAffairs.png" length="243604" type="image/png"/>
-      <pubDate>Thu, 1 Apr 2021 09:24:33 +0200</pubDate>
-      <dc:date>2021-04-01T09:24:33.902467+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peter Hajek for APA and ATV, 8–11 March 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Peter Hajek for APA and ATV, 8–11 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek-seating-plan.png" length="613085" type="image/png"/>
-      <pubDate>Thu, 1 Apr 2021 09:40:49 +0200</pubDate>
-      <dc:date>2021-04-01T09:40:49.056598+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peter Hajek for APA and ATV, 8–11 March 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html#seats</link>
-      <description><![CDATA[Seat projections for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Peter Hajek for APA and ATV, 8–11 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek-seats.png" length="203470" type="image/png"/>
-      <pubDate>Thu, 1 Apr 2021 09:40:49 +0200</pubDate>
-      <dc:date>2021-04-01T09:40:49.056598+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Peter Hajek for APA and ATV, 8–11 March 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html</link>
-      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Peter Hajek for APA and ATV, 8–11 March 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-03-11-PeterHajek.png" length="235657" type="image/png"/>
-      <pubDate>Thu, 1 Apr 2021 09:40:49 +0200</pubDate>
-      <dc:date>2021-04-01T09:40:49.056598+02:00</dc:date>
     </item>
   </channel>
 </rss>
