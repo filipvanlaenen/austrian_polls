@@ -10,8 +10,12 @@ Last result: **21.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.2% | 20.0–26.8% | 18.9–27.5% | 18.1–28.1% | 16.7–29.3% |
+| N/A | [Poll Average](average.html) | 24.1% | 21.3–26.8% | 20.5–27.5% | 19.9–28.1% | 18.6–29.3% |
+| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 19.8–24.5% | 19.1–25.2% | 18.6–25.8% | 17.6–27.1% |
+| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
+| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21.0% | 18.8–23.5% | 18.2–24.2% | 17.7–24.8% | 16.7–26.0% |
 | [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.0% | 17.8–22.4% | 17.2–23.1% | 16.7–23.7% | 15.7–24.8% |
+| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 25.0% | 23.1–27.0% | 22.6–27.6% | 22.1–28.1% | 21.2–29.1% |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20.9% | 18.7–23.4% | 18.1–24.1% | 17.6–24.7% | 16.6–25.9% |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
@@ -108,22 +112,20 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.1% | 100% |  |
-| 15.5–16.5% | 0.3% | 99.9% |  |
-| 16.5–17.5% | 1.1% | 99.6% |  |
-| 17.5–18.5% | 2% | 98.6% |  |
-| 18.5–19.5% | 4% | 96% |  |
-| 19.5–20.5% | 5% | 92% |  |
-| 20.5–21.5% | 5% | 87% | Last Result |
-| 21.5–22.5% | 8% | 82% |  |
-| 22.5–23.5% | 13% | 74% |  |
-| 23.5–24.5% | 17% | 61% | Median |
-| 24.5–25.5% | 18% | 44% |  |
-| 25.5–26.5% | 14% | 26% |  |
-| 26.5–27.5% | 8% | 13% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.4% | 99.9% |  |
+| 18.5–19.5% | 1.3% | 99.5% |  |
+| 19.5–20.5% | 3% | 98% |  |
+| 20.5–21.5% | 7% | 95% | Last Result |
+| 21.5–22.5% | 12% | 88% |  |
+| 22.5–23.5% | 16% | 76% |  |
+| 23.5–24.5% | 18% | 60% | Median |
+| 24.5–25.5% | 17% | 41% |  |
+| 25.5–26.5% | 13% | 25% |  |
+| 26.5–27.5% | 7% | 12% |  |
 | 27.5–28.5% | 3% | 5% |  |
-| 28.5–29.5% | 1.1% | 1.5% |  |
+| 28.5–29.5% | 1.1% | 1.4% |  |
 | 29.5–30.5% | 0.3% | 0.3% |  |
 | 30.5–31.5% | 0% | 0.1% |  |
 | 31.5–32.5% | 0% | 0% |  |
@@ -137,8 +139,12 @@ Last result: **40** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45 | 37–50 | 35–51 | 33–52 | 31–54 |
+| N/A | [Poll Average](average.html) | 45 | 40–50 | 38–51 | 37–52 | 34–54 |
+| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 37–46 | 35–47 | 34–48 | 33–51 |
+| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 43 | 40–47 | 39–48 | 38–49 | 36–51 |
+| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 40 | 35–44 | 34–45 | 33–47 | 31–49 |
 | [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37 | 33–41 | 32–43 | 31–44 | 29–46 |
+| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 47 | 43–50 | 42–51 | 41–53 | 40–54 |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39 | 34–43 | 33–45 | 32–46 | 30–48 |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 45 | 41–49 | 40–50 | 39–51 | 38–52 |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39 | 36–43 | 35–43 | 34–44 | 33–46 |
@@ -237,32 +243,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0% | 100% |  |
-| 29 | 0.1% | 99.9% |  |
-| 30 | 0.3% | 99.8% |  |
-| 31 | 0.5% | 99.5% |  |
-| 32 | 0.8% | 99.0% |  |
-| 33 | 1.2% | 98% |  |
-| 34 | 2% | 97% |  |
-| 35 | 2% | 95% |  |
-| 36 | 2% | 93% |  |
-| 37 | 2% | 91% |  |
-| 38 | 2% | 89% |  |
-| 39 | 3% | 86% |  |
-| 40 | 3% | 83% | Last Result |
-| 41 | 4% | 81% |  |
-| 42 | 5% | 77% |  |
-| 43 | 7% | 72% |  |
-| 44 | 8% | 65% |  |
-| 45 | 10% | 56% | Median |
-| 46 | 10% | 47% |  |
-| 47 | 10% | 37% |  |
-| 48 | 8% | 27% |  |
-| 49 | 7% | 19% |  |
-| 50 | 5% | 12% |  |
+| 32 | 0.1% | 100% |  |
+| 33 | 0.1% | 99.9% |  |
+| 34 | 0.3% | 99.8% |  |
+| 35 | 0.5% | 99.5% |  |
+| 36 | 0.7% | 98.9% |  |
+| 37 | 1.2% | 98% |  |
+| 38 | 3% | 97% |  |
+| 39 | 4% | 94% |  |
+| 40 | 4% | 91% | Last Result |
+| 41 | 5% | 87% |  |
+| 42 | 7% | 81% |  |
+| 43 | 9% | 74% |  |
+| 44 | 10% | 65% |  |
+| 45 | 10% | 55% | Median |
+| 46 | 10% | 45% |  |
+| 47 | 9% | 36% |  |
+| 48 | 8% | 26% |  |
+| 49 | 6% | 18% |  |
+| 50 | 4% | 12% |  |
 | 51 | 3% | 7% |  |
 | 52 | 2% | 4% |  |
-| 53 | 1.1% | 2% |  |
+| 53 | 1.0% | 2% |  |
 | 54 | 0.6% | 1.0% |  |
 | 55 | 0.3% | 0.4% |  |
 | 56 | 0.1% | 0.2% |  |
