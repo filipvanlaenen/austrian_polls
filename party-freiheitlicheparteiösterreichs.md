@@ -139,8 +139,8 @@ Last result: **31** seats (General Election of 29 September 2019)
 | N/A | [Poll Average](average.html) | 32 | 27–36 | 26–37 | 25–38 | 23–40 |
 | [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 28–36 | 27–37 | 26–38 | 24–41 |
 | [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 34 | 31–37 | 30–38 | 29–39 | 27–41 |
-| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 28–36 | 27–37 | 26–38 | 24–40 |
-| [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 26–34 | 25–34 | 24–36 | 23–38 |
+| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 28–36 | 27–37 | 26–38 | 24–41 |
+| [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 26–34 | 25–35 | 24–36 | 22–38 |
 | [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 34 | 30–37 | 29–38 | 29–39 | 27–40 |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 26–34 | 25–35 | 24–36 | 22–38 |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 35 | 32–39 | 31–40 | 30–41 | 29–42 |
@@ -246,21 +246,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 1.2% | 99.2% |  |
 | 25 | 2% | 98% |  |
 | 26 | 3% | 96% |  |
-| 27 | 5% | 93% |  |
+| 27 | 5% | 92% |  |
 | 28 | 6% | 88% |  |
-| 29 | 8% | 82% |  |
+| 29 | 7% | 82% |  |
 | 30 | 9% | 74% |  |
 | 31 | 10% | 65% | Last Result |
 | 32 | 11% | 55% | Median |
 | 33 | 11% | 44% |  |
-| 34 | 11% | 33% |  |
+| 34 | 10% | 32% |  |
 | 35 | 8% | 22% |  |
 | 36 | 6% | 14% |  |
 | 37 | 4% | 8% |  |
 | 38 | 2% | 4% |  |
-| 39 | 1.0% | 2% |  |
+| 39 | 1.1% | 2% |  |
 | 40 | 0.5% | 0.9% |  |
-| 41 | 0.2% | 0.4% |  |
+| 41 | 0.2% | 0.3% |  |
 | 42 | 0.1% | 0.1% |  |
 | 43 | 0% | 0% |  |
 

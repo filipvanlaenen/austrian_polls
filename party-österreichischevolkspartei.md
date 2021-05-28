@@ -139,10 +139,10 @@ Last result: **71** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 65 | 60–70 | 59–71 | 57–72 | 55–75 |
-| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 61–71 | 59–72 | 58–74 | 55–77 |
+| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 60–71 | 59–73 | 58–74 | 55–76 |
 | [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 64 | 60–68 | 59–70 | 58–71 | 56–72 |
-| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–73 | 61–74 | 59–75 | 57–78 |
-| [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–72 | 60–74 | 59–75 | 57–78 |
+| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–73 | 61–74 | 59–76 | 57–78 |
+| [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 61–72 | 60–74 | 59–75 | 56–78 |
 | [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 62 | 58–66 | 57–67 | 56–68 | 54–70 |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–73 | 60–74 | 59–76 | 57–78 |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 62 | 58–66 | 57–67 | 56–68 | 54–70 |
@@ -245,8 +245,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 0.1% | 100% |  |
 | 54 | 0.2% | 99.9% |  |
 | 55 | 0.4% | 99.7% |  |
-| 56 | 0.6% | 99.4% |  |
-| 57 | 1.4% | 98.7% |  |
+| 56 | 0.7% | 99.4% |  |
+| 57 | 1.3% | 98.7% |  |
 | 58 | 2% | 97% |  |
 | 59 | 3% | 95% |  |
 | 60 | 5% | 92% |  |
@@ -254,16 +254,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 62 | 8% | 81% |  |
 | 63 | 9% | 73% |  |
 | 64 | 10% | 64% |  |
-| 65 | 11% | 54% | Median |
+| 65 | 10% | 54% | Median |
 | 66 | 10% | 44% |  |
 | 67 | 9% | 34% |  |
-| 68 | 8% | 25% |  |
+| 68 | 7% | 25% |  |
 | 69 | 6% | 17% |  |
 | 70 | 4% | 11% |  |
 | 71 | 3% | 7% | Last Result |
 | 72 | 2% | 4% |  |
 | 73 | 1.1% | 2% |  |
-| 74 | 0.5% | 1.2% |  |
+| 74 | 0.6% | 1.2% |  |
 | 75 | 0.3% | 0.6% |  |
 | 76 | 0.2% | 0.3% |  |
 | 77 | 0.1% | 0.1% |  |
