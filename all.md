@@ -5,11 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 58–74 | 19–26% <br> 34–48 | 14–21% <br> 26–38 | 9–15% <br> 17–28 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 58–74 | 19–26% <br> 35–48 | 14–21% <br> 26–38 | 9–15% <br> 17–28 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 58–71 | 20–26% <br> 38–49 | 15–21% <br> 29–39 | 10–14% <br> 18–27 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 59–75 | 18–25% <br> 33–47 | 14–21% <br> 26–38 | 9–15% <br> 17–28 | 8–14% <br> 15–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 59–76 | 18–25% <br> 33–46 | 14–21% <br> 26–38 | 9–15% <br> 17–28 | 8–14% <br> 15–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 59–75 | 17–24% <br> 31–44 | 13–19% <br> 24–36 | 9–15% <br> 17–27 | 9–15% <br> 16–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 30–36% <br> 56–68 | 22–28% <br> 41–53 | 15–21% <br> 29–39 | 11–16% <br> 20–29 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 30–36% <br> 56–68 | 22–28% <br> 41–52 | 15–21% <br> 29–39 | 11–16% <br> 20–29 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32–40% <br> 59–76 | 18–25% <br> 32–46 | 13–19% <br> 24–36 | 9–15% <br> 17–28 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 30–36% <br> 56–68 | 21–27% <br> 39–51 | 16–22% <br> 30–41 | 10–14% <br> 18–27 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33–39% <br> 61–74 | 19–24% <br> 34–44 | 16–21% <br> 29–38 | 7–11% <br> 13–20 | 10–14% <br> 18–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
