@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 27–38% <br> 50–70 | 20–30% <br> 37–57 | 14–22% <br> 25–41 | 8–14% <br> 15–25 | 9–15% <br> 17–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 27–38% <br> 51–70 | 21–30% <br> 39–56 | 13–22% <br> 25–40 | 9–15% <br> 16–27 | 8–14% <br> 14–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 59–73 | 20–28% <br> 38–51 | 12–18% <br> 23–34 | 9–14% <br> 16–26 | 9–15% <br> 17–28 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–30 May 2021](2021-05-30-Market.html) | Market | 26–32% <br> 49–60 | 25–31% <br> 47–58 | 18–23% <br> 33–42 | 8–12% <br> 15–22 | 9–13% <br> 17–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [25–27 May 2021](2021-05-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30–38% <br> 55–72 | 20–27% <br> 36–50 | 13–19% <br> 24–36 | 9–14% <br> 15–26 | 9–15% <br> 17–28 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research | 30–36% <br> 57–68 | 20–26% <br> 38–48 | 16–21% <br> 29–39 | 10–14% <br> 19–26 | 9–13% <br> 17–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 31–37% <br> 58–71 | 20–26% <br> 38–49 | 15–21% <br> 29–39 | 10–14% <br> 18–27 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 30–36% <br> 56–68 | 22–28% <br> 41–53 | 15–21% <br> 29–39 | 11–16% <br> 20–29 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
