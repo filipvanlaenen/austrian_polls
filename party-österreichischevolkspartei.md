@@ -10,16 +10,17 @@ Last result: **37.5%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.1% | 27.8–35.8% | 27.2–36.8% | 26.7–37.6% | 25.8–39.1% |
+| N/A | [Poll Average](average.html) | 33.1% | 29.0–36.0% | 28.1–36.9% | 27.4–37.7% | 26.3–39.3% |
+| [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 32.3–37.8% | 31.6–38.6% | 30.9–39.2% | 29.7–40.6% |
 | [24–30 May 2021](2021-05-30-Market.html) | Market | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [25–27 May 2021](2021-05-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 31.4–36.8% | 30.6–37.6% | 30.0–38.3% | 28.7–39.6% |
-| [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | N/A | N/A | N/A | N/A |
-| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research | 33.0% | N/A | N/A | N/A | N/A |
-| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | N/A | N/A | N/A | N/A |
-| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 34.0% | N/A | N/A | N/A | N/A |
-| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.9% | N/A | N/A | N/A | N/A |
+| [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 31.4–36.8% | 30.7–37.5% | 30.1–38.2% | 28.9–39.5% |
+| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
+| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 32.3–37.8% | 31.6–38.6% | 30.9–39.3% | 29.7–40.6% |
+| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
+| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.9% | 33.2–38.7% | 32.5–39.5% | 31.8–40.2% | 30.6–41.6% |
 | [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36.0% | 33.3–38.8% | 32.6–39.6% | 32.0–40.3% | 30.7–41.6% |
-| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 33.0% | N/A | N/A | N/A | N/A |
+| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36.1% | 33.4–38.9% | 32.7–39.7% | 32.0–40.4% | 30.8–41.7% |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
@@ -117,22 +118,22 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.3% | 100% |  |
-| 25.5–26.5% | 2% | 99.7% |  |
-| 26.5–27.5% | 6% | 98% |  |
-| 27.5–28.5% | 11% | 92% |  |
-| 28.5–29.5% | 14% | 81% |  |
-| 29.5–30.5% | 12% | 67% |  |
-| 30.5–31.5% | 9% | 55% | Median |
-| 31.5–32.5% | 8% | 46% |  |
-| 32.5–33.5% | 9% | 38% |  |
-| 33.5–34.5% | 9% | 30% |  |
-| 34.5–35.5% | 8% | 20% |  |
-| 35.5–36.5% | 6% | 12% |  |
-| 36.5–37.5% | 3% | 6% |  |
+| 24.5–25.5% | 0.1% | 100% |  |
+| 25.5–26.5% | 0.7% | 99.9% |  |
+| 26.5–27.5% | 2% | 99.2% |  |
+| 27.5–28.5% | 4% | 97% |  |
+| 28.5–29.5% | 6% | 93% |  |
+| 29.5–30.5% | 6% | 87% |  |
+| 30.5–31.5% | 8% | 80% |  |
+| 31.5–32.5% | 13% | 72% |  |
+| 32.5–33.5% | 16% | 59% | Median |
+| 33.5–34.5% | 16% | 42% |  |
+| 34.5–35.5% | 12% | 26% |  |
+| 35.5–36.5% | 7% | 14% |  |
+| 36.5–37.5% | 4% | 7% |  |
 | 37.5–38.5% | 2% | 3% | Last Result |
-| 38.5–39.5% | 0.6% | 0.9% |  |
-| 39.5–40.5% | 0.2% | 0.3% |  |
+| 38.5–39.5% | 0.7% | 1.1% |  |
+| 39.5–40.5% | 0.3% | 0.4% |  |
 | 40.5–41.5% | 0.1% | 0.1% |  |
 | 41.5–42.5% | 0% | 0% |  |
 
@@ -145,16 +146,17 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 58 | 52–67 | 51–69 | 50–70 | 48–73 |
-| [24–30 May 2021](2021-05-30-Market.html) | Market | 54 | 51–58 | 50–59 | 49–60 | 47–61 |
+| N/A | [Poll Average](average.html) | 62 | 54–67 | 52–69 | 51–70 | 49–73 |
+| [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 61–69 | 60–71 | 59–73 | 56–77 |
+| [24–30 May 2021](2021-05-30-Market.html) | Market | 54 | 51–58 | 50–59 | 49–60 | 48–61 |
 | [25–27 May 2021](2021-05-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 63 | 58–69 | 56–70 | 55–72 | 53–74 |
-| [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research |  |  |  |  |  |
-| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
-| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 64 | 58–69 | 57–70 | 56–72 | 53–74 |
+| [14 May 2021](2021-05-14-DemoxResearch.html) | Demox Research | 62 | 59–66 | 58–67 | 57–68 | 55–70 |
+| [11–13 May 2021](2021-05-13-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 60–71 | 59–73 | 58–74 | 55–76 |
+| [10–12 May 2021](2021-05-12-UniqueResearch.html) | Unique Research <br> profil | 64 | 60–68 | 59–70 | 58–71 | 56–72 |
+| [4–6 May 2021](2021-05-06-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–73 | 61–74 | 59–76 | 57–78 |
 | [27–29 April 2021](2021-04-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 61–72 | 60–74 | 59–75 | 56–78 |
-| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV |  |  |  |  |  |
+| [26–29 April 2021](2021-04-29-PeterHajek.html) | Peter Hajek <br> APA and ATV | 62 | 58–66 | 57–67 | 56–68 | 54–70 |
 | [20–22 April 2021](2021-04-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 62–73 | 60–74 | 59–76 | 57–78 |
 | [5–8 April 2021](2021-04-08-UniqueResearch.html) | Unique Research <br> profil | 62 | 58–66 | 57–67 | 56–68 | 54–70 |
 | [30 March–1 April 2021](2021-04-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 67 | 63–71 | 62–73 | 61–74 | 59–76 |
@@ -253,38 +255,38 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 46 | 0.1% | 100% |  |
-| 47 | 0.2% | 99.9% |  |
-| 48 | 0.4% | 99.7% |  |
-| 49 | 1.3% | 99.3% |  |
-| 50 | 2% | 98% |  |
-| 51 | 4% | 96% |  |
-| 52 | 4% | 92% |  |
-| 53 | 7% | 88% |  |
-| 54 | 9% | 81% |  |
-| 55 | 6% | 71% |  |
-| 56 | 8% | 66% |  |
-| 57 | 6% | 57% |  |
-| 58 | 5% | 52% | Median |
-| 59 | 4% | 47% |  |
-| 60 | 5% | 43% |  |
-| 61 | 4% | 38% |  |
-| 62 | 5% | 34% |  |
-| 63 | 5% | 29% |  |
-| 64 | 4% | 24% |  |
-| 65 | 4% | 20% |  |
-| 66 | 3% | 15% |  |
-| 67 | 3% | 12% |  |
-| 68 | 3% | 8% |  |
-| 69 | 2% | 6% |  |
-| 70 | 2% | 4% |  |
-| 71 | 0.9% | 2% | Last Result |
-| 72 | 0.6% | 1.4% |  |
-| 73 | 0.4% | 0.9% |  |
-| 74 | 0.2% | 0.5% |  |
-| 75 | 0.1% | 0.2% |  |
-| 76 | 0.1% | 0.1% |  |
-| 77 | 0% | 0.1% |  |
-| 78 | 0% | 0% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.2% | 99.9% |  |
+| 49 | 0.4% | 99.7% |  |
+| 50 | 0.9% | 99.3% |  |
+| 51 | 1.5% | 98% |  |
+| 52 | 2% | 97% |  |
+| 53 | 3% | 95% |  |
+| 54 | 3% | 92% |  |
+| 55 | 3% | 89% |  |
+| 56 | 3% | 86% |  |
+| 57 | 4% | 83% |  |
+| 58 | 4% | 79% |  |
+| 59 | 5% | 75% |  |
+| 60 | 6% | 71% |  |
+| 61 | 7% | 64% |  |
+| 62 | 9% | 57% | Median |
+| 63 | 9% | 48% |  |
+| 64 | 8% | 39% |  |
+| 65 | 8% | 30% |  |
+| 66 | 7% | 22% |  |
+| 67 | 6% | 15% |  |
+| 68 | 4% | 9% |  |
+| 69 | 2% | 5% |  |
+| 70 | 1.2% | 3% |  |
+| 71 | 0.7% | 2% | Last Result |
+| 72 | 0.4% | 1.1% |  |
+| 73 | 0.2% | 0.7% |  |
+| 74 | 0.1% | 0.5% |  |
+| 75 | 0.1% | 0.4% |  |
+| 76 | 0.1% | 0.3% |  |
+| 77 | 0.1% | 0.2% |  |
+| 78 | 0% | 0.1% |  |
+| 79 | 0% | 0% |  |
 
 
