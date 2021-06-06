@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 04 Jun 2021 19:28:57 +0200</pubDate>
+    <pubDate>Sat, 05 Jun 2021 21:31:45 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 31 May–2 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-02-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 58–74 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 38–52 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 23–34 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 17–28 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 16–26 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-02-ResearchAffairs-seats.png"
+        length="216036"
+        type="image/png"/>
+      <pubDate>Sat, 05 Jun 2021 21:31:45 +0200</pubDate>
+      <dc:date>2021-06-05T21:31:45.969786+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 31 May–2 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-02-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-02-ResearchAffairs-coalitions-seats.png"
+        length="320897"
+        type="image/png"/>
+      <pubDate>Sat, 05 Jun 2021 21:31:45 +0200</pubDate>
+      <dc:date>2021-06-05T21:31:45.969786+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 31 May–2 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-02-ResearchAffairs.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-02-ResearchAffairs.png"
         length="249015"
         type="image/png"/>
-      <pubDate>Fri, 04 Jun 2021 18:31:33 +0200</pubDate>
-      <dc:date>2021-06-04T18:31:33.060631+02:00</dc:date>
+      <pubDate>Sat, 05 Jun 2021 21:31:45 +0200</pubDate>
+      <dc:date>2021-06-05T21:31:45.969786+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market, 24–30 May 2021 – Seat Projections for the Parties</title>
@@ -2939,6 +2959,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-06-04T19:28:57.904762+02:00</dc:date>
+    <dc:date>2021-06-05T21:31:45.969786+02:00</dc:date>
   </channel>
 </rss>
