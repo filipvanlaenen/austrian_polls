@@ -143,8 +143,8 @@ Last result: **31** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 28–38 | 27–39 | 25–40 | 23–42 |
-| [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 25–31 | 24–32 | 23–34 | 21–36 |
+| N/A | [Poll Average](average.html) | 34 | 28–38 | 27–39 | 26–40 | 23–42 |
+| [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 25–32 | 24–33 | 23–34 | 21–36 |
 | [24–30 May 2021](2021-05-30-Market.html) | Market | 37 | 34–41 | 34–41 | 33–42 | 32–43 |
 | [25–27 May 2021](2021-05-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30 | 26–34 | 25–35 | 24–36 | 22–38 |
 | [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 32 | 28–36 | 27–37 | 26–38 | 24–40 |
@@ -254,23 +254,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.1% | 100% |  |
 | 21 | 0.1% | 99.9% |  |
-| 22 | 0.2% | 99.8% |  |
-| 23 | 0.2% | 99.6% |  |
-| 24 | 0.6% | 99.4% |  |
-| 25 | 1.3% | 98.8% |  |
-| 26 | 2% | 97% |  |
-| 27 | 2% | 96% |  |
-| 28 | 4% | 93% |  |
-| 29 | 5% | 89% |  |
-| 30 | 6% | 84% |  |
-| 31 | 7% | 78% | Last Result |
-| 32 | 9% | 71% |  |
+| 22 | 0.3% | 99.8% |  |
+| 23 | 0.4% | 99.5% |  |
+| 24 | 0.6% | 99.1% |  |
+| 25 | 1.0% | 98% |  |
+| 26 | 2% | 98% |  |
+| 27 | 3% | 96% |  |
+| 28 | 3% | 93% |  |
+| 29 | 5% | 90% |  |
+| 30 | 6% | 85% |  |
+| 31 | 8% | 79% | Last Result |
+| 32 | 9% | 72% |  |
 | 33 | 10% | 62% |  |
 | 34 | 12% | 52% | Median |
 | 35 | 9% | 40% |  |
 | 36 | 11% | 31% |  |
 | 37 | 6% | 20% |  |
-| 38 | 7% | 14% |  |
+| 38 | 6% | 14% |  |
 | 39 | 3% | 8% |  |
 | 40 | 2% | 5% |  |
 | 41 | 1.4% | 2% |  |

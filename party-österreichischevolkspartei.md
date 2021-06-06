@@ -146,8 +146,8 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 62 | 54–67 | 52–69 | 51–70 | 49–73 |
-| [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 66 | 61–69 | 60–71 | 59–73 | 56–77 |
+| N/A | [Poll Average](average.html) | 62 | 54–67 | 52–69 | 51–70 | 49–74 |
+| [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 61–69 | 60–72 | 58–74 | 56–77 |
 | [24–30 May 2021](2021-05-30-Market.html) | Market | 54 | 51–58 | 50–59 | 49–60 | 48–61 |
 | [25–27 May 2021](2021-05-27-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 63 | 58–69 | 56–70 | 55–72 | 53–74 |
 | [18–20 May 2021](2021-05-20-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 64 | 58–69 | 57–70 | 56–72 | 53–74 |
@@ -268,24 +268,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 57 | 4% | 83% |  |
 | 58 | 4% | 79% |  |
 | 59 | 5% | 75% |  |
-| 60 | 6% | 71% |  |
-| 61 | 7% | 64% |  |
-| 62 | 9% | 57% | Median |
-| 63 | 9% | 48% |  |
-| 64 | 8% | 39% |  |
-| 65 | 8% | 30% |  |
-| 66 | 7% | 22% |  |
-| 67 | 6% | 15% |  |
-| 68 | 4% | 9% |  |
+| 60 | 7% | 70% |  |
+| 61 | 8% | 64% |  |
+| 62 | 9% | 56% | Median |
+| 63 | 10% | 47% |  |
+| 64 | 9% | 37% |  |
+| 65 | 8% | 28% |  |
+| 66 | 6% | 20% |  |
+| 67 | 5% | 13% |  |
+| 68 | 3% | 8% |  |
 | 69 | 2% | 5% |  |
-| 70 | 1.2% | 3% |  |
+| 70 | 1.1% | 3% |  |
 | 71 | 0.7% | 2% | Last Result |
-| 72 | 0.4% | 1.1% |  |
-| 73 | 0.2% | 0.7% |  |
-| 74 | 0.1% | 0.5% |  |
-| 75 | 0.1% | 0.4% |  |
+| 72 | 0.4% | 1.5% |  |
+| 73 | 0.3% | 1.1% |  |
+| 74 | 0.3% | 0.7% |  |
+| 75 | 0.2% | 0.5% |  |
 | 76 | 0.1% | 0.3% |  |
-| 77 | 0.1% | 0.2% |  |
+| 77 | 0.1% | 0.1% |  |
 | 78 | 0% | 0.1% |  |
 | 79 | 0% | 0% |  |
 
