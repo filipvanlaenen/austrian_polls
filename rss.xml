@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 02 Jul 2021 17:13:13 +0200</pubDate>
+    <pubDate>Sat, 03 Jul 2021 15:04:07 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–24 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-24-ResearchAffairs.html</link>
@@ -18,6 +18,56 @@
         type="image/png"/>
       <pubDate>Fri, 02 Jul 2021 17:13:13 +0200</pubDate>
       <dc:date>2021-07-02T17:13:13.575234+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Peter Hajek, 21–24 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-24-PeterHajek.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.8–37.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.2–26.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 15.5–20.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.9–14.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-24-PeterHajek.png"
+        length="231012"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jul 2021 14:31:39 +0200</pubDate>
+      <dc:date>2021-07-03T14:31:39.472128+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 22–24 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-24-OGM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 22.1–28.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 15.5–20.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.0–13.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-24-OGM.png"
+        length="233938"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jul 2021 14:40:16 +0200</pubDate>
+      <dc:date>2021-07-03T14:40:16.378334+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IFDD for PULS 24, 10–15 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-15-IFDD.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.9–35.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.1–30.2%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 15.5–20.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.0–13.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-15-IFDD.png"
+        length="233709"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jul 2021 14:47:51 +0200</pubDate>
+      <dc:date>2021-07-03T14:47:51.242769+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for profil, 7–10 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-10-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 20.2–26.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 15.5–20.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.0–13.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.8–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-10-UniqueResearch.png"
+        length="234721"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jul 2021 14:55:53 +0200</pubDate>
+      <dc:date>2021-07-03T14:55:53.528125+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 8–10 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-10-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 28.9–35.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 24.1–30.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.7–18.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.1–13.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.9–15.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-10-Market.png"
+        length="233568"
+        type="image/png"/>
+      <pubDate>Sat, 03 Jul 2021 15:04:07 +0200</pubDate>
+      <dc:date>2021-07-03T15:04:07.093867+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 31 May–2 June 2021 – Seat Projections for the Parties</title>
@@ -2969,6 +3019,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-07-02T17:13:13.575234+02:00</dc:date>
+    <dc:date>2021-07-03T15:04:07.093867+02:00</dc:date>
   </channel>
 </rss>
