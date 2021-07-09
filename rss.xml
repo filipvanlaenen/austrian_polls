@@ -8,7 +8,47 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Sat, 03 Jul 2021 15:04:07 +0200</pubDate>
+    <pubDate>Fri, 09 Jul 2021 20:59:35 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IFDD for PULS 24, 28 June–2 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-07-02-IFDD.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 29.8–36.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 21.1–27.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 15.5–20.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 10.0–14.5%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.0–14.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-07-02-IFDD.png"
+        length="233794"
+        type="image/png"/>
+      <pubDate>Fri, 09 Jul 2021 20:31:30 +0200</pubDate>
+      <dc:date>2021-07-09T20:31:30.954039+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Unique Research for Heute, 28 June–1 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-07-01-UniqueResearch.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.8–38.4%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.3–25.0%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 14.6–19.8%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.9–14.4%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.8–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-07-01-UniqueResearch.png"
+        length="235746"
+        type="image/png"/>
+      <pubDate>Fri, 09 Jul 2021 20:39:37 +0200</pubDate>
+      <dc:date>2021-07-09T20:39:37.060552+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 28 June–1 July 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-07-01-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.1–38.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 18.7–25.9%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 13.0–19.4%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.5–15.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 8.6–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-07-01-ResearchAffairs.png"
+        length="247768"
+        type="image/png"/>
+      <pubDate>Fri, 09 Jul 2021 20:51:13 +0200</pubDate>
+      <dc:date>2021-07-09T20:51:13.613142+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 29–30 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-30-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 27.9–34.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 23.1–29.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 14.5–19.7%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.0–13.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.9–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-30-Market.png"
+        length="235740"
+        type="image/png"/>
+      <pubDate>Fri, 09 Jul 2021 20:59:35 +0200</pubDate>
+      <dc:date>2021-07-09T20:59:35.788465+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 22–24 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-24-ResearchAffairs.html</link>
@@ -3019,6 +3059,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-07-03T15:04:07.093867+02:00</dc:date>
+    <dc:date>2021-07-09T20:59:35.788465+02:00</dc:date>
   </channel>
 </rss>
