@@ -10,11 +10,11 @@ Last result: **16.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.0% | 16.3–19.8% | 15.9–20.3% | 15.5–20.8% | 14.7–21.7% |
-| [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 18.0% | N/A | N/A | N/A | N/A |
-| [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 17.0% | N/A | N/A | N/A | N/A |
-| [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.9% | N/A | N/A | N/A | N/A |
-| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 17.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 17.4% | 15.4–19.4% | 14.8–20.0% | 14.2–20.4% | 13.1–21.4% |
+| [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 18.0% | 16.3–19.8% | 15.9–20.3% | 15.5–20.8% | 14.7–21.7% |
+| [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 17.0% | 15.4–18.8% | 14.9–19.3% | 14.6–19.8% | 13.8–20.7% |
+| [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.9% | 14.0–18.2% | 13.5–18.8% | 13.0–19.4% | 12.1–20.5% |
+| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 17.0% | 15.4–18.7% | 14.9–19.2% | 14.5–19.7% | 13.8–20.6% |
 | [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 16.0% | 14.1–18.3% | 13.5–18.9% | 13.0–19.5% | 12.2–20.6% |
 | [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 18.0% | 16.4–19.8% | 15.9–20.4% | 15.5–20.8% | 14.7–21.7% |
 | [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 18.0% | 16.3–19.8% | 15.9–20.3% | 15.5–20.8% | 14.7–21.7% |
@@ -129,17 +129,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.3% | 100% |  |
-| 14.5–15.5% | 2% | 99.7% |  |
-| 15.5–16.5% | 10% | 97% | Last Result |
-| 16.5–17.5% | 22% | 87% |  |
-| 17.5–18.5% | 29% | 64% | Median |
-| 18.5–19.5% | 22% | 36% |  |
-| 19.5–20.5% | 10% | 14% |  |
-| 20.5–21.5% | 3% | 4% |  |
-| 21.5–22.5% | 0.6% | 0.7% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 0.8% | 99.8% |  |
+| 13.5–14.5% | 3% | 99.0% |  |
+| 14.5–15.5% | 8% | 96% |  |
+| 15.5–16.5% | 17% | 88% | Last Result |
+| 16.5–17.5% | 24% | 71% | Median |
+| 17.5–18.5% | 24% | 47% |  |
+| 18.5–19.5% | 15% | 23% |  |
+| 19.5–20.5% | 6% | 8% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.3% | 0.4% |  |
+| 22.5–23.5% | 0% | 0% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -151,11 +153,11 @@ Last result: **31** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 30–37 | 29–38 | 29–39 | 27–40 |
-| [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 |  |  |  |  |  |
-| [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
-| [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 32 | 28–36 | 27–37 | 26–38 | 24–40 |
+| [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 32 | 29–36 | 29–37 | 28–38 | 27–40 |
+| [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 31 | 28–35 | 27–36 | 27–36 | 25–38 |
+| [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 25–33 | 25–34 | 24–36 | 22–38 |
+| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 32 | 29–35 | 28–36 | 27–37 | 26–38 |
 | [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 26–34 | 25–35 | 24–36 | 22–38 |
 | [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 34 | 30–37 | 29–38 | 29–39 | 27–40 |
 | [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 34 | 30–37 | 29–38 | 29–39 | 27–41 |
@@ -272,24 +274,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 26 | 0.1% | 100% |  |
-| 27 | 0.5% | 99.8% |  |
-| 28 | 1.4% | 99.3% |  |
-| 29 | 3% | 98% |  |
-| 30 | 6% | 95% |  |
-| 31 | 9% | 89% | Last Result |
-| 32 | 14% | 79% |  |
-| 33 | 14% | 65% |  |
-| 34 | 15% | 51% | Median |
-| 35 | 13% | 36% |  |
-| 36 | 10% | 23% |  |
-| 37 | 7% | 13% |  |
-| 38 | 3% | 7% |  |
-| 39 | 2% | 3% |  |
-| 40 | 0.9% | 1.3% |  |
-| 41 | 0.3% | 0.5% |  |
-| 42 | 0.1% | 0.2% |  |
-| 43 | 0% | 0.1% |  |
-| 44 | 0% | 0% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.2% | 99.8% |  |
+| 24 | 0.5% | 99.6% |  |
+| 25 | 1.1% | 99.1% |  |
+| 26 | 2% | 98% |  |
+| 27 | 3% | 96% |  |
+| 28 | 5% | 93% |  |
+| 29 | 8% | 88% |  |
+| 30 | 10% | 80% |  |
+| 31 | 13% | 71% | Last Result |
+| 32 | 14% | 57% | Median |
+| 33 | 13% | 44% |  |
+| 34 | 11% | 31% |  |
+| 35 | 8% | 20% |  |
+| 36 | 5% | 12% |  |
+| 37 | 4% | 7% |  |
+| 38 | 2% | 3% |  |
+| 39 | 0.9% | 1.5% |  |
+| 40 | 0.4% | 0.6% |  |
+| 41 | 0.1% | 0.2% |  |
+| 42 | 0.1% | 0.1% |  |
+| 43 | 0% | 0% |  |
 
 
