@@ -10,9 +10,9 @@ Last result: **21.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.5% | 22.1–27.0% | 21.5–27.7% | 21.0–28.2% | 20.0–29.4% |
-| [5–8 July 2021](2021-07-08-UniqueResearch.html) | Unique Research <br> profil | 22.0% | N/A | N/A | N/A | N/A |
-| [5–8 July 2021](2021-07-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 23.5% | 20.6–26.5% | 20.0–27.3% | 19.5–27.9% | 18.5–29.1% |
+| [5–8 July 2021](2021-07-08-UniqueResearch.html) | Unique Research <br> profil | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
+| [5–8 July 2021](2021-07-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 23.9% | 22.1–26.0% | 21.6–26.5% | 21.1–27.0% | 20.3–28.0% |
 | [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22.0% | 19.8–24.5% | 19.2–25.2% | 18.7–25.9% | 17.6–27.1% |
@@ -131,21 +131,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 1.1% | 99.8% |  |
-| 20.5–21.5% | 4% | 98.7% | Last Result |
-| 21.5–22.5% | 10% | 95% |  |
-| 22.5–23.5% | 16% | 85% |  |
-| 23.5–24.5% | 20% | 69% |  |
-| 24.5–25.5% | 19% | 49% | Median |
-| 25.5–26.5% | 15% | 30% |  |
-| 26.5–27.5% | 9% | 15% |  |
-| 27.5–28.5% | 4% | 6% |  |
-| 28.5–29.5% | 1.3% | 2% |  |
-| 29.5–30.5% | 0.3% | 0.4% |  |
-| 30.5–31.5% | 0.1% | 0.1% |  |
-| 31.5–32.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.5% | 100% |  |
+| 18.5–19.5% | 2% | 99.5% |  |
+| 19.5–20.5% | 6% | 97% |  |
+| 20.5–21.5% | 11% | 91% | Last Result |
+| 21.5–22.5% | 15% | 79% |  |
+| 22.5–23.5% | 16% | 65% | Median |
+| 23.5–24.5% | 16% | 49% |  |
+| 24.5–25.5% | 14% | 34% |  |
+| 25.5–26.5% | 10% | 20% |  |
+| 26.5–27.5% | 6% | 10% |  |
+| 27.5–28.5% | 3% | 4% |  |
+| 28.5–29.5% | 0.9% | 1.1% |  |
+| 29.5–30.5% | 0.2% | 0.2% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -156,9 +156,9 @@ Last result: **40** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45 | 41–50 | 40–52 | 39–53 | 37–55 |
-| [5–8 July 2021](2021-07-08-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
-| [5–8 July 2021](2021-07-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 43 | 38–49 | 37–51 | 36–52 | 34–54 |
+| [5–8 July 2021](2021-07-08-UniqueResearch.html) | Unique Research <br> profil | 41 | 38–45 | 37–46 | 36–47 | 34–49 |
+| [5–8 July 2021](2021-07-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39 | 36–42 | 35–44 | 34–45 | 33–46 |
 | [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 43 | 40–47 | 39–48 | 38–50 | 37–52 |
 | [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 41 | 37–44 | 36–45 | 35–46 | 34–48 |
 | [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 36–45 | 35–47 | 34–48 | 32–50 |
@@ -279,29 +279,32 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0.1% | 100% |  |
-| 36 | 0.2% | 99.9% |  |
-| 37 | 0.6% | 99.7% |  |
-| 38 | 1.2% | 99.2% |  |
-| 39 | 2% | 98% |  |
-| 40 | 4% | 96% | Last Result |
-| 41 | 6% | 91% |  |
-| 42 | 8% | 86% |  |
-| 43 | 9% | 77% |  |
-| 44 | 10% | 68% |  |
-| 45 | 10% | 58% | Median |
-| 46 | 9% | 47% |  |
-| 47 | 10% | 39% |  |
-| 48 | 8% | 29% |  |
-| 49 | 7% | 21% |  |
-| 50 | 5% | 14% |  |
-| 51 | 3% | 9% |  |
-| 52 | 2% | 6% |  |
-| 53 | 2% | 3% |  |
-| 54 | 0.7% | 1.4% |  |
-| 55 | 0.4% | 0.7% |  |
-| 56 | 0.2% | 0.3% |  |
-| 57 | 0.1% | 0.1% |  |
+| 32 | 0.1% | 100% |  |
+| 33 | 0.2% | 99.9% |  |
+| 34 | 0.4% | 99.8% |  |
+| 35 | 0.9% | 99.4% |  |
+| 36 | 2% | 98% |  |
+| 37 | 3% | 97% |  |
+| 38 | 5% | 94% |  |
+| 39 | 6% | 89% |  |
+| 40 | 7% | 83% | Last Result |
+| 41 | 8% | 76% |  |
+| 42 | 9% | 68% |  |
+| 43 | 9% | 59% | Median |
+| 44 | 9% | 50% |  |
+| 45 | 8% | 41% |  |
+| 46 | 7% | 33% |  |
+| 47 | 7% | 26% |  |
+| 48 | 5% | 20% |  |
+| 49 | 5% | 14% |  |
+| 50 | 4% | 10% |  |
+| 51 | 2% | 6% |  |
+| 52 | 2% | 4% |  |
+| 53 | 1.3% | 2% |  |
+| 54 | 0.5% | 0.9% |  |
+| 55 | 0.3% | 0.5% |  |
+| 56 | 0.2% | 0.2% |  |
+| 57 | 0% | 0.1% |  |
 | 58 | 0% | 0% |  |
 
 
