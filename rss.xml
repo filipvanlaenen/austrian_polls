@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 16 Jul 2021 16:48:45 +0200</pubDate>
+    <pubDate>Mon, 19 Jul 2021 18:56:42 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Research Affairs for PULS, 13–15 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-07-15-ResearchAffairs.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 59–72 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 32–42 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 29–38 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 18–26 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 17–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-07-15-ResearchAffairs-seats.png"
+        length="201349"
+        type="image/png"/>
+      <pubDate>Mon, 19 Jul 2021 18:56:42 +0200</pubDate>
+      <dc:date>2021-07-19T18:56:42.629113+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for PULS, 13–15 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-07-15-ResearchAffairs.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-07-15-ResearchAffairs-coalitions-seats.png"
+        length="299869"
+        type="image/png"/>
+      <pubDate>Mon, 19 Jul 2021 18:56:42 +0200</pubDate>
+      <dc:date>2021-07-19T18:56:42.629113+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for PULS, 13–15 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-07-15-ResearchAffairs.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-07-15-ResearchAffairs.png"
         length="230162"
         type="image/png"/>
-      <pubDate>Fri, 16 Jul 2021 16:48:45 +0200</pubDate>
-      <dc:date>2021-07-16T16:48:45.089285+02:00</dc:date>
+      <pubDate>Mon, 19 Jul 2021 18:56:42 +0200</pubDate>
+      <dc:date>2021-07-19T18:56:42.629113+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Unique Research for profil, 5–8 July 2021 – Voting Intentions</title>
@@ -3089,6 +3109,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-07-16T16:48:45.089285+02:00</dc:date>
+    <dc:date>2021-07-19T18:56:42.629113+02:00</dc:date>
   </channel>
 </rss>
