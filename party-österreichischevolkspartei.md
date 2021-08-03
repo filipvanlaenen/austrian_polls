@@ -23,7 +23,7 @@ Last result: **37.5%** (General Election of 29 September 2019)
 | [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.0% | 31.4–36.8% | 30.6–37.6% | 30.0–38.3% | 28.7–39.6% |
 | [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 34.0% | 31.9–36.2% | 31.3–36.8% | 30.8–37.4% | 29.8–38.4% |
 | [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 33.0% | 30.9–35.1% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
-| [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | N/A | N/A | N/A | N/A |
+| [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 32.0% | 29.9–34.2% | 29.4–34.8% | 28.9–35.3% | 27.9–36.4% |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
 | [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.1% | N/A | N/A | N/A | N/A |
@@ -174,7 +174,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 63 | 58–69 | 56–70 | 55–72 | 53–74 |
 | [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 64 | 60–68 | 59–69 | 58–70 | 56–72 |
 | [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 62 | 58–66 | 57–67 | 56–68 | 54–70 |
-| [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 64 | 61–68 | 60–69 | 59–70 | 57–72 |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 59 | 55–63 | 54–64 | 53–65 | 51–67 |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 62 | 58–66 | 57–67 | 56–68 | 54–70 |
 | [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
