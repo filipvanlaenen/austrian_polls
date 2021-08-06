@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Tue, 03 Aug 2021 08:26:53 +0200</pubDate>
+    <pubDate>Fri, 06 Aug 2021 08:05:22 +0200</pubDate>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 20–22 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-07-22-ResearchAffairs.html</link>
@@ -178,6 +178,16 @@
         type="image/png"/>
       <pubDate>Sat, 03 Jul 2021 14:55:53 +0200</pubDate>
       <dc:date>2021-07-03T14:55:53.528125+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 8–10 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-06-10-ResearchAffairs.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 31.0–39.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 19.4–26.8%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 11.2–17.3%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.4–15.1%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.4–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-06-10-ResearchAffairs.png"
+        length="245417"
+        type="image/png"/>
+      <pubDate>Fri, 06 Aug 2021 08:05:22 +0200</pubDate>
+      <dc:date>2021-08-06T08:05:22.572745+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 8–10 June 2021 – Voting Intentions</title>
@@ -3139,6 +3149,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-08-03T08:26:53.392796+02:00</dc:date>
+    <dc:date>2021-08-06T08:05:22.572745+02:00</dc:date>
   </channel>
 </rss>
