@@ -26,7 +26,7 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 11.0% | 9.6–12.5% | 9.3–12.9% | 9.0–13.3% | 8.4–14.1% |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
-| [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.0% | N/A | N/A | N/A | N/A |
+| [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 12.0% | 10.3–14.0% | 9.8–14.6% | 9.4–15.1% | 8.6–16.1% |
 | [8–10 June 2021](2021-06-10-Market.html) | Market <br> Der Standard | 13.0% | 11.6–14.6% | 11.2–15.0% | 10.9–15.4% | 10.2–16.2% |
 | [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.1% | 9.4–13.0% | 9.0–13.6% | 8.6–14.1% | 7.9–15.1% |
 | [24–30 May 2021](2021-05-30-Market.html) | Market | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -172,7 +172,7 @@ Last result: **26** seats (General Election of 29 September 2019)
 | [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22 | 19–24 | 19–25 | 18–26 | 17–27 |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 20 | 17–23 | 17–24 | 16–24 | 15–26 |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
-| [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 18–25 | 18–26 | 17–27 | 15–29 |
 | [8–10 June 2021](2021-06-10-Market.html) | Market <br> Der Standard | 24 | 21–27 | 20–28 | 20–28 | 19–30 |
 | [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 21 | 17–24 | 17–25 | 16–26 | 14–28 |
 | [24–30 May 2021](2021-05-30-Market.html) | Market | 18 | 16–21 | 16–22 | 15–22 | 14–23 |

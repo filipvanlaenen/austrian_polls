@@ -26,7 +26,7 @@ Last result: **37.5%** (General Election of 29 September 2019)
 | [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 32.0% | 29.9–34.2% | 29.4–34.8% | 28.9–35.3% | 27.9–36.4% |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 33.0% | 30.9–35.2% | 30.3–35.8% | 29.8–36.3% | 28.8–37.4% |
-| [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.1% | N/A | N/A | N/A | N/A |
+| [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.1% | 32.4–37.9% | 31.7–38.7% | 31.0–39.3% | 29.8–40.7% |
 | [8–10 June 2021](2021-06-10-Market.html) | Market <br> Der Standard | 32.0% | 30.0–34.1% | 29.4–34.7% | 28.9–35.2% | 28.0–36.2% |
 | [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 32.3–37.8% | 31.6–38.6% | 30.9–39.2% | 29.7–40.6% |
 | [24–30 May 2021](2021-05-30-Market.html) | Market | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
@@ -177,7 +177,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 64 | 61–68 | 60–69 | 59–70 | 57–72 |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 59 | 55–63 | 54–64 | 53–65 | 51–67 |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 62 | 58–66 | 57–67 | 56–68 | 54–70 |
-| [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [8–10 June 2021](2021-06-10-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 60–70 | 58–72 | 57–73 | 55–76 |
 | [8–10 June 2021](2021-06-10-Market.html) | Market <br> Der Standard | 59 | 55–63 | 54–64 | 54–65 | 52–67 |
 | [31 May–2 June 2021](2021-06-02-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 61–69 | 60–72 | 58–74 | 56–77 |
 | [24–30 May 2021](2021-05-30-Market.html) | Market | 54 | 51–58 | 50–59 | 49–60 | 48–61 |
