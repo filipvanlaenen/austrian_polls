@@ -158,8 +158,8 @@ Last result: **31** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33 | 29–37 | 29–38 | 28–39 | 26–41 |
-| [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33 | 29–38 | 28–39 | 27–40 | 26–43 |
+| N/A | [Poll Average](average.html) | 33 | 30–37 | 29–38 | 28–39 | 26–41 |
+| [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33 | 29–38 | 28–39 | 27–40 | 26–42 |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 35 | 32–38 | 31–39 | 30–40 | 29–42 |
 | [13–15 July 2021](2021-07-15-ResearchAffairs.html) | Research Affairs <br> PULS | 33 | 30–37 | 30–38 | 29–38 | 28–40 |
 | [5–8 July 2021](2021-07-08-UniqueResearch.html) | Unique Research <br> profil | 32 | 29–35 | 28–36 | 27–37 | 26–39 |
@@ -167,10 +167,10 @@ Last result: **31** seats (General Election of 29 September 2019)
 | [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 32 | 29–36 | 29–37 | 28–38 | 27–40 |
 | [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 31 | 28–35 | 27–36 | 27–36 | 25–38 |
 | [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 25–33 | 25–34 | 24–36 | 22–38 |
-| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 32 | 29–35 | 28–36 | 27–37 | 26–38 |
+| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 32 | 28–35 | 28–36 | 27–37 | 26–38 |
 | [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 29 | 26–34 | 25–35 | 24–36 | 22–38 |
 | [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 34 | 30–37 | 29–38 | 29–39 | 27–40 |
-| [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 34 | 30–37 | 29–38 | 29–39 | 27–41 |
+| [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 34 | 30–37 | 29–38 | 29–39 | 27–40 |
 | [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 27 | 25–30 | 24–31 | 23–32 | 22–33 |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 33 | 30–37 | 29–38 | 28–38 | 27–40 |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 34 | 30–37 | 29–38 | 29–39 | 27–40 |
@@ -294,10 +294,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 11% | 82% | Last Result |
 | 32 | 13% | 72% |  |
 | 33 | 13% | 59% | Median |
-| 34 | 13% | 46% |  |
+| 34 | 13% | 45% |  |
 | 35 | 11% | 33% |  |
 | 36 | 8% | 22% |  |
-| 37 | 6% | 14% |  |
+| 37 | 6% | 13% |  |
 | 38 | 4% | 8% |  |
 | 39 | 2% | 4% |  |
 | 40 | 1.0% | 2% |  |

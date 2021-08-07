@@ -164,10 +164,10 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 22 | 19–25 | 19–25 | 18–27 | 17–28 |
 | [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 22 | 19–25 | 19–26 | 18–26 | 17–28 |
 | [28 June–1 July 2021](2021-07-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22 | 19–26 | 18–27 | 17–28 | 16–30 |
-| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–24 | 17–25 | 16–26 |
+| [29–30 June 2021](2021-06-30-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–24 | 16–25 | 15–26 |
 | [22–24 June 2021](2021-06-24-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
 | [21–24 June 2021](2021-06-24-PeterHajek.html) | Peter Hajek | 22 | 20–25 | 19–26 | 18–27 | 17–28 |
-| [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 21 | 18–22 | 17–23 | 17–25 | 17–26 |
+| [22–24 June 2021](2021-06-24-OGM.html) | OGM <br> KURIER | 21 | 17–22 | 17–23 | 17–25 | 17–26 |
 | [15–17 June 2021](2021-06-17-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 18–22 | 17–23 | 17–24 | 16–25 |
 | [10–15 June 2021](2021-06-15-IFDD.html) | IFDD <br> PULS 24 | 20 | 18–23 | 17–23 | 16–25 | 16–25 |
 | [7–10 June 2021](2021-06-10-UniqueResearch.html) | Unique Research <br> profil | 20 | 18–23 | 17–24 | 16–25 | 15–26 |
@@ -283,15 +283,15 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.2% | 100% |  |
 | 15 | 0.5% | 99.8% | Last Result |
-| 16 | 1.0% | 99.3% |  |
+| 16 | 1.1% | 99.3% |  |
 | 17 | 4% | 98% |  |
-| 18 | 8% | 94% |  |
-| 19 | 8% | 86% |  |
+| 18 | 9% | 94% |  |
+| 19 | 7% | 85% |  |
 | 20 | 11% | 78% |  |
-| 21 | 21% | 67% | Median |
-| 22 | 17% | 46% |  |
-| 23 | 10% | 30% |  |
-| 24 | 11% | 20% |  |
+| 21 | 21% | 66% | Median |
+| 22 | 16% | 46% |  |
+| 23 | 11% | 30% |  |
+| 24 | 11% | 19% |  |
 | 25 | 4% | 9% |  |
 | 26 | 2% | 5% |  |
 | 27 | 2% | 2% |  |

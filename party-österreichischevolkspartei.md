@@ -161,11 +161,11 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 63 | 58–68 | 56–69 | 55–71 | 52–74 |
-| [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 59–70 | 58–71 | 57–74 | 55–77 |
+| N/A | [Poll Average](average.html) | 63 | 57–68 | 56–69 | 55–71 | 52–73 |
+| [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 60–70 | 58–72 | 57–73 | 54–76 |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 65 | 61–69 | 60–70 | 59–71 | 57–73 |
 | [13–15 July 2021](2021-07-15-ResearchAffairs.html) | Research Affairs <br> PULS | 65 | 61–70 | 60–71 | 59–72 | 58–74 |
-| [5–8 July 2021](2021-07-08-UniqueResearch.html) | Unique Research <br> profil | 64 | 60–68 | 59–70 | 58–70 | 56–72 |
+| [5–8 July 2021](2021-07-08-UniqueResearch.html) | Unique Research <br> profil | 64 | 60–68 | 59–69 | 58–71 | 56–73 |
 | [5–8 July 2021](2021-07-08-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 61–70 | 60–71 | 59–72 | 58–74 |
 | [28 June–2 July 2021](2021-07-02-IFDD.html) | IFDD <br> PULS 24 | 62 | 58–66 | 57–67 | 55–68 | 53–70 |
 | [28 June–1 July 2021](2021-07-01-UniqueResearch.html) | Unique Research <br> Heute | 65 | 61–69 | 60–70 | 59–71 | 57–73 |
@@ -290,18 +290,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 0.1% | 100% |  |
 | 51 | 0.2% | 99.9% |  |
 | 52 | 0.3% | 99.8% |  |
-| 53 | 0.7% | 99.4% |  |
-| 54 | 1.0% | 98.7% |  |
+| 53 | 0.6% | 99.4% |  |
+| 54 | 1.1% | 98.8% |  |
 | 55 | 2% | 98% |  |
-| 56 | 3% | 96% |  |
-| 57 | 4% | 94% |  |
+| 56 | 2% | 96% |  |
+| 57 | 3% | 93% |  |
 | 58 | 5% | 90% |  |
 | 59 | 6% | 85% |  |
 | 60 | 7% | 79% |  |
 | 61 | 8% | 72% |  |
-| 62 | 8% | 64% |  |
+| 62 | 9% | 64% |  |
 | 63 | 10% | 55% | Median |
-| 64 | 10% | 46% |  |
+| 64 | 10% | 45% |  |
 | 65 | 9% | 36% |  |
 | 66 | 8% | 27% |  |
 | 67 | 6% | 19% |  |
@@ -309,12 +309,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 69 | 3% | 8% |  |
 | 70 | 2% | 5% |  |
 | 71 | 1.3% | 3% | Last Result |
-| 72 | 0.6% | 1.5% |  |
+| 72 | 0.7% | 2% |  |
 | 73 | 0.4% | 0.9% |  |
 | 74 | 0.2% | 0.5% |  |
 | 75 | 0.1% | 0.3% |  |
-| 76 | 0.1% | 0.2% |  |
-| 77 | 0.1% | 0.1% |  |
+| 76 | 0.1% | 0.1% |  |
+| 77 | 0% | 0.1% |  |
 | 78 | 0% | 0% |  |
 
 
