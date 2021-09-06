@@ -5,6 +5,14 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 58–74 | 19–26% <br> 34–48 | 16–23% <br> 29–42 | 8–13% <br> 14–24 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30–38% <br> 55–71 | 18–25% <br> 33–46 | 16–23% <br> 29–42 | 8–13% <br> 14–24 | 9–15% <br> 17–28 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30–38% <br> 55–71 | 18–25% <br> 32–46 | 16–23% <br> 29–42 | 8–14% <br> 15–26 | 8–14% <br> 15–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 30–38% <br> 55–71 | 18–25% <br> 32–45 | 15–22% <br> 27–40 | 8–13% <br> 14–24 | 9–15% <br> 17–28 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 28–34% <br> 52–64 | 22–28% <br> 41–53 | 16–21% <br> 29–38 | 11–16% <br> 20–29 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 32–38% <br> 60–72 | 18–24% <br> 34–45 | 16–22% <br> 30–41 | 10–14% <br> 18–27 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> N/A | 18–25% <br> N/A | 14–21% <br> N/A | 9–14% <br> N/A | 9–15% <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 57–73 | 17–24% <br> 31–44 | 15–22% <br> 27–40 | 9–15% <br> 17–28 | 8–14% <br> 15–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 32–38% <br> 59–71 | 19–25% <br> 35–46 | 16–22% <br> 30–40 | 9–13% <br> 16–24 | 10–14% <br> 18–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–15 July 2021](2021-07-15-ResearchAffairs.html) | Research Affairs <br> PULS | 32–38% <br> 59–72 | 18–23% <br> 32–42 | 16–21% <br> 29–38 | 9–13% <br> 17–24 | 10–14% <br> 18–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
