@@ -18,7 +18,7 @@ Last result: **37.5%** (General Election of 29 September 2019)
 | [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 31.1% | 29.0–33.2% | 28.4–33.8% | 28.0–34.3% | 27.0–35.4% |
 | [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
 | [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35.0% | 32.3–37.8% | 31.6–38.6% | 30.9–39.3% | 29.7–40.6% |
-| [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.9% | N/A | N/A | N/A | N/A |
+| [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.9% | 32.3–37.7% | 31.5–38.5% | 30.9–39.2% | 29.6–40.5% |
 | [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 34.9% | 32.3–37.7% | 31.5–38.5% | 30.9–39.2% | 29.6–40.5% |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 35.0% | 32.9–37.2% | 32.3–37.8% | 31.8–38.4% | 30.8–39.4% |
 | [13–15 July 2021](2021-07-15-ResearchAffairs.html) | Research Affairs <br> PULS | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
@@ -177,7 +177,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 58 | 54–62 | 53–63 | 52–64 | 50–66 |
 | [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 65 | 61–70 | 60–71 | 60–72 | 57–74 |
 | [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
-| [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 60–70 | 58–72 | 57–73 | 54–76 |
 | [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 65 | 60–70 | 58–72 | 57–73 | 54–76 |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 65 | 61–69 | 60–70 | 59–71 | 57–73 |
 | [13–15 July 2021](2021-07-15-ResearchAffairs.html) | Research Affairs <br> PULS | 65 | 61–70 | 60–71 | 59–72 | 58–74 |
