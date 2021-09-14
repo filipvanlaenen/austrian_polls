@@ -17,7 +17,7 @@ Last result: **16.2%** (General Election of 29 September 2019)
 | [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18.0% | 15.9–20.3% | 15.4–21.0% | 14.9–21.6% | 13.9–22.7% |
 | [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 18.0% | 16.4–19.8% | 15.9–20.4% | 15.5–20.8% | 14.8–21.7% |
 | [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
-| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.0% | 15.0–19.3% | 14.4–20.0% | 13.9–20.6% | 13.0–21.7% |
+| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.0% | 15.0–19.3% | 14.4–20.0% | 14.0–20.5% | 13.0–21.7% |
 | [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 17.1% | 15.1–19.4% | 14.5–20.0% | 14.0–20.6% | 13.1–21.7% |
 | [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18.1% | 16.0–20.4% | 15.4–21.1% | 14.9–21.7% | 14.0–22.8% |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
@@ -172,7 +172,7 @@ Last result: **31** seats (General Election of 29 September 2019)
 | [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33 | 29–37 | 28–39 | 27–40 | 25–42 |
 | [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 33 | 30–37 | 29–38 | 29–38 | 27–40 |
 | [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 36 | 33–39 | 31–40 | 30–41 | 29–42 |
-| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 27–36 | 26–37 | 26–38 | 24–40 |
 | [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 28–36 | 26–37 | 26–38 | 24–40 |
 | [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33 | 29–38 | 28–39 | 27–40 | 26–42 |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 35 | 32–38 | 31–39 | 30–40 | 29–42 |

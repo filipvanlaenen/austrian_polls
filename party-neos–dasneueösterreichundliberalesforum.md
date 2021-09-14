@@ -170,7 +170,7 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22 | 19–26 | 18–27 | 17–28 | 16–30 |
 | [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 21 | 18–23 | 17–24 | 17–25 | 15–26 |
 | [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 20 | 18–23 | 17–24 | 17–25 | 15–26 |
-| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22 | 19–26 | 18–27 | 17–28 | 16–30 |
 | [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 23 | 18–25 | 18–25 | 18–28 | 17–30 |
 | [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 22 | 19–25 | 19–26 | 18–26 | 17–28 |
