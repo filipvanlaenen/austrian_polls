@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 29–38% <br> 54–72 | 19–27% <br> 35–50 | 16–22% <br> 29–41 | 8–15% <br> 16–27 | 9–14% <br> 17–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 58–74 | 19–26% <br> 34–48 | 16–23% <br> 29–42 | 8–13% <br> 14–24 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31–39% <br> 58–74 | 19–26% <br> 35–48 | 16–23% <br> 29–42 | 8–13% <br> 14–24 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 28–34% <br> 52–64 | 22–28% <br> 41–53 | 16–21% <br> 29–38 | 11–16% <br> 20–29 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 32–38% <br> 60–72 | 18–24% <br> 34–45 | 16–22% <br> 30–41 | 10–14% <br> 18–27 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 32–38% <br> 59–71 | 19–25% <br> 35–46 | 16–22% <br> 30–40 | 9–13% <br> 16–24 | 10–14% <br> 18–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
