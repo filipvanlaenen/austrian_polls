@@ -167,12 +167,12 @@ Last result: **40** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42 | 37–47 | 36–49 | 35–50 | 33–53 |
+| N/A | [Poll Average](average.html) | 42 | 37–47 | 36–49 | 35–50 | 33–52 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 41 | 37–46 | 36–47 | 35–48 | 33–51 |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39 | 35–44 | 33–45 | 33–46 | 31–49 |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39 | 34–44 | 33–45 | 32–46 | 31–49 |
 | [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 38 | 34–43 | 33–44 | 32–45 | 30–48 |
-| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 47 | 43–50 | 42–52 | 41–53 | 39–54 |
+| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 47 | 43–50 | 42–51 | 41–52 | 39–54 |
 | [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 39 | 36–43 | 35–44 | 34–45 | 33–46 |
 | [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 39 | 35–44 | 33–45 | 32–46 | 31–49 |
 | [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 37 | 33–42 | 32–43 | 31–44 | 29–46 |
@@ -304,24 +304,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 0% | 100% |  |
 | 32 | 0.1% | 99.9% |  |
 | 33 | 0.4% | 99.8% |  |
-| 34 | 1.0% | 99.4% |  |
-| 35 | 2% | 98% |  |
+| 34 | 0.9% | 99.4% |  |
+| 35 | 2% | 98.5% |  |
 | 36 | 3% | 97% |  |
 | 37 | 5% | 94% |  |
 | 38 | 7% | 89% |  |
 | 39 | 8% | 82% |  |
-| 40 | 10% | 74% | Last Result |
-| 41 | 10% | 64% |  |
+| 40 | 9% | 74% | Last Result |
+| 41 | 10% | 65% |  |
 | 42 | 10% | 54% | Median |
 | 43 | 9% | 44% |  |
 | 44 | 8% | 35% |  |
 | 45 | 7% | 27% |  |
 | 46 | 6% | 20% |  |
 | 47 | 5% | 14% |  |
-| 48 | 3% | 9% |  |
-| 49 | 3% | 6% |  |
+| 48 | 3% | 10% |  |
+| 49 | 2% | 6% |  |
 | 50 | 2% | 4% |  |
-| 51 | 0.9% | 2% |  |
+| 51 | 1.0% | 2% |  |
 | 52 | 0.6% | 1.1% |  |
 | 53 | 0.3% | 0.5% |  |
 | 54 | 0.1% | 0.2% |  |

@@ -170,8 +170,8 @@ Last result: **31** seats (General Election of 29 September 2019)
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35 | 31–40 | 30–41 | 29–42 | 27–45 |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35 | 31–40 | 30–41 | 29–42 | 27–44 |
 | [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33 | 29–37 | 28–39 | 27–40 | 25–42 |
-| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 33 | 30–37 | 29–38 | 29–38 | 27–40 |
-| [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 36 | 33–39 | 31–40 | 30–41 | 29–42 |
+| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 34 | 30–37 | 29–38 | 29–39 | 27–40 |
+| [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 35 | 32–39 | 31–40 | 30–41 | 29–42 |
 | [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 27–36 | 26–37 | 26–38 | 24–40 |
 | [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 31 | 28–36 | 26–37 | 26–38 | 24–40 |
 | [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 33 | 29–38 | 28–39 | 27–40 | 26–42 |
@@ -301,22 +301,22 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 26 | 0.1% | 100% |  |
 | 27 | 0.3% | 99.9% |  |
-| 28 | 0.7% | 99.6% |  |
-| 29 | 2% | 98.9% |  |
-| 30 | 3% | 97% |  |
-| 31 | 7% | 93% | Last Result |
-| 32 | 8% | 86% |  |
-| 33 | 12% | 78% |  |
-| 34 | 14% | 66% |  |
-| 35 | 12% | 51% | Median |
-| 36 | 13% | 39% |  |
-| 37 | 10% | 26% |  |
+| 28 | 0.8% | 99.6% |  |
+| 29 | 2% | 98.8% |  |
+| 30 | 4% | 97% |  |
+| 31 | 6% | 93% | Last Result |
+| 32 | 10% | 87% |  |
+| 33 | 12% | 77% |  |
+| 34 | 14% | 65% |  |
+| 35 | 14% | 51% | Median |
+| 36 | 12% | 37% |  |
+| 37 | 9% | 26% |  |
 | 38 | 7% | 16% |  |
 | 39 | 4% | 10% |  |
-| 40 | 2% | 5% |  |
+| 40 | 3% | 5% |  |
 | 41 | 1.3% | 3% |  |
-| 42 | 0.8% | 1.4% |  |
-| 43 | 0.3% | 0.6% |  |
+| 42 | 0.7% | 1.4% |  |
+| 43 | 0.4% | 0.6% |  |
 | 44 | 0.2% | 0.3% |  |
 | 45 | 0.1% | 0.1% |  |
 | 46 | 0% | 0.1% |  |
