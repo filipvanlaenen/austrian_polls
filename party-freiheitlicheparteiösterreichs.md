@@ -169,8 +169,8 @@ Last result: **31** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 27–38 | 26–39 | 25–40 | 22–42 |
-| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28 | 25–32 | 23–34 | 23–34 | 21–37 |
+| N/A | [Poll Average](average.html) | 34 | 27–38 | 26–39 | 24–40 | 22–42 |
+| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28 | 24–32 | 23–34 | 23–35 | 21–37 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 36 | 31–40 | 30–41 | 29–42 | 27–45 |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35 | 31–40 | 30–41 | 29–42 | 27–45 |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 35 | 31–40 | 30–41 | 29–42 | 27–44 |
@@ -305,18 +305,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 99.9% |  |
-| 22 | 0.3% | 99.8% |  |
-| 23 | 0.9% | 99.5% |  |
-| 24 | 1.0% | 98.6% |  |
-| 25 | 1.5% | 98% |  |
-| 26 | 4% | 96% |  |
-| 27 | 2% | 92% |  |
-| 28 | 3% | 89% |  |
-| 29 | 6% | 86% |  |
+| 21 | 0.2% | 99.9% |  |
+| 22 | 0.4% | 99.8% |  |
+| 23 | 0.7% | 99.4% |  |
+| 24 | 1.2% | 98.7% |  |
+| 25 | 2% | 97% |  |
+| 26 | 3% | 95% |  |
+| 27 | 3% | 92% |  |
+| 28 | 4% | 90% |  |
+| 29 | 5% | 86% |  |
 | 30 | 5% | 81% |  |
 | 31 | 6% | 76% | Last Result |
-| 32 | 8% | 70% |  |
+| 32 | 9% | 70% |  |
 | 33 | 10% | 62% |  |
 | 34 | 12% | 52% | Median |
 | 35 | 11% | 40% |  |

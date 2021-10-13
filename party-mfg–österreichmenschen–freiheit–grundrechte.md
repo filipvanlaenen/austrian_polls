@@ -164,8 +164,8 @@ Last result: **0** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 0–11 | 0–12 | 0–14 | 0–14 |
-| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 0–11 | 0–12 | 0–14 | 0–14 |
+| N/A | [Poll Average](average.html) | 9 | 0–12 | 0–12 | 0–13 | 0–15 |
+| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 9 | 0–12 | 0–12 | 0–13 | 0–15 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
@@ -299,24 +299,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 0% | 89% |  |
-| 2 | 0% | 89% |  |
-| 3 | 0% | 89% |  |
-| 4 | 0% | 89% |  |
-| 5 | 0% | 89% |  |
-| 6 | 0% | 89% |  |
-| 7 | 1.2% | 89% |  |
-| 8 | 28% | 88% |  |
-| 9 | 27% | 59% | Median |
-| 10 | 8% | 32% |  |
-| 11 | 15% | 25% |  |
-| 12 | 6% | 10% |  |
-| 13 | 1.2% | 4% |  |
-| 14 | 2% | 3% |  |
-| 15 | 0.2% | 0.4% |  |
+| 0 | 13% | 100% | Last Result |
+| 1 | 0% | 87% |  |
+| 2 | 0% | 87% |  |
+| 3 | 0% | 87% |  |
+| 4 | 0% | 87% |  |
+| 5 | 0% | 87% |  |
+| 6 | 0% | 87% |  |
+| 7 | 5% | 87% |  |
+| 8 | 20% | 82% |  |
+| 9 | 20% | 62% | Median |
+| 10 | 18% | 42% |  |
+| 11 | 12% | 23% |  |
+| 12 | 7% | 11% |  |
+| 13 | 3% | 5% |  |
+| 14 | 1.4% | 2% |  |
+| 15 | 0.4% | 0.6% |  |
 | 16 | 0.1% | 0.2% |  |
-| 17 | 0.1% | 0.1% |  |
-| 18 | 0% | 0% |  |
+| 17 | 0% | 0% |  |
 
 

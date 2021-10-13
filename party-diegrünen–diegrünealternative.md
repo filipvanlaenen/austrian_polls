@@ -166,8 +166,8 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–25 | 17–26 | 15–27 | 14–29 |
-| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 15–22 | 15–24 | 14–24 | 13–27 |
+| N/A | [Poll Average](average.html) | 21 | 17–25 | 16–26 | 16–27 | 14–29 |
+| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 16–22 | 15–23 | 14–24 | 13–26 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 15–22 | 15–23 | 14–24 | 13–26 |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 15–22 | 15–23 | 14–24 | 13–26 |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
@@ -302,16 +302,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
-| 13 | 0.1% | 99.9% |  |
-| 14 | 0.9% | 99.8% |  |
-| 15 | 2% | 99.0% |  |
-| 16 | 1.5% | 97% |  |
-| 17 | 5% | 96% |  |
-| 18 | 8% | 91% |  |
-| 19 | 9% | 83% |  |
+| 13 | 0.2% | 99.9% |  |
+| 14 | 0.5% | 99.7% |  |
+| 15 | 2% | 99.2% |  |
+| 16 | 3% | 98% |  |
+| 17 | 5% | 95% |  |
+| 18 | 7% | 90% |  |
+| 19 | 10% | 83% |  |
 | 20 | 12% | 73% |  |
-| 21 | 14% | 62% | Median |
-| 22 | 12% | 48% |  |
+| 21 | 13% | 62% | Median |
+| 22 | 13% | 49% |  |
 | 23 | 11% | 36% |  |
 | 24 | 9% | 25% |  |
 | 25 | 7% | 16% |  |

@@ -162,8 +162,8 @@ Last result: **0** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–9 | 0–10 | 0–11 | 0–12 |
-| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 0 | 0–9 | 0–10 | 0–11 | 0–12 |
+| N/A | [Poll Average](average.html) | 7 | 0–9 | 0–10 | 0–11 | 0–12 |
+| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 7 | 0–9 | 0–10 | 0–11 | 0–12 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
@@ -297,21 +297,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Last Result, Median |
-| 1 | 0% | 49% |  |
-| 2 | 0% | 49% |  |
-| 3 | 0% | 49% |  |
-| 4 | 0% | 49% |  |
-| 5 | 0% | 49% |  |
-| 6 | 0% | 49% |  |
-| 7 | 13% | 49% |  |
-| 8 | 12% | 36% |  |
-| 9 | 14% | 24% |  |
-| 10 | 5% | 9% |  |
-| 11 | 3% | 4% |  |
-| 12 | 1.2% | 2% |  |
+| 0 | 48% | 100% | Last Result |
+| 1 | 0% | 52% |  |
+| 2 | 0% | 52% |  |
+| 3 | 0% | 52% |  |
+| 4 | 0% | 52% |  |
+| 5 | 0% | 52% |  |
+| 6 | 0% | 52% |  |
+| 7 | 10% | 52% | Median |
+| 8 | 20% | 42% |  |
+| 9 | 13% | 22% |  |
+| 10 | 6% | 9% |  |
+| 11 | 2% | 3% |  |
+| 12 | 0.9% | 1.2% |  |
 | 13 | 0.2% | 0.3% |  |
-| 14 | 0% | 0.1% |  |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 
