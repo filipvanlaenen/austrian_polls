@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Wed, 13 Oct 2021 18:28:08 +0200</pubDate>
+    <pubDate>Fri, 15 Oct 2021 07:44:05 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 11–12 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 24.0–30.2%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 22.1–28.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.3–24.0%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 10.8–15.5%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.0–13.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market.png"
+        length="237403"
+        type="image/png"/>
+      <pubDate>Fri, 15 Oct 2021 07:38:05 +0200</pubDate>
+      <dc:date>2021-10-15T07:38:05.56466+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IFDD, 7–11 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-11-IFDD.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 23.9–28.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 22.9–27.3%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 19.0–23.1%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.5–12.7%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.5–12.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-11-IFDD.png"
+        length="219931"
+        type="image/png"/>
+      <pubDate>Fri, 15 Oct 2021 07:44:05 +0200</pubDate>
+      <dc:date>2021-10-15T07:44:05.185722+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 28–30 September 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-09-30-ResearchAffairs.html#seats</link>
@@ -3439,6 +3459,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-10-13T18:28:08.267266+02:00</dc:date>
+    <dc:date>2021-10-15T07:44:05.185722+02:00</dc:date>
   </channel>
 </rss>
