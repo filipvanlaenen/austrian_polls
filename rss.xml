@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Fri, 15 Oct 2021 07:44:05 +0200</pubDate>
+    <pubDate>Wed, 20 Oct 2021 07:03:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 23.5–28.6%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 21.6–26.6%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 18.8–23.5%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 10.2–14.0%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 10.2–14.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.png"
+        length="227442"
+        type="image/png"/>
+      <pubDate>Wed, 20 Oct 2021 07:03:43 +0200</pubDate>
+      <dc:date>2021-10-20T07:03:43.847517+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 11–12 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market.html</link>
@@ -3459,6 +3469,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-10-15T07:44:05.185722+02:00</dc:date>
+    <dc:date>2021-10-20T07:03:43.847517+02:00</dc:date>
   </channel>
 </rss>
