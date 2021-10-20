@@ -6,6 +6,14 @@
     <description>All Registered Polls for the Nationalrat</description>
     <pubDate>Sat, 25 Jul 2020 17:44:10 +0200</pubDate>
     <item>
+      <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.html</link>
+      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by OGM for KURIER, 12–15 October 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.png" length="227442" type="image/png"/>
+      <pubDate>Wed, 20 Oct 2021 07:03:43 +0200</pubDate>
+      <dc:date>2021-10-20T07:03:43.847517+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Market for Der Standard, 11–12 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market.html</link>
       <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Market for Der Standard, 11–12 October 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market.png"/>]]></description>
@@ -116,38 +124,6 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-08-11-Market.png" length="234990" type="image/png"/>
       <pubDate>Sun, 3 Oct 2021 14:11:01 +0200</pubDate>
       <dc:date>2021-10-03T14:11:01.227593+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Affairs for ÖSTERREICH, 3–5 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-08-05-ResearchAffairs.html</link>
-      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Research Affairs for ÖSTERREICH, 3–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-08-05-ResearchAffairs.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-08-05-ResearchAffairs.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-08-05-ResearchAffairs.png" length="247820" type="image/png"/>
-      <pubDate>Mon, 13 Sep 2021 07:50:41 +0200</pubDate>
-      <dc:date>2021-09-13T07:50:41.37313+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 2–5 August 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Unique Research for profil, 2–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch-seating-plan.png" length="614709" type="image/png"/>
-      <pubDate>Sun, 3 Oct 2021 14:33:58 +0200</pubDate>
-      <dc:date>2021-10-03T14:33:58.301862+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 2–5 August 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the Nationalrat<br/>92 seats needed for a majority<br/>Opinion poll by Unique Research for profil, 2–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch-seats.png" length="203926" type="image/png"/>
-      <pubDate>Sun, 3 Oct 2021 14:33:58 +0200</pubDate>
-      <dc:date>2021-10-03T14:33:58.301862+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Unique Research for profil, 2–5 August 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch.html</link>
-      <description><![CDATA[Voting intentions for the Nationalrat<br/>Opinion poll by Unique Research for profil, 2–5 August 2021<br/>Details on https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch.html<br/><img src="https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-08-05-UniqueResearch.png" length="236256" type="image/png"/>
-      <pubDate>Sun, 3 Oct 2021 14:33:58 +0200</pubDate>
-      <dc:date>2021-10-03T14:33:58.301862+02:00</dc:date>
     </item>
   </channel>
 </rss>
