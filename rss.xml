@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Wed, 20 Oct 2021 07:03:43 +0200</pubDate>
+    <pubDate>Thu, 28 Oct 2021 20:17:49 +0200</pubDate>
     <item>
       <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.html</link>
@@ -68,6 +68,16 @@
         type="image/png"/>
       <pubDate>Wed, 13 Oct 2021 18:28:08 +0200</pubDate>
       <dc:date>2021-10-13T18:28:08.267266+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 7–9 September 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-09-09-OGM.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 30.8–37.3%&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 21.2–27.1%&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 15.5–20.9%&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 9.0–13.3%&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 9.9–14.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-09-09-OGM.png"
+        length="233973"
+        type="image/png"/>
+      <pubDate>Thu, 28 Oct 2021 20:17:49 +0200</pubDate>
+      <dc:date>2021-10-28T20:17:49.82443+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 30 August–1 September 2021 – Seat Projections for the Parties</title>
@@ -3469,6 +3479,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-10-20T07:03:43.847517+02:00</dc:date>
+    <dc:date>2021-10-28T20:17:49.82443+02:00</dc:date>
   </channel>
 </rss>
