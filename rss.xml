@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Nationalrat</title>
     <link>https://filipvanlaenen.github.io/austrian_polls</link>
     <description>All Registered Polls for the Nationalrat</description>
-    <pubDate>Thu, 28 Oct 2021 20:17:49 +0200</pubDate>
+    <pubDate>Mon, 01 Nov 2021 17:04:10 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 43–53 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 40–49 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 34–43 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 18–26 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 19–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM-seats.png"
+        length="198431"
+        type="image/png"/>
+      <pubDate>Mon, 01 Nov 2021 17:04:10 +0100</pubDate>
+      <dc:date>2021-11-01T17:04:10.29675+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM-coalitions-seats.png"
+        length="282671"
+        type="image/png"/>
+      <pubDate>Mon, 01 Nov 2021 17:04:10 +0100</pubDate>
+      <dc:date>2021-11-01T17:04:10.29675+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by OGM for KURIER, 12–15 October 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-15-OGM.png"
         length="227442"
         type="image/png"/>
-      <pubDate>Wed, 20 Oct 2021 07:03:43 +0200</pubDate>
-      <dc:date>2021-10-20T07:03:43.847517+02:00</dc:date>
+      <pubDate>Mon, 01 Nov 2021 17:04:10 +0100</pubDate>
+      <dc:date>2021-11-01T17:04:10.29675+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 11–12 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 45–57 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 41–53 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 34–45 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 20–29 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 17–25 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market-seats.png"
+        length="204613"
+        type="image/png"/>
+      <pubDate>Sat, 30 Oct 2021 20:02:34 +0200</pubDate>
+      <dc:date>2021-10-30T20:02:34.905561+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Market for Der Standard, 11–12 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market-coalitions-seats.png"
+        length="303382"
+        type="image/png"/>
+      <pubDate>Sat, 30 Oct 2021 20:02:34 +0200</pubDate>
+      <dc:date>2021-10-30T20:02:34.905561+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Market for Der Standard, 11–12 October 2021 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-12-Market.png"
         length="237403"
         type="image/png"/>
-      <pubDate>Fri, 15 Oct 2021 07:38:05 +0200</pubDate>
-      <dc:date>2021-10-15T07:38:05.56466+02:00</dc:date>
+      <pubDate>Sat, 30 Oct 2021 20:02:34 +0200</pubDate>
+      <dc:date>2021-10-30T20:02:34.905561+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IFDD, 7–11 October 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-11-IFDD.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Österreichische Volkspartei: 44–52 seats&lt;/li&gt;&lt;li&gt;Sozialdemokratische Partei Österreichs: 42–50 seats&lt;/li&gt;&lt;li&gt;Freiheitliche Partei Österreichs: 35–42 seats&lt;/li&gt;&lt;li&gt;NEOS–Das Neue Österreich und Liberales Forum: 19–21 seats&lt;/li&gt;&lt;li&gt;Die Grünen–Die Grüne Alternative: 17–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-11-IFDD-seats.png"
+        length="183653"
+        type="image/png"/>
+      <pubDate>Sat, 30 Oct 2021 23:40:55 +0200</pubDate>
+      <dc:date>2021-10-30T23:40:55.145989+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IFDD, 7–11 October 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/austrian_polls/2021-10-11-IFDD.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-11-IFDD-coalitions-seats.png"
+        length="265939"
+        type="image/png"/>
+      <pubDate>Sat, 30 Oct 2021 23:40:55 +0200</pubDate>
+      <dc:date>2021-10-30T23:40:55.145989+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IFDD, 7–11 October 2021 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/austrian_polls/2021-10-11-IFDD.png"
         length="219931"
         type="image/png"/>
-      <pubDate>Fri, 15 Oct 2021 07:44:05 +0200</pubDate>
-      <dc:date>2021-10-15T07:44:05.185722+02:00</dc:date>
+      <pubDate>Sat, 30 Oct 2021 23:40:55 +0200</pubDate>
+      <dc:date>2021-10-30T23:40:55.145989+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Affairs for ÖSTERREICH, 28–30 September 2021 – Seat Projections for the Parties</title>
@@ -3479,6 +3539,6 @@
       <pubDate>Sun, 30 Aug 2020 09:49:50 +0200</pubDate>
       <dc:date>2020-08-30T09:49:50.432314+02:00</dc:date>
     </item>
-    <dc:date>2021-10-28T20:17:49.82443+02:00</dc:date>
+    <dc:date>2021-11-01T17:04:10.29675+01:00</dc:date>
   </channel>
 </rss>
