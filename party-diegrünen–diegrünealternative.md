@@ -170,9 +170,9 @@ Last result: **26** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 18–24 | 17–25 | 16–25 | 14–27 |
-| [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 22 | 20–24 | 19–25 | 18–25 | 17–27 |
-| [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–24 | 17–25 | 16–26 |
-| [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 20 | 18–22 | 17–22 | 17–23 | 16–24 |
+| [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 22 | 20–24 | 19–25 | 19–25 | 17–27 |
+| [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–24 | 17–25 | 15–26 |
+| [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 20 | 18–22 | 18–22 | 17–23 | 16–24 |
 | [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 16–22 | 15–23 | 14–24 | 13–26 |
 | [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 22 | 19–25 | 19–26 | 18–26 | 17–28 |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 15–22 | 15–23 | 14–24 | 13–26 |
@@ -315,11 +315,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 2% | 98% |  |
 | 17 | 5% | 96% |  |
 | 18 | 8% | 91% |  |
-| 19 | 12% | 83% |  |
-| 20 | 17% | 71% |  |
+| 19 | 13% | 83% |  |
+| 20 | 18% | 70% |  |
 | 21 | 17% | 53% | Median |
-| 22 | 15% | 36% |  |
-| 23 | 10% | 21% |  |
+| 22 | 14% | 36% |  |
+| 23 | 10% | 22% |  |
 | 24 | 6% | 12% |  |
 | 25 | 3% | 6% |  |
 | 26 | 2% | 2% | Last Result |
