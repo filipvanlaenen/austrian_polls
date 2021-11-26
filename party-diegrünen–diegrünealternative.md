@@ -10,20 +10,24 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 9.7–12.9% | 9.1–13.4% | 8.6–13.8% | 7.8–14.6% |
-| [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 12.0% | 10.8–13.3% | 10.5–13.6% | 10.2–14.0% | 9.7–14.6% |
-| [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
-| [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.5–12.7% | 9.1–13.2% |
-| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.1% | 8.5–12.0% | 8.1–12.5% | 7.7–13.0% | 7.1–14.0% |
-| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 11.9% | 10.6–13.5% | 10.2–14.0% | 9.9–14.4% | 9.3–15.2% |
-| [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.0% | 8.5–11.9% | 8.0–12.5% | 7.7–13.0% | 7.0–13.9% |
-| [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.0% | 8.5–11.9% | 8.0–12.5% | 7.7–13.0% | 7.0–13.9% |
-| [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.9% | 9.3–12.9% | 8.9–13.5% | 8.5–13.9% | 7.8–15.0% |
-| [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.1% | 8.5–12.0% | 8.1–12.5% | 7.7–13.0% | 7.1–14.0% |
-| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 13.0% | 11.6–14.7% | 11.2–15.2% | 10.9–15.6% | 10.2–16.4% |
-| [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
-| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
-| [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.9% | 10.2–13.9% | 9.8–14.5% | 9.4–15.0% | 8.6–16.1% |
+| N/A | [Poll Average](average.html) | 13.1% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
+| [15–18 November 2021](2021-11-18-UniqueResearch.html) | Unique Research <br> profil | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
+| [8–11 November 2021](2021-11-11-PeterHajek.html) | Peter Hajek <br> Heute | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
+| [18–21 October 2021](2021-10-21-PeterHajek.html) | Peter Hajek <br> APA and ATV | 16.0% | N/A | N/A | N/A | N/A |
+| [12–15 October 2021](2021-10-15-UniqueResearch.html) | Unique Research <br> profil | 14.0% | N/A | N/A | N/A | N/A |
+| [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 12.0% | N/A | N/A | N/A | N/A |
+| [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 11.0% | N/A | N/A | N/A | N/A |
+| [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 11.0% | N/A | N/A | N/A | N/A |
+| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.1% | N/A | N/A | N/A | N/A |
+| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 11.9% | N/A | N/A | N/A | N/A |
+| [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
+| [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
+| [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.9% | N/A | N/A | N/A | N/A |
+| [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 10.1% | N/A | N/A | N/A | N/A |
+| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 13.0% | N/A | N/A | N/A | N/A |
+| [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 12.0% | N/A | N/A | N/A | N/A |
+| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.0% | N/A | N/A | N/A | N/A |
+| [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.9% | N/A | N/A | N/A | N/A |
 | [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 11.9% | 10.2–13.9% | 9.8–14.5% | 9.4–15.0% | 8.6–16.1% |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [13–15 July 2021](2021-07-15-ResearchAffairs.html) | Research Affairs <br> PULS | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
@@ -147,18 +151,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 2% | 99.7% |  |
-| 8.5–9.5% | 7% | 98% |  |
-| 9.5–10.5% | 18% | 91% |  |
-| 10.5–11.5% | 31% | 73% | Median |
-| 11.5–12.5% | 26% | 42% |  |
-| 12.5–13.5% | 12% | 16% |  |
-| 13.5–14.5% | 3% | 4% | Last Result |
-| 14.5–15.5% | 0.5% | 0.6% |  |
-| 15.5–16.5% | 0.1% | 0.1% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 8.5–9.5% | 0.1% | 100% |  |
+| 9.5–10.5% | 1.2% | 99.9% |  |
+| 10.5–11.5% | 8% | 98.7% |  |
+| 11.5–12.5% | 24% | 90% |  |
+| 12.5–13.5% | 33% | 67% | Median |
+| 13.5–14.5% | 23% | 34% | Last Result |
+| 14.5–15.5% | 9% | 11% |  |
+| 15.5–16.5% | 2% | 2% |  |
+| 16.5–17.5% | 0.3% | 0.3% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -169,20 +171,24 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–24 | 17–25 | 16–25 | 14–27 |
-| [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 22 | 20–24 | 19–25 | 19–25 | 17–27 |
-| [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–24 | 17–25 | 15–26 |
-| [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 20 | 18–22 | 18–22 | 17–23 | 16–24 |
-| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 16–22 | 15–23 | 14–24 | 13–26 |
-| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 22 | 19–25 | 19–26 | 18–26 | 17–28 |
-| [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 15–22 | 15–23 | 14–24 | 13–26 |
-| [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19 | 15–22 | 15–23 | 14–24 | 13–26 |
-| [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
-| [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 18 | 15–22 | 15–23 | 14–24 | 13–26 |
-| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard | 24 | 21–27 | 21–28 | 20–29 | 19–30 |
-| [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil | 22 | 20–25 | 19–26 | 18–27 | 17–28 |
-| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 20 | 17–24 | 16–25 | 15–26 | 14–28 |
-| [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22 | 19–26 | 18–27 | 17–28 | 15–30 |
+| N/A | [Poll Average](average.html) | 24 | 21–27 | 21–28 | 20–29 | 19–31 |
+| [15–18 November 2021](2021-11-18-UniqueResearch.html) | Unique Research <br> profil | 24 | 22–27 | 21–28 | 20–29 | 19–31 |
+| [8–11 November 2021](2021-11-11-PeterHajek.html) | Peter Hajek <br> Heute | 24 | 21–27 | 21–28 | 20–29 | 19–31 |
+| [18–21 October 2021](2021-10-21-PeterHajek.html) | Peter Hajek <br> APA and ATV |  |  |  |  |  |
+| [12–15 October 2021](2021-10-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [7–11 October 2021](2021-10-11-IFDD.html) | IFDD |  |  |  |  |  |
+| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [17–19 August 2021](2021-08-19-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [10–12 August 2021](2021-08-12-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [6–11 August 2021](2021-08-11-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [2–5 August 2021](2021-08-05-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [3–5 August 2021](2021-08-05-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [27–29 July 2021](2021-07-29-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [20–22 July 2021](2021-07-22-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 22 | 19–26 | 18–27 | 17–28 | 16–30 |
 | [15–21 July 2021](2021-07-21-IFDD.html) | IFDD <br> PULS 24 | 20 | 18–23 | 17–24 | 16–24 | 15–26 |
 | [13–15 July 2021](2021-07-15-ResearchAffairs.html) | Research Affairs <br> PULS | 20 | 18–23 | 17–24 | 17–24 | 16–26 |
@@ -308,24 +314,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0% | 100% |  |
-| 13 | 0.2% | 99.9% |  |
-| 14 | 0.4% | 99.8% |  |
-| 15 | 1.3% | 99.3% |  |
-| 16 | 2% | 98% |  |
-| 17 | 5% | 96% |  |
-| 18 | 8% | 91% |  |
-| 19 | 13% | 83% |  |
-| 20 | 18% | 70% |  |
-| 21 | 17% | 53% | Median |
-| 22 | 14% | 36% |  |
-| 23 | 10% | 22% |  |
-| 24 | 6% | 12% |  |
-| 25 | 3% | 6% |  |
-| 26 | 2% | 2% | Last Result |
-| 27 | 0.6% | 0.9% |  |
-| 28 | 0.2% | 0.3% |  |
-| 29 | 0.1% | 0.1% |  |
-| 30 | 0% | 0% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0.2% | 99.9% |  |
+| 19 | 0.9% | 99.7% |  |
+| 20 | 3% | 98.8% |  |
+| 21 | 6% | 96% |  |
+| 22 | 10% | 90% |  |
+| 23 | 16% | 80% |  |
+| 24 | 15% | 64% | Median |
+| 25 | 18% | 49% |  |
+| 26 | 12% | 30% | Last Result |
+| 27 | 10% | 19% |  |
+| 28 | 5% | 9% |  |
+| 29 | 3% | 4% |  |
+| 30 | 1.1% | 2% |  |
+| 31 | 0.4% | 0.6% |  |
+| 32 | 0.1% | 0.2% |  |
+| 33 | 0% | 0.1% |  |
+| 34 | 0% | 0% |  |
 
 
