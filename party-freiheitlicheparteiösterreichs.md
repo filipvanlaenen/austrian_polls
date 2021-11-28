@@ -18,7 +18,7 @@ Last result: **16.2%** (General Election of 29 September 2019)
 | [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 21.0% | 19.6–22.6% | 19.1–23.1% | 18.8–23.5% | 18.1–24.2% |
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 21.0% | 19.2–22.9% | 18.7–23.5% | 18.3–24.0% | 17.5–24.9% |
 | [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 21.0% | 19.7–22.4% | 19.3–22.8% | 19.0–23.1% | 18.4–23.8% |
-| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | N/A | N/A | N/A | N/A |
+| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 15.0% | 13.1–17.2% | 12.6–17.9% | 12.2–18.4% | 11.3–19.5% |
 | [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | 18.0% | N/A | N/A | N/A | N/A |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19.0% | N/A | N/A | N/A | N/A |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 19.0% | N/A | N/A | N/A | N/A |
@@ -183,7 +183,7 @@ Last result: **31** seats (General Election of 29 September 2019)
 | [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 39 | 36–42 | 35–42 | 34–43 | 33–45 |
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 39 | 36–43 | 35–44 | 34–45 | 33–47 |
 | [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 38 | 36–41 | 35–42 | 35–42 | 34–44 |
-| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
+| [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | 28 | 24–32 | 23–34 | 23–35 | 21–37 |
 | [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
 | [24–26 August 2021](2021-08-26-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH |  |  |  |  |  |
