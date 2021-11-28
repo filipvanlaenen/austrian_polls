@@ -9,9 +9,9 @@ The table below lists all polls registered and analyzed so far.
 | [8–11 November 2021](2021-11-11-PeterHajek.html) | Peter Hajek <br> Heute | 21–27% <br> 40–51 | 22–28% <br> 41–53 | 15–21% <br> 29–39 | 11–16% <br> 20–29 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–21 October 2021](2021-10-21-PeterHajek.html) | Peter Hajek <br> APA and ATV | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 October 2021](2021-10-15-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 24–29% <br> 43–53 | 22–27% <br> 40–49 | 19–23% <br> 34–43 | 10–14% <br> 19–25 | 10–14% <br> 18–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 24–30% <br> 45–57 | 22–28% <br> 41–53 | 18–24% <br> 34–45 | 9–13% <br> 17–25 | 11–16% <br> 20–29 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–11 October 2021](2021-10-11-IFDD.html) | IFDD | 24–28% <br> 44–52 | 23–27% <br> 42–50 | 19–23% <br> 35–42 | 10–13% <br> 17–23 | 10–13% <br> 19–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28–30 September 2021](2021-09-30-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–9 September 2021](2021-09-09-OGM.html) | OGM <br> KURIER | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 August–1 September 2021](2021-09-01-ResearchAffairs.html) | Research Affairs <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
