@@ -10,11 +10,11 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.0% | 10.3–14.0% | 9.9–14.5% | 9.6–15.0% | 8.9–15.9% |
+| N/A | [Poll Average](average.html) | 12.1% | 10.3–16.1% | 9.9–17.0% | 9.6–17.6% | 8.9–18.7% |
 | [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 11.9% | 10.6–13.5% | 10.2–13.9% | 9.9–14.3% | 9.3–15.1% |
 | [15–18 November 2021](2021-11-18-UniqueResearch.html) | Unique Research <br> profil | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
-| [8–11 November 2021](2021-11-11-PeterHajek.html) | Peter Hajek <br> Heute | 13.0% | 11.6–14.6% | 11.2–15.1% | 10.8–15.5% | 10.2–16.3% |
-| [18–21 October 2021](2021-10-21-PeterHajek.html) | Peter Hajek <br> APA and ATV | 16.0% | N/A | N/A | N/A | N/A |
+| [8–11 November 2021](2021-11-11-UniqueResearch.html) | Unique Research <br> Heute | 13.0% | N/A | N/A | N/A | N/A |
+| [18–21 October 2021](2021-10-21-PeterHajek.html) | Peter Hajek <br> APA and ATV | 16.0% | 14.4–17.8% | 14.0–18.3% | 13.6–18.7% | 12.9–19.6% |
 | [12–15 October 2021](2021-10-15-UniqueResearch.html) | Unique Research <br> profil | 14.0% | N/A | N/A | N/A | N/A |
 | [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 12.0% | 10.8–13.3% | 10.5–13.6% | 10.2–14.0% | 9.7–14.6% |
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
@@ -155,15 +155,18 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% |  |
 | 7.5–8.5% | 0.2% | 100% |  |
 | 8.5–9.5% | 2% | 99.8% |  |
-| 9.5–10.5% | 12% | 98% |  |
-| 10.5–11.5% | 25% | 86% |  |
-| 11.5–12.5% | 26% | 61% | Median |
-| 12.5–13.5% | 20% | 36% |  |
-| 13.5–14.5% | 11% | 16% | Last Result |
-| 14.5–15.5% | 4% | 5% |  |
-| 15.5–16.5% | 0.8% | 1.0% |  |
-| 16.5–17.5% | 0.1% | 0.1% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 9.5–10.5% | 11% | 98% |  |
+| 10.5–11.5% | 23% | 86% |  |
+| 11.5–12.5% | 21% | 63% | Median |
+| 12.5–13.5% | 14% | 42% |  |
+| 13.5–14.5% | 8% | 29% | Last Result |
+| 14.5–15.5% | 7% | 20% |  |
+| 15.5–16.5% | 6% | 14% |  |
+| 16.5–17.5% | 4% | 7% |  |
+| 17.5–18.5% | 2% | 3% |  |
+| 18.5–19.5% | 0.5% | 0.6% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -174,11 +177,11 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–26 | 18–27 | 17–28 | 16–30 |
+| N/A | [Poll Average](average.html) | 22 | 19–30 | 18–32 | 17–33 | 16–36 |
 | [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 22 | 19–25 | 18–25 | 18–26 | 17–27 |
 | [15–18 November 2021](2021-11-18-UniqueResearch.html) | Unique Research <br> profil | 24 | 22–27 | 21–28 | 20–29 | 19–31 |
-| [8–11 November 2021](2021-11-11-PeterHajek.html) | Peter Hajek <br> Heute | 24 | 21–27 | 21–28 | 20–29 | 19–31 |
-| [18–21 October 2021](2021-10-21-PeterHajek.html) | Peter Hajek <br> APA and ATV |  |  |  |  |  |
+| [8–11 November 2021](2021-11-11-UniqueResearch.html) | Unique Research <br> Heute |  |  |  |  |  |
+| [18–21 October 2021](2021-10-21-PeterHajek.html) | Peter Hajek <br> APA and ATV | 30 | 27–34 | 26–35 | 26–36 | 24–37 |
 | [12–15 October 2021](2021-10-15-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [12–15 October 2021](2021-10-15-OGM.html) | OGM <br> KURIER | 22 | 20–24 | 19–25 | 19–25 | 17–27 |
 | [11–12 October 2021](2021-10-12-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–24 | 17–25 | 15–26 |
@@ -323,19 +326,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 2% | 99.4% |  |
 | 18 | 5% | 97% |  |
 | 19 | 10% | 92% |  |
-| 20 | 14% | 82% |  |
-| 21 | 13% | 69% |  |
-| 22 | 12% | 56% | Median |
-| 23 | 12% | 43% |  |
-| 24 | 9% | 32% |  |
-| 25 | 9% | 22% |  |
-| 26 | 5% | 13% | Last Result |
-| 27 | 4% | 8% |  |
-| 28 | 2% | 4% |  |
-| 29 | 1.1% | 2% |  |
-| 30 | 0.4% | 0.7% |  |
-| 31 | 0.2% | 0.2% |  |
-| 32 | 0.1% | 0.1% |  |
-| 33 | 0% | 0% |  |
+| 20 | 13% | 83% |  |
+| 21 | 12% | 70% |  |
+| 22 | 10% | 58% | Median |
+| 23 | 8% | 47% |  |
+| 24 | 7% | 39% |  |
+| 25 | 5% | 32% |  |
+| 26 | 4% | 27% | Last Result |
+| 27 | 4% | 23% |  |
+| 28 | 3% | 19% |  |
+| 29 | 3% | 16% |  |
+| 30 | 3% | 13% |  |
+| 31 | 3% | 9% |  |
+| 32 | 2% | 6% |  |
+| 33 | 2% | 4% |  |
+| 34 | 1.2% | 2% |  |
+| 35 | 0.6% | 1.1% |  |
+| 36 | 0.3% | 0.5% |  |
+| 37 | 0.1% | 0.2% |  |
+| 38 | 0.1% | 0.1% |  |
+| 39 | 0% | 0% |  |
 
 
