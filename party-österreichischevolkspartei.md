@@ -11,6 +11,7 @@ Last result: **37.5%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24.7% | 21.8–28.1% | 21.2–28.9% | 20.6–29.5% | 19.5–30.6% |
+| [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 27.0% | 25.1–29.1% | 24.5–29.7% | 24.0–30.2% | 23.1–31.2% |
 | [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil | 27.0% | 25.1–29.1% | 24.5–29.7% | 24.0–30.2% | 23.1–31.2% |
 | [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
@@ -188,7 +189,8 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 46 | 40–53 | 39–55 | 38–56 | 36–59 |
+| N/A | [Poll Average](average.html) | 46 | 40–54 | 39–55 | 38–56 | 36–59 |
+| [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 46 | 42–50 | 41–51 | 40–52 | 38–54 |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 52 | 48–56 | 46–57 | 46–58 | 44–60 |
 | [6–9 December 2021](2021-12-09-UniqueResearch.html) | Unique Research <br> profil | 51 | 47–55 | 46–56 | 45–57 | 43–59 |
 | [6–9 December 2021](2021-12-09-Market.html) | Market <br> Der Standard | 45 | 41–49 | 40–50 | 40–51 | 38–53 |
@@ -345,16 +347,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 3% | 96% |  |
 | 40 | 5% | 92% |  |
 | 41 | 6% | 88% |  |
-| 42 | 7% | 81% |  |
+| 42 | 7% | 82% |  |
 | 43 | 7% | 75% |  |
-| 44 | 7% | 67% |  |
-| 45 | 6% | 60% |  |
-| 46 | 6% | 54% | Median |
-| 47 | 6% | 47% |  |
-| 48 | 5% | 42% |  |
-| 49 | 6% | 36% |  |
-| 50 | 5% | 31% |  |
-| 51 | 6% | 25% |  |
+| 44 | 7% | 68% |  |
+| 45 | 6% | 61% |  |
+| 46 | 6% | 55% | Median |
+| 47 | 6% | 48% |  |
+| 48 | 6% | 43% |  |
+| 49 | 6% | 37% |  |
+| 50 | 6% | 31% |  |
+| 51 | 6% | 26% |  |
 | 52 | 5% | 20% |  |
 | 53 | 4% | 14% |  |
 | 54 | 3% | 10% |  |
