@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–29% <br> 38–56 | 22–29% <br> 41–55 | 16–24% <br> 29–44 | 9–16% <br> 17–30 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 21–29% <br> 40–54 | 21–29% <br> 40–54 | 17–24% <br> 31–44 | 9–14% <br> 16–26 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 20–29% <br> 38–55 | 22–29% <br> 42–55 | 15–24% <br> 29–44 | 10–16% <br> 18–30 | 8–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 40–51 | 22–28% <br> 41–53 | 15–21% <br> 29–39 | 11–16% <br> 20–29 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 21–27% <br> 40–52 | 23–29% <br> 43–56 | 18–24% <br> 35–46 | 10–14% <br> 18–27 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 24–30% <br> 46–58 | 22–28% <br> 42–54 | 15–20% <br> 27–38 | 12–17% <br> 22–32 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 20–27% <br> 36–49 | 23–30% <br> 41–55 | 17–23% <br> 31–43 | 10–15% <br> 17–27 | 10–15% <br> 17–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
