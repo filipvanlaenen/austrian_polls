@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 9.5–13.2% | 9.0–13.7% | 8.6–14.2% | 8.0–15.2% |
+| N/A | [Poll Average](average.html) | 11.0% | 9.3–13.0% | 8.8–13.6% | 8.5–14.1% | 7.8–15.1% |
+| [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
 | [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
@@ -159,16 +160,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.1% | 100% |  |
-| 7.5–8.5% | 2% | 99.9% | Last Result |
-| 8.5–9.5% | 9% | 98% |  |
-| 9.5–10.5% | 20% | 89% |  |
-| 10.5–11.5% | 27% | 69% | Median |
-| 11.5–12.5% | 23% | 42% |  |
-| 12.5–13.5% | 13% | 19% |  |
-| 13.5–14.5% | 5% | 6% |  |
-| 14.5–15.5% | 1.2% | 1.4% |  |
-| 15.5–16.5% | 0.2% | 0.3% |  |
+| 6.5–7.5% | 0.2% | 100% |  |
+| 7.5–8.5% | 3% | 99.8% | Last Result |
+| 8.5–9.5% | 12% | 97% |  |
+| 9.5–10.5% | 23% | 85% |  |
+| 10.5–11.5% | 26% | 62% | Median |
+| 11.5–12.5% | 20% | 36% |  |
+| 12.5–13.5% | 11% | 16% |  |
+| 13.5–14.5% | 4% | 5% |  |
+| 14.5–15.5% | 1.0% | 1.2% |  |
+| 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -180,7 +181,8 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 17–24 | 17–25 | 16–26 | 15–27 |
+| N/A | [Poll Average](average.html) | 20 | 17–24 | 16–24 | 16–26 | 14–27 |
+| [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 19 | 16–21 | 15–22 | 15–23 | 14–24 |
 | [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 20 | 17–24 | 16–25 | 16–26 | 14–28 |
 | [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 21 | 18–24 | 17–24 | 17–25 | 16–27 |
 | [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 19 | 16–22 | 16–23 | 15–23 | 14–25 |
@@ -331,22 +333,22 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.3% | 99.9% |  |
-| 15 | 1.1% | 99.6% | Last Result |
-| 16 | 3% | 98.6% |  |
-| 17 | 6% | 96% |  |
-| 18 | 8% | 90% |  |
-| 19 | 9% | 82% |  |
-| 20 | 25% | 73% | Median |
-| 21 | 11% | 48% |  |
-| 22 | 7% | 37% |  |
-| 23 | 17% | 30% |  |
-| 24 | 8% | 13% |  |
-| 25 | 2% | 6% |  |
-| 26 | 2% | 4% |  |
-| 27 | 2% | 2% |  |
-| 28 | 0.3% | 0.5% |  |
-| 29 | 0.1% | 0.2% |  |
+| 14 | 0.4% | 99.9% |  |
+| 15 | 2% | 99.5% | Last Result |
+| 16 | 4% | 98% |  |
+| 17 | 8% | 94% |  |
+| 18 | 10% | 87% |  |
+| 19 | 10% | 77% |  |
+| 20 | 25% | 67% | Median |
+| 21 | 10% | 42% |  |
+| 22 | 6% | 32% |  |
+| 23 | 15% | 26% |  |
+| 24 | 6% | 11% |  |
+| 25 | 1.1% | 5% |  |
+| 26 | 2% | 3% |  |
+| 27 | 1.3% | 2% |  |
+| 28 | 0.2% | 0.3% |  |
+| 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0.1% |  |
 | 31 | 0% | 0% |  |
 
