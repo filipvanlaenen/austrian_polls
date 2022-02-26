@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [18–22 February 2022](2022-02-22-Market.html) | Market <br> Der Standard | 21–27% <br> 39–50 | 24–30% <br> 44–56 | 17–23% <br> 32–43 | 9–13% <br> 16–25 | 10–14% <br> 18–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 40–51 | 22–28% <br> 41–53 | 15–21% <br> 29–39 | 11–16% <br> 20–29 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10–13 January 2022](2022-01-13-UniqueResearch.html) | Unique Research <br> profil | 21–29% <br> 40–54 | 21–29% <br> 40–54 | 17–24% <br> 31–44 | 9–14% <br> 16–26 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [23–28 December 2021](2021-12-28-Market.html) | Market <br> Der Standard | 21–27% <br> 40–52 | 23–29% <br> 43–56 | 18–24% <br> 35–46 | 10–14% <br> 18–27 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
