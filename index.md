@@ -5,12 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–29% <br> 38–55 | 22–30% <br> 42–55 | 15–23% <br> 29–43 | 10–16% <br> 17–30 | 8–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 20–27% <br> 38–50 | 23–30% <br> 43–56 | 17–23% <br> 31–43 | 9–13% <br> 16–25 | 9–14% <br> 16–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–10 March 2022](2022-03-10-UniqueResearch.html) | Unique Research <br> profil | 20–26% <br> 38–49 | 24–30% <br> 45–57 | 16–22% <br> 30–41 | 9–13% <br> 17–25 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [21–24 February 2022](2022-02-24-PeterHajek.html) | Peter Hajek <br> APA and ATV | 20–26% <br> 38–49 | 22–28% <br> 42–53 | 17–23% <br> 33–43 | 9–13% <br> 17–25 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–22 February 2022](2022-02-22-Market.html) | Market <br> Der Standard | 21–27% <br> 39–50 | 24–30% <br> 44–56 | 17–23% <br> 32–43 | 9–13% <br> 16–25 | 10–14% <br> 18–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [7–10 February 2022](2022-02-10-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 40–51 | 22–28% <br> 41–53 | 15–21% <br> 29–39 | 11–16% <br> 20–29 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [13–16 December 2021](2021-12-16-PeterHajek.html) | Peter Hajek <br> APA and ATV | 24–30% <br> 46–58 | 22–28% <br> 42–54 | 15–20% <br> 27–38 | 12–17% <br> 22–32 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–9 December 2021](2021-12-09-IFDD.html) | IFDD <br> PULS 24 | 20–27% <br> 36–49 | 23–30% <br> 41–55 | 17–23% <br> 31–43 | 10–15% <br> 17–27 | 10–15% <br> 17–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [23–25 November 2021](2021-11-25-OGM.html) | OGM <br> KURIER | 20–26% <br> 37–48 | 23–29% <br> 42–53 | 18–24% <br> 34–44 | 10–14% <br> 18–26 | 10–14% <br> 17–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
