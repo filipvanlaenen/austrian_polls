@@ -11,6 +11,7 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.1% | 9.7–12.5% | 9.3–13.0% | 9.0–13.3% | 8.4–14.1% |
+| [21–24 March 2022](2022-03-24-UniqueResearch.html) | Unique Research <br> Heute | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [3–10 March 2022](2022-03-10-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [21–24 February 2022](2022-02-24-PeterHajek.html) | Peter Hajek <br> APA and ATV | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [18–22 February 2022](2022-02-22-Market.html) | Market <br> Der Standard | 11.0% | 9.6–12.5% | 9.3–12.9% | 9.0–13.3% | 8.4–14.1% |
@@ -184,6 +185,7 @@ Last result: **26** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–23 | 17–24 | 16–25 | 15–26 |
+| [21–24 March 2022](2022-03-24-UniqueResearch.html) | Unique Research <br> Heute | 20 | 18–23 | 17–24 | 17–25 | 15–26 |
 | [3–10 March 2022](2022-03-10-UniqueResearch.html) | Unique Research <br> profil | 20 | 18–23 | 17–24 | 17–25 | 15–26 |
 | [21–24 February 2022](2022-02-24-PeterHajek.html) | Peter Hajek <br> APA and ATV | 21 | 18–23 | 17–24 | 17–25 | 16–26 |
 | [18–22 February 2022](2022-02-22-Market.html) | Market <br> Der Standard | 20 | 18–23 | 17–24 | 16–25 | 15–26 |
@@ -343,10 +345,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 2% | 99.4% |  |
 | 17 | 5% | 97% |  |
 | 18 | 11% | 92% |  |
-| 19 | 16% | 82% |  |
+| 19 | 15% | 82% |  |
 | 20 | 19% | 66% | Median |
 | 21 | 18% | 47% |  |
-| 22 | 13% | 30% |  |
+| 22 | 14% | 30% |  |
 | 23 | 8% | 16% |  |
 | 24 | 5% | 8% |  |
 | 25 | 2% | 3% |  |
