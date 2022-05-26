@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [16–19 May 2022](2022-05-19-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 21–25% <br> 39–46 | 27–31% <br> 50–58 | 19–23% <br> 36–42 | 8–10% <br> 14–19 | 10–12% <br> 18–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–12 May 2022](2022-05-12-UniqueResearch.html) | Unique Research <br> profil | 19–25% <br> 36–47 | 24–30% <br> 45–56 | 17–23% <br> 32–43 | 10–14% <br> 18–27 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [9–11 May 2022](2022-05-11-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 22–25% <br> 41–48 | 26–30% <br> 48–56 | 19–22% <br> 35–42 | 8–11% <br> 15–19 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 April–5 May 2022](2022-05-05-OGM.html) | OGM <br> KURIER | 23–29% <br> 44–56 | 23–29% <br> 43–55 | 15–21% <br> 29–39 | 10–14% <br> 18–27 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
