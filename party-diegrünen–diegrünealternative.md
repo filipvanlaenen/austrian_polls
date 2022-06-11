@@ -13,7 +13,7 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | N/A | [Poll Average](average.html) | 11.0% | 8.5–13.2% | 8.2–13.7% | 7.9–14.2% | 7.3–15.0% |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [30 May–1 June 2022](2022-06-01-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
-| [23–25 May 2022](2022-05-25-Market.html) | Market <br> Der Standard | 10.0% | N/A | N/A | N/A | N/A |
+| [23–25 May 2022](2022-05-25-Market.html) | Market <br> Der Standard | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [21–24 May 2022](2022-05-24-Market.html) | Market <br> ÖSTERREICH | 11.0% | N/A | N/A | N/A | N/A |
 | [16–19 May 2022](2022-05-19-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [9–12 May 2022](2022-05-12-UniqueResearch.html) | Unique Research <br> profil | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
@@ -203,7 +203,7 @@ Last result: **26** seats (General Election of 29 September 2019)
 | N/A | [Poll Average](average.html) | 20 | 16–25 | 15–26 | 14–26 | 13–28 |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [30 May–1 June 2022](2022-06-01-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [23–25 May 2022](2022-05-25-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [23–25 May 2022](2022-05-25-Market.html) | Market <br> Der Standard | 19 | 16–21 | 16–22 | 15–22 | 14–24 |
 | [21–24 May 2022](2022-05-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [16–19 May 2022](2022-05-19-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 16 | 15–18 | 14–18 | 14–19 | 14–20 |
 | [9–12 May 2022](2022-05-12-UniqueResearch.html) | Unique Research <br> profil | 22 | 20–25 | 19–26 | 18–27 | 17–28 |
