@@ -10,7 +10,12 @@ Last result: **37.5%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.4% | 20.6–27.1% | 20.1–27.9% | 19.7–28.5% | 19.0–29.6% |
+| N/A | [Poll Average](average.html) | 22.2% | 20.0–27.1% | 19.5–27.9% | 19.0–28.5% | 18.2–29.6% |
+| [20–23 June 2022](2022-06-23-UniqueResearch.html) | Unique Research <br> Heute | 21.0% | 19.2–22.9% | 18.7–23.5% | 18.3–24.0% | 17.5–24.9% |
+| [13–21 June 2022](2022-06-21-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
+| [7–14 June 2022](2022-06-14-Market.html) | Market <br> ÖSTERREICH | 22.0% | N/A | N/A | N/A | N/A |
+| [7–11 June 2022](2022-06-11-IFDD.html) | IFDD <br> Kronen Zeitung | 21.0% | 19.6–22.6% | 19.2–23.0% | 18.9–23.4% | 18.2–24.1% |
+| [7–9 June 2022](2022-06-09-UniqueResearch.html) | Unique Research <br> profil | 22.0% | N/A | N/A | N/A | N/A |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [30 May–1 June 2022](2022-06-01-Market.html) | Market <br> ÖSTERREICH | 22.0% | N/A | N/A | N/A | N/A |
 | [23–25 May 2022](2022-05-25-Market.html) | Market <br> Der Standard | 23.0% | 21.4–24.8% | 20.9–25.3% | 20.5–25.7% | 19.7–26.6% |
@@ -178,16 +183,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.2% | 100% |  |
-| 18.5–19.5% | 2% | 99.8% |  |
-| 19.5–20.5% | 8% | 98% |  |
-| 20.5–21.5% | 15% | 90% |  |
-| 21.5–22.5% | 15% | 76% |  |
-| 22.5–23.5% | 12% | 61% | Median |
-| 23.5–24.5% | 11% | 48% |  |
-| 24.5–25.5% | 11% | 37% |  |
-| 25.5–26.5% | 11% | 26% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.9% | 99.9% |  |
+| 18.5–19.5% | 5% | 99.0% |  |
+| 19.5–20.5% | 14% | 94% |  |
+| 20.5–21.5% | 21% | 80% |  |
+| 21.5–22.5% | 14% | 60% | Median |
+| 22.5–23.5% | 6% | 46% |  |
+| 23.5–24.5% | 6% | 39% |  |
+| 24.5–25.5% | 9% | 34% |  |
+| 25.5–26.5% | 10% | 25% |  |
 | 26.5–27.5% | 8% | 15% |  |
 | 27.5–28.5% | 4% | 7% |  |
 | 28.5–29.5% | 2% | 2% |  |
@@ -210,7 +216,12 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 38–51 | 37–52 | 37–54 | 35–56 |
+| N/A | [Poll Average](average.html) | 42 | 38–51 | 37–52 | 36–54 | 34–56 |
+| [20–23 June 2022](2022-06-23-UniqueResearch.html) | Unique Research <br> Heute | 39 | 36–43 | 35–44 | 34–45 | 33–47 |
+| [13–21 June 2022](2022-06-21-Market.html) | Market <br> ÖSTERREICH | 40 | 38–43 | 37–44 | 37–44 | 36–46 |
+| [7–14 June 2022](2022-06-14-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [7–11 June 2022](2022-06-11-IFDD.html) | IFDD <br> Kronen Zeitung | 40 | 37–43 | 36–44 | 36–44 | 34–46 |
+| [7–9 June 2022](2022-06-09-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 39 | 37–42 | 37–42 | 36–43 | 35–44 |
 | [30 May–1 June 2022](2022-06-01-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [23–25 May 2022](2022-05-25-Market.html) | Market <br> Der Standard | 43 | 40–46 | 39–47 | 38–48 | 37–50 |
@@ -380,21 +391,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 34 | 0.1% | 100% |  |
-| 35 | 0.5% | 99.8% |  |
-| 36 | 1.3% | 99.3% |  |
-| 37 | 3% | 98% |  |
-| 38 | 6% | 95% |  |
-| 39 | 8% | 89% |  |
-| 40 | 9% | 81% |  |
-| 41 | 9% | 72% |  |
-| 42 | 8% | 64% |  |
-| 43 | 6% | 56% | Median |
-| 44 | 6% | 49% |  |
-| 45 | 5% | 44% |  |
-| 46 | 5% | 39% |  |
-| 47 | 6% | 33% |  |
-| 48 | 6% | 27% |  |
+| 32 | 0.1% | 100% |  |
+| 33 | 0.2% | 99.9% |  |
+| 34 | 0.6% | 99.7% |  |
+| 35 | 1.2% | 99.1% |  |
+| 36 | 3% | 98% |  |
+| 37 | 5% | 95% |  |
+| 38 | 7% | 91% |  |
+| 39 | 9% | 83% |  |
+| 40 | 11% | 74% |  |
+| 41 | 9% | 64% |  |
+| 42 | 7% | 54% | Median |
+| 43 | 5% | 47% |  |
+| 44 | 4% | 43% |  |
+| 45 | 3% | 39% |  |
+| 46 | 4% | 36% |  |
+| 47 | 5% | 32% |  |
+| 48 | 6% | 26% |  |
 | 49 | 6% | 21% |  |
 | 50 | 5% | 15% |  |
 | 51 | 3% | 11% |  |
