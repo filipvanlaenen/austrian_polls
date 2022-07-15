@@ -5,9 +5,16 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 27–31% <br> 53–61 | 20–24% <br> 39–46 | 9–11% <br> 17–22 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [30 June–3 July 2022](2022-07-03-IFDD.html) | IFDD <br> PULS 24 | 18–23% <br> 33–44 | 28–34% <br> 54–66 | 19–24% <br> 35–46 | 8–12% <br> 16–23 | 9–13% <br> 18–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27–30 June 2022](2022-06-30-PeterHajek.html) | Peter Hajek <br> APA and ATV | 19–25% <br> 36–47 | 26–32% <br> 49–61 | 19–25% <br> 36–47 | 8–12% <br> 15–23 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27–28 June 2022](2022-06-28-Market.html) | Market <br> ÖSTERREICH and POLITIK LIVE | 19–23% <br> 37–44 | 29–33% <br> 55–65 | 20–24% <br> 39–46 | 9–11% <br> 16–22 | 8–10% <br> 15–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–23 June 2022](2022-06-23-UniqueResearch.html) | Unique Research <br> Heute | 18–24% <br> 34–45 | 28–34% <br> 52–65 | 16–22% <br> 31–41 | 9–13% <br> 17–25 | 9–13% <br> 16–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–23 June 2022](2022-06-23-OGM.html) | OGM <br> KURIER | 20–26% <br> 38–49 | 26–32% <br> 49–61 | 17–22% <br> 31–41 | 8–12% <br> 15–23 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–21 June 2022](2022-06-21-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 29–33% <br> 55–65 | 19–23% <br> 37–44 | 8–10% <br> 15–20 | 10–12% <br> 18–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–14 June 2022](2022-06-14-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–14 June 2022](2022-06-14-INSA.html) | INSA <br> eXXpress | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–11 June 2022](2022-06-11-IFDD.html) | IFDD <br> Kronen Zeitung | 19–23% <br> 36–44 | 29–34% <br> 54–64 | 18–22% <br> 34–42 | 8–11% <br> 14–20 | 9–13% <br> 17–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–9 June 2022](2022-06-09-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 36–43 | 30–34% <br> 56–64 | 17–21% <br> 32–39 | 8–10% <br> 14–19 | 11–14% <br> 20–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
