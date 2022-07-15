@@ -14,7 +14,7 @@ The table below lists all polls registered and analyzed so far.
 | [20–23 June 2022](2022-06-23-OGM.html) | OGM <br> KURIER | 20–26% <br> 38–49 | 26–32% <br> 49–61 | 17–22% <br> 31–41 | 8–12% <br> 15–23 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–21 June 2022](2022-06-21-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 29–33% <br> 55–65 | 19–23% <br> 37–44 | 8–10% <br> 15–20 | 10–12% <br> 18–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–14 June 2022](2022-06-14-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–14 June 2022](2022-06-14-INSA.html) | INSA <br> eXXpress | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [10–14 June 2022](2022-06-14-INSA.html) | INSA <br> eXXpress | 20–25% <br> 36–47 | 26–32% <br> 49–62 | 18–23% <br> 33–43 | 8–12% <br> 15–23 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–11 June 2022](2022-06-11-IFDD.html) | IFDD <br> Kronen Zeitung | 19–23% <br> 36–44 | 29–34% <br> 54–64 | 18–22% <br> 34–42 | 8–11% <br> 14–20 | 9–13% <br> 17–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–9 June 2022](2022-06-09-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–8 June 2022](2022-06-08-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 36–43 | 30–34% <br> 56–64 | 17–21% <br> 32–39 | 8–10% <br> 14–19 | 11–14% <br> 20–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
