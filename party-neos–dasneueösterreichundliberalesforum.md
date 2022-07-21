@@ -11,6 +11,7 @@ Last result: **8.1%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.1% | 9.6–12.5% | 9.2–12.9% | 8.8–13.2% | 8.1–13.8% |
+| [10–14 July 2022](2022-07-14-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
 | [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
 | [30 June–3 July 2022](2022-07-03-IFDD.html) | IFDD <br> PULS 24 | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
@@ -211,7 +212,8 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 18–24 | 17–25 | 16–25 | 15–26 |
+| N/A | [Poll Average](average.html) | 21 | 18–24 | 17–25 | 16–25 | 15–27 |
+| [10–14 July 2022](2022-07-14-UniqueResearch.html) | Unique Research <br> profil | 21 | 18–24 | 17–25 | 17–25 | 16–27 |
 | [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 23 | 21–25 | 21–26 | 20–26 | 20–27 |
 | [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [30 June–3 July 2022](2022-07-03-IFDD.html) | IFDD <br> PULS 24 | 21 | 18–24 | 18–24 | 18–25 | 16–27 |
@@ -395,18 +397,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 14 | 0.2% | 100% |  |
 | 15 | 0.8% | 99.7% | Last Result |
-| 16 | 2% | 98.9% |  |
-| 17 | 5% | 97% |  |
-| 18 | 10% | 92% |  |
-| 19 | 12% | 82% |  |
-| 20 | 14% | 70% |  |
-| 21 | 19% | 56% | Median |
-| 22 | 13% | 38% |  |
-| 23 | 11% | 24% |  |
-| 24 | 8% | 14% |  |
-| 25 | 3% | 5% |  |
-| 26 | 1.3% | 2% |  |
-| 27 | 0.4% | 0.5% |  |
+| 16 | 2% | 99.0% |  |
+| 17 | 4% | 97% |  |
+| 18 | 9% | 92% |  |
+| 19 | 12% | 83% |  |
+| 20 | 14% | 71% |  |
+| 21 | 19% | 57% | Median |
+| 22 | 14% | 39% |  |
+| 23 | 11% | 25% |  |
+| 24 | 9% | 14% |  |
+| 25 | 4% | 6% |  |
+| 26 | 1.4% | 2% |  |
+| 27 | 0.5% | 0.6% |  |
 | 28 | 0.1% | 0.1% |  |
 | 29 | 0% | 0% |  |
 
