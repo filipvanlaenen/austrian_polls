@@ -10,14 +10,14 @@ Last result: **37.5%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.6% | 19.4–23.7% | 18.8–24.3% | 18.4–24.8% | 17.5–25.8% |
+| N/A | [Poll Average](average.html) | 21.2% | 19.1–23.5% | 18.6–24.1% | 18.1–24.7% | 17.3–25.7% |
 | [8–11 August 2022](2022-08-11-Market.html) | Market <br> Der Standard | 22.0% | 20.3–24.0% | 19.8–24.5% | 19.3–25.0% | 18.5–26.0% |
 | [8–9 August 2022](2022-08-09-Market.html) | Market <br> ÖSTERREICH | 23.0% | N/A | N/A | N/A | N/A |
-| [1–4 August 2022](2022-08-04-INSA.html) | INSA <br> eXXpress | 20.0% | N/A | N/A | N/A | N/A |
+| [1–4 August 2022](2022-08-04-INSA.html) | INSA <br> eXXpress | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [1–2 August 2022](2022-08-02-Market.html) | Market <br> ÖSTERREICH | 22.0% | N/A | N/A | N/A | N/A |
-| [25–27 July 2022](2022-07-27-Market.html) | Market <br> ÖSTERREICH | 21.0% | N/A | N/A | N/A | N/A |
+| [25–27 July 2022](2022-07-27-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [18–20 July 2022](2022-07-20-Market.html) | Market <br> ÖSTERREICH | 20.0% | N/A | N/A | N/A | N/A |
-| [16 July 2022](2022-07-16-INSA.html) | INSA <br> eXXpress | 21.0% | N/A | N/A | N/A | N/A |
+| [16 July 2022](2022-07-16-INSA.html) | INSA <br> eXXpress | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
 | [10–14 July 2022](2022-07-14-UniqueResearch.html) | Unique Research <br> profil | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH | 23.0% | N/A | N/A | N/A | N/A |
@@ -198,17 +198,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.5% | 100% |  |
-| 17.5–18.5% | 3% | 99.4% |  |
-| 18.5–19.5% | 8% | 97% |  |
-| 19.5–20.5% | 16% | 88% |  |
-| 20.5–21.5% | 22% | 73% |  |
-| 21.5–22.5% | 23% | 51% | Median |
-| 22.5–23.5% | 16% | 28% |  |
-| 23.5–24.5% | 8% | 12% |  |
-| 24.5–25.5% | 3% | 4% |  |
-| 25.5–26.5% | 0.7% | 0.8% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.8% | 99.9% |  |
+| 17.5–18.5% | 4% | 99.1% |  |
+| 18.5–19.5% | 11% | 95% |  |
+| 19.5–20.5% | 19% | 84% |  |
+| 20.5–21.5% | 22% | 65% | Median |
+| 21.5–22.5% | 20% | 43% |  |
+| 22.5–23.5% | 13% | 23% |  |
+| 23.5–24.5% | 7% | 10% |  |
+| 24.5–25.5% | 2% | 3% |  |
+| 25.5–26.5% | 0.5% | 0.6% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -231,14 +232,14 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 41 | 37–45 | 36–46 | 35–48 | 33–49 |
+| N/A | [Poll Average](average.html) | 40 | 36–45 | 35–46 | 34–47 | 32–49 |
 | [8–11 August 2022](2022-08-11-Market.html) | Market <br> Der Standard | 41 | 40–45 | 37–48 | 37–48 | 36–49 |
 | [8–9 August 2022](2022-08-09-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [1–4 August 2022](2022-08-04-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [1–4 August 2022](2022-08-04-INSA.html) | INSA <br> eXXpress | 37 | 34–40 | 33–41 | 32–42 | 31–43 |
 | [1–2 August 2022](2022-08-02-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [25–27 July 2022](2022-07-27-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [25–27 July 2022](2022-07-27-Market.html) | Market <br> ÖSTERREICH | 40 | 37–42 | 37–43 | 36–44 | 35–45 |
 | [18–20 July 2022](2022-07-20-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [16 July 2022](2022-07-16-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [16 July 2022](2022-07-16-INSA.html) | INSA <br> eXXpress | 39 | 36–43 | 35–44 | 34–45 | 33–46 |
 | [10–14 July 2022](2022-07-14-UniqueResearch.html) | Unique Research <br> profil | 42 | 38–46 | 37–47 | 36–48 | 35–50 |
 | [11–13 July 2022](2022-07-13-Market.html) | Market <br> ÖSTERREICH | 41 | 39–43 | 38–44 | 37–44 | 36–46 |
 | [4–6 July 2022](2022-07-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -421,28 +422,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.2% | 99.9% |  |
-| 33 | 0.5% | 99.8% |  |
-| 34 | 1.2% | 99.2% |  |
-| 35 | 2% | 98% |  |
-| 36 | 4% | 96% |  |
-| 37 | 7% | 92% |  |
-| 38 | 7% | 85% |  |
-| 39 | 9% | 78% |  |
-| 40 | 14% | 69% |  |
-| 41 | 14% | 56% | Median |
-| 42 | 9% | 41% |  |
-| 43 | 7% | 32% |  |
-| 44 | 11% | 25% |  |
-| 45 | 8% | 14% |  |
-| 46 | 3% | 7% |  |
-| 47 | 1.4% | 4% |  |
-| 48 | 2% | 3% |  |
-| 49 | 0.8% | 1.2% |  |
-| 50 | 0.2% | 0.4% |  |
-| 51 | 0.1% | 0.2% |  |
-| 52 | 0.1% | 0.1% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0.2% | 99.9% |  |
+| 32 | 0.5% | 99.7% |  |
+| 33 | 1.5% | 99.2% |  |
+| 34 | 2% | 98% |  |
+| 35 | 5% | 95% |  |
+| 36 | 6% | 91% |  |
+| 37 | 9% | 85% |  |
+| 38 | 8% | 75% |  |
+| 39 | 9% | 67% |  |
+| 40 | 12% | 58% | Median |
+| 41 | 12% | 46% |  |
+| 42 | 8% | 33% |  |
+| 43 | 6% | 26% |  |
+| 44 | 9% | 20% |  |
+| 45 | 6% | 12% |  |
+| 46 | 2% | 5% |  |
+| 47 | 1.1% | 3% |  |
+| 48 | 1.3% | 2% |  |
+| 49 | 0.7% | 0.9% |  |
+| 50 | 0.2% | 0.3% |  |
+| 51 | 0.1% | 0.1% |  |
+| 52 | 0% | 0.1% |  |
 | 53 | 0% | 0% |  |
 | 54 | 0% | 0% |  |
 | 55 | 0% | 0% |  |
