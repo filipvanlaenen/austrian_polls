@@ -7,7 +7,7 @@ The table below lists all polls registered and analyzed so far.
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 19–23% <br> 36–43 | 27–31% <br> 50–59 | 21–25% <br> 39–47 | 10–13% <br> 18–23 | 8–11% <br> 14–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–13 September 2022](2022-09-13-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 35–42 | 26–30% <br> 50–58 | 20–24% <br> 39–46 | 11–14% <br> 20–26 | 12–15% <br> 22–28 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | 18–23% <br> 32–42 | 26–32% <br> 48–59 | 19–24% <br> 34–44 | 8–12% <br> 15–22 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–6 September 2022](2022-09-06-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 36–42 | 27–31% <br> 53–61 | 20–24% <br> 39–46 | 9–11% <br> 17–22 | 12–15% <br> 22–28 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–30 August 2022](2022-08-30-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 28–32% <br> 53–63 | 20–24% <br> 39–46 | 8–10% <br> 15–20 | 10–12% <br> 18–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–23 August 2022](2022-08-23-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
