@@ -10,7 +10,10 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 9.0–11.5% | 8.7–11.9% | 8.4–12.2% | 7.8–12.9% |
+| N/A | [Poll Average](average.html) | 10.8% | 9.2–12.4% | 8.8–12.7% | 8.5–13.0% | 7.9–13.6% |
+| [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 10.0–12.1% | 9.8–12.4% | 9.6–12.6% | 9.1–13.2% |
+| [12–13 September 2022](2022-09-13-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
+| [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | 10.0% | N/A | N/A | N/A | N/A |
 | [5–6 September 2022](2022-09-06-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [29–30 August 2022](2022-08-30-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [22–23 August 2022](2022-08-23-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
@@ -206,12 +209,12 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.2% | 100% |  |
 | 7.5–8.5% | 3% | 99.8% |  |
-| 8.5–9.5% | 20% | 96% |  |
-| 9.5–10.5% | 39% | 77% | Median |
-| 10.5–11.5% | 28% | 38% |  |
-| 11.5–12.5% | 9% | 10% |  |
-| 12.5–13.5% | 1.2% | 1.2% |  |
-| 13.5–14.5% | 0.1% | 0.1% | Last Result |
+| 8.5–9.5% | 13% | 97% |  |
+| 9.5–10.5% | 25% | 84% |  |
+| 10.5–11.5% | 30% | 59% | Median |
+| 11.5–12.5% | 22% | 29% |  |
+| 12.5–13.5% | 7% | 7% |  |
+| 13.5–14.5% | 0.6% | 0.6% | Last Result |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -223,7 +226,10 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–22 | 16–23 | 15–23 | 14–25 |
+| N/A | [Poll Average](average.html) | 20 | 17–23 | 16–24 | 16–25 | 14–26 |
+| [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 20 | 19–22 | 18–23 | 18–23 | 17–25 |
+| [12–13 September 2022](2022-09-13-Market.html) | Market <br> ÖSTERREICH | 23 | 21–25 | 21–25 | 20–26 | 19–27 |
+| [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
 | [5–6 September 2022](2022-09-06-Market.html) | Market <br> ÖSTERREICH | 19 | 18–21 | 17–21 | 17–22 | 16–23 |
 | [29–30 August 2022](2022-08-30-Market.html) | Market <br> ÖSTERREICH | 17 | 15–19 | 15–19 | 15–20 | 14–21 |
 | [22–23 August 2022](2022-08-23-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -419,19 +425,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 0.1% | 100% |  |
-| 14 | 0.6% | 99.9% |  |
-| 15 | 2% | 99.2% |  |
-| 16 | 5% | 97% |  |
-| 17 | 11% | 92% |  |
-| 18 | 18% | 81% |  |
-| 19 | 19% | 63% | Median |
-| 20 | 18% | 44% |  |
-| 21 | 13% | 26% |  |
-| 22 | 7% | 13% |  |
-| 23 | 4% | 5% |  |
-| 24 | 1.2% | 2% |  |
-| 25 | 0.4% | 0.5% |  |
-| 26 | 0.1% | 0.1% | Last Result |
-| 27 | 0% | 0% |  |
+| 14 | 0.5% | 99.9% |  |
+| 15 | 1.4% | 99.4% |  |
+| 16 | 3% | 98% |  |
+| 17 | 8% | 95% |  |
+| 18 | 12% | 86% |  |
+| 19 | 13% | 74% |  |
+| 20 | 15% | 61% | Median |
+| 21 | 15% | 46% |  |
+| 22 | 12% | 32% |  |
+| 23 | 10% | 19% |  |
+| 24 | 6% | 10% |  |
+| 25 | 3% | 4% |  |
+| 26 | 0.7% | 0.9% | Last Result |
+| 27 | 0.2% | 0.2% |  |
+| 28 | 0% | 0% |  |
 
 
