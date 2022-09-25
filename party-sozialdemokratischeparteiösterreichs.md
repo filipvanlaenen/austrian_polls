@@ -11,6 +11,7 @@ Last result: **21.2%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.1% | 27.2–31.5% | 26.7–32.2% | 26.3–32.8% | 25.5–34.0% |
+| [19–20 September 2022](2022-09-20-Market.html) | Market <br> ÖSTERREICH | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.7% |
 | [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 29.0% | 27.6–30.5% | 27.2–30.9% | 26.8–31.3% | 26.2–32.0% |
 | [12–13 September 2022](2022-09-13-Market.html) | Market <br> ÖSTERREICH | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.7% |
 | [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
@@ -233,6 +234,7 @@ Last result: **40** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 55 | 51–60 | 50–62 | 49–63 | 48–66 |
+| [19–20 September 2022](2022-09-20-Market.html) | Market <br> ÖSTERREICH | 53 | 51–56 | 50–57 | 49–58 | 48–59 |
 | [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 54 | 52–57 | 51–58 | 50–59 | 49–60 |
 | [12–13 September 2022](2022-09-13-Market.html) | Market <br> ÖSTERREICH | 54 | 52–57 | 51–57 | 50–58 | 49–59 |
 | [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | 53 | 50–57 | 49–58 | 48–59 | 47–61 |
@@ -438,15 +440,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 0% | 100% |  |
 | 46 | 0.1% | 99.9% |  |
 | 47 | 0.3% | 99.8% |  |
-| 48 | 0.7% | 99.6% |  |
-| 49 | 1.4% | 98.8% |  |
-| 50 | 3% | 97% |  |
-| 51 | 6% | 94% |  |
-| 52 | 9% | 89% |  |
-| 53 | 11% | 79% |  |
-| 54 | 14% | 68% |  |
-| 55 | 13% | 54% | Median |
-| 56 | 10% | 41% |  |
+| 48 | 0.8% | 99.5% |  |
+| 49 | 2% | 98.7% |  |
+| 50 | 4% | 97% |  |
+| 51 | 7% | 93% |  |
+| 52 | 10% | 87% |  |
+| 53 | 12% | 77% |  |
+| 54 | 13% | 65% |  |
+| 55 | 12% | 52% | Median |
+| 56 | 10% | 40% |  |
 | 57 | 8% | 30% |  |
 | 58 | 6% | 22% |  |
 | 59 | 4% | 17% |  |

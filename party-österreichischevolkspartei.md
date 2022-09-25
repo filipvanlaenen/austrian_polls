@@ -11,6 +11,7 @@ Last result: **37.5%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20.6% | 18.9–22.5% | 18.5–23.2% | 18.1–23.8% | 17.3–25.0% |
+| [19–20 September 2022](2022-09-20-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 21.0% | 19.7–22.4% | 19.4–22.7% | 19.1–23.1% | 18.5–23.7% |
 | [12–13 September 2022](2022-09-13-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
@@ -240,7 +241,8 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39 | 35–42 | 35–44 | 34–45 | 32–47 |
+| N/A | [Poll Average](average.html) | 39 | 35–42 | 34–44 | 34–45 | 32–47 |
+| [19–20 September 2022](2022-09-20-Market.html) | Market <br> ÖSTERREICH | 38 | 36–41 | 35–41 | 34–42 | 33–43 |
 | [7–15 September 2022](2022-09-15-UniqueResearch.html) | Unique Research <br> profil | 39 | 37–42 | 36–43 | 36–43 | 35–45 |
 | [12–13 September 2022](2022-09-13-Market.html) | Market <br> ÖSTERREICH | 38 | 36–41 | 36–41 | 35–42 | 34–43 |
 | [5–8 September 2022](2022-09-08-INSA.html) | INSA <br> eXXpress | 37 | 34–40 | 33–41 | 32–42 | 31–43 |
@@ -443,13 +445,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 32 | 0.5% | 99.7% |  |
 | 33 | 2% | 99.2% |  |
 | 34 | 3% | 98% |  |
-| 35 | 5% | 95% |  |
-| 36 | 8% | 90% |  |
-| 37 | 13% | 82% |  |
-| 38 | 14% | 69% |  |
-| 39 | 15% | 54% | Median |
-| 40 | 14% | 39% |  |
-| 41 | 10% | 26% |  |
+| 35 | 6% | 95% |  |
+| 36 | 8% | 89% |  |
+| 37 | 13% | 80% |  |
+| 38 | 15% | 67% |  |
+| 39 | 14% | 52% | Median |
+| 40 | 13% | 38% |  |
+| 41 | 9% | 25% |  |
 | 42 | 7% | 16% |  |
 | 43 | 4% | 9% |  |
 | 44 | 2% | 5% |  |
