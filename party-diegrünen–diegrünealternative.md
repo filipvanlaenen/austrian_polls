@@ -10,7 +10,9 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.2% | 7.7–12.8% |
+| N/A | [Poll Average](average.html) | 10.2% | 9.1–11.7% | 8.8–12.2% | 8.5–12.6% | 8.0–13.5% |
+| [10–13 October 2022](2022-10-13-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
+| [10–12 October 2022](2022-10-12-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [4–6 October 2022](2022-10-06-INSA.html) | INSA <br> eXXpress | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [3–5 October 2022](2022-10-05-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [23–28 September 2022](2022-09-28-OGM.html) | OGM <br> KURIER | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–11.9% | 7.9–12.6% |
@@ -212,15 +214,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 8% | 99.7% |  |
-| 8.5–9.5% | 27% | 92% |  |
-| 9.5–10.5% | 31% | 65% | Median |
-| 10.5–11.5% | 24% | 34% |  |
-| 11.5–12.5% | 8% | 9% |  |
-| 12.5–13.5% | 1.0% | 1.1% |  |
-| 13.5–14.5% | 0% | 0% | Last Result |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 3% | 99.9% |  |
+| 8.5–9.5% | 20% | 97% |  |
+| 9.5–10.5% | 40% | 78% | Median |
+| 10.5–11.5% | 26% | 38% |  |
+| 11.5–12.5% | 9% | 12% |  |
+| 12.5–13.5% | 2% | 3% |  |
+| 13.5–14.5% | 0.4% | 0.4% | Last Result |
 | 14.5–15.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -231,7 +234,9 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–21 | 16–22 | 15–23 | 14–24 |
+| N/A | [Poll Average](average.html) | 19 | 17–22 | 16–23 | 16–24 | 15–25 |
+| [10–13 October 2022](2022-10-13-UniqueResearch.html) | Unique Research <br> profil | 21 | 18–24 | 17–24 | 17–25 | 16–27 |
+| [10–12 October 2022](2022-10-12-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | [4–6 October 2022](2022-10-06-INSA.html) | INSA <br> eXXpress | 19 | 16–21 | 16–22 | 15–22 | 14–24 |
 | [3–5 October 2022](2022-10-05-Market.html) | Market <br> ÖSTERREICH | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [23–28 September 2022](2022-09-28-OGM.html) | OGM <br> KURIER | 19 | 17–21 | 16–22 | 15–22 | 15–24 |
@@ -434,19 +439,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 0.6% | 99.9% |  |
-| 15 | 3% | 99.4% |  |
-| 16 | 9% | 96% |  |
-| 17 | 16% | 87% |  |
-| 18 | 18% | 71% |  |
-| 19 | 18% | 53% | Median |
-| 20 | 15% | 36% |  |
-| 21 | 11% | 20% |  |
-| 22 | 6% | 9% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.7% | 0.9% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0% | Last Result |
+| 14 | 0.3% | 100% |  |
+| 15 | 1.3% | 99.7% |  |
+| 16 | 4% | 98% |  |
+| 17 | 10% | 94% |  |
+| 18 | 18% | 84% |  |
+| 19 | 22% | 66% | Median |
+| 20 | 17% | 43% |  |
+| 21 | 12% | 26% |  |
+| 22 | 7% | 14% |  |
+| 23 | 3% | 7% |  |
+| 24 | 2% | 3% |  |
+| 25 | 0.8% | 1.2% |  |
+| 26 | 0.3% | 0.5% | Last Result |
+| 27 | 0.1% | 0.2% |  |
+| 28 | 0% | 0% |  |
 
 
