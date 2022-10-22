@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.5–11.1% | 8.2–11.5% | 7.9–11.8% | 7.3–12.6% |
+| N/A | [Poll Average](average.html) | 9.9% | 8.6–11.1% | 8.2–11.5% | 7.9–11.9% | 7.3–12.6% |
+| [10–14 October 2022](2022-10-14-IFDD.html) | IFDD <br> PULS 24 | 10.0% | 8.9–11.4% | 8.6–11.7% | 8.3–12.1% | 7.8–12.7% |
 | [10–13 October 2022](2022-10-13-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [10–12 October 2022](2022-10-12-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [4–6 October 2022](2022-10-06-INSA.html) | INSA <br> eXXpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -214,13 +215,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 1.1% | 100% |  |
-| 7.5–8.5% | 9% | 98.9% | Last Result |
-| 8.5–9.5% | 28% | 90% |  |
-| 9.5–10.5% | 39% | 61% | Median |
-| 10.5–11.5% | 19% | 23% |  |
-| 11.5–12.5% | 4% | 4% |  |
-| 12.5–13.5% | 0.5% | 0.5% |  |
+| 6.5–7.5% | 0.9% | 100% |  |
+| 7.5–8.5% | 8% | 99.1% | Last Result |
+| 8.5–9.5% | 28% | 91% |  |
+| 9.5–10.5% | 39% | 63% | Median |
+| 10.5–11.5% | 20% | 24% |  |
+| 11.5–12.5% | 4% | 5% |  |
+| 12.5–13.5% | 0.5% | 0.6% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -232,7 +233,8 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–21 | 15–22 | 14–22 | 13–24 |
+| N/A | [Poll Average](average.html) | 19 | 16–21 | 15–22 | 15–22 | 13–23 |
+| [10–14 October 2022](2022-10-14-IFDD.html) | IFDD <br> PULS 24 | 19 | 16–20 | 16–21 | 15–22 | 15–23 |
 | [10–13 October 2022](2022-10-13-UniqueResearch.html) | Unique Research <br> profil | 19 | 16–22 | 16–22 | 15–23 | 14–25 |
 | [10–12 October 2022](2022-10-12-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | [4–6 October 2022](2022-10-06-INSA.html) | INSA <br> eXXpress | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
@@ -439,18 +441,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
 | 13 | 0.5% | 99.9% |  |
-| 14 | 2% | 99.4% |  |
-| 15 | 5% | 97% | Last Result |
-| 16 | 9% | 93% |  |
-| 17 | 15% | 83% |  |
-| 18 | 20% | 69% | Median |
-| 19 | 20% | 49% |  |
-| 20 | 15% | 29% |  |
-| 21 | 8% | 14% |  |
+| 14 | 2% | 99.5% |  |
+| 15 | 5% | 98% | Last Result |
+| 16 | 12% | 93% |  |
+| 17 | 12% | 81% |  |
+| 18 | 16% | 69% |  |
+| 19 | 26% | 53% | Median |
+| 20 | 15% | 26% |  |
+| 21 | 7% | 12% |  |
 | 22 | 3% | 5% |  |
-| 23 | 1.3% | 2% |  |
-| 24 | 0.4% | 0.6% |  |
-| 25 | 0.1% | 0.2% |  |
+| 23 | 1.4% | 2% |  |
+| 24 | 0.4% | 0.5% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 
