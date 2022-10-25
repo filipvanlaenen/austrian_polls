@@ -11,6 +11,7 @@ Last result: **16.2%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.7% | 21.5–25.7% | 20.9–26.2% | 20.4–26.7% | 19.6–27.5% |
+| [17–19 October 2022](2022-10-19-Market.html) | Market <br> ÖSTERREICH | 25.0% | 23.8–26.3% | 23.4–26.6% | 23.2–26.9% | 22.6–27.6% |
 | [10–14 October 2022](2022-10-14-IFDD.html) | IFDD <br> PULS 24 | 24.0% | 22.4–25.8% | 21.9–26.3% | 21.5–26.8% | 20.7–27.6% |
 | [10–13 October 2022](2022-10-13-UniqueResearch.html) | Unique Research <br> profil | 24.0% | 22.1–26.0% | 21.6–26.6% | 21.2–27.1% | 20.3–28.1% |
 | [10–12 October 2022](2022-10-12-Market.html) | Market <br> ÖSTERREICH | 25.0% | 23.8–26.3% | 23.4–26.6% | 23.2–26.9% | 22.6–27.6% |
@@ -240,6 +241,7 @@ Last result: **31** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 45 | 40–49 | 39–50 | 38–51 | 37–53 |
+| [17–19 October 2022](2022-10-19-Market.html) | Market <br> ÖSTERREICH | 48 | 45–50 | 44–51 | 44–52 | 43–53 |
 | [10–14 October 2022](2022-10-14-IFDD.html) | IFDD <br> PULS 24 | 44 | 41–48 | 40–49 | 39–49 | 38–51 |
 | [10–13 October 2022](2022-10-13-UniqueResearch.html) | Unique Research <br> profil | 46 | 42–50 | 41–51 | 40–52 | 39–53 |
 | [10–12 October 2022](2022-10-12-Market.html) | Market <br> ÖSTERREICH | 48 | 46–51 | 45–51 | 45–52 | 43–53 |
@@ -459,14 +461,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 9% | 82% |  |
 | 43 | 11% | 73% |  |
 | 44 | 11% | 62% |  |
-| 45 | 11% | 52% | Median |
-| 46 | 10% | 41% |  |
-| 47 | 9% | 32% |  |
-| 48 | 8% | 22% |  |
-| 49 | 6% | 14% |  |
-| 50 | 4% | 8% |  |
-| 51 | 2% | 4% |  |
-| 52 | 1.0% | 2% |  |
+| 45 | 11% | 51% | Median |
+| 46 | 10% | 40% |  |
+| 47 | 9% | 29% |  |
+| 48 | 8% | 20% |  |
+| 49 | 5% | 12% |  |
+| 50 | 4% | 7% |  |
+| 51 | 2% | 3% |  |
+| 52 | 0.9% | 1.4% |  |
 | 53 | 0.4% | 0.5% |  |
 | 54 | 0.1% | 0.2% |  |
 | 55 | 0% | 0.1% |  |

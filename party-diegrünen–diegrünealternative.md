@@ -11,6 +11,7 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.2% | 9.1–11.6% | 8.8–12.1% | 8.5–12.5% | 8.0–13.4% |
+| [17–19 October 2022](2022-10-19-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [10–14 October 2022](2022-10-14-IFDD.html) | IFDD <br> PULS 24 | 10.0% | 8.9–11.4% | 8.6–11.7% | 8.3–12.1% | 7.8–12.7% |
 | [10–13 October 2022](2022-10-13-UniqueResearch.html) | Unique Research <br> profil | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [10–12 October 2022](2022-10-12-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
@@ -235,6 +236,7 @@ Last result: **26** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–22 | 16–23 | 16–24 | 15–25 |
+| [17–19 October 2022](2022-10-19-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 16–22 | 16–23 |
 | [10–14 October 2022](2022-10-14-IFDD.html) | IFDD <br> PULS 24 | 18 | 16–21 | 15–21 | 15–22 | 14–23 |
 | [10–13 October 2022](2022-10-13-UniqueResearch.html) | Unique Research <br> profil | 21 | 18–24 | 17–24 | 17–25 | 16–27 |
 | [10–12 October 2022](2022-10-12-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
@@ -444,11 +446,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.4% | 99.9% |  |
 | 15 | 2% | 99.5% |  |
 | 16 | 6% | 98% |  |
-| 17 | 12% | 92% |  |
-| 18 | 19% | 80% |  |
-| 19 | 22% | 61% | Median |
-| 20 | 17% | 40% |  |
-| 21 | 11% | 23% |  |
+| 17 | 13% | 92% |  |
+| 18 | 19% | 79% |  |
+| 19 | 21% | 60% | Median |
+| 20 | 16% | 39% |  |
+| 21 | 11% | 22% |  |
 | 22 | 6% | 12% |  |
 | 23 | 3% | 6% |  |
 | 24 | 2% | 3% |  |
