@@ -11,6 +11,7 @@ Last result: **37.5%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21.5% | 19.5–23.3% | 19.0–23.8% | 18.6–24.3% | 17.8–25.2% |
+| [14–16 November 2022](2022-11-16-Market.html) | Market <br> ÖSTERREICH | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
 | [7–10 November 2022](2022-11-10-UniqueResearch.html) | Unique Research <br> profil | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
 | [7–9 November 2022](2022-11-09-Market.html) | Market <br> ÖSTERREICH | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
 | [2–4 November 2022](2022-11-04-INSA.html) | INSA <br> eXXpress | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
@@ -255,6 +256,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 41 | 36–44 | 35–46 | 34–47 | 33–49 |
+| [14–16 November 2022](2022-11-16-Market.html) | Market <br> ÖSTERREICH | 42 | 40–44 | 39–45 | 39–45 | 37–47 |
 | [7–10 November 2022](2022-11-10-UniqueResearch.html) | Unique Research <br> profil | 43 | 39–46 | 38–48 | 37–48 | 35–50 |
 | [7–9 November 2022](2022-11-09-Market.html) | Market <br> ÖSTERREICH | 42 | 40–44 | 39–45 | 39–46 | 37–47 |
 | [2–4 November 2022](2022-11-04-INSA.html) | INSA <br> eXXpress | 39 | 36–42 | 35–43 | 35–44 | 33–46 |
@@ -478,7 +480,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 10% | 72% |  |
 | 40 | 11% | 62% |  |
 | 41 | 13% | 51% | Median |
-| 42 | 11% | 39% |  |
+| 42 | 12% | 39% |  |
 | 43 | 10% | 27% |  |
 | 44 | 7% | 17% |  |
 | 45 | 5% | 10% |  |

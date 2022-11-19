@@ -11,6 +11,7 @@ Last result: **8.1%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.5% | 8.7–12.3% | 8.3–12.7% | 7.9–13.0% | 7.3–13.6% |
+| [14–16 November 2022](2022-11-16-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
 | [7–10 November 2022](2022-11-10-UniqueResearch.html) | Unique Research <br> profil | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [7–9 November 2022](2022-11-09-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
 | [2–4 November 2022](2022-11-04-INSA.html) | INSA <br> eXXpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -242,6 +243,7 @@ Last result: **15** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 16–23 | 15–24 | 15–24 | 13–26 |
+| [14–16 November 2022](2022-11-16-Market.html) | Market <br> ÖSTERREICH | 23 | 21–25 | 20–25 | 20–26 | 19–26 |
 | [7–10 November 2022](2022-11-10-UniqueResearch.html) | Unique Research <br> profil | 19 | 17–22 | 16–23 | 15–23 | 14–25 |
 | [7–9 November 2022](2022-11-09-Market.html) | Market <br> ÖSTERREICH | 23 | 21–25 | 20–25 | 20–26 | 19–26 |
 | [2–4 November 2022](2022-11-04-INSA.html) | INSA <br> eXXpress | 17 | 14–19 | 14–20 | 13–20 | 13–21 |
