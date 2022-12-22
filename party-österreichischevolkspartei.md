@@ -10,7 +10,11 @@ Last result: **37.5%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.9% | 19.2–23.1% | 18.8–23.7% | 18.4–24.2% | 17.7–25.2% |
+| N/A | [Poll Average](average.html) | 21.1% | 19.1–23.8% | 18.6–24.5% | 18.2–25.0% | 17.5–26.1% |
+| [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 22.5% | 20.7–24.5% | 20.2–25.0% | 19.7–25.5% | 18.9–26.5% |
+| [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | 21.0% | N/A | N/A | N/A | N/A |
+| [2–7 December 2022](2022-12-07-UniqueResearch.html) | Unique Research <br> profil | 19.8% | N/A | N/A | N/A | N/A |
+| [3–5 December 2022](2022-12-05-Market.html) | Market <br> Der Standard | 20.8% | N/A | N/A | N/A | N/A |
 | [21–23 November 2022](2022-11-23-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [14–16 November 2022](2022-11-16-Market.html) | Market <br> ÖSTERREICH | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
 | [7–10 November 2022](2022-11-10-UniqueResearch.html) | Unique Research <br> profil | 22.0% | 20.2–24.0% | 19.7–24.5% | 19.3–25.0% | 18.4–26.0% |
@@ -224,17 +228,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.3% | 100% |  |
-| 17.5–18.5% | 3% | 99.7% |  |
-| 18.5–19.5% | 13% | 97% |  |
-| 19.5–20.5% | 24% | 84% |  |
-| 20.5–21.5% | 24% | 60% | Median |
-| 21.5–22.5% | 19% | 36% |  |
-| 22.5–23.5% | 11% | 17% |  |
-| 23.5–24.5% | 5% | 6% |  |
-| 24.5–25.5% | 1.3% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.3% |  |
-| 26.5–27.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.5% | 100% |  |
+| 17.5–18.5% | 4% | 99.4% |  |
+| 18.5–19.5% | 13% | 95% |  |
+| 19.5–20.5% | 20% | 82% |  |
+| 20.5–21.5% | 20% | 62% | Median |
+| 21.5–22.5% | 17% | 42% |  |
+| 22.5–23.5% | 13% | 26% |  |
+| 23.5–24.5% | 8% | 13% |  |
+| 24.5–25.5% | 3% | 5% |  |
+| 25.5–26.5% | 1.0% | 1.2% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
 | 29.5–30.5% | 0% | 0% |  |
@@ -256,7 +260,11 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39 | 35–44 | 35–45 | 34–47 | 32–49 |
+| N/A | [Poll Average](average.html) | 39 | 35–45 | 34–46 | 33–48 | 32–50 |
+| [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 43 | 39–46 | 38–48 | 37–48 | 36–50 |
+| [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [2–7 December 2022](2022-12-07-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
+| [3–5 December 2022](2022-12-05-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [21–23 November 2022](2022-11-23-Market.html) | Market <br> ÖSTERREICH | 37 | 35–39 | 34–40 | 34–40 | 33–42 |
 | [14–16 November 2022](2022-11-16-Market.html) | Market <br> ÖSTERREICH | 42 | 40–44 | 39–45 | 39–45 | 37–47 |
 | [7–10 November 2022](2022-11-10-UniqueResearch.html) | Unique Research <br> profil | 43 | 39–46 | 38–48 | 37–48 | 35–50 |
@@ -471,28 +479,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.4% | 99.9% |  |
-| 33 | 1.2% | 99.5% |  |
-| 34 | 3% | 98% |  |
-| 35 | 6% | 95% |  |
-| 36 | 9% | 89% |  |
-| 37 | 11% | 80% |  |
-| 38 | 12% | 69% |  |
-| 39 | 11% | 56% | Median |
-| 40 | 10% | 45% |  |
-| 41 | 9% | 36% |  |
-| 42 | 7% | 27% |  |
-| 43 | 6% | 20% |  |
-| 44 | 5% | 13% |  |
-| 45 | 3% | 8% |  |
-| 46 | 2% | 5% |  |
-| 47 | 1.3% | 3% |  |
-| 48 | 0.7% | 1.3% |  |
-| 49 | 0.3% | 0.5% |  |
-| 50 | 0.1% | 0.2% |  |
-| 51 | 0.1% | 0.1% |  |
-| 52 | 0% | 0% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0.2% | 99.9% |  |
+| 32 | 0.8% | 99.7% |  |
+| 33 | 2% | 98.9% |  |
+| 34 | 4% | 97% |  |
+| 35 | 7% | 92% |  |
+| 36 | 10% | 85% |  |
+| 37 | 10% | 75% |  |
+| 38 | 9% | 66% |  |
+| 39 | 8% | 56% | Median |
+| 40 | 8% | 48% |  |
+| 41 | 6% | 41% |  |
+| 42 | 8% | 35% |  |
+| 43 | 6% | 26% |  |
+| 44 | 7% | 21% |  |
+| 45 | 5% | 14% |  |
+| 46 | 4% | 9% |  |
+| 47 | 2% | 5% |  |
+| 48 | 2% | 3% |  |
+| 49 | 0.6% | 1.2% |  |
+| 50 | 0.4% | 0.6% |  |
+| 51 | 0.1% | 0.2% |  |
+| 52 | 0.1% | 0.1% |  |
 | 53 | 0% | 0% |  |
 | 54 | 0% | 0% |  |
 | 55 | 0% | 0% |  |
