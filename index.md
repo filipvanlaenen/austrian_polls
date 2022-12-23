@@ -5,11 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–25% <br> 33–48 | 22–29% <br> 42–54 | 23–29% <br> 42–55 | 9–13% <br> 17–25 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–24% <br> 33–46 | 23–30% <br> 43–56 | 23–31% <br> 43–58 | 8–13% <br> 16–24 | 7–13% <br> 13–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 20–26% <br> 37–48 | 22–28% <br> 41–52 | 24–30% <br> 45–56 | 9–14% <br> 17–26 | 9–14% <br> 17–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–7 December 2022](2022-12-07-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–5 December 2022](2022-12-05-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | 19–24% <br> 35–45 | 24–30% <br> 46–57 | 23–29% <br> 44–55 | 8–12% <br> 15–22 | 6–10% <br> 12–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–7 December 2022](2022-12-07-UniqueResearch.html) | Unique Research <br> profil | 17–23% <br> 32–44 | 23–29% <br> 43–56 | 23–29% <br> 43–56 | 9–13% <br> 16–25 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–5 December 2022](2022-12-05-Market.html) | Market <br> Der Standard | 18–24% <br> 34–45 | 24–30% <br> 45–56 | 26–32% <br> 48–60 | 8–12% <br> 15–23 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26–28 October 2022](2022-10-28-IFDD.html) | IFDD <br> PULS 24 | 18–22% <br> 33–41 | 25–30% <br> 45–54 | 23–28% <br> 42–51 | 9–13% <br> 17–23 | 9–13% <br> 17–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
