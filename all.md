@@ -6,9 +6,9 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [12–15 December 2022](2022-12-15-PeterHajek.html) | Peter Hajek <br> APA and ATV | 20–26% <br> 37–48 | 22–28% <br> 41–52 | 24–30% <br> 45–56 | 9–14% <br> 17–26 | 9–14% <br> 17–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [2–7 December 2022](2022-12-07-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [3–5 December 2022](2022-12-05-Market.html) | Market <br> Der Standard | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–9 December 2022](2022-12-09-INSA.html) | INSA <br> eXXpress | 19–24% <br> 35–45 | 24–30% <br> 46–57 | 23–29% <br> 44–55 | 8–12% <br> 15–22 | 6–10% <br> 12–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [2–7 December 2022](2022-12-07-UniqueResearch.html) | Unique Research <br> profil | 17–23% <br> 32–44 | 23–29% <br> 43–56 | 23–29% <br> 43–56 | 9–13% <br> 16–25 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [3–5 December 2022](2022-12-05-Market.html) | Market <br> Der Standard | 18–24% <br> 34–45 | 24–30% <br> 45–56 | 26–32% <br> 48–60 | 8–12% <br> 15–23 | 9–13% <br> 17–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [21–23 November 2022](2022-11-23-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 34–40 | 23–27% <br> 43–50 | 24–28% <br> 45–52 | 9–11% <br> 16–21 | 12–15% <br> 21–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [14–16 November 2022](2022-11-16-Market.html) | Market <br> ÖSTERREICH | 20–24% <br> 39–45 | 25–29% <br> 48–55 | 23–27% <br> 44–51 | 9–11% <br> 16–21 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [7–10 November 2022](2022-11-10-UniqueResearch.html) | Unique Research <br> profil | 19–25% <br> 37–48 | 24–30% <br> 46–59 | 22–28% <br> 43–54 | 8–12% <br> 15–24 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
