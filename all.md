@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [17–21 February 2023](2023-02-21-Market.html) | Market <br> Der Standard | 19–25% <br> 35–46 | 21–27% <br> 39–50 | 25–31% <br> 46–58 | 8–12% <br> 15–22 | 9–13% <br> 16–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–16 February 2023](2023-02-16-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 40–51 | 21–27% <br> 40–51 | 26–32% <br> 49–61 | 8–12% <br> 15–23 | 8–12% <br> 15–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–16 February 2023](2023-02-16-OGM.html) | OGM <br> KURIER | 20–25% <br> 36–45 | 21–27% <br> 39–49 | 24–30% <br> 45–55 | 8–12% <br> 15–22 | 9–13% <br> 17–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 February 2023](2023-02-09-INSA.html) | INSA <br> eXXpress | 19–24% <br> 34–43 | 21–27% <br> 39–49 | 25–31% <br> 46–57 | 8–12% <br> 15–22 | 9–13% <br> 17–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
