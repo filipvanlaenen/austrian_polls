@@ -6,6 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute | 22–28% <br> 41–53 | 21–27% <br> 40–51 | 25–31% <br> 47–59 | 9–13% <br> 17–25 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20–23 March 2023](2023-03-23-OGM.html) | OGM <br> KURIER | 21–26% <br> 38–47 | 21–26% <br> 38–47 | 25–31% <br> 47–57 | 8–12% <br> 15–22 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard | 20–26% <br> 37–48 | 18–24% <br> 33–44 | 26–32% <br> 48–59 | 8–12% <br> 14–22 | 9–13% <br> 16–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [20–22 March 2023](2023-03-22-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–9 March 2023](2023-03-09-UniqueResearch.html) | Unique Research <br> profil | 19–25% <br> 36–47 | 22–28% <br> 41–53 | 28–34% <br> 52–65 | 8–12% <br> 15–23 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
