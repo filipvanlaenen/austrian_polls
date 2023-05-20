@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [16–18 May 2023](2023-05-18-IFDD.html) | IFDD <br> Kronen Zeitung | 22–26% <br> 40–50 | 19–23% <br> 35–44 | 25–30% <br> 46–56 | 8–11% <br> 14–20 | 7–10% <br> 12–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–16 May 2023](2023-05-16-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 35–42 | 23–27% <br> 42–50 | 24–28% <br> 44–51 | 10–12% <br> 18–23 | 10–12% <br> 17–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–11 May 2023](2023-05-11-UniqueResearch.html) | Unique Research <br> profil | 20–26% <br> 37–48 | 20–26% <br> 37–48 | 26–32% <br> 48–59 | 8–12% <br> 15–22 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 April–10 May 2023](2023-05-10-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 35–42 | 23–27% <br> 42–50 | 24–28% <br> 44–51 | 11–14% <br> 19–25 | 9–11% <br> 16–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 April–4 May 2023](2023-05-04-OGM.html) | OGM <br> KURIER | 21–25% <br> 39–47 | 18–22% <br> 34–41 | 26–30% <br> 49–57 | 8–10% <br> 14–19 | 8–10% <br> 14–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
