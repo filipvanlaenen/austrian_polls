@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [26 May–7 June 2023](2023-06-07-Market.html) | Market <br> ÖSTERREICH | 22–26% <br> 41–50 | 19–23% <br> 36–43 | 26–30% <br> 49–57 | 10–12% <br> 18–23 | 10–12% <br> 18–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [5–7 June 2023](2023-06-07-INSA.html) | INSA <br> eXXpress | 21–27% <br> 39–49 | 18–23% <br> 32–41 | 27–33% <br> 50–61 | 8–12% <br> 15–22 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26–31 May 2023](2023-05-31-Market.html) | Market <br> ÖSTERREICH | 19–26% <br> 34–48 | 17–24% <br> 31–44 | 23–31% <br> 43–58 | 8–13% <br> 14–24 | 11–17% <br> 20–32 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–27 May 2023](2023-05-27-IFDD.html) | IFDD <br> Kronen Zeitung | 20–24% <br> 37–46 | 23–28% <br> 42–52 | 24–29% <br> 44–53 | 8–12% <br> 16–22 | 8–11% <br> 14–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–24 May 2023](2023-05-24-OGM.html) | OGM <br> Servus TV | 18–22% <br> 33–42 | 22–27% <br> 40–50 | 24–29% <br> 44–53 | 8–12% <br> 15–22 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
