@@ -9,12 +9,13 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 19–26% <br> 35–48 | 19–27% <br> 34–50 | 24–32% <br> 45–59 | 8–12% <br> 15–23 | 8–12% <br> 14–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [26 May–7 June 2023](2023-06-07-Market.html) | Market <br> ÖSTERREICH | 22–26% <br> 41–50 | 19–23% <br> 36–43 | 26–30% <br> 49–57 | 10–12% <br> 18–23 | 10–12% <br> 18–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 19–26% <br> 35–50 | 18–26% <br> 33–50 | 24–33% <br> 45–61 | 8–12% <br> 15–23 | 8–12% <br> 14–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [19–22 June 2023](2023-06-22-PeterHajek.html) | Peter Hajek <br> APA, ATV and PULS 24 | 21–27% <br> 40–52 | 19–25% <br> 36–48 | 27–33% <br> 51–64 | 7–11% <br> 13–21 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–21 June 2023](2023-06-21-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 21–25% <br> 40–49 | 25–29% <br> 48–56 | 10–12% <br> 18–24 | 10–12% <br> 18–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [12–15 June 2023](2023-06-15-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 39–50 | 17–23% <br> 32–43 | 27–33% <br> 50–62 | 9–13% <br> 16–25 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [5–7 June 2023](2023-06-07-INSA.html) | INSA <br> eXXpress | 21–27% <br> 39–49 | 18–23% <br> 32–41 | 27–33% <br> 50–61 | 8–12% <br> 15–22 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–27 May 2023](2023-05-27-IFDD.html) | IFDD <br> Kronen Zeitung | 20–24% <br> 37–46 | 23–28% <br> 42–52 | 24–29% <br> 44–53 | 8–12% <br> 16–22 | 8–11% <br> 14–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–24 May 2023](2023-05-24-OGM.html) | OGM <br> Servus TV | 18–22% <br> 33–42 | 22–27% <br> 40–50 | 24–29% <br> 44–53 | 8–12% <br> 15–22 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–11 May 2023](2023-05-11-UniqueResearch.html) | Unique Research <br> profil | 20–26% <br> 37–48 | 20–26% <br> 37–48 | 26–32% <br> 48–59 | 8–12% <br> 15–22 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -42,11 +43,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 37.5% | 22.9% | 19.9–25.0% |19.2–25.5% | 18.7–26.0% | 17.8–26.9% |
-| <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 21.2% | 22.7% | 19.8–25.6% |19.1–26.2% | 18.6–26.7% | 17.6–27.6% |
-| <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 16.2% | 27.8% | 25.1–30.6% |24.6–31.4% | 24.1–32.0% | 23.2–33.1% |
-| <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 13.9% | 10.3% | 9.0–11.5% |8.7–11.9% | 8.4–12.2% | 7.9–12.8% |
-| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 8.1% | 9.6% | 8.2–11.3% |7.8–11.7% | 7.6–12.0% | 7.0–12.5% |
+| <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 37.5% | 22.5% | 19.9–25.3% |19.3–25.9% | 18.8–26.5% | 17.9–27.5% |
+| <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 21.2% | 22.5% | 19.3–25.3% |18.7–26.0% | 18.1–26.5% | 17.2–27.5% |
+| <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 16.2% | 28.0% | 25.3–31.4% |24.7–32.1% | 24.2–32.6% | 23.3–33.8% |
+| <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 13.9% | 10.3% | 8.8–11.7% |8.3–12.1% | 8.0–12.5% | 7.3–13.3% |
+| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 8.1% | 9.5% | 8.1–11.2% |7.8–11.6% | 7.5–11.9% | 6.9–12.5% |
 | <a href="#jetzt–liste-pilz">JETZT–Liste Pilz</a> | 1.9% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#meine-stimme-g!lt">Meine Stimme G!LT</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#team-hc-strache–allianz-für-österreich">Team HC Strache–Allianz für Österreich</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
