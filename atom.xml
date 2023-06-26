@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_polls</id>
   <title>All Registered Polls for the Nationalrat</title>
-  <updated>2023-06-24T16:53:42.723212+02:00</updated>
+  <updated>2023-06-26T19:25:36.622258+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Österreichs: 19.3–25.0%, 36–48 seats</li><li>Kommunistische Partei Österreichs: 2.9–5.6%, 0–10 seats</li><li>Österreichische Volkspartei: 21.2–27.1%, 40–52 seats</li><li>Freiheitliche Partei Österreichs: 26.9–33.3%, 51–64 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 7.2–11.2%, 13–21 seats</li><li>Die Grünen–Die Grüne Alternative: 7.2–11.2%, 13–21 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_polls/2023-06-22-PeterHajek.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Peter Hajek for APA, ATV and PULS 24, 19–22 June 2023</title>
     <updated>2023-06-24T15:56:47.534725+02:00</updated>
     <dc:date>2023-06-24T15:56:47.534725+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Österreichs: 21.6–26.5%, 41–51 seats</li><li>Kommunistische Partei Österreichs: 3.0–5.3%, 0–10 seats</li><li>Österreichische Volkspartei: 20.7–25.5%, 39–49 seats</li><li>Freiheitliche Partei Österreichs: 25.5–30.7%, 49–60 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 7.5–10.8%, 14–20 seats</li><li>Die Grünen–Die Grüne Alternative: 7.5–10.8%, 14–21 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2023-06-22-OGM.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2023-06-22-OGM.html"/>
+    <title>Opinion Poll by OGM for KURIER, 19–22 June 2023</title>
+    <updated>2023-06-26T19:25:36.622258+02:00</updated>
+    <dc:date>2023-06-26T19:25:36.622258+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Sozialdemokratische Partei Österreichs: 21.2–24.9%, 40–49 seats</li><li>Kommunistische Partei Österreichs: 3.2–5.0%, 0–9 seats</li><li>Österreichische Volkspartei: 19.3–22.8%, 37–44 seats</li><li>Freiheitliche Partei Österreichs: 25.1–29.0%, 48–56 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 9.7–12.5%, 18–24 seats</li><li>Die Grünen–Die Grüne Alternative: 9.7–12.5%, 18–24 seats</li></ul></div></content>
@@ -91,7 +99,7 @@
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Österreichische Volkspartei: 19.3–22.8%, 35–42 seats</li><li>Sozialdemokratische Partei Österreichs: 23.2–26.9%, 42–50 seats</li><li>Freiheitliche Partei Österreichs: 24.1–28.0%, 44–51 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 9.7–12.5%, 17–22 seats</li><li>Die Grünen–Die Grüne Alternative: 9.7–12.5%, 18–23 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_polls/2023-05-16-Market.html</id>
     <link href="https://filipvanlaenen.github.io/austrian_polls/2023-05-16-Market.html"/>
-    <title>Opinion Poll by Market for Der Standard, 12–16 May 2023</title>
+    <title>Opinion Poll by Market for ÖSTERREICH, 8–16 May 2023</title>
     <updated>2023-05-20T18:30:56.418727+02:00</updated>
     <dc:date>2023-05-20T18:30:56.418727+02:00</dc:date>
   </entry>
@@ -1279,5 +1287,5 @@
     <updated>2020-08-30T09:49:50+02:00</updated>
     <dc:date>2020-08-30T09:49:50+02:00</dc:date>
   </entry>
-  <dc:date>2023-06-24T16:53:42.723212+02:00</dc:date>
+  <dc:date>2023-06-26T19:25:36.622258+02:00</dc:date>
 </feed>
