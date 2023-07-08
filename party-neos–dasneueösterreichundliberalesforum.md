@@ -10,8 +10,8 @@ Last result: **8.1%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.5–10.1% | 7.1–10.5% | 6.8–10.9% | 6.2–11.5% |
-| [26 June–5 July 2023](2023-07-05-Market.html) | Market <br> ÖSTERREICH | 11.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 9.2% | 7.7–11.1% | 7.3–11.5% | 6.9–11.9% | 6.3–12.5% |
+| [26 June–5 July 2023](2023-07-05-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [26–29 June 2023](2023-06-29-UniqueResearch.html) | Unique Research <br> Heute | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [19–28 June 2023](2023-06-28-Market.html) | Market <br> ÖSTERREICH | 13.0% | 12.1–14.0% | 11.8–14.3% | 11.6–14.6% | 11.2–15.0% |
 | [19–22 June 2023](2023-06-22-PeterHajek.html) | Peter Hajek <br> APA, ATV and PULS 24 | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
@@ -227,14 +227,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.2% | 100% |  |
-| 6.5–7.5% | 9% | 98.7% |  |
-| 7.5–8.5% | 28% | 90% | Last Result |
-| 8.5–9.5% | 37% | 61% | Median |
-| 9.5–10.5% | 19% | 24% |  |
-| 10.5–11.5% | 4% | 5% |  |
-| 11.5–12.5% | 0.5% | 0.5% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 5.5–6.5% | 1.0% | 100% |  |
+| 6.5–7.5% | 7% | 99.0% |  |
+| 7.5–8.5% | 23% | 92% | Last Result |
+| 8.5–9.5% | 30% | 69% | Median |
+| 9.5–10.5% | 20% | 39% |  |
+| 10.5–11.5% | 14% | 19% |  |
+| 11.5–12.5% | 5% | 5% |  |
+| 12.5–13.5% | 0.4% | 0.4% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -245,8 +246,8 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–20 | 12–20 | 11–22 |
-| [26 June–5 July 2023](2023-07-05-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 17 | 14–21 | 13–22 | 13–22 | 11–23 |
+| [26 June–5 July 2023](2023-07-05-Market.html) | Market <br> ÖSTERREICH | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [26–29 June 2023](2023-06-29-UniqueResearch.html) | Unique Research <br> Heute | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
 | [19–28 June 2023](2023-06-28-Market.html) | Market <br> ÖSTERREICH | 25 | 23–27 | 22–27 | 22–28 | 21–29 |
 | [19–22 June 2023](2023-06-22-PeterHajek.html) | Peter Hajek <br> APA, ATV and PULS 24 | 17 | 14–20 | 14–20 | 13–21 | 12–22 |
@@ -464,19 +465,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 0.6% | 99.9% |  |
-| 12 | 2% | 99.3% |  |
-| 13 | 5% | 97% |  |
-| 14 | 10% | 92% |  |
-| 15 | 16% | 82% | Last Result |
-| 16 | 20% | 66% | Median |
-| 17 | 19% | 46% |  |
-| 18 | 14% | 28% |  |
-| 19 | 8% | 14% |  |
-| 20 | 4% | 6% |  |
-| 21 | 1.4% | 2% |  |
-| 22 | 0.4% | 0.6% |  |
-| 23 | 0.1% | 0.2% |  |
-| 24 | 0% | 0% |  |
+| 11 | 0.4% | 99.9% |  |
+| 12 | 1.5% | 99.5% |  |
+| 13 | 4% | 98% |  |
+| 14 | 8% | 94% |  |
+| 15 | 13% | 86% | Last Result |
+| 16 | 16% | 73% |  |
+| 17 | 15% | 57% | Median |
+| 18 | 12% | 42% |  |
+| 19 | 10% | 30% |  |
+| 20 | 8% | 20% |  |
+| 21 | 6% | 12% |  |
+| 22 | 4% | 5% |  |
+| 23 | 1.4% | 2% |  |
+| 24 | 0.3% | 0.4% |  |
+| 25 | 0.1% | 0.1% |  |
+| 26 | 0% | 0% |  |
 
 
