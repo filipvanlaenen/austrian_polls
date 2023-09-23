@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 21–26% <br> 39–51 | 19–26% <br> 36–51 | 25–34% <br> 49–66 | 8–13% <br> 14–25 | 7–12% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 21–26% <br> 38–51 | 19–26% <br> 36–50 | 25–34% <br> 47–65 | 8–13% <br> 14–25 | 7–12% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [18–20 September 2023](2023-09-20-Market.html) | Market <br> ÖSTERREICH | 20–24% <br> 39–46 | 23–27% <br> 45–52 | 26–30% <br> 50–58 | 9–11% <br> 17–22 | 9–11% <br> 17–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11–14 September 2023](2023-09-14-UniqueResearch.html) | Unique Research <br> profil | 21–27% <br> 41–52 | 18–24% <br> 35–46 | 29–35% <br> 55–68 | 7–11% <br> 13–21 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–14 September 2023](2023-09-14-OGM.html) | OGM <br> KURIER | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–14 September 2023](2023-09-14-OGM.html) | OGM <br> KURIER | 21–26% <br> 38–47 | 21–26% <br> 38–47 | 24–30% <br> 45–55 | 7–11% <br> 13–20 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–7 September 2023](2023-09-07-INSA.html) | INSA <br> eXXpress | 20–26% <br> 37–47 | 20–25% <br> 36–45 | 26–32% <br> 48–58 | 8–12% <br> 14–20 | 8–12% <br> 15–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 August–1 September 2023](2023-09-01-IFDD.html) | IFDD | 22–26% <br> 42–51 | 21–25% <br> 40–49 | 25–30% <br> 48–57 | 10–14% <br> 20–27 | 7–10% <br> 12–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
