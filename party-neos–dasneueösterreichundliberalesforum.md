@@ -10,7 +10,8 @@ Last result: **8.1%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 7.8–10.9% | 7.4–11.3% | 7.1–11.7% | 6.6–12.3% |
+| N/A | [Poll Average](average.html) | 9.7% | 7.8–11.4% | 7.4–11.7% | 7.1–12.0% | 6.6–12.6% |
+| [25–27 September 2023](2023-09-27-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [18–20 September 2023](2023-09-20-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [11–14 September 2023](2023-09-14-UniqueResearch.html) | Unique Research <br> profil | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [11–14 September 2023](2023-09-14-OGM.html) | OGM <br> KURIER | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -48,12 +49,12 @@ Last result: **8.1%** (General Election of 29 September 2019)
 | [29 April–1 May 2023](2023-05-01-IFDD.html) | IFDD <br> BVZ | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.6% | 6.2–10.2% |
 | [24–27 April 2023](2023-04-27-PeterHajek.html) | Peter Hajek <br> APA, ATV and PULS 24 | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [24–26 April 2023](2023-04-26-OGM.html) | OGM <br> Servus TV | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
-| [17–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 12.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| [24–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [7–19 April 2023](2023-04-19-Market.html) | Market <br> ÖSTERREICH | 13.0% | N/A | N/A | N/A | N/A |
 | [3–12 April 2023](2023-04-12-Market.html) | Market | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
 | [3–6 April 2023](2023-04-06-INSA.html) | INSA <br> eXXpress | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [27 March–5 April 2023](2023-04-05-Market.html) | Market | 13.0% | N/A | N/A | N/A | N/A |
-| [20–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
+| [27–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
 | [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [20–23 March 2023](2023-03-23-OGM.html) | OGM <br> KURIER | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
@@ -242,12 +243,12 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.5% | 100% |  |
 | 6.5–7.5% | 6% | 99.5% |  |
-| 7.5–8.5% | 17% | 94% | Last Result |
-| 8.5–9.5% | 27% | 77% |  |
-| 9.5–10.5% | 32% | 50% | Median |
-| 10.5–11.5% | 15% | 18% |  |
-| 11.5–12.5% | 3% | 3% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
+| 7.5–8.5% | 16% | 94% | Last Result |
+| 8.5–9.5% | 22% | 77% |  |
+| 9.5–10.5% | 26% | 55% | Median |
+| 10.5–11.5% | 22% | 29% |  |
+| 11.5–12.5% | 7% | 7% |  |
+| 12.5–13.5% | 0.6% | 0.7% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -259,7 +260,8 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–20 | 14–21 | 13–21 | 12–23 |
+| N/A | [Poll Average](average.html) | 18 | 15–21 | 14–22 | 13–23 | 12–24 |
+| [25–27 September 2023](2023-09-27-Market.html) | Market <br> ÖSTERREICH | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
 | [18–20 September 2023](2023-09-20-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | [11–14 September 2023](2023-09-14-UniqueResearch.html) | Unique Research <br> profil | 17 | 15–20 | 14–21 | 13–21 | 12–23 |
 | [11–14 September 2023](2023-09-14-OGM.html) | OGM <br> KURIER | 18 | 16–20 | 15–21 | 15–22 | 14–23 |
@@ -297,12 +299,12 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [29 April–1 May 2023](2023-05-01-IFDD.html) | IFDD <br> BVZ | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [24–27 April 2023](2023-04-27-PeterHajek.html) | Peter Hajek <br> APA, ATV and PULS 24 | 17 | 15–20 | 14–21 | 14–21 | 13–23 |
 | [24–26 April 2023](2023-04-26-OGM.html) | OGM <br> Servus TV | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
-| [17–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 20 | 18–23 | 18–24 | 17–24 | 16–26 |
+| [24–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 20 | 18–23 | 18–24 | 17–24 | 16–26 |
 | [7–19 April 2023](2023-04-19-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [3–12 April 2023](2023-04-12-Market.html) | Market | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [3–6 April 2023](2023-04-06-INSA.html) | INSA <br> eXXpress | 18 | 16–20 | 15–21 | 15–22 | 14–23 |
 | [27 March–5 April 2023](2023-04-05-Market.html) | Market |  |  |  |  |  |
-| [20–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 24 | 21–26 | 21–27 | 20–28 | 19–29 |
+| [27–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 24 | 21–26 | 21–27 | 20–28 | 19–29 |
 | [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [20–23 March 2023](2023-03-23-OGM.html) | OGM <br> KURIER | 19 | 16–20 | 16–20 | 15–22 | 15–23 |
 | [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard | 20 | 17–23 | 17–24 | 16–24 | 15–26 |
@@ -494,16 +496,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.6% | 99.9% |  |
 | 13 | 2% | 99.3% |  |
 | 14 | 5% | 97% |  |
-| 15 | 10% | 92% | Last Result |
+| 15 | 9% | 92% | Last Result |
 | 16 | 13% | 82% |  |
-| 17 | 17% | 69% |  |
-| 18 | 18% | 52% | Median |
-| 19 | 16% | 34% |  |
-| 20 | 10% | 17% |  |
-| 21 | 5% | 7% |  |
-| 22 | 2% | 2% |  |
-| 23 | 0.4% | 0.5% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 17 | 15% | 69% |  |
+| 18 | 14% | 55% | Median |
+| 19 | 12% | 40% |  |
+| 20 | 11% | 28% |  |
+| 21 | 8% | 17% |  |
+| 22 | 5% | 9% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.7% | 0.8% |  |
+| 25 | 0.1% | 0.2% |  |
+| 26 | 0% | 0% |  |
 
 
