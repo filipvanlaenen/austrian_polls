@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [9–11 October 2023](2023-10-11-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 23–27% <br> 45–52 | 28–32% <br> 54–62 | 8–10% <br> 15–20 | 9–11% <br> 17–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–5 October 2023](2023-10-05-INSA.html) | INSA <br> eXXpress | 20–26% <br> 37–47 | 20–26% <br> 38–47 | 26–32% <br> 48–59 | 7–11% <br> 12–21 | 7–11% <br> 13–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [2–4 October 2023](2023-10-04-Market.html) | Market <br> ÖSTERREICH | 17–22% <br> 31–41 | 24–30% <br> 46–57 | 27–33% <br> 51–63 | 6–10% <br> 12–19 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–27 September 2023](2023-09-27-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 23–27% <br> 45–52 | 27–31% <br> 52–60 | 8–10% <br> 15–20 | 10–12% <br> 18–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -36,7 +37,7 @@ The table below lists all polls registered and analyzed so far.
 | [22–24 May 2023](2023-05-24-OGM.html) | OGM <br> Servus TV | 18–22% <br> 33–42 | 22–27% <br> 40–50 | 24–29% <br> 44–53 | 8–12% <br> 15–22 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [15–24 May 2023](2023-05-24-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 36–43 | 23–27% <br> 43–51 | 26–30% <br> 48–57 | 9–11% <br> 16–21 | 11–14% <br> 19–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [16–18 May 2023](2023-05-18-IFDD.html) | IFDD <br> Kronen Zeitung | 22–26% <br> 40–50 | 19–23% <br> 35–44 | 25–30% <br> 46–56 | 8–11% <br> 14–20 | 7–10% <br> 12–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [12–16 May 2023](2023-05-16-Market.html) | Market <br> Der Standard | 19–23% <br> 35–42 | 23–27% <br> 42–50 | 24–28% <br> 44–51 | 10–12% <br> 18–23 | 10–12% <br> 17–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–16 May 2023](2023-05-16-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 35–42 | 23–27% <br> 42–50 | 24–28% <br> 44–51 | 10–12% <br> 18–23 | 10–12% <br> 17–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [8–11 May 2023](2023-05-11-UniqueResearch.html) | Unique Research <br> profil | 20–26% <br> 37–48 | 20–26% <br> 37–48 | 26–32% <br> 48–59 | 8–12% <br> 15–22 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [28 April–10 May 2023](2023-05-10-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 35–42 | 23–27% <br> 42–50 | 24–28% <br> 44–51 | 11–14% <br> 19–25 | 9–11% <br> 16–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 April–4 May 2023](2023-05-04-OGM.html) | OGM <br> KURIER | 21–25% <br> 39–47 | 18–22% <br> 34–41 | 26–30% <br> 49–57 | 8–10% <br> 14–19 | 8–10% <br> 14–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
