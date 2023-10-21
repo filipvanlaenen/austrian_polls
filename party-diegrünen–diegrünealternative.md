@@ -10,7 +10,9 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.3% | 8.1–12.0% | 7.8–12.7% | 7.5–13.1% | 7.0–13.9% |
+| N/A | [Poll Average](average.html) | 9.1% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [16–18 October 2023](2023-10-18-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [9–12 October 2023](2023-10-12-PeterHajek.html) | Peter Hajek <br> APA and ATV | 10.0% | N/A | N/A | N/A | N/A |
 | [9–11 October 2023](2023-10-11-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [2–5 October 2023](2023-10-05-INSA.html) | INSA <br> eXXpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [2–4 October 2023](2023-10-04-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -246,15 +248,13 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
 | 6.5–7.5% | 3% | 99.9% |  |
-| 7.5–8.5% | 19% | 97% |  |
-| 8.5–9.5% | 36% | 78% | Median |
-| 9.5–10.5% | 19% | 42% |  |
-| 10.5–11.5% | 9% | 23% |  |
-| 11.5–12.5% | 9% | 15% |  |
-| 12.5–13.5% | 5% | 6% |  |
-| 13.5–14.5% | 1.0% | 1.1% | Last Result |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 7.5–8.5% | 24% | 97% |  |
+| 8.5–9.5% | 45% | 73% | Median |
+| 9.5–10.5% | 23% | 28% |  |
+| 10.5–11.5% | 5% | 5% |  |
+| 11.5–12.5% | 0.5% | 0.6% |  |
+| 12.5–13.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -265,7 +265,9 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 14–23 | 13–24 | 13–25 | 12–27 |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–20 | 13–21 | 12–22 |
+| [16–18 October 2023](2023-10-18-Market.html) | Market <br> ÖSTERREICH | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
+| [9–12 October 2023](2023-10-12-PeterHajek.html) | Peter Hajek <br> APA and ATV |  |  |  |  |  |
 | [9–11 October 2023](2023-10-11-Market.html) | Market <br> ÖSTERREICH | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [2–5 October 2023](2023-10-05-INSA.html) | INSA <br> eXXpress | 14 | 13–20 | 13–21 | 12–21 | 12–22 |
 | [2–4 October 2023](2023-10-04-Market.html) | Market <br> ÖSTERREICH | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
@@ -500,23 +502,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 1.0% | 100% |  |
-| 13 | 7% | 98.9% |  |
-| 14 | 10% | 92% |  |
-| 15 | 9% | 82% |  |
-| 16 | 13% | 73% |  |
-| 17 | 15% | 60% | Median |
-| 18 | 11% | 45% |  |
-| 19 | 7% | 34% |  |
-| 20 | 6% | 27% |  |
-| 21 | 5% | 21% |  |
-| 22 | 4% | 17% |  |
-| 23 | 4% | 13% |  |
-| 24 | 4% | 8% |  |
-| 25 | 2% | 4% |  |
-| 26 | 1.3% | 2% | Last Result |
-| 27 | 0.5% | 0.7% |  |
-| 28 | 0.2% | 0.2% |  |
-| 29 | 0% | 0% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 1.3% | 99.9% |  |
+| 13 | 8% | 98.6% |  |
+| 14 | 13% | 90% |  |
+| 15 | 12% | 78% |  |
+| 16 | 17% | 65% | Median |
+| 17 | 18% | 48% |  |
+| 18 | 13% | 30% |  |
+| 19 | 8% | 17% |  |
+| 20 | 6% | 9% |  |
+| 21 | 3% | 3% |  |
+| 22 | 0.5% | 0.7% |  |
+| 23 | 0.1% | 0.2% |  |
+| 24 | 0% | 0% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% | Last Result |
 
 
