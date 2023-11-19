@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [13–15 November 2023](2023-11-15-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 36–42 | 24–28% <br> 47–55 | 27–31% <br> 53–61 | 8–10% <br> 15–20 | 9–11% <br> 17–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [6–9 November 2023](2023-11-09-UniqueResearch.html) | Unique Research <br> profil | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [6–9 November 2023](2023-11-09-UniqueResearch.html) | Unique Research <br> profil | 17–23% <br> 33–44 | 20–26% <br> 39–51 | 29–35% <br> 56–69 | 7–11% <br> 14–21 | 8–12% <br> 15–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [6–8 November 2023](2023-11-08-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 35–42 | 23–27% <br> 44–52 | 27–31% <br> 52–61 | 8–10% <br> 15–20 | 9–11% <br> 16–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [30 October–2 November 2023](2023-11-02-INSA.html) | INSA <br> eXXpress | 19–24% <br> 34–43 | 20–26% <br> 37–47 | 26–32% <br> 48–59 | 7–11% <br> 13–20 | 8–12% <br> 15–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [27–30 October 2023](2023-10-30-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 36–42 | 22–26% <br> 43–51 | 28–32% <br> 55–63 | 8–10% <br> 15–20 | 10–12% <br> 19–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
