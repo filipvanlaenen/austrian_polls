@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–25% <br> 34–47 | 19–27% <br> 37–50 | 27–34% <br> 50–66 | 7–12% <br> 13–22 | 8–13% <br> 14–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [4–6 December 2023](2023-12-06-Market.html) | Market <br> ÖSTERREICH | 17–21% <br> 34–40 | 22–26% <br> 43–51 | 28–32% <br> 55–63 | 8–10% <br> 15–20 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 19–25% <br> 34–47 | 19–27% <br> 37–50 | 27–34% <br> 50–66 | 7–12% <br> 13–22 | 8–11% <br> 14–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11–13 December 2023](2023-12-13-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 22–26% <br> 43–51 | 28–32% <br> 55–62 | 8–10% <br> 15–20 | 9–11% <br> 17–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [4–6 December 2023](2023-12-06-INSA.html) | INSA <br> eXXpress | 18–23% <br> 32–41 | 20–26% <br> 37–47 | 27–33% <br> 50–60 | 8–12% <br> 15–20 | 8–12% <br> 15–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 20–24% <br> 38–46 | 20–24% <br> 38–46 | 30–34% <br> 56–66 | 8–11% <br> 14–20 | 8–11% <br> 14–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–16 November 2023](2023-11-16-OGM.html) | OGM <br> KURIER | 21–26% <br> 38–47 | 22–28% <br> 41–51 | 26–32% <br> 48–58 | 7–10% <br> 12–18 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
