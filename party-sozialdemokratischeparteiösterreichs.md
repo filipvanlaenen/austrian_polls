@@ -10,12 +10,12 @@ Last result: **21.2%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.0% | 20.8–23.3% | 20.4–23.7% | 20.1–24.0% | 19.5–24.6% |
+| N/A | [Poll Average](average.html) | 22.2% | 20.8–23.8% | 20.4–24.4% | 20.0–24.9% | 19.3–26.1% |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 22.0% | 20.8–23.2% | 20.5–23.6% | 20.2–23.9% | 19.7–24.5% |
-| [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 22.0% | N/A | N/A | N/A | N/A |
+| [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 22.0% | 20.9–23.2% | 20.5–23.6% | 20.3–23.9% | 19.7–24.5% |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH | 23.0% | N/A | N/A | N/A | N/A |
-| [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress | 22.0% | N/A | N/A | N/A | N/A |
-| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News | 23.0% | N/A | N/A | N/A | N/A |
+| [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News | 23.0% | 21.2–25.0% | 20.7–25.6% | 20.2–26.0% | 19.4–27.0% |
 | [15–17 January 2024](2024-01-17-Market.html) | Market <br> ÖSTERREICH | 24.0% | 22.8–25.3% | 22.5–25.6% | 22.2–25.9% | 21.6–26.5% |
 | [10–12 January 2024](2024-01-12-OGM.html) | OGM | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.6% |
 | [8–10 January 2024](2024-01-10-Market.html) | Market <br> ÖSTERREICH | 24.0% | N/A | N/A | N/A | N/A |
@@ -273,15 +273,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.5% | 100% |  |
-| 19.5–20.5% | 6% | 99.5% |  |
-| 20.5–21.5% | 25% | 94% | Last Result |
-| 21.5–22.5% | 39% | 69% | Median |
-| 22.5–23.5% | 23% | 29% |  |
-| 23.5–24.5% | 6% | 6% |  |
-| 24.5–25.5% | 0.6% | 0.6% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 0.8% | 99.9% |  |
+| 19.5–20.5% | 6% | 99.1% |  |
+| 20.5–21.5% | 22% | 93% | Last Result |
+| 21.5–22.5% | 34% | 71% | Median |
+| 22.5–23.5% | 23% | 37% |  |
+| 23.5–24.5% | 9% | 13% |  |
+| 24.5–25.5% | 3% | 4% |  |
+| 25.5–26.5% | 0.9% | 1.1% |  |
+| 26.5–27.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -292,12 +295,12 @@ Last result: **40** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42 | 39–44 | 39–45 | 38–46 | 37–47 |
+| N/A | [Poll Average](average.html) | 41 | 39–45 | 38–47 | 37–48 | 35–50 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 42 | 39–44 | 39–45 | 38–45 | 37–46 |
-| [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
+| [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 40 | 38–43 | 38–43 | 37–44 | 36–45 |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
-| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News |  |  |  |  |  |
+| [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress | 40 | 37–43 | 36–44 | 36–45 | 34–47 |
+| [12–22 January 2024](2024-01-22-TripleM.html) | Triple M <br> News | 44 | 40–48 | 39–49 | 38–50 | 37–52 |
 | [15–17 January 2024](2024-01-17-Market.html) | Market <br> ÖSTERREICH | 47 | 45–49 | 44–50 | 43–51 | 42–52 |
 | [10–12 January 2024](2024-01-12-OGM.html) | OGM | 48 | 45–51 | 44–53 | 43–53 | 41–55 |
 | [8–10 January 2024](2024-01-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -557,21 +560,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 35 | 0% | 100% |  |
-| 36 | 0.2% | 99.9% |  |
-| 37 | 1.0% | 99.7% |  |
-| 38 | 3% | 98.7% |  |
-| 39 | 8% | 95% |  |
-| 40 | 14% | 88% | Last Result |
-| 41 | 19% | 74% |  |
-| 42 | 18% | 55% | Median |
-| 43 | 18% | 37% |  |
-| 44 | 11% | 20% |  |
-| 45 | 5% | 9% |  |
-| 46 | 2% | 3% |  |
-| 47 | 0.9% | 1.3% |  |
-| 48 | 0.3% | 0.4% |  |
-| 49 | 0.1% | 0.1% |  |
-| 50 | 0% | 0% |  |
+| 34 | 0.1% | 100% |  |
+| 35 | 0.4% | 99.8% |  |
+| 36 | 1.0% | 99.5% |  |
+| 37 | 3% | 98% |  |
+| 38 | 6% | 96% |  |
+| 39 | 10% | 90% |  |
+| 40 | 14% | 81% | Last Result |
+| 41 | 17% | 66% | Median |
+| 42 | 15% | 50% |  |
+| 43 | 13% | 35% |  |
+| 44 | 9% | 22% |  |
+| 45 | 5% | 13% |  |
+| 46 | 3% | 8% |  |
+| 47 | 2% | 5% |  |
+| 48 | 1.2% | 3% |  |
+| 49 | 0.9% | 2% |  |
+| 50 | 0.4% | 0.9% |  |
+| 51 | 0.2% | 0.4% |  |
+| 52 | 0.1% | 0.2% |  |
+| 53 | 0% | 0.1% |  |
+| 54 | 0% | 0% |  |
 
 
