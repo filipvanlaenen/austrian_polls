@@ -11,6 +11,7 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.5% | 6.9–9.9% | 6.6–10.3% | 6.4–10.7% | 6.0–11.4% |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
@@ -293,7 +294,8 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 12–18 | 12–19 | 11–20 | 11–21 |
+| N/A | [Poll Average](average.html) | 16 | 13–18 | 12–19 | 11–20 | 11–21 |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 13 | 11–14 | 11–14 | 11–15 | 10–15 |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -563,9 +565,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 7% | 97% |  |
 | 13 | 10% | 90% |  |
 | 14 | 13% | 80% |  |
-| 15 | 16% | 67% |  |
-| 16 | 18% | 51% | Median |
-| 17 | 14% | 33% |  |
+| 15 | 16% | 68% |  |
+| 16 | 17% | 51% | Median |
+| 17 | 15% | 34% |  |
 | 18 | 10% | 19% |  |
 | 19 | 5% | 9% |  |
 | 20 | 2% | 4% |  |

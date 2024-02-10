@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% | 4.8–7.5% |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH | 6.0% | N/A | N/A | N/A | N/A |
@@ -294,6 +295,7 @@ Last result: **0** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 10–12 | 9–13 | 9–13 | 8–14 |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 11 | 10–12 | 9–12 | 9–13 | 8–13 |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -568,11 +570,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.6% | 100% |  |
 | 9 | 7% | 99.4% |  |
-| 10 | 27% | 92% |  |
-| 11 | 37% | 65% | Median |
-| 12 | 21% | 27% |  |
-| 13 | 6% | 7% |  |
-| 14 | 0.7% | 0.7% |  |
+| 10 | 27% | 93% |  |
+| 11 | 36% | 66% | Median |
+| 12 | 22% | 29% |  |
+| 13 | 7% | 8% |  |
+| 14 | 0.9% | 0.9% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0% | 0% |  |
 
