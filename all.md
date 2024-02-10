@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 19–23% <br> 37–44 | 26–30% <br> 50–57 | 7–9% <br> 13–17 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 21–25% <br> 40–47 | 20–24% <br> 38–45 | 25–29% <br> 48–55 | 7–9% <br> 13–17 | 10–12% <br> 18–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 20–24% <br> 37–44 | 20–24% <br> 37–44 | 26–30% <br> 48–55 | 6–8% <br> 11–15 | 9–11% <br> 16–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
