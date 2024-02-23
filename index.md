@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–24% <br> 34–45 | 20–26% <br> 37–50 | 25–33% <br> 48–64 | 7–16% <br> 13–30 | 8–13% <br> 15–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
-| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 19–23% <br> 37–44 | 26–30% <br> 50–57 | 7–9% <br> 13–17 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
+| N/A | [Poll Average](average.html) | 18–24% <br> 34–45 | 20–26% <br> 37–50 | 25–33% <br> 47–64 | 8–16% <br> 14–30 | 8–13% <br> 15–25 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 11–15 |
+| [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 35–42 | 20–24% <br> 39–46 | 25–29% <br> 48–55 | 8–10% <br> 15–19 | 10–12% <br> 18–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 11–15 |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 20–24% <br> 39–46 | 19–23% <br> 37–44 | 24–28% <br> 47–54 | 13–16% <br> 24–30 | 11–13% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN | 19–24% <br> 36–45 | 21–27% <br> 41–51 | 24–30% <br> 47–57 | 12–16% <br> 23–31 | 7–11% <br> 14–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–24 January 2024](2024-01-24-INSA.html) | INSA <br> eXXpress | 19–24% <br> 34–43 | 20–25% <br> 36–45 | 28–34% <br> 52–62 | 7–11% <br> 13–19 | 7–11% <br> 13–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
