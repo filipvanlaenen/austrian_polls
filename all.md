@@ -5,6 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 21–25% <br> 40–48 | 24–28% <br> 46–53 | 7–9% <br> 13–17 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
+| [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 20–25% <br> 36–45 | 20–25% <br> 36–45 | 28–34% <br> 52–62 | 7–11% <br> 13–20 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 35–42 | 20–24% <br> 39–46 | 25–29% <br> 48–55 | 8–10% <br> 15–19 | 10–12% <br> 18–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 11–15 |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 19–23% <br> 37–44 | 19–23% <br> 37–44 | 26–30% <br> 50–57 | 7–9% <br> 13–17 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 20–24% <br> 39–46 | 19–23% <br> 37–44 | 24–28% <br> 47–54 | 13–16% <br> 24–30 | 11–13% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
