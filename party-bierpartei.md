@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 5.4–6.7% | 5.2–6.9% | 5.0–7.1% | 4.8–7.5% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.6–8.9% | 5.4–9.4% | 5.2–9.7% | 4.9–10.5% |
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
-| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 8.0% | N/A | N/A | N/A | N/A |
+| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | 7.0% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
@@ -287,11 +287,14 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 18% | 99.9% |  |
-| 5.5–6.5% | 66% | 82% | Median |
-| 6.5–7.5% | 16% | 17% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 4.5–5.5% | 9% | 99.9% |  |
+| 5.5–6.5% | 35% | 91% |  |
+| 6.5–7.5% | 20% | 56% | Median |
+| 7.5–8.5% | 20% | 36% |  |
+| 8.5–9.5% | 12% | 16% |  |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -302,10 +305,10 @@ Last result: **0** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
+| N/A | [Poll Average](average.html) | 12 | 10–16 | 10–16 | 10–17 | 9–20 |
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
-| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 |  |  |  |  |  |
+| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 15 | 12–16 | 12–17 | 11–19 | 11–20 |
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
@@ -584,14 +587,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.3% | 100% |  |
-| 9 | 4% | 99.7% |  |
-| 10 | 18% | 95% |  |
-| 11 | 39% | 77% | Median |
-| 12 | 29% | 38% |  |
-| 13 | 7% | 9% |  |
-| 14 | 2% | 2% |  |
-| 15 | 0.1% | 0.1% |  |
-| 16 | 0% | 0% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 2% | 99.8% |  |
+| 10 | 9% | 98% |  |
+| 11 | 22% | 89% |  |
+| 12 | 19% | 67% | Median |
+| 13 | 4% | 47% |  |
+| 14 | 2% | 43% |  |
+| 15 | 17% | 41% |  |
+| 16 | 20% | 25% |  |
+| 17 | 3% | 4% |  |
+| 18 | 0.1% | 2% |  |
+| 19 | 0.6% | 2% |  |
+| 20 | 1.0% | 1.1% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
