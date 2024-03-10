@@ -10,7 +10,12 @@ Last result: **37.5%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 19.1–22.7% | 18.6–23.1% | 18.2–23.5% | 17.3–24.3% |
+| N/A | [Poll Average](average.html) | 21.5% | 20.0–23.1% | 19.6–23.6% | 19.2–24.0% | 18.4–24.9% |
+| [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
+| [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 21.0% | N/A | N/A | N/A | N/A |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 20.0% | N/A | N/A | N/A | N/A |
+| [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | 20.0% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 25.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 22.0% | 20.9–23.2% | 20.5–23.6% | 20.3–23.9% | 19.7–24.4% |
@@ -277,18 +282,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.7% | 99.9% |  |
-| 17.5–18.5% | 4% | 99.2% |  |
-| 18.5–19.5% | 13% | 95% |  |
-| 19.5–20.5% | 24% | 82% |  |
-| 20.5–21.5% | 26% | 58% | Median |
-| 21.5–22.5% | 20% | 32% |  |
-| 22.5–23.5% | 9% | 11% |  |
-| 23.5–24.5% | 2% | 2% |  |
-| 24.5–25.5% | 0.2% | 0.3% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 0.6% | 99.9% |  |
+| 18.5–19.5% | 4% | 99.3% |  |
+| 19.5–20.5% | 16% | 95% |  |
+| 20.5–21.5% | 30% | 79% |  |
+| 21.5–22.5% | 29% | 49% | Median |
+| 22.5–23.5% | 15% | 20% |  |
+| 23.5–24.5% | 4% | 5% |  |
+| 24.5–25.5% | 0.8% | 1.0% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -311,7 +314,12 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39 | 36–43 | 35–44 | 34–45 | 33–47 |
+| N/A | [Poll Average](average.html) | 41 | 38–44 | 37–45 | 36–45 | 35–47 |
+| [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 40 | 38–42 | 37–43 | 37–44 | 36–45 |
+| [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 40 | 37–44 | 36–44 | 36–45 | 34–47 |
+| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 |  |  |  |  |  |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 38 | 36–40 | 35–41 | 35–42 | 34–43 |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 40 | 38–42 | 37–43 | 37–44 | 36–45 |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 42 | 40–45 | 40–45 | 39–46 | 38–47 |
@@ -580,24 +588,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0.1% | 100% |  |
-| 32 | 0.3% | 99.8% |  |
-| 33 | 0.8% | 99.5% |  |
-| 34 | 2% | 98.7% |  |
-| 35 | 4% | 97% |  |
-| 36 | 7% | 93% |  |
-| 37 | 11% | 86% |  |
-| 38 | 13% | 75% |  |
-| 39 | 13% | 62% | Median |
-| 40 | 12% | 49% |  |
-| 41 | 11% | 37% |  |
-| 42 | 10% | 26% |  |
-| 43 | 7% | 16% |  |
-| 44 | 5% | 9% |  |
-| 45 | 3% | 4% |  |
-| 46 | 1.0% | 2% |  |
-| 47 | 0.4% | 0.5% |  |
-| 48 | 0.1% | 0.1% |  |
+| 33 | 0.1% | 100% |  |
+| 34 | 0.3% | 99.9% |  |
+| 35 | 0.8% | 99.6% |  |
+| 36 | 2% | 98.8% |  |
+| 37 | 5% | 97% |  |
+| 38 | 8% | 92% |  |
+| 39 | 13% | 84% |  |
+| 40 | 16% | 72% |  |
+| 41 | 17% | 56% | Median |
+| 42 | 15% | 39% |  |
+| 43 | 11% | 24% |  |
+| 44 | 7% | 13% |  |
+| 45 | 4% | 6% |  |
+| 46 | 2% | 2% |  |
+| 47 | 0.5% | 0.7% |  |
+| 48 | 0.2% | 0.2% |  |
 | 49 | 0% | 0% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |

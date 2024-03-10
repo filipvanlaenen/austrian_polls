@@ -10,7 +10,12 @@ Last result: **8.1%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 8.4–12.2% | 8.0–12.6% | 7.7–12.9% | 7.1–13.5% |
+| N/A | [Poll Average](average.html) | 10.7% | 7.7–12.6% | 7.3–13.0% | 7.0–13.2% | 6.4–13.8% |
+| [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
+| [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 8.0% | N/A | N/A | N/A | N/A |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 16.0% | N/A | N/A | N/A | N/A |
+| [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 12.0% | 11.1–13.0% | 10.9–13.2% | 10.7–13.5% | 10.3–13.9% |
@@ -277,15 +282,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 2% | 100% |  |
-| 7.5–8.5% | 11% | 98% | Last Result |
-| 8.5–9.5% | 22% | 87% |  |
-| 9.5–10.5% | 22% | 65% | Median |
-| 10.5–11.5% | 22% | 44% |  |
-| 11.5–12.5% | 16% | 21% |  |
-| 12.5–13.5% | 5% | 5% |  |
-| 13.5–14.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.8% | 100% |  |
+| 6.5–7.5% | 7% | 99.2% |  |
+| 7.5–8.5% | 17% | 92% | Last Result |
+| 8.5–9.5% | 16% | 75% |  |
+| 9.5–10.5% | 8% | 59% |  |
+| 10.5–11.5% | 13% | 51% | Median |
+| 11.5–12.5% | 26% | 37% |  |
+| 12.5–13.5% | 11% | 12% |  |
+| 13.5–14.5% | 1.0% | 1.0% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -297,7 +303,12 @@ Last result: **15** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–23 | 16–24 | 15–25 | 13–26 |
+| N/A | [Poll Average](average.html) | 20 | 14–24 | 13–25 | 12–25 | 11–26 |
+| [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 23 | 21–25 | 20–25 | 20–26 | 19–27 |
+| [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 14 | 12–17 | 12–17 | 11–18 | 11–19 |
+| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 |  |  |  |  |  |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 21 | 19–23 | 19–23 | 18–24 | 17–24 |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 23 | 21–25 | 20–25 | 20–26 | 19–27 |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 23 | 21–25 | 21–25 | 20–26 | 20–27 |
@@ -566,22 +577,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.4% | 100% |  |
-| 13 | 0.5% | 99.6% |  |
-| 14 | 1.1% | 99.0% |  |
-| 15 | 3% | 98% | Last Result |
-| 16 | 8% | 95% |  |
-| 17 | 20% | 87% |  |
-| 18 | 12% | 67% |  |
-| 19 | 9% | 55% | Median |
-| 20 | 10% | 47% |  |
-| 21 | 11% | 37% |  |
-| 22 | 10% | 26% |  |
-| 23 | 7% | 16% |  |
-| 24 | 5% | 8% |  |
-| 25 | 2% | 3% |  |
-| 26 | 0.6% | 0.8% |  |
-| 27 | 0.1% | 0.1% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 0.5% | 99.9% |  |
+| 12 | 2% | 99.4% |  |
+| 13 | 5% | 97% |  |
+| 14 | 7% | 93% |  |
+| 15 | 9% | 86% | Last Result |
+| 16 | 9% | 77% |  |
+| 17 | 7% | 68% |  |
+| 18 | 6% | 61% |  |
+| 19 | 4% | 56% |  |
+| 20 | 3% | 52% | Median |
+| 21 | 7% | 49% |  |
+| 22 | 12% | 42% |  |
+| 23 | 13% | 30% |  |
+| 24 | 10% | 16% |  |
+| 25 | 4% | 6% |  |
+| 26 | 1.4% | 2% |  |
+| 27 | 0.2% | 0.3% |  |
 | 28 | 0% | 0% |  |
 
 
