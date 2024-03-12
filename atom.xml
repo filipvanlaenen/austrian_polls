@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/austrian_polls</id>
   <title>All Registered Polls for the Nationalrat</title>
-  <updated>2024-03-10T22:23:23.695052+01:00</updated>
+  <updated>2024-03-10T22:45:03.281331+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Bierpartei: 5.0–7.1%, 9–13 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 10.6–13.5%, 20–26 seats</li><li>Österreichische Volkspartei: 19.3–22.8%, 37–44 seats</li><li>Die Grünen–Die Grüne Alternative: 6.9–9.3%, 13–17 seats</li><li>Kommunistische Partei Österreichs: 2.3–3.9%, 0 seats</li><li>Freiheitliche Partei Österreichs: 24.1–28.0%, 46–53 seats</li><li>Sozialdemokratische Partei Österreichs: 21.2–24.9%, 40–48 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/austrian_polls/2024-03-06-Market.html</id>
@@ -30,6 +30,14 @@
     <title>Opinion Poll by Peter Hajek for ATV and PULS 24, 26–29 February 2024</title>
     <updated>2024-03-10T22:23:23.695052+01:00</updated>
     <dc:date>2024-03-10T22:23:23.695052+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>NEOS–Das Neue Österreich und Liberales Forum: 13.9–18.4%, 26–34 seats</li><li>Österreichische Volkspartei: 17.6–22.6%, 33–42 seats</li><li>Die Grünen–Die Grüne Alternative: 12.0–16.3%, 22–30 seats</li><li>Kommunistische Partei Österreichs: 1.3–3.1%, 0 seats</li><li>Freiheitliche Partei Österreichs: 23.4–28.8%, 44–54 seats</li><li>Sozialdemokratische Partei Österreichs: 19.5–24.7%, 37–46 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/austrian_polls/2024-02-28-Market.html</id>
+    <link href="https://filipvanlaenen.github.io/austrian_polls/2024-02-28-Market.html"/>
+    <title>Opinion Poll by Market for ÖSTERREICH, 26–28 February 2024</title>
+    <updated>2024-03-10T22:45:03.281331+01:00</updated>
+    <dc:date>2024-03-10T22:45:03.281331+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kommunistische Partei Österreichs: 2.3–3.9%, 0 seats</li><li>Freiheitliche Partei Österreichs: 25.1–29.0%, 48–55 seats</li><li>NEOS–Das Neue Österreich und Liberales Forum: 9.7–12.5%, 18–24 seats</li><li>Bierpartei: 6.0–8.2%, 11–15 seats</li><li>Sozialdemokratische Partei Österreichs: 20.2–23.9%, 39–46 seats</li><li>Österreichische Volkspartei: 18.3–21.8%, 35–42 seats</li><li>Die Grünen–Die Grüne Alternative: 7.8–10.3%, 15–19 seats</li></ul></div></content>
@@ -1695,5 +1703,5 @@
     <updated>2020-08-30T09:49:50+02:00</updated>
     <dc:date>2020-08-30T09:49:50+02:00</dc:date>
   </entry>
-  <dc:date>2024-03-10T22:23:23.695052+01:00</dc:date>
+  <dc:date>2024-03-10T22:45:03.281331+01:00</dc:date>
 </feed>
