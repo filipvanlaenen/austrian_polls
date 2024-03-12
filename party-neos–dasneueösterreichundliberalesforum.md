@@ -14,7 +14,7 @@ Last result: **8.1%** (General Election of 29 September 2019)
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
-| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 16.0% | N/A | N/A | N/A | N/A |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 12.0% | 11.1–13.0% | 10.9–13.3% | 10.6–13.5% | 10.2–14.0% |
@@ -307,7 +307,7 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 23 | 21–25 | 20–25 | 20–26 | 19–27 |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 14 | 12–17 | 12–17 | 11–18 | 11–19 |
 | [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 15 | 12–17 | 12–18 | 12–19 | 11–20 |
-| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 30 | 27–33 | 26–33 | 26–34 | 24–36 |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 21 | 19–23 | 19–23 | 18–24 | 17–24 |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 23 | 21–25 | 20–25 | 20–26 | 19–27 |

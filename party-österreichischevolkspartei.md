@@ -14,7 +14,7 @@ Last result: **37.5%** (General Election of 29 September 2019)
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 21.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 21.0% | 19.2–22.9% | 18.7–23.5% | 18.3–24.0% | 17.5–24.9% |
-| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 20.0% | N/A | N/A | N/A | N/A |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | 20.0% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 25.0% | 19.9–22.2% | 19.5–22.6% | 19.3–22.8% | 18.7–23.4% |
@@ -319,7 +319,7 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 40 | 38–42 | 37–43 | 37–44 | 36–45 |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 40 | 37–44 | 36–44 | 36–45 | 34–47 |
 | [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 39 | 36–43 | 35–44 | 34–45 | 33–47 |
-| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 37 | 34–40 | 33–41 | 33–42 | 31–44 |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 38 | 36–40 | 35–41 | 35–42 | 34–43 |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 40 | 38–42 | 37–43 | 37–44 | 36–45 |

@@ -14,7 +14,7 @@ Last result: **16.2%** (General Election of 29 September 2019)
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 26.0% | 24.8–27.3% | 24.4–27.7% | 24.1–28.0% | 23.5–28.6% |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
 | [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 29.9% | 27.9–32.0% | 27.3–32.6% | 26.8–33.2% | 25.8–34.2% |
-| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 26.0% | N/A | N/A | N/A | N/A |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | 26.0% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 27.0% | 25.7–28.3% | 25.4–28.7% | 25.1–29.0% | 24.5–29.6% |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 27.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.7% |
@@ -317,7 +317,7 @@ Last result: **31** seats (General Election of 29 September 2019)
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 50 | 47–52 | 47–53 | 46–53 | 45–55 |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 57 | 53–60 | 53–62 | 52–62 | 50–64 |
 | [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 57 | 52–60 | 51–62 | 50–63 | 49–65 |
-| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 49 | 45–52 | 44–53 | 44–54 | 42–56 |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 52 | 49–54 | 48–55 | 48–55 | 47–57 |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 54 | 51–56 | 51–57 | 50–57 | 49–59 |
