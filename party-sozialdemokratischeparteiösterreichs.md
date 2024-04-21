@@ -313,7 +313,7 @@ Last result: **40** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 41 | 37–44 | 36–45 | 35–46 | 33–47 |
-| [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 41 | 39–43 | 38–44 | 37–44 | 37–46 |
+| [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 41 | 39–43 | 38–44 | 37–44 | 37–45 |
 | [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 40 | 37–42 | 37–43 | 36–43 | 35–45 |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 38 | 35–42 | 34–43 | 33–44 | 32–46 |
 | [18–20 March 2024](2024-03-20-Market.html) | Market <br> ÖSTERREICH | 43 | 41–45 | 40–46 | 39–46 | 38–48 |
@@ -602,9 +602,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 36 | 3% | 97% |  |
 | 37 | 5% | 94% |  |
 | 38 | 9% | 89% |  |
-| 39 | 12% | 80% |  |
-| 40 | 16% | 67% | Last Result |
-| 41 | 16% | 51% | Median |
+| 39 | 13% | 79% |  |
+| 40 | 15% | 67% | Last Result |
+| 41 | 17% | 52% | Median |
 | 42 | 13% | 35% |  |
 | 43 | 10% | 22% |  |
 | 44 | 7% | 12% |  |
