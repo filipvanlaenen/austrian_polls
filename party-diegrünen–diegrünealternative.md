@@ -10,7 +10,10 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.5–13.1% | 7.1–13.8% | 6.8–14.3% | 6.3–15.2% |
+| N/A | [Poll Average](average.html) | 8.6% | 7.2–13.6% | 6.9–14.2% | 6.6–14.6% | 6.1–15.5% |
+| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
+| [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
+| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 9.0% | N/A | N/A | N/A | N/A |
 | [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
@@ -290,18 +293,18 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.2% | 100% |  |
-| 6.5–7.5% | 10% | 98.8% |  |
-| 7.5–8.5% | 24% | 88% |  |
-| 8.5–9.5% | 22% | 65% | Median |
-| 9.5–10.5% | 17% | 43% |  |
-| 10.5–11.5% | 7% | 26% |  |
-| 11.5–12.5% | 5% | 19% |  |
-| 12.5–13.5% | 7% | 14% |  |
-| 13.5–14.5% | 5% | 6% | Last Result |
-| 14.5–15.5% | 1.4% | 2% |  |
-| 15.5–16.5% | 0.2% | 0.3% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 2% | 99.9% |  |
+| 6.5–7.5% | 16% | 98% |  |
+| 7.5–8.5% | 31% | 82% |  |
+| 8.5–9.5% | 15% | 51% | Median |
+| 9.5–10.5% | 3% | 36% |  |
+| 10.5–11.5% | 3% | 33% |  |
+| 11.5–12.5% | 8% | 31% |  |
+| 12.5–13.5% | 12% | 23% |  |
+| 13.5–14.5% | 8% | 11% | Last Result |
+| 14.5–15.5% | 2% | 3% |  |
+| 15.5–16.5% | 0.4% | 0.4% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -313,9 +316,12 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–25 | 13–26 | 12–27 | 11–29 |
+| N/A | [Poll Average](average.html) | 16 | 13–26 | 12–27 | 12–28 | 11–29 |
+| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
 | [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
-| [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 19 | 17–20 | 17–21 | 16–21 | 15–22 |
+| [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 19 | 17–20 | 16–21 | 16–22 | 15–22 |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [18–20 March 2024](2024-03-20-Market.html) | Market <br> ÖSTERREICH | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
 | [12–15 March 2024](2024-03-15-IFDD.html) | IFDD <br> NÖN | 15 | 13–16 | 13–17 | 12–17 | 11–18 |
@@ -595,28 +601,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 0.6% | 99.9% |  |
-| 12 | 3% | 99.2% |  |
-| 13 | 7% | 96% |  |
-| 14 | 12% | 90% |  |
-| 15 | 13% | 78% |  |
-| 16 | 12% | 64% |  |
-| 17 | 11% | 52% | Median |
-| 18 | 10% | 41% |  |
-| 19 | 7% | 32% |  |
-| 20 | 3% | 24% |  |
-| 21 | 2% | 21% |  |
-| 22 | 2% | 19% |  |
-| 23 | 3% | 17% |  |
-| 24 | 4% | 14% |  |
-| 25 | 4% | 11% |  |
-| 26 | 3% | 7% | Last Result |
-| 27 | 2% | 4% |  |
-| 28 | 1.1% | 2% |  |
-| 29 | 0.5% | 0.7% |  |
-| 30 | 0.2% | 0.2% |  |
-| 31 | 0% | 0.1% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 1.1% | 99.8% |  |
+| 12 | 4% | 98.7% |  |
+| 13 | 10% | 94% |  |
+| 14 | 16% | 84% |  |
+| 15 | 16% | 67% |  |
+| 16 | 10% | 51% | Median |
+| 17 | 5% | 41% |  |
+| 18 | 2% | 36% |  |
+| 19 | 0.7% | 34% |  |
+| 20 | 0.6% | 33% |  |
+| 21 | 1.3% | 33% |  |
+| 22 | 3% | 32% |  |
+| 23 | 5% | 29% |  |
+| 24 | 6% | 24% |  |
+| 25 | 6% | 18% |  |
+| 26 | 5% | 11% | Last Result |
+| 27 | 3% | 6% |  |
+| 28 | 2% | 3% |  |
+| 29 | 0.8% | 1.2% |  |
+| 30 | 0.3% | 0.4% |  |
+| 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 

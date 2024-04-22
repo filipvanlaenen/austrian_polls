@@ -10,7 +10,10 @@ Last result: **37.5%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.4% | 19.4–23.6% | 19.0–24.1% | 18.6–24.6% | 17.9–25.4% |
+| N/A | [Poll Average](average.html) | 21.7% | 19.7–23.8% | 19.1–24.3% | 18.7–24.7% | 17.8–25.5% |
+| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 19.0% | N/A | N/A | N/A | N/A |
+| [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH | 20.0% | N/A | N/A | N/A | N/A |
+| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 20.0% | N/A | N/A | N/A | N/A |
 | [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 20.0% | 18.9–21.2% | 18.6–21.5% | 18.3–21.8% | 17.8–22.4% |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 21.0% | 19.2–22.9% | 18.7–23.5% | 18.3–24.0% | 17.5–24.9% |
@@ -292,15 +295,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.2% | 100% |  |
-| 17.5–18.5% | 2% | 99.8% |  |
-| 18.5–19.5% | 10% | 98% |  |
-| 19.5–20.5% | 19% | 88% |  |
-| 20.5–21.5% | 22% | 69% | Median |
-| 21.5–22.5% | 21% | 46% |  |
-| 22.5–23.5% | 15% | 26% |  |
-| 23.5–24.5% | 8% | 10% |  |
-| 24.5–25.5% | 2% | 3% |  |
-| 25.5–26.5% | 0.3% | 0.4% |  |
+| 17.5–18.5% | 2% | 99.7% |  |
+| 18.5–19.5% | 7% | 98% |  |
+| 19.5–20.5% | 15% | 91% |  |
+| 20.5–21.5% | 22% | 76% |  |
+| 21.5–22.5% | 23% | 54% | Median |
+| 22.5–23.5% | 18% | 31% |  |
+| 23.5–24.5% | 10% | 13% |  |
+| 24.5–25.5% | 3% | 3% |  |
+| 25.5–26.5% | 0.4% | 0.4% |  |
 | 26.5–27.5% | 0% | 0% |  |
 | 27.5–28.5% | 0% | 0% |  |
 | 28.5–29.5% | 0% | 0% |  |
@@ -323,12 +326,15 @@ Last result: **71** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 36–44 | 35–45 | 34–46 | 33–47 |
+| N/A | [Poll Average](average.html) | 41 | 37–44 | 35–45 | 35–46 | 33–48 |
+| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
 | [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 37 | 35–39 | 34–40 | 34–41 | 33–42 |
-| [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 38 | 35–40 | 35–41 | 34–41 | 33–43 |
+| [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 38 | 35–40 | 35–41 | 34–42 | 33–43 |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 39 | 35–42 | 34–43 | 34–44 | 32–46 |
 | [18–20 March 2024](2024-03-20-Market.html) | Market <br> ÖSTERREICH | 35 | 33–37 | 33–38 | 32–39 | 31–40 |
-| [12–15 March 2024](2024-03-15-IFDD.html) | IFDD <br> NÖN | 43 | 40–46 | 40–46 | 39–47 | 38–48 |
+| [12–15 March 2024](2024-03-15-IFDD.html) | IFDD <br> NÖN | 43 | 40–45 | 39–46 | 39–47 | 38–48 |
 | [12–14 March 2024](2024-03-14-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [11–13 March 2024](2024-03-13-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 40 | 38–42 | 37–43 | 37–44 | 36–45 |
@@ -605,25 +611,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 31 | 0% | 100% |  |
+| 31 | 0.1% | 100% |  |
 | 32 | 0.2% | 99.9% |  |
-| 33 | 0.6% | 99.8% |  |
-| 34 | 2% | 99.2% |  |
-| 35 | 4% | 97% |  |
-| 36 | 7% | 93% |  |
-| 37 | 10% | 86% |  |
-| 38 | 12% | 76% |  |
-| 39 | 11% | 64% |  |
-| 40 | 12% | 53% | Median |
-| 41 | 11% | 42% |  |
-| 42 | 10% | 30% |  |
-| 43 | 8% | 20% |  |
-| 44 | 5% | 12% |  |
-| 45 | 3% | 6% |  |
-| 46 | 2% | 3% |  |
-| 47 | 0.8% | 1.2% |  |
-| 48 | 0.3% | 0.4% |  |
-| 49 | 0.1% | 0.1% |  |
+| 33 | 0.6% | 99.7% |  |
+| 34 | 2% | 99.1% |  |
+| 35 | 3% | 98% |  |
+| 36 | 4% | 95% |  |
+| 37 | 6% | 91% |  |
+| 38 | 10% | 84% |  |
+| 39 | 10% | 75% |  |
+| 40 | 12% | 65% |  |
+| 41 | 13% | 52% | Median |
+| 42 | 12% | 39% |  |
+| 43 | 11% | 27% |  |
+| 44 | 7% | 16% |  |
+| 45 | 5% | 9% |  |
+| 46 | 2% | 4% |  |
+| 47 | 1.1% | 2% |  |
+| 48 | 0.4% | 0.6% |  |
+| 49 | 0.1% | 0.2% |  |
 | 50 | 0% | 0% |  |
 | 51 | 0% | 0% |  |
 | 52 | 0% | 0% |  |
