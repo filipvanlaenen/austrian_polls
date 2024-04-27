@@ -329,7 +329,7 @@ Last result: **0** seats (General Election of 29 September 2019)
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
-| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 15 | 12–16 | 12–17 | 11–19 | 11–20 |
+| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 16 | 12–16 | 12–17 | 11–19 | 11–20 |
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 13 | 12–15 | 11–15 | 11–15 | 10–16 |

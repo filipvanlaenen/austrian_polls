@@ -329,12 +329,12 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [4–6 March 2024](2024-03-06-Market.html) | Market <br> ÖSTERREICH | 23 | 21–25 | 20–25 | 20–26 | 19–27 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 22 | 20–25 | 19–26 | 19–26 | 18–28 |
 | [1–5 March 2024](2024-03-05-INSA.html) | INSA <br> eXXpress | 14 | 12–17 | 12–17 | 11–18 | 11–19 |
-| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 15 | 12–17 | 12–18 | 12–19 | 11–20 |
+| [26–29 February 2024](2024-02-29-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 30 | 27–33 | 26–33 | 26–34 | 24–36 |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 21 | 19–23 | 19–23 | 18–24 | 17–24 |
 | [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 23 | 21–25 | 20–25 | 20–26 | 19–27 |
-| [22–31 January 2024](2024-01-31-OGM.html) | OGM | 23 | 21–25 | 21–25 | 20–26 | 20–27 |
+| [22–31 January 2024](2024-01-31-OGM.html) | OGM | 23 | 21–25 | 21–25 | 20–26 | 19–27 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 18 | 17–20 | 16–20 | 16–21 | 15–22 |

@@ -33,8 +33,8 @@
 | <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 31 | 57 | 52–60 |51–62 |50–63 |49–65 |
 | <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 40 | 42 | 38–45 |37–46 |36–47 |35–49 |
 | <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 71 | 39 | 36–43 |35–44 |34–45 |33–47 |
-| <a href="#bierpartei">Bierpartei</a> | 0 | 15 | 12–16 |12–17 |11–19 |11–20 |
-| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 15 | 15 | 12–17 |12–18 |12–19 |11–20 |
+| <a href="#bierpartei">Bierpartei</a> | 0 | 16 | 12–16 |12–17 |11–19 |11–20 |
+| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 15 | 15 | 13–17 |12–18 |12–19 |11–20 |
 | <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 26 | 15 | 13–17 |12–18 |12–19 |11–20 |
 | <a href="#kommunistische-partei-österreichs">Kommunistische Partei Österreichs</a> | N/A | 0 | 0 |0–7 |0–8 |0–9 |
 
