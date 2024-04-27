@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 17–21% <br> 32–40 | 21–25% <br> 40–48 | 26–30% <br> 49–58 | 9–11% <br> 16–22 | 9–11% <br> 16–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 7–11 |
 | [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 18–23% <br> 32–42 | 19–24% <br> 34–44 | 28–34% <br> 52–63 | 7–11% <br> 13–20 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 34–41 | 20–24% <br> 37–44 | 25–29% <br> 47–54 | 9–11% <br> 16–21 | 8–10% <br> 14–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
 | [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 34–42 | 19–23% <br> 36–43 | 25–29% <br> 47–56 | 9–11% <br> 16–22 | 9–11% <br> 16–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 11–15 |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 18–24% <br> 34–44 | 18–24% <br> 33–44 | 27–33% <br> 49–62 | 6–10% <br> 11–18 | 6–10% <br> 11–18 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 10–16 |
