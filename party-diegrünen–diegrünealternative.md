@@ -10,11 +10,17 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.5–13.1% | 7.1–13.8% | 6.8–14.3% | 6.3–15.2% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.6–10.6% | 7.3–10.9% | 7.0–11.3% | 6.5–12.0% |
+| [1–30 April 2024](2024-04-30-OGM.html) | OGM <br> Servus TV | 9.1% | 7.6–10.9% | 7.2–11.4% | 6.9–11.8% | 6.2–12.8% |
+| [26–29 April 2024](2024-04-29-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
+| [22–25 April 2024](2024-04-25-UniqueResearch.html) | Unique Research <br> profil | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
+| [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 9.0% | N/A | N/A | N/A | N/A |
+| [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 12.0% | N/A | N/A | N/A | N/A |
 | [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
 | [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
+| [1–31 March 2024](2024-03-31-OGM.html) | OGM <br> Servus TV | 8.1% | N/A | N/A | N/A | N/A |
 | [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [18–20 March 2024](2024-03-20-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
@@ -294,18 +300,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.2% | 100% |  |
-| 6.5–7.5% | 10% | 98.8% |  |
-| 7.5–8.5% | 24% | 88% |  |
-| 8.5–9.5% | 22% | 65% | Median |
-| 9.5–10.5% | 17% | 43% |  |
-| 10.5–11.5% | 7% | 26% |  |
-| 11.5–12.5% | 5% | 19% |  |
-| 12.5–13.5% | 7% | 14% |  |
-| 13.5–14.5% | 5% | 6% | Last Result |
-| 14.5–15.5% | 1.4% | 2% |  |
-| 15.5–16.5% | 0.2% | 0.3% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 5.5–6.5% | 0.6% | 100% |  |
+| 6.5–7.5% | 8% | 99.4% |  |
+| 7.5–8.5% | 25% | 91% |  |
+| 8.5–9.5% | 31% | 66% | Median |
+| 9.5–10.5% | 25% | 35% |  |
+| 10.5–11.5% | 9% | 10% |  |
+| 11.5–12.5% | 1.2% | 1.4% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -316,11 +319,17 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–25 | 13–26 | 12–27 | 11–29 |
+| N/A | [Poll Average](average.html) | 17 | 14–20 | 13–20 | 13–21 | 12–22 |
+| [1–30 April 2024](2024-04-30-OGM.html) | OGM <br> Servus TV | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
+| [26–29 April 2024](2024-04-29-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 16–22 | 16–22 |
+| [22–25 April 2024](2024-04-25-UniqueResearch.html) | Unique Research <br> profil | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
+| [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard |  |  |  |  |  |
+| [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 16–22 | 15–22 |
 | [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 16 | 14–19 | 14–19 | 13–20 | 12–21 |
 | [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
+| [1–31 March 2024](2024-03-31-OGM.html) | OGM <br> Servus TV |  |  |  |  |  |
 | [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 19 | 17–20 | 16–21 | 16–22 | 15–22 |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
 | [18–20 March 2024](2024-03-20-Market.html) | Market <br> ÖSTERREICH | 17 | 15–18 | 15–19 | 14–19 | 14–20 |
@@ -601,28 +610,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 0.7% | 99.9% |  |
-| 12 | 3% | 99.2% |  |
-| 13 | 7% | 96% |  |
-| 14 | 12% | 90% |  |
-| 15 | 13% | 78% |  |
-| 16 | 12% | 65% |  |
-| 17 | 10% | 53% | Median |
-| 18 | 9% | 43% |  |
-| 19 | 7% | 34% |  |
-| 20 | 5% | 27% |  |
-| 21 | 3% | 22% |  |
-| 22 | 2% | 19% |  |
-| 23 | 3% | 17% |  |
-| 24 | 4% | 14% |  |
-| 25 | 4% | 11% |  |
-| 26 | 3% | 7% | Last Result |
-| 27 | 2% | 4% |  |
-| 28 | 1.1% | 2% |  |
-| 29 | 0.5% | 0.7% |  |
-| 30 | 0.2% | 0.2% |  |
-| 31 | 0% | 0.1% |  |
-| 32 | 0% | 0% |  |
+| 11 | 0.3% | 100% |  |
+| 12 | 1.5% | 99.7% |  |
+| 13 | 5% | 98% |  |
+| 14 | 11% | 93% |  |
+| 15 | 14% | 82% |  |
+| 16 | 16% | 68% |  |
+| 17 | 16% | 52% | Median |
+| 18 | 13% | 36% |  |
+| 19 | 11% | 23% |  |
+| 20 | 8% | 12% |  |
+| 21 | 3% | 4% |  |
+| 22 | 0.9% | 1.4% |  |
+| 23 | 0.3% | 0.5% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% | Last Result |
 
 
