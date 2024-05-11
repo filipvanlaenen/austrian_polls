@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–25% <br> 33–46 | 19–25% <br> 35–47 | 25–33% <br> 46–62 | 7–11% <br> 13–21 | 7–11% <br> 12–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–9% <br> 8–16 |
+| N/A | [Poll Average](average.html) | 18–25% <br> 33–46 | 19–24% <br> 35–46 | 24–33% <br> 45–62 | 7–15% <br> 13–28 | 7–16% <br> 12–30 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 9–17 |
+| [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 36–43 | 19–23% <br> 36–43 | 24–28% <br> 46–53 | 13–16% <br> 23–29 | 13–17% <br> 25–31 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [1–30 April 2024](2024-04-30-OGM.html) | OGM <br> Servus TV | 19–26% <br> 34–48 | 19–26% <br> 34–48 | 23–31% <br> 43–58 | 7–12% <br> 12–22 | 7–12% <br> 12–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 9–17 |
-| [26–29 April 2024](2024-04-29-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 35–42 | 21–25% <br> 40–48 | 26–30% <br> 50–58 | 9–11% <br> 16–22 | 9–11% <br> 16–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 7–11 |
 | [22–25 April 2024](2024-04-25-UniqueResearch.html) | Unique Research <br> profil | 17–23% <br> 32–43 | 18–24% <br> 34–45 | 27–33% <br> 50–63 | 7–11% <br> 13–21 | 6–10% <br> 11–19 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 10–17 |
 | [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 18–23% <br> 32–42 | 19–24% <br> 34–44 | 28–34% <br> 52–63 | 7–11% <br> 13–20 | 7–11% <br> 13–20 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–15 March 2024](2024-03-15-IFDD.html) | IFDD <br> NÖN | 21–25% <br> 39–47 | 20–24% <br> 37–45 | 25–29% <br> 46–55 | 7–9% <br> 12–17 | 7–9% <br> 12–17 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
