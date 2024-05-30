@@ -10,12 +10,17 @@ Last result: **0.0%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.4–7.6% | 5.1–8.1% | 4.9–8.5% | 4.5–9.2% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.6–8.7% | 5.3–9.2% | 5.0–9.6% | 4.5–10.3% |
+| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
+| [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 0.0% | N/A | N/A | N/A | N/A |
+| [13–17 May 2024](2024-05-17-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 0.0% | N/A | N/A | N/A | N/A |
 | [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 May 2024](2024-05-16-INSA.html) | INSA <br> eXXpress | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [13–14 May 2024](2024-05-14-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
+| [3–7 May 2024](2024-05-07-TripleM.html) | Triple M <br> News | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
 | [1–30 April 2024](2024-04-30-OGM.html) | OGM <br> Servus TV | 6.9% | 5.7–8.6% | 5.3–9.1% | 5.0–9.5% | 4.5–10.3% |
 | [26–29 April 2024](2024-04-29-Market.html) | Market <br> ÖSTERREICH | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
 | [22–25 April 2024](2024-04-25-UniqueResearch.html) | Unique Research <br> profil | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
@@ -308,14 +313,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 15% | 99.4% |  |
-| 5.5–6.5% | 47% | 85% | Median |
-| 6.5–7.5% | 27% | 38% |  |
-| 7.5–8.5% | 9% | 11% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.2% | 0.2% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.5% | 100% |  |
+| 4.5–5.5% | 9% | 99.5% |  |
+| 5.5–6.5% | 26% | 91% |  |
+| 6.5–7.5% | 30% | 64% | Median |
+| 7.5–8.5% | 22% | 35% |  |
+| 8.5–9.5% | 10% | 12% |  |
+| 9.5–10.5% | 2% | 3% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -326,12 +332,17 @@ Last result: **0** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 9–15 | 9–16 | 8–17 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 10–17 | 9–18 | 8–19 |
+| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria |  |  |  |  |  |
+| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung |  |  |  |  |  |
+| [13–17 May 2024](2024-05-17-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 |  |  |  |  |  |
 | [15–17 May 2024](2024-05-17-IFDD.html) | IFDD |  |  |  |  |  |
 | [14–16 May 2024](2024-05-16-INSA.html) | INSA <br> eXXpress | 11 | 9–13 | 9–14 | 9–14 | 8–15 |
 | [13–14 May 2024](2024-05-14-Market.html) | Market <br> ÖSTERREICH | 11 | 10–13 | 10–13 | 9–13 | 9–14 |
 | [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER |  |  |  |  |  |
 | [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [3–7 May 2024](2024-05-07-TripleM.html) | Triple M <br> News | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
 | [1–30 April 2024](2024-04-30-OGM.html) | OGM <br> Servus TV | 13 | 10–16 | 10–16 | 9–17 | 8–19 |
 | [26–29 April 2024](2024-04-29-Market.html) | Market <br> ÖSTERREICH | 9 | 8–10 | 8–11 | 7–11 | 0–12 |
 | [22–25 April 2024](2024-04-25-UniqueResearch.html) | Unique Research <br> profil | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
@@ -630,18 +641,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
-| 8 | 0.9% | 99.9% |  |
-| 9 | 5% | 99.0% |  |
-| 10 | 16% | 94% |  |
-| 11 | 26% | 78% |  |
-| 12 | 23% | 53% | Median |
-| 13 | 14% | 30% |  |
-| 14 | 8% | 16% |  |
-| 15 | 4% | 7% |  |
-| 16 | 2% | 3% |  |
-| 17 | 0.8% | 1.1% |  |
-| 18 | 0.2% | 0.3% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 8 | 0.8% | 99.9% |  |
+| 9 | 4% | 99.1% |  |
+| 10 | 9% | 96% |  |
+| 11 | 14% | 87% |  |
+| 12 | 16% | 73% |  |
+| 13 | 16% | 57% | Median |
+| 14 | 15% | 41% |  |
+| 15 | 11% | 26% |  |
+| 16 | 7% | 15% |  |
+| 17 | 5% | 8% |  |
+| 18 | 2% | 3% |  |
+| 19 | 0.8% | 1.2% |  |
+| 20 | 0.3% | 0.4% |  |
+| 21 | 0.1% | 0.1% |  |
+| 22 | 0% | 0% |  |
 
 
