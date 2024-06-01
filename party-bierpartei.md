@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.6–8.7% | 5.3–9.2% | 5.0–9.6% | 4.5–10.3% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.4–8.9% | 5.1–9.4% | 4.9–9.7% | 4.5–10.5% |
+| [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
 | [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 0.0% | N/A | N/A | N/A | N/A |
@@ -44,7 +45,7 @@ Last result: **0.0%** (General Election of 29 September 2019)
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | 7.0% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
-| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 0.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 0.0% | N/A | N/A | N/A | N/A |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 0.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN | 0.0% | N/A | N/A | N/A | N/A |
@@ -313,14 +314,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 9% | 99.5% |  |
-| 5.5–6.5% | 26% | 91% |  |
-| 6.5–7.5% | 30% | 64% | Median |
-| 7.5–8.5% | 22% | 35% |  |
-| 8.5–9.5% | 10% | 12% |  |
-| 9.5–10.5% | 2% | 3% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
+| 3.5–4.5% | 0.7% | 100% |  |
+| 4.5–5.5% | 11% | 99.3% |  |
+| 5.5–6.5% | 27% | 88% |  |
+| 6.5–7.5% | 23% | 61% | Median |
+| 7.5–8.5% | 22% | 37% |  |
+| 8.5–9.5% | 12% | 16% |  |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -332,7 +333,8 @@ Last result: **0** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–16 | 10–17 | 9–18 | 8–19 |
+| N/A | [Poll Average](average.html) | 13 | 10–17 | 9–17 | 9–18 | 8–20 |
+| [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria |  |  |  |  |  |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung |  |  |  |  |  |
@@ -366,7 +368,7 @@ Last result: **0** seats (General Election of 29 September 2019)
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 13 | 12–15 | 11–15 | 11–15 | 10–16 |
-| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 11 | 10–13 | 9–13 | 9–13 | 9–14 |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM |  |  |  |  |  |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 11 | 10–12 | 9–13 | 9–13 | 9–14 |
 | [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN |  |  |  |  |  |
@@ -633,28 +635,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0.1% | 100% |  |
-| 8 | 0.8% | 99.9% |  |
-| 9 | 4% | 99.1% |  |
-| 10 | 9% | 96% |  |
-| 11 | 14% | 87% |  |
-| 12 | 16% | 73% |  |
-| 13 | 16% | 57% | Median |
-| 14 | 15% | 41% |  |
-| 15 | 11% | 26% |  |
-| 16 | 7% | 15% |  |
-| 17 | 5% | 8% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.8% | 1.2% |  |
-| 20 | 0.3% | 0.4% |  |
-| 21 | 0.1% | 0.1% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 0% | 99.9% |  |
+| 4 | 0% | 99.9% |  |
+| 5 | 0% | 99.9% |  |
+| 6 | 0% | 99.9% |  |
+| 7 | 0.1% | 99.9% |  |
+| 8 | 1.1% | 99.9% |  |
+| 9 | 5% | 98.8% |  |
+| 10 | 11% | 94% |  |
+| 11 | 14% | 84% |  |
+| 12 | 14% | 70% |  |
+| 13 | 13% | 55% | Median |
+| 14 | 12% | 42% |  |
+| 15 | 11% | 30% |  |
+| 16 | 8% | 18% |  |
+| 17 | 6% | 10% |  |
+| 18 | 3% | 4% |  |
+| 19 | 1.1% | 2% |  |
+| 20 | 0.4% | 0.5% |  |
+| 21 | 0.1% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
 
