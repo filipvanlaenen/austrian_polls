@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 19–25% <br> 36–48 | 21–27% <br> 40–51 | 24–30% <br> 46–57 | 7–11% <br> 13–21 | 12–17% <br> 22–31 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 20–25% <br> 38–47 | 21–26% <br> 39–49 | 25–31% <br> 49–59 | 8–12% <br> 16–23 | 10–14% <br> 19–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 20–25% <br> 37–46 | 21–27% <br> 40–50 | 24–30% <br> 46–56 | 7–11% <br> 14–20 | 13–17% <br> 24–33 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 20–25% <br> 37–47 | 20–26% <br> 39–49 | 23–29% <br> 45–55 | 9–13% <br> 17–25 | 11–15% <br> 21–29 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
@@ -38,7 +39,7 @@ The table below lists all polls registered and analyzed so far.
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 18–23% <br> 33–42 | 20–25% <br> 37–46 | 23–29% <br> 44–54 | 12–16% <br> 22–30 | 14–18% <br> 26–34 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 18–22% <br> 35–42 | 20–24% <br> 39–46 | 25–29% <br> 48–55 | 8–10% <br> 15–19 | 10–12% <br> 18–24 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–8% <br> 11–15 |
-| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 19–23% <br> 37–44 | 19–23% <br> 37–44 | 26–30% <br> 50–57 | 7–9% <br> 13–17 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 19–23% <br> 37–44 | 19–23% <br> 37–44 | 26–30% <br> 50–57 | 7–9% <br> 13–17 | 11–14% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 20–24% <br> 39–46 | 19–23% <br> 37–44 | 24–28% <br> 47–54 | 13–16% <br> 24–30 | 11–13% <br> 20–26 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 21–25% <br> 40–47 | 20–24% <br> 38–45 | 25–29% <br> 48–55 | 7–9% <br> 13–17 | 10–12% <br> 18–23 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–7% <br> 9–13 |
 | [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN | 19–24% <br> 36–45 | 21–27% <br> 41–51 | 24–30% <br> 47–57 | 12–16% <br> 23–31 | 7–11% <br> 14–21 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
