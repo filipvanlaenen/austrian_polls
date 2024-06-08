@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.0% | 5.4–8.9% | 5.1–9.4% | 4.9–9.7% | 4.5–10.5% |
+| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 0.0% | N/A | N/A | N/A | N/A |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
@@ -334,6 +335,7 @@ Last result: **0** seats (General Election of 29 September 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 10–17 | 9–17 | 9–18 | 8–20 |
+| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria |  |  |  |  |  |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
