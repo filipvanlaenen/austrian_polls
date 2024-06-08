@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 19–22% <br> 36–43 | 22–25% <br> 42–49 | 27–31% <br> 51–59 | 8–10% <br> 15–20 | 12–15% <br> 23–29 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 19–25% <br> 36–48 | 21–27% <br> 40–51 | 24–30% <br> 46–57 | 7–11% <br> 13–21 | 12–17% <br> 22–31 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 20–25% <br> 38–47 | 21–26% <br> 39–49 | 25–31% <br> 49–59 | 8–12% <br> 16–23 | 10–14% <br> 19–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 20–25% <br> 37–46 | 21–27% <br> 40–50 | 24–30% <br> 46–56 | 7–11% <br> 14–20 | 13–17% <br> 24–33 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
