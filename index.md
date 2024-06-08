@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | ÖVP | SPÖ | FPÖ | GRÜNE | NEOS | JETZT | G!LT | HC | BIER |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 29 September 2019 | General Election | 37.5% <br> 71 | 21.2% <br> 40 | 16.2% <br> 31 | 13.9% <br> 26 | 8.1% <br> 15 | 1.9% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–25% <br> 33–47 | 20–26% <br> 37–49 | 24–33% <br> 46–63 | 7–14% <br> 13–26 | 7–16% <br> 13–30 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–10% <br> 9–18 |
-| [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 19–25% <br> 36–48 | 21–27% <br> 40–51 | 24–30% <br> 46–57 | 7–11% <br> 13–21 | 12–17% <br> 22–31 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 18–25% <br> 33–47 | 20–25% <br> 37–49 | 24–33% <br> 46–63 | 7–14% <br> 13–26 | 7–15% <br> 13–29 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–10% <br> 9–18 |
+| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 19–22% <br> 36–43 | 22–25% <br> 42–49 | 27–31% <br> 51–59 | 8–10% <br> 15–20 | 12–15% <br> 23–29 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 20–25% <br> 38–47 | 21–26% <br> 39–49 | 25–31% <br> 49–59 | 8–12% <br> 16–23 | 10–14% <br> 19–27 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 20–25% <br> 37–47 | 20–26% <br> 39–49 | 23–29% <br> 45–55 | 9–13% <br> 17–25 | 11–15% <br> 21–29 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [13–17 May 2024](2024-05-17-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 21–25% <br> 39–48 | 21–25% <br> 39–48 | 27–33% <br> 52–62 | 8–12% <br> 16–22 | 8–12% <br> 16–22 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
