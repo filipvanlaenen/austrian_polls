@@ -10,28 +10,30 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 8.0–12.7% | 7.6–13.5% | 7.2–14.1% | 6.6–15.1% |
-| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
-| [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.1% | 6.7–11.8% |
-| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–11.9% | 7.8–12.6% |
-| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
-| [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
-| [13–17 May 2024](2024-05-17-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.4–11.8% | 8.0–12.4% |
-| [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
+| N/A | [Poll Average](average.html) | 8.3% | 6.9–10.1% | 6.5–10.7% | 6.1–11.2% | 5.5–12.2% |
+| [10–13 June 2024](2024-06-13-UniqueResearch.html) | Unique Research <br> Heute | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
+| [10–11 June 2024](2024-06-11-OGM.html) | OGM <br> Servus TV | 9.0% | 8.0–10.1% | 7.8–10.4% | 7.5–10.7% | 7.1–11.3% |
+| [10–11 June 2024](2024-06-11-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [3–5 June 2024](2024-06-05-INSA.html) | INSA <br> eXXpress | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
+| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
+| [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 8.0% | 6.9–9.3% | 6.6–9.7% | 6.3–10.1% | 5.8–10.7% |
+| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
+| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
+| [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 7.0% | N/A | N/A | N/A | N/A |
+| [8–16 May 2024](2024-05-16-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [14–16 May 2024](2024-05-16-INSA.html) | INSA <br> eXXpress | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
-| [13–14 May 2024](2024-05-14-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
-| [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.1–15.2% | 10.5–16.0% |
-| [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 14.0% | 13.0–15.0% | 12.8–15.3% | 12.5–15.6% | 12.1–16.1% |
+| [13–14 May 2024](2024-05-14-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
+| [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [3–7 May 2024](2024-05-07-TripleM.html) | Triple M <br> News | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [1–30 April 2024](2024-04-30-OGM.html) | OGM <br> Servus TV | 9.1% | 7.6–10.9% | 7.2–11.4% | 6.9–11.8% | 6.2–12.8% |
-| [26–29 April 2024](2024-04-29-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
+| [26–29 April 2024](2024-04-29-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [22–25 April 2024](2024-04-25-UniqueResearch.html) | Unique Research <br> profil | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
-| [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 12.0% | N/A | N/A | N/A | N/A |
-| [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 12.0% | N/A | N/A | N/A | N/A |
-| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
+| [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard | 9.0% | N/A | N/A | N/A | N/A |
+| [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
+| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
-| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
-| [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
+| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 9.0% | N/A | N/A | N/A | N/A |
+| [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [1–31 March 2024](2024-03-31-OGM.html) | OGM <br> Servus TV | 8.1% | N/A | N/A | N/A | N/A |
 | [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 10.0% | 9.2–10.9% | 8.9–11.2% | 8.7–11.4% | 8.4–11.9% |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 8.0% | 6.9–9.4% | 6.6–9.8% | 6.3–10.1% | 5.8–10.8% |
@@ -46,9 +48,9 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
-| [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 11.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 14.0% | 13.1–15.0% | 12.8–15.3% | 12.6–15.6% | 12.1–16.1% |
-| [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 13.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
+| [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [18–24 January 2024](2024-01-24-OGM.html) | OGM <br> KURIER | 7.0% | 6.3–7.8% | 6.1–8.0% | 5.9–8.2% | 5.6–8.6% |
 | [22–24 January 2024](2024-01-24-Market.html) | Market <br> ÖSTERREICH | 9.0% | N/A | N/A | N/A | N/A |
@@ -61,7 +63,7 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | [20–27 December 2023](2023-12-27-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [18–21 December 2023](2023-12-21-Market.html) | Market <br> Der Standard | 8.0% | N/A | N/A | N/A | N/A |
 | [18–20 December 2023](2023-12-20-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
-| [11–13 December 2023](2023-12-13-Market.html) | Market <br> ÖSTERREICH | 13.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
+| [11–13 December 2023](2023-12-13-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [4–6 December 2023](2023-12-06-Market.html) | Market <br> ÖSTERREICH | 9.0% | 8.2–9.9% | 8.0–10.1% | 7.8–10.3% | 7.5–10.8% |
 | [4–6 December 2023](2023-12-06-INSA.html) | INSA <br> eXXpress | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [22–29 November 2023](2023-11-29-UniqueResearch.html) | Unique Research <br> ATV, Heute and PULS 24 | 9.0% | 8.1–10.0% | 7.9–10.3% | 7.7–10.5% | 7.3–11.0% |
@@ -120,12 +122,12 @@ Last result: **13.9%** (General Election of 29 September 2019)
 | [29 April–1 May 2023](2023-05-01-IFDD.html) | IFDD <br> BVZ | 9.0% | 8.1–10.2% | 7.8–10.5% | 7.6–10.8% | 7.1–11.3% |
 | [24–27 April 2023](2023-04-27-PeterHajek.html) | Peter Hajek <br> APA, ATV and PULS 24 | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
 | [24–26 April 2023](2023-04-26-OGM.html) | OGM <br> Servus TV | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
-| [24–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [17–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 10.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [7–19 April 2023](2023-04-19-Market.html) | Market <br> ÖSTERREICH | 10.0% | N/A | N/A | N/A | N/A |
 | [3–12 April 2023](2023-04-12-Market.html) | Market | 11.0% | 10.1–11.9% | 9.9–12.2% | 9.7–12.5% | 9.3–12.9% |
 | [3–6 April 2023](2023-04-06-INSA.html) | INSA <br> eXXpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [27 March–5 April 2023](2023-04-05-Market.html) | Market | 11.0% | N/A | N/A | N/A | N/A |
-| [27–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [20–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute | 11.0% | 9.7–12.5% | 9.3–13.0% | 9.0–13.4% | 8.4–14.1% |
 | [20–23 March 2023](2023-03-23-OGM.html) | OGM <br> KURIER | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard | 10.0% | 8.7–11.5% | 8.4–11.9% | 8.1–12.3% | 7.5–13.0% |
@@ -311,19 +313,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 4% | 99.5% |  |
-| 7.5–8.5% | 14% | 95% |  |
-| 8.5–9.5% | 25% | 81% |  |
-| 9.5–10.5% | 22% | 56% | Median |
-| 10.5–11.5% | 14% | 34% |  |
-| 11.5–12.5% | 8% | 19% |  |
-| 12.5–13.5% | 6% | 11% |  |
-| 13.5–14.5% | 4% | 5% | Last Result |
-| 14.5–15.5% | 1.0% | 1.2% |  |
-| 15.5–16.5% | 0.2% | 0.2% |  |
-| 16.5–17.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.6% | 100% |  |
+| 5.5–6.5% | 5% | 99.4% |  |
+| 6.5–7.5% | 19% | 94% |  |
+| 7.5–8.5% | 34% | 76% | Median |
+| 8.5–9.5% | 24% | 41% |  |
+| 9.5–10.5% | 11% | 18% |  |
+| 10.5–11.5% | 5% | 6% |  |
+| 11.5–12.5% | 1.3% | 2% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -334,28 +334,30 @@ Last result: **26** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 15–24 | 14–25 | 13–26 | 12–28 |
-| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
-| [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
-| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 19 | 17–21 | 16–22 | 16–23 | 15–24 |
-| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
-| [13–20 May 2024](2024-05-20-Spectra.html) | Spectra <br> Kleine Zeitung | 21 | 19–24 | 18–24 | 17–25 | 16–26 |
-| [13–17 May 2024](2024-05-17-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 19 | 17–21 | 16–22 | 16–22 | 15–23 |
-| [15–17 May 2024](2024-05-17-IFDD.html) | IFDD | 21 | 18–23 | 17–24 | 17–25 | 16–26 |
+| N/A | [Poll Average](average.html) | 15 | 13–19 | 12–20 | 11–21 | 10–23 |
+| [10–13 June 2024](2024-06-13-UniqueResearch.html) | Unique Research <br> Heute | 19 | 16–21 | 16–22 | 15–23 | 14–24 |
+| [10–11 June 2024](2024-06-11-OGM.html) | OGM <br> Servus TV | 17 | 15–19 | 15–20 | 14–20 | 13–21 |
+| [10–11 June 2024](2024-06-11-Market.html) | Market <br> ÖSTERREICH | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
+| [3–5 June 2024](2024-06-05-INSA.html) | INSA <br> eXXpress | 15 | 13–17 | 13–18 | 12–18 | 11–20 |
+| [3–4 June 2024](2024-06-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [24–28 May 2024](2024-05-28-Market.html) | Market <br> Der Standard | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
+| [22–24 May 2024](2024-05-24-IFDD.html) | IFDD <br> Radio Content Austria | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
+| [17–21 May 2024](2024-05-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [15–17 May 2024](2024-05-17-IFDD.html) | IFDD |  |  |  |  |  |
+| [8–16 May 2024](2024-05-16-PeterHajek.html) | Peter Hajek <br> ATV and PULS 24 | 15 | 13–17 | 13–18 | 12–18 | 11–19 |
 | [14–16 May 2024](2024-05-16-INSA.html) | INSA <br> eXXpress | 15 | 13–17 | 12–18 | 12–19 | 11–20 |
-| [13–14 May 2024](2024-05-14-Market.html) | Market <br> ÖSTERREICH | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
-| [7–8 May 2024](2024-05-08-OGM.html) | OGM <br> KURIER | 24 | 22–27 | 21–28 | 21–29 | 19–30 |
-| [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH | 26 | 24–28 | 24–29 | 23–29 | 23–30 |
+| [13–14 May 2024](2024-05-14-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [6–8 May 2024](2024-05-08-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [3–7 May 2024](2024-05-07-TripleM.html) | Triple M <br> News | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
-| [1–30 April 2024](2024-04-30-OGM.html) | OGM <br> Servus TV | 17 | 14–20 | 13–21 | 12–22 | 11–24 |
-| [26–29 April 2024](2024-04-29-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 16–22 | 16–22 |
+| [1–30 April 2024](2024-04-30-OGM.html) | OGM <br> Servus TV | 17 | 14–20 | 13–21 | 13–22 | 11–24 |
+| [26–29 April 2024](2024-04-29-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [22–25 April 2024](2024-04-25-UniqueResearch.html) | Unique Research <br> profil | 17 | 14–19 | 14–20 | 13–21 | 12–22 |
 | [22–25 April 2024](2024-04-25-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [22–24 April 2024](2024-04-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 16–22 | 15–22 |
+| [15–17 April 2024](2024-04-17-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [8–10 April 2024](2024-04-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress | 16 | 14–19 | 14–19 | 13–20 | 12–21 |
-| [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH | 18 | 17–20 | 16–21 | 16–21 | 15–22 |
+| [8–10 April 2024](2024-04-10-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [29 March–3 April 2024](2024-04-03-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [1–31 March 2024](2024-03-31-OGM.html) | OGM <br> Servus TV |  |  |  |  |  |
 | [25–27 March 2024](2024-03-27-Market.html) | Market <br> ÖSTERREICH | 19 | 17–20 | 16–21 | 16–22 | 15–22 |
 | [18–21 March 2024](2024-03-21-UniqueResearch.html) | Unique Research <br> Heute | 15 | 12–17 | 12–18 | 11–18 | 10–20 |
@@ -370,7 +372,7 @@ Last result: **26** seats (General Election of 29 September 2019)
 | [26–28 February 2024](2024-02-28-Market.html) | Market <br> ÖSTERREICH | 26 | 23–29 | 23–30 | 22–30 | 21–31 |
 | [19–21 February 2024](2024-02-21-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–14 February 2024](2024-02-14-Market.html) | Market <br> ÖSTERREICH | 17 | 15–19 | 15–19 | 15–19 | 14–20 |
-| [5–7 February 2024](2024-02-07-Market.html) | Market <br> Der Standard | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
+| [5–7 February 2024](2024-02-07-Market.html) | Market <br> ÖSTERREICH | 15 | 14–17 | 13–17 | 13–17 | 12–18 |
 | [22–31 January 2024](2024-01-31-OGM.html) | OGM | 27 | 25–29 | 24–29 | 24–30 | 23–31 |
 | [29–31 January 2024](2024-01-31-Market.html) | Market <br> ÖSTERREICH | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
 | [25–28 January 2024](2024-01-28-IFDD.html) | IFDD <br> NÖN | 27 | 24–30 | 23–30 | 23–31 | 22–33 |
@@ -444,12 +446,12 @@ Last result: **26** seats (General Election of 29 September 2019)
 | [29 April–1 May 2023](2023-05-01-IFDD.html) | IFDD <br> BVZ | 17 | 15–19 | 14–19 | 14–20 | 13–21 |
 | [24–27 April 2023](2023-04-27-PeterHajek.html) | Peter Hajek <br> APA, ATV and PULS 24 | 19 | 17–22 | 16–23 | 15–24 | 14–25 |
 | [24–26 April 2023](2023-04-26-OGM.html) | OGM <br> Servus TV | 17 | 14–19 | 14–20 | 13–20 | 13–21 |
-| [24–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
+| [17–26 April 2023](2023-04-26-Market.html) | Market <br> ÖSTERREICH | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
 | [7–19 April 2023](2023-04-19-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [3–12 April 2023](2023-04-12-Market.html) | Market | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
 | [3–6 April 2023](2023-04-06-INSA.html) | INSA <br> eXXpress | 16 | 14–19 | 14–19 | 13–20 | 12–21 |
 | [27 March–5 April 2023](2023-04-05-Market.html) | Market |  |  |  |  |  |
-| [27–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 18 | 16–20 | 15–21 | 15–22 | 14–23 |
+| [20–29 March 2023](2023-03-29-Market.html) | Market <br> ÖSTERREICH | 18 | 16–20 | 15–21 | 15–22 | 14–23 |
 | [20–23 March 2023](2023-03-23-UniqueResearch.html) | Unique Research <br> Heute | 21 | 18–23 | 17–24 | 17–25 | 15–26 |
 | [20–23 March 2023](2023-03-23-OGM.html) | OGM <br> KURIER | 18 | 16–20 | 15–21 | 15–22 | 14–23 |
 | [20–23 March 2023](2023-03-23-Market.html) | Market <br> Der Standard | 18 | 16–21 | 15–22 | 14–22 | 13–24 |
@@ -637,26 +639,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.2% | 100% |  |
-| 12 | 0.8% | 99.8% |  |
-| 13 | 2% | 99.0% |  |
-| 14 | 4% | 97% |  |
-| 15 | 7% | 93% |  |
-| 16 | 10% | 86% |  |
-| 17 | 13% | 75% |  |
-| 18 | 13% | 62% | Median |
-| 19 | 12% | 49% |  |
-| 20 | 9% | 38% |  |
-| 21 | 7% | 28% |  |
-| 22 | 6% | 21% |  |
-| 23 | 5% | 16% |  |
-| 24 | 4% | 11% |  |
-| 25 | 3% | 7% |  |
-| 26 | 2% | 4% | Last Result |
-| 27 | 1.2% | 2% |  |
-| 28 | 0.6% | 1.0% |  |
-| 29 | 0.2% | 0.4% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 0.8% | 99.8% |  |
+| 11 | 2% | 99.0% |  |
+| 12 | 5% | 97% |  |
+| 13 | 8% | 92% |  |
+| 14 | 16% | 84% |  |
+| 15 | 18% | 68% | Median |
+| 16 | 16% | 49% |  |
+| 17 | 12% | 33% |  |
+| 18 | 9% | 21% |  |
+| 19 | 5% | 12% |  |
+| 20 | 4% | 7% |  |
+| 21 | 2% | 3% |  |
+| 22 | 1.0% | 2% |  |
+| 23 | 0.4% | 0.6% |  |
+| 24 | 0.2% | 0.2% |  |
+| 25 | 0% | 0.1% |  |
+| 26 | 0% | 0% | Last Result |
 
 

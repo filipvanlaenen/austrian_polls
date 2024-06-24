@@ -30,11 +30,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 31 | 57 | 52–61 |51–62 |50–63 |48–65 |
+| <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 31 | 57 | 52–61 |51–62 |50–63 |49–65 |
 | <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 40 | 39 | 36–43 |35–44 |34–45 |33–47 |
 | <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 71 | 38 | 34–41 |33–42 |32–43 |31–45 |
 | <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 26 | 17 | 14–19 |14–20 |13–21 |12–22 |
 | <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 15 | 15 | 13–17 |12–18 |11–19 |11–20 |
 | <a href="#bierpartei">Bierpartei</a> | 0 | 13 | 11–15 |10–16 |10–17 |9–18 |
-| <a href="#kommunistische-partei-österreichs">Kommunistische Partei Österreichs</a> | N/A | 7 | 0–9 |0–9 |0–10 |0–11 |
+| <a href="#kommunistische-partei-österreichs">Kommunistische Partei Österreichs</a> | N/A | 7 | 0–9 |0–10 |0–10 |0–11 |
 
