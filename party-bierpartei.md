@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.0–8.3% | 4.7–8.7% | 4.4–9.1% | 3.9–9.7% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.0–7.7% | 3.7–8.1% | 3.5–8.5% | 3.2–9.2% |
+| [1–2 July 2024](2024-07-02-Market.html) | Market | 4.0% | 3.5–4.6% | 3.3–4.8% | 3.2–5.0% | 3.0–5.3% |
+| [24–26 June 2024](2024-06-26-OGM.html) | OGM <br> KURIER | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
+| [24–25 June 2024](2024-06-25-Market.html) | Market <br> ÖSTERREICH | 5.0% | 4.4–5.7% | 4.3–5.9% | 4.1–6.1% | 3.9–6.4% |
+| [12–19 June 2024](2024-06-19-UniqueResearch.html) | Unique Research <br> profil | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
+| [10–19 June 2024](2024-06-19-Market.html) | Market <br> ÖSTERREICH | 6.0% | N/A | N/A | N/A | N/A |
 | [10–13 June 2024](2024-06-13-UniqueResearch.html) | Unique Research <br> Heute | 7.0% | 6.0–8.3% | 5.7–8.7% | 5.4–9.0% | 5.0–9.6% |
 | [10–11 June 2024](2024-06-11-OGM.html) | OGM <br> Servus TV | 5.0% | 4.3–5.9% | 4.1–6.1% | 3.9–6.3% | 3.6–6.8% |
 | [10–11 June 2024](2024-06-11-Market.html) | Market <br> ÖSTERREICH | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
@@ -316,14 +321,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 17% | 96% |  |
-| 5.5–6.5% | 31% | 79% | Median |
-| 6.5–7.5% | 25% | 48% |  |
-| 7.5–8.5% | 17% | 23% |  |
-| 8.5–9.5% | 6% | 6% |  |
-| 9.5–10.5% | 0.7% | 0.8% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 20% | 97% |  |
+| 4.5–5.5% | 19% | 78% |  |
+| 5.5–6.5% | 24% | 59% | Median |
+| 6.5–7.5% | 23% | 35% |  |
+| 7.5–8.5% | 10% | 13% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -335,7 +340,12 @@ Last result: **0** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–15 | 9–16 | 8–17 | 0–18 |
+| N/A | [Poll Average](average.html) | 11 | 7–14 | 0–15 | 0–16 | 0–17 |
+| [1–2 July 2024](2024-07-02-Market.html) | Market | 7 | 0–8 | 0–9 | 0–9 | 0–10 |
+| [24–26 June 2024](2024-06-26-OGM.html) | OGM <br> KURIER | 9 | 8–11 | 0–12 | 0–12 | 0–13 |
+| [24–25 June 2024](2024-06-25-Market.html) | Market <br> ÖSTERREICH | 9 | 8–10 | 8–11 | 7–11 | 0–12 |
+| [12–19 June 2024](2024-06-19-UniqueResearch.html) | Unique Research <br> profil | 13 | 11–15 | 11–16 | 10–16 | 9–17 |
+| [10–19 June 2024](2024-06-19-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [10–13 June 2024](2024-06-13-UniqueResearch.html) | Unique Research <br> Heute | 13 | 11–15 | 10–16 | 10–17 | 9–18 |
 | [10–11 June 2024](2024-06-11-OGM.html) | OGM <br> Servus TV | 9 | 8–11 | 7–11 | 0–12 | 0–13 |
 | [10–11 June 2024](2024-06-11-Market.html) | Market <br> ÖSTERREICH | 11 | 10–12 | 10–13 | 9–13 | 9–14 |
@@ -640,27 +650,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 0% | 99.4% |  |
-| 2 | 0% | 99.4% |  |
-| 3 | 0% | 99.4% |  |
-| 4 | 0% | 99.4% |  |
-| 5 | 0% | 99.4% |  |
-| 6 | 0% | 99.4% |  |
-| 7 | 0.4% | 99.4% |  |
-| 8 | 4% | 99.0% |  |
-| 9 | 8% | 95% |  |
-| 10 | 13% | 87% |  |
-| 11 | 16% | 75% |  |
-| 12 | 17% | 59% | Median |
-| 13 | 13% | 42% |  |
-| 14 | 12% | 29% |  |
-| 15 | 10% | 17% |  |
-| 16 | 5% | 8% |  |
-| 17 | 2% | 3% |  |
-| 18 | 0.7% | 1.0% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 0 | 10% | 100% | Last Result |
+| 1 | 0% | 90% |  |
+| 2 | 0% | 90% |  |
+| 3 | 0% | 90% |  |
+| 4 | 0% | 90% |  |
+| 5 | 0% | 90% |  |
+| 6 | 0% | 90% |  |
+| 7 | 4% | 90% |  |
+| 8 | 10% | 86% |  |
+| 9 | 9% | 75% |  |
+| 10 | 11% | 66% |  |
+| 11 | 12% | 56% | Median |
+| 12 | 14% | 44% |  |
+| 13 | 12% | 29% |  |
+| 14 | 9% | 18% |  |
+| 15 | 5% | 8% |  |
+| 16 | 2% | 3% |  |
+| 17 | 0.8% | 1.1% |  |
+| 18 | 0.2% | 0.3% |  |
+| 19 | 0% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
