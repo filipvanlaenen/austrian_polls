@@ -13,8 +13,8 @@
 | Freiheitliche Partei Österreichs | 16.2% | 28.0% | 26.2–29.9% |25.7–30.4% |25.3–30.9% |24.5–31.8% |
 | Österreichische Volkspartei | 37.5% | 23.0% | 21.4–24.8% |20.9–25.3% |20.5–25.7% |19.7–26.6% |
 | Sozialdemokratische Partei Österreichs | 21.2% | 20.0% | 18.4–21.7% |18.0–22.2% |17.6–22.6% |16.9–23.4% |
-| NEOS–Das Neue Österreich und Liberales Forum | 8.1% | 9.0% | 7.9–10.3% |7.6–10.6% |7.4–10.9% |6.9–11.6% |
 | Die Grünen–Die Grüne Alternative | 13.9% | 9.0% | 7.9–10.3% |7.6–10.6% |7.4–10.9% |6.9–11.6% |
+| NEOS–Das Neue Österreich und Liberales Forum | 8.1% | 9.0% | 7.9–10.3% |7.6–10.6% |7.4–10.9% |6.9–11.6% |
 | Bierpartei | 0.0% | 6.0% | 5.1–7.1% |4.9–7.4% |4.7–7.7% |4.3–8.2% |
 | Kommunistische Partei Österreichs | 0.7% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.7–5.9% |
 
@@ -33,8 +33,8 @@
 | <a href="#freiheitliche-partei-österreichs">Freiheitliche Partei Österreichs</a> | 31 | 53 | 49–57 |48–58 |47–59 |46–60 |
 | <a href="#österreichische-volkspartei">Österreichische Volkspartei</a> | 71 | 43 | 40–47 |39–48 |38–49 |37–50 |
 | <a href="#sozialdemokratische-partei-österreichs">Sozialdemokratische Partei Österreichs</a> | 40 | 38 | 35–41 |34–42 |33–43 |31–45 |
-| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 15 | 17 | 15–19 |14–20 |13–20 |13–22 |
 | <a href="#die-grünen–die-grüne-alternative">Die Grünen–Die Grüne Alternative</a> | 26 | 17 | 15–19 |14–20 |14–20 |13–22 |
+| <a href="#neos–das-neue-österreich-und-liberales-forum">NEOS–Das Neue Österreich und Liberales Forum</a> | 15 | 17 | 15–19 |14–20 |13–20 |13–22 |
 | <a href="#bierpartei">Bierpartei</a> | 0 | 11 | 9–13 |9–14 |8–14 |8–15 |
 | <a href="#kommunistische-partei-österreichs">Kommunistische Partei Österreichs</a> | 0 | 7 | 0–9 |0–9 |0–10 |0–11 |
 
@@ -154,28 +154,6 @@
 | 46 | 0.1% | 0.2% |  |
 | 47 | 0% | 0% |  |
 
-### NEOS–Das Neue Österreich und Liberales Forum
-
-*For a full overview of the results for this party, see the [NEOS–Das Neue Österreich und Liberales Forum](party-neos–dasneueösterreichundliberalesforum.html) page.*
-
-![Graph with seats probability mass function not yet produced](2024-07-12-UniqueResearch-seats-pmf-neos–dasneueösterreichundliberalesforum.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.4% | 100% |  |
-| 13 | 2% | 99.5% |  |
-| 14 | 7% | 97% |  |
-| 15 | 14% | 91% | Last Result |
-| 16 | 22% | 77% |  |
-| 17 | 23% | 55% | Median |
-| 18 | 17% | 33% |  |
-| 19 | 10% | 16% |  |
-| 20 | 4% | 6% |  |
-| 21 | 1.4% | 2% |  |
-| 22 | 0.5% | 0.7% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
-
 ### Die Grünen–Die Grüne Alternative
 
 *For a full overview of the results for this party, see the [Die Grünen–Die Grüne Alternative](party-diegrünen–diegrünealternative.html) page.*
@@ -200,6 +178,28 @@
 | 25 | 0% | 0% |  |
 | 26 | 0% | 0% | Last Result |
 
+### NEOS–Das Neue Österreich und Liberales Forum
+
+*For a full overview of the results for this party, see the [NEOS–Das Neue Österreich und Liberales Forum](party-neos–dasneueösterreichundliberalesforum.html) page.*
+
+![Graph with seats probability mass function not yet produced](2024-07-12-UniqueResearch-seats-pmf-neos–dasneueösterreichundliberalesforum.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 12 | 0.4% | 100% |  |
+| 13 | 2% | 99.5% |  |
+| 14 | 7% | 97% |  |
+| 15 | 14% | 91% | Last Result |
+| 16 | 22% | 77% |  |
+| 17 | 23% | 55% | Median |
+| 18 | 17% | 33% |  |
+| 19 | 10% | 16% |  |
+| 20 | 4% | 6% |  |
+| 21 | 1.4% | 2% |  |
+| 22 | 0.5% | 0.7% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
+
 ### Bierpartei
 
 *For a full overview of the results for this party, see the [Bierpartei](party-bierpartei.html) page.*
@@ -218,7 +218,7 @@
 | 7 | 0.2% | 99.9% |  |
 | 8 | 3% | 99.7% |  |
 | 9 | 10% | 97% |  |
-| 10 | 21% | 87% |  |
+| 10 | 22% | 87% |  |
 | 11 | 26% | 66% | Median |
 | 12 | 22% | 39% |  |
 | 13 | 12% | 17% |  |
