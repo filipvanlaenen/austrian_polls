@@ -10,12 +10,12 @@ Last result: **13.9%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.7% | 6.8–10.2% | 6.5–10.7% | 6.3–11.1% | 5.9–12.0% |
+| N/A | [Poll Average](average.html) | 8.8% | 7.0–10.2% | 6.6–10.7% | 6.4–11.1% | 6.0–12.0% |
 | [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 9.1% | 7.6–10.9% | 7.2–11.4% | 6.9–11.8% | 6.2–12.8% |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREIC | 7.0% | 6.3–7.8% | 6.1–8.0% | 6.0–8.2% | 5.6–8.6% |
-| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 9.0% | N/A | N/A | N/A | N/A |
+| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
-| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
+| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 8.0% | 7.3–8.8% | 7.1–9.1% | 6.9–9.3% | 6.6–9.7% |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.4–10.9% | 7.0–11.4% |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH | 8.0% | N/A | N/A | N/A | N/A |
 | [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -330,14 +330,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 5% | 99.9% |  |
-| 6.5–7.5% | 19% | 95% |  |
-| 7.5–8.5% | 22% | 76% |  |
-| 8.5–9.5% | 29% | 53% | Median |
-| 9.5–10.5% | 18% | 24% |  |
+| 5.5–6.5% | 4% | 99.9% |  |
+| 6.5–7.5% | 16% | 96% |  |
+| 7.5–8.5% | 23% | 80% |  |
+| 8.5–9.5% | 32% | 57% | Median |
+| 9.5–10.5% | 19% | 25% |  |
 | 10.5–11.5% | 5% | 6% |  |
-| 11.5–12.5% | 1.0% | 1.2% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0.9% | 1.1% |  |
+| 12.5–13.5% | 0.1% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% | Last Result |
 
 
@@ -352,9 +352,9 @@ Last result: **26** seats (General Election of 29 September 2019)
 | N/A | [Poll Average](average.html) | 16 | 13–19 | 12–20 | 12–21 | 11–24 |
 | [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 18 | 15–20 | 14–21 | 12–24 | 12–24 |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREIC | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
-| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 17 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 15 | 14–17 | 13–17 | 13–18 | 12–18 |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
@@ -671,21 +671,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 2% | 99.9% |  |
-| 12 | 6% | 98% |  |
-| 13 | 10% | 92% |  |
-| 14 | 10% | 81% |  |
-| 15 | 14% | 72% |  |
-| 16 | 12% | 58% | Median |
-| 17 | 15% | 45% |  |
-| 18 | 18% | 31% |  |
-| 19 | 5% | 13% |  |
-| 20 | 4% | 8% |  |
+| 11 | 1.4% | 99.9% |  |
+| 12 | 5% | 98.5% |  |
+| 13 | 9% | 93% |  |
+| 14 | 9% | 85% |  |
+| 15 | 14% | 76% |  |
+| 16 | 13% | 63% | Median |
+| 17 | 16% | 49% |  |
+| 18 | 18% | 33% |  |
+| 19 | 7% | 15% |  |
+| 20 | 5% | 8% |  |
 | 21 | 2% | 4% |  |
-| 22 | 0.5% | 2% |  |
-| 23 | 0.2% | 1.0% |  |
-| 24 | 0.7% | 0.8% |  |
-| 25 | 0% | 0.1% |  |
+| 22 | 0.6% | 1.4% |  |
+| 23 | 0.2% | 0.8% |  |
+| 24 | 0.6% | 0.6% |  |
+| 25 | 0% | 0% |  |
 | 26 | 0% | 0% | Last Result |
 
 

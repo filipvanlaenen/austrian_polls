@@ -15,7 +15,7 @@ Last result: **0.0%** (General Election of 29 September 2019)
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREIC | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
 | [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 1.0% | N/A | N/A | N/A | N/A |
-| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 1.0% | N/A | N/A | N/A | N/A |
+| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 1.0% | 0.8–1.4% | 0.7–1.5% | 0.6–1.5% | 0.5–1.7% |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 0.0% | N/A | N/A | N/A | N/A |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH | 0.0% | N/A | N/A | N/A | N/A |
 | [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 0.0% | N/A | N/A | N/A | N/A |
@@ -349,7 +349,7 @@ Last result: **0** seats (General Election of 29 September 2019)
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREIC | 0 | 0 | 0 | 0 | 0 |
 | [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0 |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria |  |  |  |  |  |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten |  |  |  |  |  |

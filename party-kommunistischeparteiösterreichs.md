@@ -10,12 +10,12 @@ Last result: **0.7%** (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.1% | 1.9–4.4% | 1.8–4.7% | 1.6–5.0% | 1.4–5.6% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.8–4.3% | 1.6–4.6% | 1.5–4.9% | 1.3–5.5% |
 | [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 3.1% | 2.3–4.3% | 2.1–4.6% | 1.9–5.0% | 1.6–5.6% |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREIC | 2.0% | 1.6–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–3.0% |
-| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 2.0% | N/A | N/A | N/A | N/A |
+| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH | 2.0% | N/A | N/A | N/A | N/A |
-| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
+| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 3.0% | 2.6–3.6% | 2.4–3.7% | 2.3–3.9% | 2.1–4.1% |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH | 3.0% | N/A | N/A | N/A | N/A |
 | [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
@@ -330,12 +330,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 1.3% | 100% | Last Result |
-| 1.5–2.5% | 30% | 98.7% |  |
-| 2.5–3.5% | 35% | 68% | Median |
-| 3.5–4.5% | 26% | 33% |  |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.5% | 0.5% |  |
+| 0.5–1.5% | 3% | 100% | Last Result |
+| 1.5–2.5% | 39% | 97% |  |
+| 2.5–3.5% | 32% | 58% | Median |
+| 3.5–4.5% | 21% | 26% |  |
+| 4.5–5.5% | 5% | 6% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -347,12 +347,12 @@ Last result: **0** seats (General Election of 29 September 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–8 | 0–8 | 0–9 | 0–10 |
+| N/A | [Poll Average](average.html) | 0 | 0–7 | 0–8 | 0–9 | 0–10 |
 | [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 0 | 0–7 | 0–8 | 0–9 | 0–10 |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREIC | 0 | 0 | 0 | 0 | 0 |
-| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress |  |  |  |  |  |
+| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 0 | 0 | 0 | 0 | 0 |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
+| [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 0 | 0 | 0 | 0–7 | 0–8 |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 7 | 0–9 | 0–9 | 0–10 | 0–10 |
@@ -668,18 +668,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 0% | 18% |  |
-| 2 | 0% | 18% |  |
-| 3 | 0% | 18% |  |
-| 4 | 0% | 18% |  |
-| 5 | 0% | 18% |  |
-| 6 | 0% | 18% |  |
-| 7 | 7% | 18% |  |
-| 8 | 7% | 12% |  |
-| 9 | 3% | 4% |  |
-| 10 | 0.9% | 1.1% |  |
-| 11 | 0.2% | 0.2% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 0% | 14% |  |
+| 2 | 0% | 14% |  |
+| 3 | 0% | 14% |  |
+| 4 | 0% | 14% |  |
+| 5 | 0% | 14% |  |
+| 6 | 0% | 14% |  |
+| 7 | 5% | 14% |  |
+| 8 | 6% | 9% |  |
+| 9 | 2% | 3% |  |
+| 10 | 0.7% | 0.9% |  |
+| 11 | 0.1% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
