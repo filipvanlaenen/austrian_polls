@@ -382,7 +382,7 @@ Last result: **0** seats (General Election of 29 September 2019)
 | [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 0 | 0 | 0 | 0 | 0–7 |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 0 | 0 | 0 | 0–7 | 0–8 |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 7 | 0–9 | 0–9 | 0–10 | 0–10 |
+| [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 7 | 0–9 | 0–9 | 0–10 | 0–11 |
 | [8–12 July 2024](2024-07-12-UniqueResearch.html) | Unique Research <br> Kronen Zeitung | 7 | 0–9 | 0–9 | 0–10 | 0–11 |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |

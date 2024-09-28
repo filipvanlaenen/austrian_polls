@@ -375,8 +375,8 @@ Last result: **26** seats (General Election of 29 September 2019)
 | [28 August–4 September 2024](2024-09-04-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [2–4 September 2024](2024-09-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [26 August–3 September 2024](2024-09-03-TripleM.html) | Triple M <br> News | 15 | 13–17 | 13–18 | 12–19 | 11–20 |
-| [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 18 | 15–20 | 14–21 | 12–24 | 12–24 |
-| [26–27 August 2024](2024-08-27-Market.html) | Market | 16 | 14–18 | 14–18 | 13–18 | 13–19 |
+| [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 18 | 14–21 | 13–22 | 12–23 | 12–24 |
+| [26–27 August 2024](2024-08-27-Market.html) | Market | 16 | 14–17 | 14–18 | 13–18 | 13–19 |
 | [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria | 17 | 15–20 | 14–20 | 14–21 | 13–22 |
 | [19–22 August 2024](2024-08-22-OGM.html) | OGM <br> Servus TV |  |  |  |  |  |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREICH | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
@@ -386,7 +386,7 @@ Last result: **26** seats (General Election of 29 September 2019)
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
-| [8–12 July 2024](2024-07-12-UniqueResearch.html) | Unique Research <br> Kronen Zeitung | 17 | 15–19 | 14–20 | 14–20 | 13–22 |
+| [8–12 July 2024](2024-07-12-UniqueResearch.html) | Unique Research <br> Kronen Zeitung | 17 | 15–19 | 14–20 | 13–21 | 13–22 |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [1–2 July 2024](2024-07-02-Market.html) | Market |  |  |  |  |  |
@@ -702,10 +702,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 2% | 99.6% |  |
 | 13 | 5% | 98% |  |
 | 14 | 12% | 93% |  |
-| 15 | 17% | 81% |  |
-| 16 | 17% | 64% | Median |
+| 15 | 16% | 81% |  |
+| 16 | 18% | 65% | Median |
 | 17 | 14% | 47% |  |
-| 18 | 11% | 32% |  |
+| 18 | 11% | 33% |  |
 | 19 | 8% | 22% |  |
 | 20 | 7% | 14% |  |
 | 21 | 4% | 7% |  |

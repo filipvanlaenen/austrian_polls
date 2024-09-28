@@ -386,18 +386,18 @@ Last result: **71** seats (General Election of 29 September 2019)
 | [28 August–4 September 2024](2024-09-04-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [2–4 September 2024](2024-09-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [26 August–3 September 2024](2024-09-03-TripleM.html) | Triple M <br> News | 44 | 41–48 | 40–49 | 39–50 | 38–52 |
-| [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 43 | 39–46 | 39–48 | 38–51 | 36–54 |
-| [26–27 August 2024](2024-08-27-Market.html) | Market | 46 | 43–49 | 42–49 | 42–50 | 41–51 |
-| [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria | 48 | 45–52 | 44–53 | 43–54 | 42–55 |
+| [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 44 | 39–48 | 38–50 | 37–51 | 35–54 |
+| [26–27 August 2024](2024-08-27-Market.html) | Market | 46 | 43–48 | 42–49 | 42–50 | 41–51 |
+| [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria | 49 | 45–52 | 44–53 | 43–54 | 42–56 |
 | [19–22 August 2024](2024-08-22-OGM.html) | OGM <br> Servus TV |  |  |  |  |  |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREICH | 42 | 40–45 | 39–45 | 39–46 | 38–47 |
-| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 36 | 33–40 | 33–41 | 32–41 | 31–43 |
+| [5–7 August 2024](2024-08-07-INSA.html) | INSA <br> eXXpress | 37 | 33–40 | 33–41 | 32–41 | 31–43 |
 | [5–6 August 2024](2024-08-06-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 45 | 42–47 | 42–47 | 41–48 | 40–49 |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 47 | 44–51 | 43–52 | 42–52 | 41–54 |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 41 | 38–45 | 37–46 | 36–47 | 35–49 |
-| [8–12 July 2024](2024-07-12-UniqueResearch.html) | Unique Research <br> Kronen Zeitung | 43 | 40–47 | 39–48 | 38–49 | 37–50 |
+| [8–12 July 2024](2024-07-12-UniqueResearch.html) | Unique Research <br> Kronen Zeitung | 43 | 40–47 | 39–48 | 38–49 | 37–51 |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [1–2 July 2024](2024-07-02-Market.html) | Market |  |  |  |  |  |
@@ -711,14 +711,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 37 | 0.1% | 100% |  |
 | 38 | 0.2% | 99.9% |  |
-| 39 | 0.5% | 99.7% |  |
-| 40 | 1.1% | 99.1% |  |
+| 39 | 0.5% | 99.6% |  |
+| 40 | 1.2% | 99.1% |  |
 | 41 | 2% | 98% |  |
 | 42 | 4% | 96% |  |
 | 43 | 5% | 92% |  |
-| 44 | 7% | 86% |  |
-| 45 | 8% | 80% |  |
-| 46 | 9% | 72% |  |
+| 44 | 7% | 87% |  |
+| 45 | 8% | 79% |  |
+| 46 | 9% | 71% |  |
 | 47 | 10% | 62% |  |
 | 48 | 12% | 53% | Median |
 | 49 | 10% | 41% |  |

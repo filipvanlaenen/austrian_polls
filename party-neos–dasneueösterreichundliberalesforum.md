@@ -375,8 +375,8 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [28 August–4 September 2024](2024-09-04-UniqueResearch.html) | Unique Research <br> profil |  |  |  |  |  |
 | [2–4 September 2024](2024-09-04-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
 | [26 August–3 September 2024](2024-09-03-TripleM.html) | Triple M <br> News | 18 | 16–21 | 15–21 | 15–22 | 14–23 |
-| [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 18 | 15–20 | 15–20 | 14–21 | 12–24 |
-| [26–27 August 2024](2024-08-27-Market.html) | Market | 23 | 22–26 | 21–26 | 21–27 | 20–28 |
+| [1–31 August 2024](2024-08-31-OGM.html) | OGM <br> Servus TV | 18 | 15–20 | 13–22 | 13–22 | 11–24 |
+| [26–27 August 2024](2024-08-27-Market.html) | Market | 23 | 22–25 | 21–26 | 21–27 | 20–28 |
 | [23–26 August 2024](2024-08-26-IFDD.html) | IFDD <br> Radio Content Austria | 15 | 13–18 | 12–18 | 12–19 | 11–20 |
 | [19–22 August 2024](2024-08-22-OGM.html) | OGM <br> Servus TV |  |  |  |  |  |
 | [19–20 August 2024](2024-08-20-Market.html) | Market <br> ÖSTERREICH | 21 | 19–23 | 19–23 | 18–24 | 18–25 |
@@ -385,7 +385,7 @@ Last result: **15** seats (General Election of 29 September 2019)
 | [22–30 July 2024](2024-07-30-Market.html) | Market <br> ÖSTERREICH | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
 | [25–26 July 2024](2024-07-26-IFDD.html) | IFDD <br> Radio Content Austria | 17 | 15–19 | 14–20 | 14–20 | 13–21 |
 | [15–24 July 2024](2024-07-24-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
-| [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 17 | 14–19 | 14–20 | 13–20 | 13–22 |
+| [12–21 July 2024](2024-07-21-Spectra.html) | Spectra <br> Kleine Zeitung, OÖNachrichten and Salzburger Nachrichten | 17 | 15–19 | 14–20 | 13–20 | 13–22 |
 | [8–12 July 2024](2024-07-12-UniqueResearch.html) | Unique Research <br> Kronen Zeitung | 17 | 15–19 | 14–20 | 13–20 | 13–22 |
 | [8–11 July 2024](2024-07-11-Market.html) | Market <br> Der Standard |  |  |  |  |  |
 | [8–10 July 2024](2024-07-10-Market.html) | Market <br> ÖSTERREICH |  |  |  |  |  |
@@ -698,12 +698,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.3% | 100% |  |
-| 12 | 1.2% | 99.7% |  |
-| 13 | 3% | 98.5% |  |
+| 11 | 0.2% | 100% |  |
+| 12 | 1.1% | 99.7% |  |
+| 13 | 3% | 98.6% |  |
 | 14 | 6% | 96% |  |
 | 15 | 9% | 90% | Last Result |
-| 16 | 12% | 81% |  |
+| 16 | 13% | 81% |  |
 | 17 | 14% | 68% |  |
 | 18 | 14% | 54% | Median |
 | 19 | 12% | 40% |  |
@@ -712,7 +712,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 6% | 10% |  |
 | 23 | 2% | 4% |  |
 | 24 | 1.1% | 1.5% |  |
-| 25 | 0.4% | 0.4% |  |
+| 25 | 0.3% | 0.4% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 
